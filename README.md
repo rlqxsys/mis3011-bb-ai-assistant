@@ -2,7 +2,9 @@
 
 公开仓库：[rlqxsys/mis3011-bb-ai-assistant](https://github.com/rlqxsys/mis3011-bb-ai-assistant)。
 
-[详细交接文档](docs/HANDOFF.md) · [公开展示说明](docs/PUBLIC_DEMO.md)。公开展示页正在发布到 GitHub Pages；本机完整后台使用 [http://localhost:4174/](http://localhost:4174/)。
+[公开展示页](https://rlqxsys.github.io/mis3011-bb-ai-assistant/) · [详细交接文档（项目根目录）](交接文档_时间规划与动态提醒.md) · [公开展示说明](docs/PUBLIC_DEMO.md)。
+
+组员直接打开公开页即可体验任务、计划和提醒；本机完整 AI 后台使用 [http://localhost:4174/](http://localhost:4174/)。
 
 当前验收直接读取 BB_Source_Feed，不创建自拟课程或作业。原包包含：
 

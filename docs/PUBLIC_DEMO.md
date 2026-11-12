@@ -1,5 +1,9 @@
 # 公开展示页与本机后台
 
+已发布：[https://rlqxsys.github.io/mis3011-bb-ai-assistant/](https://rlqxsys.github.io/mis3011-bb-ai-assistant/)。
+
+完整交接文档位于项目根目录：[交接文档_时间规划与动态提醒.md](../交接文档_时间规划与动态提醒.md)。
+
 ## 组员直接看什么
 
 公开页保留任务、计划、提醒三页，初始载入五次真实 DeepSeek 公告处理形成的三项任务。
