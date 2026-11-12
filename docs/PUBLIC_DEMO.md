@@ -28,6 +28,28 @@
 | 新资料触发模型处理、自然语言安排调整 | 按文档启动后台复测 | 支持，需配置模型连接 |
 | 浏览器关闭后继续扫描资料 | 随浏览器暂停 | Node 服务运行期间支持 |
 
+## 开发者：运行完整 AI 流程
+
+以下步骤用于开发、接入与真实模型复测。组员查看展示时，直接使用文档顶部的公开地址。
+
+在克隆的项目目录中运行，要求 Node.js 22+：
+
+```bash
+BB_ASSISTANT_STATE_FILE=.local/ai-review.json PORT=4174 npm start
+```
+
+此开发服务监听自己电脑的 `http://localhost:4174/`，与 GitHub Pages 公开展示地址是两个入口。右上角设置中配置模型后，可自动处理本地课程包和增量资料。Node 服务运行期间，关闭浏览器仍会继续处理；服务重启后重新填写模型 key。
+
+按原始发布时间回放公告：
+
+```bash
+node scripts/automation-demo.mjs new
+node scripts/automation-demo.mjs update
+node scripts/automation-demo.mjs eco
+```
+
+`new` 备份并切换验收工作区，后续命令推进到真实公告的发布时间，由后台自动识别更新。完整带断言的复测使用 `node scripts/live-automation-eval.mjs`；当前工作区保留验收结果时，可使用 `node scripts/export-ai-example.mjs` 导出样例。
+
 ## 本地构建与更新
 
 Node.js 22+，在项目目录执行：

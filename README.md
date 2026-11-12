@@ -1,10 +1,22 @@
 # BB Companion · 时间规划与动态提醒
 
-公开仓库：[rlqxsys/mis3011-bb-ai-assistant](https://github.com/rlqxsys/mis3011-bb-ai-assistant)。
+## 直接打开
 
-[公开展示页](https://rlqxsys.github.io/mis3011-bb-ai-assistant/) · [详细交接文档（项目根目录）](交接文档_时间规划与动态提醒.md) · [公开展示说明](docs/PUBLIC_DEMO.md)。
+[进入 BB Companion 公开展示页 →](https://rlqxsys.github.io/mis3011-bb-ai-assistant/)
 
-组员直接打开公开页即可体验任务、计划和提醒；本机完整 AI 后台使用 [http://localhost:4174/](http://localhost:4174/)。
+组员直接点击上面的地址即可使用，无需安装环境、启动服务或保持黄铄的电脑在线。
+
+页面支持查看真实课程任务与原文、修改空闲时间、实时重排计划、确认完成和查看提醒，还可体验四类经典场景。每位组员的操作保存在各自浏览器中。
+
+公开页载入五次真实 AI 公告处理的结果。新资料的 AI 自动解析与自然语言调整由完整后台提供，开发运行方式见[完整流程运行说明](docs/PUBLIC_DEMO.md#开发者运行完整-ai-流程)。
+
+## 交接入口
+
+- [详细交接文档（项目根目录）](交接文档_时间规划与动态提醒.md)
+- [公开展示说明与开发运行](docs/PUBLIC_DEMO.md)
+- [AI 集成接口](docs/AI_INTEGRATION.md) · [规划与状态接口](docs/INTEGRATION.md)
+
+## 数据来源
 
 当前验收直接读取 BB_Source_Feed，不创建自拟课程或作业。原包包含：
 
@@ -26,36 +38,17 @@
 
 ## 怎么看
 
-主界面只有任务、计划、提醒三页。任务详情包含要求、原文来源与预计用时。自动跟进范围默认来自原始包的五门课程。模型连接和运行记录放在右上角设置，所有内容共用一个弹窗。
+主界面只有任务、计划、提醒三页。任务详情包含要求、原文来源与预计用时。公开页右上角设置可查看真实 AI 运行记录、恢复初始任务或导出当前状态。
 
 公开页初始载入本轮真实原文形成的考试、Tutorial 和作业；本机页面保留使用者最近的工作状态。打开“计划”看准备安排；打开任务的“来源”可查看 courses/*.json 原文件。正式时间来自原文，准备时长是模型估计，可调整。
 
-## 自动处理方式
+## 完整后台的自动处理方式
 
 资料进入本地源 → 比较版本 → 后台调用 AI 识别任务和新旧关系 → 更新统一任务 → 排程和提醒联动。一次设置课程范围和空闲时间，后续无需逐份勾选或手动分析。明确的个人安排变更直接执行，假设问题只试算。
 
 历史回放开启 replaySources 时，仅在发布时间到达后处理原公告，未标明发布时间的材料不冒充当时已发布。实际运行使用真实时钟，增量输入可以更新课程包、放入 .local/course-inbox/，或 POST /api/feed/documents。
 
-当前没有实时登录 BB，也没有邮件／手机推送。Node 服务需保持运行，关闭浏览器不影响后台；key 仅在进程中，服务重启后重新填写。
-
-## 启动与复跑
-
-Node.js 22+，无第三方运行依赖：
-
-```bash
-cd "$HOME/CUHKSZ课程/MIS3011/MIS3011_GroupProject_BBAIAssistant"
-BB_ASSISTANT_STATE_FILE=.local/ai-review.json PORT=4174 npm start
-```
-
-原始公告回放，实际调用已配置模型：
-
-```bash
-node scripts/automation-demo.mjs new
-node scripts/automation-demo.mjs update
-node scripts/automation-demo.mjs eco
-```
-
-new 备份并替换验收工作区，以原始公告出现前为起点；后续命令只推进回放时钟，不编写材料、不调用 /api/ai/analyze。完整真实验收用 node scripts/live-automation-eval.mjs。只读导出样例用 node scripts/export-ai-example.mjs。
+课程增量采集和外部通知是后续集成项。后台启动、模型配置与原始公告复跑步骤集中在[开发运行说明](docs/PUBLIC_DEMO.md#开发者运行完整-ai-流程)。
 
 ## 验证与代码
 
