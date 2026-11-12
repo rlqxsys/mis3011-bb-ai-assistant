@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "ECO3121 TUT7: OLS Asymptotics and Dummy Variable\n\n\n\n                TA Group\n\n\n         The Chinese University of Hong Kong, Shenzhen\n\n\n                        October 28, 2024\n\n\n\n\n\n  TA Group                                CUHK(SZ)                                October 28, 2024            1 / 18"
+    },
+    {
+      "page": 2,
+      "text": "Contents\n\n\n1  Consistency of OLS (Not Tested)\n    Law of large numbers(LLN)\n     Consistency\n     Consistency of OLS\n\n2  Asymptotic Normality and Large Sample Inference (Not Tested)\n     Central limit theorem(CLT)\n     Asymptotic normality\n\n3 Dummy Variable\n      Single dummy variable\n      Multiple dummy variables\n      Linear probability model\n     Nonlinear probability models\n\n4  Stata Commands for Probability Models\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024            2 / 18"
+    },
+    {
+      "page": 3,
+      "text": "                       Consistency of OLS (Not Tested)\n\n\n\n\n\n          Consistency of OLS (Not Tested)\n\n\n\n\n\nTA Group                                CUHK(SZ)                                October 28, 2024            3 / 18"
+    },
+    {
+      "page": 4,
+      "text": "                                        Consistency of OLS (Not Tested)   Law of large numbers(LLN)\n\nDefinition\n\n\n\n\n\nWeak Law of Large Numbers\n\nSuppose X1, X2, · · · , Xn is a sequence of i.i.d. random variables with an expected\nvalue µ < ∞and a variance σ2 < ∞, Xn converges in probability to µ, that is,\nfor any ϵ > 0, we have:\n\n                  n→∞P(|Xnlim      −µ| < ϵ) →1\nDenoted as ”plim(Xn) = µ” or ”Xn p−→µ”.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024            4 / 18"
+    },
+    {
+      "page": 5,
+      "text": "                                        Consistency of OLS (Not Tested)    Consistency\n\nDefinition\n\n\n\n\n\nConsistency\n\nAn estimator ˆθn (based on a sample of n size) is consistent for a population\nparameter θ if for any ϵ > 0:\n\n                       n→∞P(|ˆθnlim     −θ| < ϵ) →1\n                                          or\n\n                                  plim(ˆθn) = θ\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024            5 / 18"
+    },
+    {
+      "page": 6,
+      "text": "                                        Consistency of OLS (Not Tested)    Consistency of OLS\n\nConsistency of OLS estimator\n\n\n\nTheorem 5.1 Consistency of OLS\n\nUnder MLR.1-MLR.4, OLS estimators ˆβj is consistent for βj for all\nj = 0, 1, 2, · · · , k\n\n                         plim(ˆβj) = βj, j = 0, 1, 2, · · · , k\n\n\n\nComments:\n     Consistency is a minimal requirement for an estimator.\n\n    OLS estimator is consistent under the weaker assumption MLR.4’:\n    E(u) = 0, Cov(xj, u) = 0.\n     Note: unbiasedness ⇎consistency\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024            6 / 18"
+    },
+    {
+      "page": 7,
+      "text": "    Asymptotic Normality and Large Sample Inference (Not Tested)\n\n\n\n\n\nAsymptotic Normality and Large Sample Inference (Not Tested)\n\n\n\n\n\n       TA Group                                CUHK(SZ)                                October 28, 2024            7 / 18"
+    },
+    {
+      "page": 8,
+      "text": "           Asymptotic Normality and Large Sample Inference (Not Tested)    Central limit theorem(CLT)\n\nDefinition\n\n\n\nLindeberg–L´evy Central Limit Theorem\n\nSuppose X1, X2, · · · , Xn is a sequence of i.i.d. random variables with\nE(Xn) = µ < ∞and V ar(Xn) = σ2 < ∞. Then, as n →∞, we have:\n\n                   Xn −µ\n                                              1)                      σ/√n  d−→N(0,\n                                          or\n                   √n(Xn −µ) d−→N(0, σ2)\n\n\n\nNote:\n                 σ2\n    V ar(X) = n\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024            8 / 18"
+    },
+    {
+      "page": 9,
+      "text": "           Asymptotic Normality and Large Sample Inference (Not Tested)    Asymptotic normality\n\nAsymptotic normality of OLS\n\n\nPractically:\n\n    The MLR.6 assumed for statistical inference is too strong to be satisfied.\n\n    The asymptotic properties of OLS estimation can help without MLR.6.\n\n\nTheorem 5.2 Asymptotic Normality of OLS\n\nUnder MLR.1-MLR.5\n\n                               ˆβj −βj                  ˆβj −βj                         a∼N(0, 1),       a∼N(0, 1)\n                        sd(ˆβj)               se(ˆβj)\n             √n(ˆβj −βj) a∼N(0, σ2 ), where α2j = plim( Pni=1 ˆr2ij )\n                             α2j                 n\n\n                               ˆσ2 is a consistent estimator of σ2\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024            9 / 18"
+    },
+    {
+      "page": 10,
+      "text": "           Asymptotic Normality and Large Sample Inference (Not Tested)    Asymptotic normality\n\nComments\n\n\n\n       If MLR.6 does not hold, the results of t- and F-tests may be wrong.\n\n       If the sample size is large enough, t-, F-tests as well as confidence intervals\n     are still valid without holding MLR.6.\n\n     In large samples, the t-distribution is close to normal distribution.\n\n    Under MLR.1-MLR.5, it is more practical to write:\n\n                                             ˆβj −βj                                  a∼tn−k−1 = tdf\n                                   se(ˆβj)\n\n    Under MLR.1-MLR.5, OLS estimator is asymptotically efficient among other\n      class of estimators (Asymptotic Efficiency of OLS):\n                    Avar√n(ˆβj −βj) ≤Avar√n(˜βj −βj)\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024           10 / 18"
+    },
+    {
+      "page": 11,
+      "text": "                          Dummy Variable\n\n\n\n\n\n            Dummy Variable\n\n\n\n\n\nTA Group                                CUHK(SZ)                                October 28, 2024           11 / 18"
+    },
+    {
+      "page": 12,
+      "text": "                                      Dummy Variable    Single dummy variable\n\nSingle dummy variable\n\n\nDefinition:\n\n   A Dummy variable (indicator variable) is one that takes a binary value\n    (0 or 1), which is typically used to encode categorical features.\n\n\nQualitative information described,e.g.:\n\n    Gender (male or female)                Region (domestic or foreign)\n\n    Nationality (majority or minority)        Type (SOE or POE)\n\nInterpretation of the ˆβ1,e.g.:\n\n     \\                       log(wage) = ˆβ0 + ˆβ1female\n\n\n    The average wage of a female is higher (or lower) than that of a male by\n     |100ˆβ1%|, holding the other factors fixed.\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024           12 / 18"
+    },
+    {
+      "page": 13,
+      "text": "                                      Dummy Variable    Multiple dummy variables\n\nMultiple dummy variables\n\n\n\n\n\nUsing dummy variables for multiple categories:\n\n     Define membership in each category by a dummy variable.\n\n     Leave out one category(which becomes the base category), to avoid the\n   dummy variable trap.\n\n\nDummy variable trap:\n\n    The problem occurs when we create k dummy variables instead of k-1\n   dummy variables to describe k groups.\n\n     Perfect colinearity exists in this case.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024           13 / 18"
+    },
+    {
+      "page": 14,
+      "text": "                                      Dummy Variable    Linear probability model\n\nLinear probability model\n\n\n\n\nDefinition:\n\n    The multiple linear regression model with a binary dependent variable:\n\n                 E(y|x) = P(y = 1|x) = β0 + β1x1 + · · · + βkxk\n\n\n\nDrawbacks:\n\n     Predicted probability may < 0 or > 1, which makes no sense in practice.\n\n     Estimated partial effects could only be constant.\n\n    Must have heteroskedasticity (y is a Bernoulli distribution rather than normal;\n    V ar(u) is a function of x)\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024           14 / 18"
+    },
+    {
+      "page": 15,
+      "text": "                                      Dummy Variable    Nonlinear probability models\n\nProbit model and logit model\n\n\n\nProbit model (use the CDF of standard normal distribution):\n\n                                               Z Z\n      Pr(y = 1|x) = Φ(β0 + β1x1 + · · · + βkxk) = Φ(Z) =     ϕ(z) dz\n                                      −∞\n\nLogit model (use the CDF of logistic distribution):\n\n                             eβ0+β1x1+···+βkxk       eZ        1\n         Pr(y = 1|x) =             =     =\n                       1 + eβ0+β1x1+···+βkxk   1 + eZ   1 + e−Z\n\nSimilarities:\n  \\    Pr(y = 1|x) ∈[0, 1]\n\n     Parameters are nonlinear and are difficult to interpret.\n\n    Maximum Likelihood Estimation (MLE) is used to estimate the two models.\n     Estimator is consistent only when E(y = 1|x) = G(Z) is valid.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024           15 / 18"
+    },
+    {
+      "page": 16,
+      "text": "                Stata Commands for Probability Models\n\n\n\n\n\n      Stata Commands for Probability Models\n\n\n\n\n\nTA Group                                CUHK(SZ)                                October 28, 2024           16 / 18"
+    },
+    {
+      "page": 17,
+      "text": "                                  Stata Commands for Probability Models\n\nSyntax\n\n\n\nWhen y is a binary variable, we can use Stata to estimate the following models:\n\n1)linear probability model:\n\n                                  reg y x1 x2 x3\n\n\n\n2)probit model:\n\n                                  probit y x1 x2 x3\n\n\n\n3)logit model:\n\n                                      logit y x1 x2 x3\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 28, 2024           17 / 18"
+    },
+    {
+      "page": 18,
+      "text": "                                 Acknowledgement\n\n\n\n\n      Thank you!\n\n\n\n\n\nTA Group                                CUHK(SZ)                                October 28, 2024           18 / 18"
+    }
+  ]
+}

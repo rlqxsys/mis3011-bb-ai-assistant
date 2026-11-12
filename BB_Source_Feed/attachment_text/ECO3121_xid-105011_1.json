@@ -1,0 +1,132 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "Introductory Econometrics\n\n\n\n\n\n                         Ming Li\n\n                     School of Management and Economics\n                The Chinese University of Hong Kong, Shenzhen"
+    },
+    {
+      "page": 2,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 3,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 4,
+      "text": "The variance of the OLS Estimators\n\n\n  • Estimating the error variance\n\n\n\n\n\n     An unbiased estimate of the error variance can be obtained by substracting the number of\n       estimated regression coefficients from the number of observations. The number of obser-\n       vations minus the number of estimated parameters is also called the degrees of freedom. The n\n       estimated squared residuals in the sum are not completely independent but related\n       through the k+1 equations that define the first order conditions of the minimization problem.\n\n\n  • Theorem 3.3 (Unbiased estimator of the error\n   variance)"
+    },
+    {
+      "page": 5,
+      "text": "The variance of the OLS Estimators\n\n   • Estimation of the sampling variances of the OLS\n    estimators\n\n The true sampling\n  variation of the\n  estimated\n\n\n\n\n\n                                      Plug in    for the unknown\n\n\n  The estimated samp-\n  ling variation of the\n  estimated\n\n   • Note that these formulas are only valid under\n   assumptions  MLR.1-MLR.5 (in particular, there has to\n   be homoskedasticity)"
+    },
+    {
+      "page": 6,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 7,
+      "text": "Sampling Distributions of the OLS Estimators"
+    },
+    {
+      "page": 8,
+      "text": "Sampling Distributions of the OLS Estimators"
+    },
+    {
+      "page": 9,
+      "text": "Sampling Distributions of the OLS Estimators"
+    },
+    {
+      "page": 10,
+      "text": "Sampling Distributions of the OLS Estimators"
+    },
+    {
+      "page": 11,
+      "text": "Sampling Distributions of the OLS Estimators"
+    },
+    {
+      "page": 12,
+      "text": "Sampling Distributions of the OLS Estimators"
+    },
+    {
+      "page": 13,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 14,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 15,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 16,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 17,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 18,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 19,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 20,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 21,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 22,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 23,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 24,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 25,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 26,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 27,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 28,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 29,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 30,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 31,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    },
+    {
+      "page": 32,
+      "text": "Testing Hypotheses About a Single Population Parameter"
+    }
+  ]
+}

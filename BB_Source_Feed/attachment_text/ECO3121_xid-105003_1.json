@@ -1,0 +1,136 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\n\n\n\n\n                       Statistics Review\n\n\n\n\n\n                    CUHK, Shenzhen\n\n                        ECO3121\n\n\n\n\n\n                                                                                                         1 / 33"
+    },
+    {
+      "page": 2,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nCausality\n\n\n\n\n\n      We are interested in causal relations, but statistics only allows\n        us to establish correlations\n\n       To say that one variable has a causal eﬀect on another, other\n          factors aﬀecting the outcome must be held ﬁxed\n\n        Sometimes can use controlled experiments\n\n        Experiment are often impossible in economics (too costly\n        and/or for ethical reasons)\n\n       Must rely on observational data\n\n\n\n\n\n                                                                                                         2 / 33"
+    },
+    {
+      "page": 3,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\n\n        Example: eﬀect of health insurance coverage on health\n\n         Question: what is the eﬀect of health insurance on health?\n\n          Ideal experiment: randomly give people health insurance or\n         not, compare their health afterward\n\n        Observed survey data:\n         Group          Sample Size  Mean Health  Std.Dev.\n        Some insurance     8114          4.01         0.93\n       No insurance       1281          3.70         1.01\n          Source: 2009 NHIS data reported by ?\n\n            Is 4.01 - 3.70 = 0.31 the causal eﬀect of health insurance on\n         health?\n\n       Not likely, people with and without insurance diﬀer in other\n        ways that might aﬀect health\n         Group         Mean Education  Mean income\n        Some insurance       14.31          106,467\n       No insurance          11.56          45,656\n\n\n                                                                                                         3 / 33"
+    },
+    {
+      "page": 4,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nPotential Outcomes\n\n\n         Potential outcomes (aka the Rubin causal model) are one\n         powerful way of thinking about causality\n         Let Di = 1 if person i has health insurance, 0 otherwise\n         Let Yi0 and Yi1 be the potential outcomes\n               Yi0 = health if person i does not have health insurance\n               Yi1 = health if person i has health insurance\n      We observe\n\n          (                     Yi0     if Di = 0\n               Yi =\n                     Yi1     if Di = 1\n\n           = (1 −Di)Yi0 + DiYi1\n              =Yi0 + Di ×            (Yi1 −Yi0)\n                                        causal eﬀect of|health{zinsurance}    for person i\n\n\n\n                                                                                                         4 / 33"
+    },
+    {
+      "page": 5,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nPotential Outcomes (continued)\n\n\n        Observed average diﬀerence in health\n\n               E[Yi1|Di = 1]−E[Yi0|Di = 0] =\n                =     E[Yi1 −Yi0|Di = 1]   +\n                                    Average| treatment{zeﬀect on the} treated\n                 + E[Yi0|Di = 1] −E[Yi0|Di = 0]\n                                |           Selection{z  bias        }\n\n         Insurance may help you or hurt you (on average), but\n          wealthier people are more likely to aﬀord insurance and might\n        be healthier for other reasons; conversely people who are sick\n        might be more willing to pay for insurance\n       Random assignment of Di removes selection bias because Di\n        and Yi0 are then independent\n        Often cannot randomize, but can\n             Use available data to approximate desired experiment\n             Use economic theory to impose restrictions\n\n                                                                                                         5 / 33"
+    },
+    {
+      "page": 6,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nProbability\n\n\n\n\n        Purpose: system for quantifying chance and making\n         predictions about future events\n          Interpretations:\n               Relative frequency of an event in many repeated trials\n               Subjective assessment of the likelihood of an event\n\n       The properties of probability are fairly intuitive, and you can\n        work with probabilities without worrying too much about how\n          probability is formally deﬁned. However, if we want to be\n        mathematically rigorous, we should carefully deﬁne what we\n       mean by probability.\n\n\n\n\n\n                                                                                                         6 / 33"
+    },
+    {
+      "page": 7,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nBasic deﬁnitions\n\n\n\n       Random experiment: procedure that has well-deﬁned set of\n        outcomes and “could” be inﬁnitely repeated\n\n        Sample space: set of possible outcomes of an experiment,\n       S = {a1, a2, ..., aJ}\n         Event: any subset of sample space, A ⊆S\n          Probability: function from all subsets of the sample space, S,\n         to [0, 1] such that\n\n                1  P(S) = 1\n                2  1 ≥P(A) ≥0 for all A ⊆S\n                3   If A1, A2, ... are disjoint events then\n            P(A1 ∪A2 ∪...) = P(A1) + P(A2) + ...\n       Random variable: function from S to a number\n\n\n\n\n\n                                                                                                         7 / 33"
+    },
+    {
+      "page": 8,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nRandom variable\n\n\n   An example of a random experiment is rolling a dice. In this case\n    the sample space is S = {1, 2, 3, 4, 5, 6}. Some events are: get a\n    1 = {1}, get more than 4, {5, 6}, etc.\n   A random variable is a numeric representation of a random\n    experiment. For example, our experiment could be ﬂipping a coin.\n   Then S = {heads, tails}.\n   A function assigns a number to each element of S, so one example\n                 (                             1     if heads\n     of a random variable is X =                      .\n                             0     if tails\n           (                   50          if heads\n    Another is Y =                             .\n                 −257     if tails\n               (                         1     if heads\n   A third example is Z =                      .\n                         1     if tails\n\n\n\n                                                                                                         8 / 33"
+    },
+    {
+      "page": 9,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nProperties of probability\n\n\n\n\n\n   From the deﬁnition of probability on the previous slide, we can\n    derive some intuitive properties.\n         1  P(∅) = 0\n         2  P(Ac) = 1 −P(A)\n         3 A ⊆B implies P(A) ≤P(B)\n         4 P(A ∪B) = P(A) + P(B) −P(A ∩B)\n\n\n\n\n\n                                                                                                         9 / 33"
+    },
+    {
+      "page": 10,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nConditional probability\n\n\n\n\n    Conditional probability is very important for making decisions and\n     interpreting our observations of the world. Often, we would like to\n   know about something that we do not directly observe, but we do\n    observe some related information. For example, to forecast GDP\n    next quarter, which is something we can not observe today, we can\n    use current information about GDP, inﬂation, consumer\n    conﬁdence, etc. To make a forecast, we do not care so much\n    about the unconditional probability that GDP tomorrow is high,\n    but about the probability that GDP tomorrow is high given what\n   we observe today.\n\n\n\n\n\n                                                                                                        10 / 33"
+    },
+    {
+      "page": 11,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nConditional probability\n\n\n\n\n\n         Conditional probability: P(A|B) = P(A ∩B)/P(B)\n               Satisﬁes axioms of unconditional probability (and so also has\n                properties on previous slide)\n                                 P(B|A)P(A)\n         Bayes’ Rule P(A|B) =                                   P(B)\n      A is independent of B iﬀP(A ∩B) = P(A)P(B), denote as\n      A ⊥⊥B\n          A ⊥⊥B implies P(A|B) = P(A) and P(B|A) = P(B).\n\n\n\n\n\n                                                                                                        11 / 33"
+    },
+    {
+      "page": 12,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nBayes’ Rule\n\n\n\n\n\n    Proof of Bayes’ rule:\n    Deﬁnition of conditional probability: P(A ∩B) = P(A|B)P(B),\n    and switching role of A and B, = P(B|A)P(A).\n    Rearrange to get conclusion.\n\n\n\n\n\n                                                                                                        12 / 33"
+    },
+    {
+      "page": 13,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nBayes’ Rule\n\n\n\n\n\n    Bayes’ Rule allows us to switch between the P(A|B) and P(B|A).\n      It is very useful. One common use is for interpreting the results of\n    screening tests. For example, suppose there is a test for some\n     disease. From clinical trials, we would likely know the probability of\n     correctly testing positive conditional on having the disease,\n    P(+|disease), and the probability of falsely testing positive,\n    P(+|healthy). Suppose the unconditional probability of having the\n    disease if P(disease).\n\n\n\n\n\n                                                                                                        13 / 33"
+    },
+    {
+      "page": 14,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nBayes’ Rule\n\n\n\n\n   From this, we can use Bayes’ rule to calculate the probability of\n    having the disease conditional on testing positive as:\n\n       P(disease|+) =P(+|disease)P(disease)\n                         P(+)\n                                     P(+|disease)P(disease)\n            =                      P(+|disease)P(disease) + P(+|healthy)(1 −P(disease)).\n\n\n   Remark: When A and B are independent, then knowing whether\n   B happens does not give you any information about the probability\n     of A occurring\n\n\n\n\n\n                                                                                                        14 / 33"
+    },
+    {
+      "page": 15,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nDiscrete random variables\n\n\n\n\n\n          Recall: a random variable is a function from S to a number\n\n      A random variable is discrete if it can only take countably\n       many diﬀerent values\n         E.g. X ∈{x1, ..., xm}\n         Probability mass function (PMF) of X, pi = P(X = xi) gives\n         the probability that X equals each of its possible values\n\n        Cumulative distribution function (CDF):\n        F(x) = P(X ≤x) = Pmi=1 pi1{xi ≤x}\n\n\n\n\n\n                                                                                                        15 / 33"
+    },
+    {
+      "page": 16,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nContinuous random variables\n\n\n\n\n      A random variable is continuous if it takes on any single real\n         value with zero probability\n\n        Set of possible values is uncountably inﬁnite (e.g. real line or\n           line segment)\n\n      CDF is continuous and diﬀerentiable\n\n         Probability density function (PDF): the derivative of the CDF\n\n                      dF              Z x\n                           f (x) =    (x) and F(x) =        f (t)dt\n                        dx            −∞\n\n\n\n\n\n                                                                                                        16 / 33"
+    },
+    {
+      "page": 17,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nBivariate distributions\n\n\n\n         Discrete:\n               Joint PMF fX,Y (x, y) = P(X = x, Y = y)\n              Marginal PMF\n              fX(x) = P(X = x) = Py∈all values of Y P(X = x, Y = y)\n               Conditional PMF fX|Y (x|y) = fX,YfY (y)(x,y)\n        Continuous:\n                 joint CDF\n             FX,Y (x, y) = P(X ≤x, Y ≤y) = R −∞x  R −∞fX,Yy       (u, t)dudt\n                                             ∂2FX,Y\n                 joint PDF fX,Y (x, y) =  ∂x∂y (x, y)\n              Marginal CDF for X, FX(x) = P(X ≤x) = FX,Y (x, ∞)\n              Marginal PDF for X, fX(x) = dFXdx (x) = R −∞fX,Y∞      (x, y)dy\n               Conditional PDF fX|Y (x|y) = fX,YfY (y)(x,y)\n\n\n\n\n\n                                                                                                        17 / 33"
+    },
+    {
+      "page": 18,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nIndependence\n\n\n\n\n\n       Random variables X, Y are independent if\n         fX,Y (x, y) = fX(x)fY (y) for all x, y\n      X ⊥⊥Y implies fX|Y (x|y) = fX(x)\n\n\n\n\n\n                                                                                                        18 / 33"
+    },
+    {
+      "page": 19,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nExpectation\n\n\n\n\n\n   We will use expectations a lot, so it’s important to understand\n   them and know their properties. The fact that the expectation is\n     linear and the law of iterated expectations will be especially useful.\n\n\n\n\n\n                                                                                                        19 / 33"
+    },
+    {
+      "page": 20,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nExpectation\n\n       The expectation of X  is\n\n              (Pmi=1 xifX(xi)     if X discrete\n               E[X] =  ∞\n                         R −∞xfX(x)dx     if X continuous\n\n\n                   Is a constant\n                 a.k.a. expected value, population average, population mean,\n                ﬁrst moment\n        Expectation is linear:\n\n                    E[aX + bY ] = aE[X] + bE[Y ]\n\n        Expectation of function g:\n\n                            Z ∞\n                      E[g(X)] =     g(x)fX(x)dx\n                       −∞\n\n\n                                                                                                        20 / 33"
+    },
+    {
+      "page": 21,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nVariance and other moments\n\n\n\n        kth moment of X: E[X k]\n                                  h        kth central moment of X: E (X −E[X])ki\n\n         Variance is the 2nd central moment\n\n                                  h                     Var(X) =E (X −E[X])2i\n\n                        =E[X 2] −E[X]2\n\n        Var(a + bX) = b2Var(X)\n        Standard deviation is p Var(X)\n\n\n\n\n\n                                                                                                        21 / 33"
+    },
+    {
+      "page": 22,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nCovariance\n\n\n\n        Covariance of X and Y :\n\n            Cov(X, Y ) =E [(X −E[X]) (Y −E[Y ])]\n                  =E[XY ] −E[X]E[Y ]\n                    =E[(X −E[X]) Y ] = E[X (Y −E[Y ])]\n\n       Cov(X, X) = Var(X)\n        Cov(a1 + b1X + c1Y , a2 + b2X + c2Y ) =\n        b1b2Var(X) + c1c2Var(Y ) + (b1c2 + c1b2)Cov(X, Y )\n        Var(a + bX + cY ) = b2Var(X) + c2Var(Y ) + 2bcCov(X, Y )\n       Var PNi=1 biXi = PNi=1 PNj=1 bibjCov(Xi, Xj)\n\n\n\n\n\n                                                                                                        22 / 33"
+    },
+    {
+      "page": 23,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nVariance\n\n\n\n   We will often need to calculate the variance of sums like in the last\n    two bullet points. You should make sure you’re comfortable with\n    them. It’s not too much algebra to derive them from the deﬁnition\n     of variance. Let’s do so now.\n\n     Var(a + bX + cY ) =E (a + bX + cY −E[a + bX + cY ])2\n\n                          h              =E (a + bX + cY −(a + bE[X] + cE[Y ]))2i\n\n                          h              =E (b(X −E[X]) + c(Y −E[Y ]))2i\n\n              =E b2(X −E[X])2 + c2(Y −E[Y ])2 + 2bc(X −E[X])(Y −E[Y ])\n                   =b2E[(X −E[X])2] + c2E[(Y −E[Y ])2] + 2bcE [(X −E[X])(Y −E[Y ])]\n                   =b2Var(X) + c2Var(Y ) + 2bcCov(X, Y )\n\n   The last bullet with the summation follows from similar logic.\n\n\n\n\n\n                                                                                                        23 / 33"
+    },
+    {
+      "page": 24,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nCorrelation\n\n\n\n\n\n         Correlation of X and Y  is Corr(X, Y ) = √ Cov(X,Y )\n                                                       Var(X)Var(Y )\n        Cauchy-Schwartz inequality: |Cov(X, Y )| ≤ pVar(X)Var(Y )\n\n\n               Implies −1 ≤Corr(X, Y ) ≤1\n\n        Corr(X, Y ) = ±1 iﬀY = a + bX\n\n\n\n\n\n                                                                                                        24 / 33"
+    },
+    {
+      "page": 25,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nConditional expectation\n\n\n\n\n         Conditional expectation of Y given X = x:\n\n               (Pmi=1 yifY |X(yi|x)     if discrete\n           E[Y |X = x] =  ∞\n                            R −∞yfY |X(y|x)dy     if continuous\n\n       E[Y |X] is a function of X\n\n       Has all properties of unconditional expectation\n         Properties:\n             E[g1(X) + g2(X)Y |X] = g1(X) + g2(X)E[Y |X]\n           Law of iterated expectations: EX  EY |X[Y |X] = E[Y ]\n         E [X (Y − E[Y |X ])] = 0\n               E[g(x)(Y-E(Y|X)])]=0\n              =E[E[g(x)(Y-E(Y|X)|X]]\n              =E[g(x)E[Y-E(Y|X)]]\n            =0                                                                                 25 / 33"
+    },
+    {
+      "page": 26,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nConditional variance\n\n\n\n\n                                         h                i         Conditional variance: Var(Y |X) = E (Y −E[Y |X])2 |X\n\n         Relation to variance:\n\n               Var(Y ) = EX [Var(Y |X)] + Var (E[Y |X])\n\n\n\n               Analysis of variance (ANOVA)\n           EX [Var(Y |X)] is within-X variance\n            Var (E[Y |X]) is between-X variance\n\n\n\n\n\n                                                                                                        26 / 33"
+    },
+    {
+      "page": 27,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nRandom Variables\n\n\n\n    Toss a coin:   Random events   Values   Random Variable (R.\n    V.)\n               H         0\n                   ⇒  X\n               T         1\n\n   Deﬁniton\n    Let S be the sample space for an experiment. A real-valued\n    function that assigns one and only one real number X(s) = x to\n    each element s ∈S is called a random variable.\n\n   When a probability measure has been speciﬁed on the sample\n    space of an experiment, we can determine the probability\n    associated with X(s).\n\n\n\n\n\n                                                                                                        27 / 33"
+    },
+    {
+      "page": 28,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nDistribution\n    Deﬁnition\n    Let C ⊂R. Let X be a random variable. The distribution of X  is\n    the collection of all probabilities of the form\n   P(X ∈C) ≡P({s : X(s) ∈C}) for all sets C s.t. {x ∈C} is an\n    event.\n\n    Example: Toss a fair coin 10 times. X ≡number of heads\n    obtained.\n\n    Possible values of X: 0, 1, 2, ..., 10\n  ⇒P(X = x) = sum of the prob of all outcomes in the event\n   {X = x}, i.e. get x heads.\n\n\n\n\n\n                                                                                                        28 / 33"
+    },
+    {
+      "page": 29,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nDiscrete Distributions\n\n    Deﬁnition\n   A random variable has a discrete distribution or X  is a discrete\n   random variable if X can take only a ﬁnite number k of diﬀerent\n    values x1, . . . , xk or, at most, an inﬁnite sequence of diﬀerent\n    values x1, x2, . . . (countably inﬁnite)\n\n\n    Deﬁnition\n      If a random variable X has a discrete distribution, the probability\n    function (p.f.) of X  is deﬁned as the function f  s.t. for ∀x ∈R\n\n                                       f (x) = P(X = x).\n\n   We need: 0 ≤f (x) ≤1, P f (x) = 1.\n\n   Some textbook call it probability mass function (pmf).\n\n\n\n                                                                                                        29 / 33"
+    },
+    {
+      "page": 30,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nContinuous Distributions\n\n\n\n        R.V. that can assume every value in an interval\n\n        Only talk about probability of X for a given interval\n\n    Deﬁnition\n   A r.v. X has a continuous distribution or X is a continuous r.v.  if\n    ∃nonnegative function f , deﬁned on R, s.t. for every interval of\n     real numbers, the probability that X takes a value in the interval is\n    the integral:\n                               Z b\n                  P(a ≤X ≤b) =      f (x)dx.\n                                               a\n     Similarly, P(X ≥a) = R ∞ f (x)dx; P(X ≤b) = R b   (x)dx.                                a                −∞f\n\n\n\n\n\n                                                                                                        30 / 33"
+    },
+    {
+      "page": 31,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\n\n    Deﬁnition\n      If X has a continuous distribution, the function f in above\n    deﬁnition is called the probability density function. (p.d.f.) of X.\n\n\n   Remark: for any pdf,\n            f (x) ≥0, ∀x ∈R\n        R ∞  (x)dx = 1       −∞f\n      P(X = x) = 0 for a continuous r.v.\n\n    Example:\n                                3x2,  0 ≤x ≤1\n                                f (x) =\n                                     0,    o.w.\n\n   P(0 ≤x ≤0.5) =\n\n\n\n\n\n                                                                                                        31 / 33"
+    },
+    {
+      "page": 32,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nCumulative Distribution Function\n\n\n\n\n    Deﬁnition\n   The cumulative distribution function (c.d.f) F of a r.v X\n     (either discrete or continuous) is the function: F(x) = P(X ≤x)\n     for x ∈R.\n\n\n    Example: (c.d.f. of Bernoulli Distribution)\n\n                     0,      x < 0\n       P(X = 0) = 1 −p                         ⇒F(x) =   1 −p,  0 ≤x < 1\n       P(X = 1) = p\n                     1,      x ≥1\n\n\n\n\n\n                                                                                                        32 / 33"
+    },
+    {
+      "page": 33,
+      "text": "Causality            Probability            Properties         Random variables         Random Variables & Distributions\n\nWhat else?\n\n\n\n\n\n        Normal distribution\n\n         Student’s t-distribution\n\n       Law of Large Number and Central Limit Theorem\n\n         Testing\n\n        Conﬁdence interval\n\n              ...\n\n   No worries! We will cover these when we need them.\n\n\n\n\n\n                                                                                                        33 / 33"
+    }
+  ]
+}

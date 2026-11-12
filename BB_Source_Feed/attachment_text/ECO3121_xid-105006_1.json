@@ -1,0 +1,328 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "Introductory Econometrics"
+    },
+    {
+      "page": 2,
+      "text": "Outline\n\n   • Definition of the Simple Regression Model \n   • Deriving the Ordinary Least Squares Estimates \n   • Properties of OLS on any Sample of Data \n   • Units of Measurement and Functional Form\n   • Testing\n   • Confidence interval"
+    },
+    {
+      "page": 3,
+      "text": "Something fun to start with"
+    },
+    {
+      "page": 4,
+      "text": "Obesity of politicians and corruption"
+    },
+    {
+      "page": 5,
+      "text": "Definition of the simple linear regression model\n\n   • Definition of the simple linear regression model\n    • For instance, is amount of fertilizer, and is soybean yield; is years of schooling, is hourly\n     wage.\n\n                       “Explains variable   in terms of variable  ”\n\n                                                      Intercept                                                                   Slope parameter\n\n\n\n\n\n                                     Dependent variable,\n                                                                                                     Error term,                                           explained variable,                                                              Independent variable,                                                                                                 disturbance,                                        response variable,…                                                                   explanatory variable,                                                                                         unobservables,…\n                                                                    regressor,…"
+    },
+    {
+      "page": 6,
+      "text": "Definition of the simple linear regression model\n\n    • Interpretation of the simple linear regression model\n    • All other factors that affect are in u. We want to know how y changes when x\n     changes, holding u fixed.\n                     “Studies how   varies with changes in   :”\n\n\n                                             as long as\n\n\n\n                       By how much does the dependent                        Interpretation only correct if all other\n                             variable change if the independent                       things remain equal when the indepen-\n                             variable is increased by one unit?                      dent variable is increased by one unit\n\n    • The simple linear regression model is rarely applicable in practice but its\n     discussion is useful for pedagogical reasons"
+    },
+    {
+      "page": 7,
+      "text": "Definition of the simple linear regression model\n\n\n   • Example: Soybean yield and fertilizer\n\n                                                                                               Rainfall,\n                                                                                land quality,\n                                                                           presence of parasites, …\n                             Measures the effect of fertilizer on\n                                      yield, holding all other factors fixed\n   • Example: A simple wage equation\n\n\n                                                                    Labor force experience,\n                                                                       tenure with current employer,\n                                                               work ethic, intelligence, …\n                         Measures the change in hourly wage\n                           given another year of education,\n                            holding all other factors fixed"
+    },
+    {
+      "page": 8,
+      "text": "When is there a causal interpretation?\n\n   • When is there a causal interpretation? \n  How can we hope to learn in general about the ceteris paribus\n    effect of x on y, holding other factors fixed, when we are ignoring\n     all those other factors? \n  What if x and u are related?\n\n   • Example: wage equation\n\n                                                                                e.g. intelligence …\n\n\n\n                       The conditional mean independence assumption is unlikely to hold because\n                              individuals with more education will also be more intelligent on average."
+    },
+    {
+      "page": 9,
+      "text": "When is there a causal interpretation?"
+    },
+    {
+      "page": 10,
+      "text": "Population regression function (PFR)\n\n   • Population regression function (PFR)\n        • The conditional mean independence assumption implies that\n\n\n\n\n\n        • This means that the average value of the dependent variable can be\n       expressed as a linear function of the explanatory variable"
+    },
+    {
+      "page": 11,
+      "text": "Population regression function (PFR)\n\n\n\n\n\n                                                                                            Population regression function\n\n\n\n\n\n                                                                                      For individuals with              , the\n                                                                                 average value of     is"
+    },
+    {
+      "page": 12,
+      "text": "Definition of the simple linear regression model"
+    },
+    {
+      "page": 13,
+      "text": "Deriving the Ordinary Least Squares Estimate"
+    },
+    {
+      "page": 14,
+      "text": "Deriving the Ordinary Least Squares Estimate"
+    },
+    {
+      "page": 15,
+      "text": "Deriving the Ordinary Least Squares Estimate"
+    },
+    {
+      "page": 16,
+      "text": "Deriving the Ordinary Least Squares Estimate"
+    },
+    {
+      "page": 17,
+      "text": "Deriving the Ordinary Least Squares Estimate"
+    },
+    {
+      "page": 18,
+      "text": "Deriving the Ordinary Least Squares Estimate"
+    },
+    {
+      "page": 19,
+      "text": "Deriving the Ordinary Least Squares Estimate"
+    },
+    {
+      "page": 20,
+      "text": "Deriving the Ordinary Least Squares Estimate\n\n   • Fit as good as possible a regression line through the data points:\n\n\n\n\n\n                                                                                                         Fitted regression line\n              For example, the i-th\n              data point"
+    },
+    {
+      "page": 21,
+      "text": "Deriving the Ordinary Least Squares Estimate\n\n  • CEO Salary and return on equity\n\n\n\n\n                                          Salary in thousands of dollars          Average return on equity of the CEO‘s firm\n  • Fitted regression\n\n\n\n\n\n                                                         Intercept\n                                                                                                   If the return on equity increases by 1 percent,\n                                                                      then salary is predicted to change by $18,501\n  • Causal interpretation?"
+    },
+    {
+      "page": 22,
+      "text": "Deriving the Ordinary Least Squares Estimate\n\n\n\n\n\n                                                                                                   Fitted regression line\n                                                                                (depends on sample)\n\n\n\n\n\n                                                                     Unknown population regression line"
+    },
+    {
+      "page": 23,
+      "text": "Deriving the Ordinary Least Squares Estimate\n\n\n    • Wage and education\n\n\n\n                                   Hourly wage in dollars                 Years of education\n    • Fitted regression\n\n\n\n\n\n                                                Intercept\n                                                                  In the sample, one more year of education was\n                                                                   associated with an increase in hourly wage by $0.54\n    • Causal interpretation?"
+    },
+    {
+      "page": 24,
+      "text": "Deriving the Ordinary Least Squares Estimate\n\n   • Voting outcomes and campaign expenditures (two parties)\n\n\n\n\n\n                         Percentage of vote for candidate A     Percentage of campaign expenditures candidate A\n\n   • Fitted regression\n\n\n\n\n                                                Intercept\n                                                                                         If candidate A‘s share of spending increases by one\n                                                              percentage point, he or she receives 0.464 percen-\n                                                               tage points more of the total vote\n   • Causal interpretation?"
+    },
+    {
+      "page": 25,
+      "text": "Properties of OLS on any sample of data\n\n  • Properties of OLS on any sample of data\n  • Fitted values and residuals\n\n\n\n\n                                Fitted or predicted values            Deviations from regression line (= residuals)\n  • Algebraic properties of OLS regression\n\n\n\n\n\n                    Deviations from regression     Covariance between deviations     Sample averages of y and\n                       line sum up to zero          and regressors is zero               x lie on regression line"
+    },
+    {
+      "page": 26,
+      "text": "Properties of OLS on any sample of data\n\n\n\n\n\n                                                                           For example, CEO number 12‘s salary was\n                                                                       $526,023 lower than predicted using the\n                                                                            the information on his firm‘s return on equity"
+    },
+    {
+      "page": 27,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 28,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 29,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 30,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 31,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 32,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 33,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 34,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 35,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 36,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 37,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 38,
+      "text": "Expected value of the OLS estimators"
+    },
+    {
+      "page": 39,
+      "text": "Variances of the OLS estimators"
+    },
+    {
+      "page": 40,
+      "text": "Variances of the OLS estimators"
+    },
+    {
+      "page": 41,
+      "text": "Variances of the OLS estimators"
+    },
+    {
+      "page": 42,
+      "text": "Variances of the OLS estimators"
+    },
+    {
+      "page": 43,
+      "text": "Variances of the OLS estimators"
+    },
+    {
+      "page": 44,
+      "text": "Variances of the OLS estimators"
+    },
+    {
+      "page": 45,
+      "text": "Variances of the OLS estimators"
+    },
+    {
+      "page": 46,
+      "text": "Variances of the OLS estimators"
+    },
+    {
+      "page": 47,
+      "text": "Variances of the OLS estimators"
+    },
+    {
+      "page": 48,
+      "text": "Variances of the OLS estimators"
+    },
+    {
+      "page": 49,
+      "text": "Estimating the error variance"
+    },
+    {
+      "page": 50,
+      "text": "Estimating the error variance"
+    },
+    {
+      "page": 51,
+      "text": "Estimating the error variance"
+    },
+    {
+      "page": 52,
+      "text": "Estimating the error variance"
+    },
+    {
+      "page": 53,
+      "text": "Estimating the error variance"
+    },
+    {
+      "page": 54,
+      "text": "Estimating the error variance"
+    },
+    {
+      "page": 55,
+      "text": "The Simple Regression Model: Summary\n\n   • Theorem 2.1 (Unbiasedness of OLS)\n\n   • Interpretation of unbiasedness\n        • The estimated coefficients may be smaller or larger, depending on the\n       sample that is the result of a random draw\n        • However, on average, they will be equal to the values that charac-terize\n        the true relationship between y and x in the population\n        • “On average” means if sampling was repeated, i.e. if drawing the random\n       sample and doing the estimation was repeated many times\n        • In a given sample, estimates may differ considerably from true values"
+    },
+    {
+      "page": 56,
+      "text": "The Simple Regression Model: Summary\n\n   • Theorem 2.2 (Variances of the OLS estimators)\n\n                   Under assumptions SLR.1 – SLR.5:\n\n\n\n   • Conclusion:\n        • The sampling variability of the estimated regression coefficients will be\n        the higher, the larger the variability of the unobserved factors, and the\n        lower, the higher the variation in the explanatory variable"
+    },
+    {
+      "page": 57,
+      "text": "The Simple Regression Model: Summary\n\n   • Estimating the error variance\n\n\n\n                                                               The variance of u does not depend on x, i.e.\n                                                                      equal to the unconditional variance\n\n\n\n\n                                                            One could estimate the variance of the\n                                                                                       errors by calculating the variance of the\n                                                                                        residuals in the sample; unfortunately\n                                                                                                  this estimate would be biased\n\n\n\n\n\n                                             An unbiased estimate of the error variance can be obtained by\n                                                             substracting the number of estimated regression coefficients\n                                                    from the number of observations"
+    },
+    {
+      "page": 58,
+      "text": "The Simple Regression Model: Summary\n\n   • Theorem 2.3 (Unbiasedness of the error variance)\n\n   • Calculation of standard errors for regression coefficients\n\n\n\n                                                                                          Plug in    for\n                                                                                             the unknown\n\n\n\n\n\n                       The estimated standard deviations of the regression coefficients are called “standard\n                                errors.” They measure how precisely the regression coefficients are estimated."
+    },
+    {
+      "page": 59,
+      "text": "The Simple Regression Model: Summary"
+    },
+    {
+      "page": 60,
+      "text": "Testing\n\n                • Assumption SLR.6 (Normality of error terms)\n\n                                          independently of\n\n\n\n\n                                                                                                                                It is assumed that the unobserved\n                                                                                        factors are normally distributed around\n                                                                               the population regression function.\n\n                                                                    The form and the variance of the\n                                                                                         distribution does not depend on\n                                                                       any of the explanatory variables.\n\n                                                                                                                                It follows that:\n                                                    𝑦|𝑥~𝑁𝑜𝑟𝑚𝑎𝑙(𝛽0 + 𝛽1𝑥, 𝜎2)"
+    },
+    {
+      "page": 61,
+      "text": "Testing\n\n\n   • Theorem (Normal sampling distributions)\n\n\n                 Under assumptions SLR.1 – SLR.6:\n\n\n\n\n\n                   The estimators are normally distributed                                                                The standardized estimators follow a\n                   around the true parameters with the                                                                       standard normal distribution\n                      variance that was derived earlier"
+    },
+    {
+      "page": 62,
+      "text": "Testing\n\n   • Theorem (t-distribution for the standardized estimators)\n\n\n     Under assumptions SLR.1 – SLR.6:\n\n\n                                                                                                          If the standardization is done using the estimated\n                                                             standard deviation (= standard error), the normal\n                                                                       distribution is replaced by a t-distribution\n\n\n                           Note: The t-distribution is close to the standard normal distribution if n-k-1 is large.\n   • Null hypothesis (more general hypotheses will be discussed later)\n\n\n\n                                                The population parameter is equal to zero, i.e. after\n                                                             controlling for the other independent variables, there is\n                                              no effect of xj on y"
+    },
+    {
+      "page": 63,
+      "text": "Testing"
+    },
+    {
+      "page": 64,
+      "text": "Testing\n\n   • t-statistic (or t-ratio)\n\n\n                                                  The t-statistic will be used to test the above null hypothesis.\n                                                  The farther the estimated coefficient is away from zero, the\n                                                                    less likely it is that the null hypothesis holds true. But what\n                                                   does “far” away from zero mean?\n\n                                                      This depends on the variability of the estimated coefficient, i.e. its\n                                                 standard deviation. The t-statistic measures how many estimated\n                                                 standard deviations the estimated coefficient is away from zero.\n   • Distribution of the t-statistic if the null hypothesis is true\n\n   • Goal: Define a rejection rule so that, if it is true, H0 is rejected only\n    with a small probability (= significance level, e.g. 5%)"
+    },
+    {
+      "page": 65,
+      "text": "Testing"
+    },
+    {
+      "page": 66,
+      "text": "Testing\n\n             • Testing against one-sided alternatives (greater than zero)\n\n\n\n                                                                             Test              against                        .\n\n                                                                              Reject the null hypothesis in favour of the alternative hypothesis if\n                                                                          the estimated coefficient is “too large” (i.e. larger than a critical\n                                                                                     value).\n\n                                                                          Construct the critical value so that, if the null hypothesis is true, it\n                                                                                                            is rejected in,for example, 5% of the cases.\n\n                                                                                     In the given example, this is the point of the t-distribution with 28\n                                                                     degrees of freedom that is exceeded in 5% of the cases.\n\n                                                                              Reject if t-statistic is greater than 1.701"
+    },
+    {
+      "page": 67,
+      "text": "Testing\n\n            • Testing against two-sided alternatives\n\n\n\n                                                                             Test              against                        .\n\n                                                                              Reject the null hypothesis in favour of the alternative hypothesis if\n                                                                          the absolute value of the estimated coefficient is too large.\n\n                                                                          Construct the critical value so that, if the null hypothesis is true, it is\n                                                                               rejected in, for example, 5% of the cases.\n\n                                                                                     In the given example, these are the points of the t-distribution so\n                                                                                that 5% of the cases lie in the two tails.\n\n                                                                              Reject if absolute value of t-statistic is greater than 2.06"
+    },
+    {
+      "page": 68,
+      "text": "Properties of OLS on any sample of data\n\n   • Goodness-of-Fit\n\n                “How well does the explanatory variable explain the dependent variable?”\n\n   • Measures of Variation\n\n\n\n\n\n                            Total sum of squares,                 Explained sum of squares,          Residual sum of squares,\n                           represents total variation              represents variation                represents variation not\n                               in the dependent variable             explained by regression            explained by regression"
+    },
+    {
+      "page": 69,
+      "text": "Properties of OLS on any sample of data"
+    },
+    {
+      "page": 70,
+      "text": "Properties of OLS on any sample of data"
+    },
+    {
+      "page": 71,
+      "text": "Properties of OLS on any sample of data\n\n   • CEO Salary and return on equity\n\n                                                                         The regression explains only 1.3%\n                                                                                         of the total variation in salaries\n\n   • Voting outcomes and campaign expenditures\n\n\n\n\n\n                                                                       The regression explains 85.6% of the\n                                                                                                  total variation in election outcomes\n\n   • Caution: A high R-squared does not necessarily mean that the\n    regression has a causal interpretation!"
+    },
+    {
+      "page": 72,
+      "text": "Units of Measurement and Functional Form"
+    },
+    {
+      "page": 73,
+      "text": "Units of Measurement and Functional Form"
+    },
+    {
+      "page": 74,
+      "text": "Units of Measurement and Functional Form"
+    },
+    {
+      "page": 75,
+      "text": "Units of Measurement and Functional Form"
+    },
+    {
+      "page": 76,
+      "text": "Units of Measurement and Functional Form"
+    },
+    {
+      "page": 77,
+      "text": "Units of Measurement and Functional Form"
+    },
+    {
+      "page": 78,
+      "text": "Units of Measurement and Functional Form"
+    },
+    {
+      "page": 79,
+      "text": "Units of Measurement and Functional Form"
+    },
+    {
+      "page": 80,
+      "text": "Units of Measurement and Functional Form"
+    },
+    {
+      "page": 81,
+      "text": "Units of Measurement and Functional Form"
+    }
+  ]
+}

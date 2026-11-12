@@ -1,0 +1,152 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "TheShenzhen"
+    },
+    {
+      "page": 2,
+      "text": "Outline\n\n• Why do we need IV?\n• What is good IV?\n• How to find good IV?\n• How to estimate a model with IV?\n• How to test whether an IV is good or not?\n\n\nWe will use the following paper to illustrate the\nabove points"
+    },
+    {
+      "page": 3,
+      "text": "Research Question\n\n• What are the fundamental causes of the large\n  differences in income per capita across countries?\n• Better institutions: secure property rights, less\n  distortionary policies -> more investment in\n  physical and human capital"
+    },
+    {
+      "page": 4,
+      "text": "Do Institutions Matter for Income?"
+    },
+    {
+      "page": 5,
+      "text": "I. Why do we need IV?"
+    },
+    {
+      "page": 6,
+      "text": "Motivation"
+    },
+    {
+      "page": 7,
+      "text": "Motivation\n\n• Reverse causality: rich economies choose better\n  institutions\n• Omitted variable: economies that are different for a\n  variety of reasons will differ both in their\n  institutions and in their income per capita\n• Measurement error: any measure only measures\n  part of the institution, historical institution also\n  matters, etc.\n\n\nWe need a source of exogenous variation in\ninstitutions!"
+    },
+    {
+      "page": 8,
+      "text": "II. What is a good IV?"
+    },
+    {
+      "page": 9,
+      "text": "What Is IV?"
+    },
+    {
+      "page": 10,
+      "text": "Two Conditions: Validity of IV"
+    },
+    {
+      "page": 11,
+      "text": "III. How to find a good IV?"
+    },
+    {
+      "page": 12,
+      "text": "How to find a good IV?\n\n• IV is not omitted variable\n• IV is an “exogenous” shock\n• Sometimes, policy shocks, natural shocks or\n  historical shocks are exogenous enough\n• There is no definite rule – use your judgement!"
+    },
+    {
+      "page": 13,
+      "text": "How to Find IV?"
+    },
+    {
+      "page": 14,
+      "text": "Early mortality rate as IV"
+    },
+    {
+      "page": 15,
+      "text": "Relevance"
+    },
+    {
+      "page": 16,
+      "text": "Exogeneity\n\n• Why not through health conditions?"
+    },
+    {
+      "page": 17,
+      "text": "IV. How to estimate a\nmodel with IV?"
+    },
+    {
+      "page": 18,
+      "text": "Two Stage Least Squares (2SLS)"
+    },
+    {
+      "page": 19,
+      "text": "Two Stage Least Squares (2SLS)"
+    },
+    {
+      "page": 20,
+      "text": "General IV Regression"
+    },
+    {
+      "page": 21,
+      "text": "Two Stage Least Squares (2SLS)"
+    },
+    {
+      "page": 22,
+      "text": "Two Stage Least Squares (2SLS)"
+    },
+    {
+      "page": 23,
+      "text": "Estimation Results: Institution and Income"
+    },
+    {
+      "page": 24,
+      "text": "V. How to test whether\nan IV is good or not?"
+    },
+    {
+      "page": 25,
+      "text": "Check Instrument Validity"
+    },
+    {
+      "page": 26,
+      "text": "Check Instrument Validity"
+    },
+    {
+      "page": 27,
+      "text": "Check Instrument Validity"
+    },
+    {
+      "page": 28,
+      "text": "Relevance: First Stage"
+    },
+    {
+      "page": 29,
+      "text": "Check Instrument Validity"
+    },
+    {
+      "page": 30,
+      "text": "Check Instrument Validity"
+    },
+    {
+      "page": 31,
+      "text": "Check Instrument Validity"
+    },
+    {
+      "page": 32,
+      "text": "Check Instrument Validity"
+    },
+    {
+      "page": 33,
+      "text": "Exogeneity\n\n\nKey Assumption: settler mortality in the past has no\ndirect effect on current economic performance\n\n\nTest:\n- Directly control for many of the variables that could\n  plausibly be correlated with both settler mortality\n and economic outcomes, and checking whether the\n  addition of these variables affects our estimate\n- Overidentification test (caution: such tests may not\n lead to a rejection if all instruments are invalid, but\n  still highly correlated with each other)"
+    },
+    {
+      "page": 34,
+      "text": "Adding additional controls"
+    },
+    {
+      "page": 35,
+      "text": "Adding additional controls"
+    },
+    {
+      "page": 36,
+      "text": "Adding additional controls"
+    },
+    {
+      "page": 37,
+      "text": "Overidentification Test"
+    }
+  ]
+}

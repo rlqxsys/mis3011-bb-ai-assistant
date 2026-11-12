@@ -1,0 +1,969 @@
+{
+  "code": "ECO2021",
+  "title": "ECO2021: Basic Macroeconomics",
+  "url": "/webapps/blackboard/execute/launcher?type=Course&id=_90003_1",
+  "pages": [
+    {
+      "n": "Content",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90003_1&content_id=_703001_1",
+      "rows": [
+        {
+          "title": "Course Syllabus",
+          "body": "Attached Files:\n ECO2021_Syllabus_2024.pdf (228.666 KB)",
+          "links": [
+            {
+              "n": "ECO2021_Syllabus_2024.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103000-dt-content-rid-103000_1/xid-103000_1"
+            }
+          ]
+        },
+        {
+          "title": "Sample Exam",
+          "body": "Attached Files:\n Midterm 2023.pdf (259.862 KB)\n Midterm 2023-answers.pdf (457.874 KB)\n Final exam sample 2023.doc (90 KB)\n Final exam sample 2023 with Answers.doc (212.5 KB)",
+          "links": [
+            {
+              "n": "Midterm 2023.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103001-dt-content-rid-103001_1/xid-103001_1"
+            },
+            {
+              "n": "Midterm 2023-answers.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103002-dt-content-rid-103002_1/xid-103002_1"
+            },
+            {
+              "n": "Final exam sample 2023.doc",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103003-dt-content-rid-103003_1/xid-103003_1"
+            },
+            {
+              "n": "Final exam sample 2023 with Answers.doc",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103004-dt-content-rid-103004_1/xid-103004_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture Slides & Readings",
+          "body": "Lecture Slides & Readings",
+          "links": [
+            {
+              "n": "Lecture Slides & Readings",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90003_1&content_id=_703002_1"
+            }
+          ]
+        },
+        {
+          "title": "Weekly Quizzes",
+          "body": "Weekly Quizzes",
+          "links": [
+            {
+              "n": "Weekly Quizzes",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90003_1&content_id=_703003_1"
+            }
+          ]
+        },
+        {
+          "title": "Weekly Assignments",
+          "body": "Weekly Assignments",
+          "links": [
+            {
+              "n": "Weekly Assignments",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90003_1&content_id=_703004_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/Lecture Slides & Readings",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90003_1&content_id=_703002_1",
+      "rows": [
+        {
+          "title": "Introduction & Ch4",
+          "body": "Attached Files:\n 0Introduction & Ch04.pdf (3.422 MB)\n 0Introduction & Ch04_with notes.pdf (3.889 MB)",
+          "links": [
+            {
+              "n": "0Introduction & Ch04.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103005-dt-content-rid-103005_1/xid-103005_1"
+            },
+            {
+              "n": "0Introduction & Ch04_with notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103006-dt-content-rid-103006_1/xid-103006_1"
+            }
+          ]
+        },
+        {
+          "title": "Ch5",
+          "body": "Attached Files:\n Ch05.pdf (3.699 MB)\n Ch05_with notes.pdf (3.945 MB)\n Hand-Written Notes_ECO2021_Ch5.pdf (1.178 MB)",
+          "links": [
+            {
+              "n": "Ch05.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103007-dt-content-rid-103007_1/xid-103007_1"
+            },
+            {
+              "n": "Ch05_with notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103008-dt-content-rid-103008_1/xid-103008_1"
+            },
+            {
+              "n": "Hand-Written Notes_ECO2021_Ch5.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103009-dt-content-rid-103009_1/xid-103009_1"
+            }
+          ]
+        },
+        {
+          "title": "Ch6",
+          "body": "Attached Files:\n Ch06.pdf (3.44 MB)\n Ch06_with notes.pdf (4.237 MB)",
+          "links": [
+            {
+              "n": "Ch06.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103010-dt-content-rid-103010_1/xid-103010_1"
+            },
+            {
+              "n": "Ch06_with notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103011-dt-content-rid-103011_1/xid-103011_1"
+            }
+          ]
+        },
+        {
+          "title": "Ch7",
+          "body": "Attached Files:\n Ch07.pdf (8.211 MB)\n Ch07_with notes.pdf (9.072 MB)\n Hand-Written Notes_ECO2021_Ch7.pdf (506.565 KB)",
+          "links": [
+            {
+              "n": "Ch07.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103012-dt-content-rid-103012_1/xid-103012_1"
+            },
+            {
+              "n": "Ch07_with notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103013-dt-content-rid-103013_1/xid-103013_1"
+            },
+            {
+              "n": "Hand-Written Notes_ECO2021_Ch7.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103014-dt-content-rid-103014_1/xid-103014_1"
+            }
+          ]
+        },
+        {
+          "title": "Ch8",
+          "body": "Attached Files:\n Ch08.pdf (3.339 MB)\n Ch08 Reading_What causes people to save and invest.pdf (486.142 KB)\n Ch08_with notes.pdf (3.933 MB)",
+          "links": [
+            {
+              "n": "Ch08.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103015-dt-content-rid-103015_1/xid-103015_1"
+            },
+            {
+              "n": "Ch08 Reading_What causes people to save and invest.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103016-dt-content-rid-103016_1/xid-103016_1"
+            },
+            {
+              "n": "Ch08_with notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103017-dt-content-rid-103017_1/xid-103017_1"
+            }
+          ]
+        },
+        {
+          "title": "Ch9",
+          "body": "Attached Files:\n Ch09.pdf (3.077 MB)\n Ch09 Reading_How fintech will eat into banks’ business.pdf (1.605 MB)\n Ch09 Reading_When central banks issue digital money.pdf (1.741 MB)\n Ch09_with notes.pdf (3.986 MB)\n Assignment 6 answers.pdf (511.965 KB)",
+          "links": [
+            {
+              "n": "Ch09.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103018-dt-content-rid-103018_1/xid-103018_1"
+            },
+            {
+              "n": "Ch09 Reading_How fintech will eat into banks’ business.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103019-dt-content-rid-103019_1/xid-103019_1"
+            },
+            {
+              "n": "Ch09 Reading_When central banks issue digital money.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103020-dt-content-rid-103020_1/xid-103020_1"
+            },
+            {
+              "n": "Ch09_with notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103021-dt-content-rid-103021_1/xid-103021_1"
+            },
+            {
+              "n": "Assignment 6 answers.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103022-dt-content-rid-103022_1/xid-103022_1"
+            }
+          ]
+        },
+        {
+          "title": "Ch10",
+          "body": "Attached Files:\n Ch10.pdf (1.806 MB)\n Ch10_with notes.pdf (2.299 MB)",
+          "links": [
+            {
+              "n": "Ch10.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103023-dt-content-rid-103023_1/xid-103023_1"
+            },
+            {
+              "n": "Ch10_with notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103024-dt-content-rid-103024_1/xid-103024_1"
+            }
+          ]
+        },
+        {
+          "title": "Ch11",
+          "body": "Attached Files:\n Ch11.pdf (3.216 MB)\n Ch11 with notes.pdf (3.763 MB)",
+          "links": [
+            {
+              "n": "Ch11.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103025-dt-content-rid-103025_1/xid-103025_1"
+            },
+            {
+              "n": "Ch11 with notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103026-dt-content-rid-103026_1/xid-103026_1"
+            }
+          ]
+        },
+        {
+          "title": "Ch12",
+          "body": "Attached Files:\n Ch12.pdf (2.508 MB)\n Ch12_with_notes.pdf (2.828 MB)",
+          "links": [
+            {
+              "n": "Ch12.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103027-dt-content-rid-103027_1/xid-103027_1"
+            },
+            {
+              "n": "Ch12_with_notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103028-dt-content-rid-103028_1/xid-103028_1"
+            }
+          ]
+        },
+        {
+          "title": "Ch13",
+          "body": "Attached Files:\n Ch13.pdf (2.316 MB)\n Ch13_with_notes.pdf (3.219 MB)",
+          "links": [
+            {
+              "n": "Ch13.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103029-dt-content-rid-103029_1/xid-103029_1"
+            },
+            {
+              "n": "Ch13_with_notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103030-dt-content-rid-103030_1/xid-103030_1"
+            }
+          ]
+        },
+        {
+          "title": "Ch14",
+          "body": "Attached Files:\n Ch14.pdf (1.79 MB)\n Ch14 with notes.pdf (2.306 MB)",
+          "links": [
+            {
+              "n": "Ch14.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103031-dt-content-rid-103031_1/xid-103031_1"
+            },
+            {
+              "n": "Ch14 with notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103032-dt-content-rid-103032_1/xid-103032_1"
+            }
+          ]
+        },
+        {
+          "title": "Ch15",
+          "body": "Attached Files:\n Ch15.pdf (3.127 MB)\n Ch15_with_notes.pdf (4.324 MB)",
+          "links": [
+            {
+              "n": "Ch15.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103033-dt-content-rid-103033_1/xid-103033_1"
+            },
+            {
+              "n": "Ch15_with_notes.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103034-dt-content-rid-103034_1/xid-103034_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/Weekly Quizzes",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90003_1&content_id=_703003_1",
+      "rows": [
+        {
+          "title": "MC Quiz 1 (not counted in final grade)",
+          "body": "This quiz will only be available until the deadline, make sure to submit your answers before the deadline. \nYou can submit your answers unlimited times and only the last submission will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 1 (not counted in final grade)",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400100_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "MC Quiz 2",
+          "body": "This quiz will only be available until Sunday, make sure to submit your answers before midnight on Sunday. \nYou can submit your answers multiple times and only the last submission will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 2",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400101_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "MC Quiz 3",
+          "body": "This quiz will only be available until Sunday, make sure to submit your answers before midnight on Sunday. \nYou can submit your answers multiple times and only the last submission will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 3",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400102_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "MC Quiz 4",
+          "body": "This quiz will only be available until Sunday, make sure to submit your answers before midnight on Sunday. \nYou can submit your answers multiple times and the highest grade will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 4",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400103_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "MC Quiz 5",
+          "body": "This quiz will only be available until Sunday, make sure to submit your answers before midnight on Sunday. \nYou can submit your answers multiple times and the highest grade will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 5",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400104_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "MC Quiz 6",
+          "body": "This quiz will only be available until Sunday, make sure to submit your answers before midnight on Sunday. \nYou can submit your answers multiple times and the highest grade will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 6",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400105_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "MC Quiz 7",
+          "body": "This quiz will only be available until Sunday, make sure to submit your answers before midnight on Sunday. \nYou can submit your answers multiple times and the highest grade will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 7",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400106_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "MC Quiz 8",
+          "body": "This quiz will only be available until Sunday, make sure to submit your answers before midnight on Sunday. \nYou can submit your answers multiple times and the highest grade will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 8",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400107_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "MC Quiz 9",
+          "body": "This quiz will only be available until Sunday, make sure to submit your answers before midnight on Sunday. \nYou can submit your answers multiple times and the highest grade will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 9",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400108_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "MC Quiz 10",
+          "body": "This quiz will only be available until Sunday, make sure to submit your answers before midnight on Sunday. \nYou can submit your answers multiple times and the highest grade will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 10",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400109_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "MC Quiz 11",
+          "body": "This quiz will only be available until Sunday, make sure to submit your answers before midnight on Sunday. \nYou can submit your answers multiple times and the highest grade will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 11",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400110_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "MC Quiz 12",
+          "body": "This quiz will only be available until Sunday, make sure to submit your answers before midnight on Sunday. \nYou can submit your answers multiple times and the highest grade will be counted.\nYour answers, and the correct answers, can be reviewed after the quiz has been closed.",
+          "links": [
+            {
+              "n": "MC Quiz 12",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90003_1&content_id=_400111_1&mode=view"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/Weekly Assignments",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90003_1&content_id=_703004_1",
+      "rows": [
+        {
+          "title": "Assignment 1",
+          "body": "Attached Files:\n Assignment 1.pdf (200.74 KB)",
+          "links": [
+            {
+              "n": "Assignment 1.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103035-dt-content-rid-103035_1/xid-103035_1"
+            },
+            {
+              "n": "Assignment 1",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503000_1&course_id=_90003_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 2",
+          "body": "Attached Files:\n Assignment 2.pdf (167.897 KB)",
+          "links": [
+            {
+              "n": "Assignment 2.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103036-dt-content-rid-103036_1/xid-103036_1"
+            },
+            {
+              "n": "Assignment 2",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503001_1&course_id=_90003_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 3",
+          "body": "Attached Files:\n Assignment 3.pdf (155.36 KB)",
+          "links": [
+            {
+              "n": "Assignment 3.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103037-dt-content-rid-103037_1/xid-103037_1"
+            },
+            {
+              "n": "Assignment 3",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503002_1&course_id=_90003_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 4",
+          "body": "Attached Files:\n Assignment 4 Glawe and Wagner.pdf (50.245 KB)\n China in the middle-income trap.pdf (1.862 MB)",
+          "links": [
+            {
+              "n": "Assignment 4 Glawe and Wagner.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103038-dt-content-rid-103038_1/xid-103038_1"
+            },
+            {
+              "n": "China in the middle-income trap.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103039-dt-content-rid-103039_1/xid-103039_1"
+            },
+            {
+              "n": "Assignment 4",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503003_1&course_id=_90003_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 5",
+          "body": "Attached Files:\n Assignment 5.pdf (88.216 KB)",
+          "links": [
+            {
+              "n": "Assignment 5.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103040-dt-content-rid-103040_1/xid-103040_1"
+            },
+            {
+              "n": "Assignment 5",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503004_1&course_id=_90003_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 6",
+          "body": "Attached Files:\n Assignment 6.pdf (103.775 KB)",
+          "links": [
+            {
+              "n": "Assignment 6.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103041-dt-content-rid-103041_1/xid-103041_1"
+            },
+            {
+              "n": "Assignment 6",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503005_1&course_id=_90003_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 7",
+          "body": "Attached Files:\n Assignment 7.pdf (188.764 KB)",
+          "links": [
+            {
+              "n": "Assignment 7.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103042-dt-content-rid-103042_1/xid-103042_1"
+            },
+            {
+              "n": "Assignment 7",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503006_1&course_id=_90003_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 8",
+          "body": "Attached Files:\n Assignment 8.pdf (127.907 KB)",
+          "links": [
+            {
+              "n": "Assignment 8.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103043-dt-content-rid-103043_1/xid-103043_1"
+            },
+            {
+              "n": "Assignment 8",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503007_1&course_id=_90003_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 9",
+          "body": "Attached Files:\n Assignment 9.pdf (166.51 KB)",
+          "links": [
+            {
+              "n": "Assignment 9.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103044-dt-content-rid-103044_1/xid-103044_1"
+            },
+            {
+              "n": "Assignment 9",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503008_1&course_id=_90003_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 10",
+          "body": "Attached Files:\n Assignment 10.pdf (135.845 KB)",
+          "links": [
+            {
+              "n": "Assignment 10.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103045-dt-content-rid-103045_1/xid-103045_1"
+            },
+            {
+              "n": "Assignment 10",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503009_1&course_id=_90003_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 11",
+          "body": "Attached Files:\n Assignment 11.pdf (169.514 KB)",
+          "links": [
+            {
+              "n": "Assignment 11.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-103046-dt-content-rid-103046_1/xid-103046_1"
+            },
+            {
+              "n": "Assignment 11",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503010_1&course_id=_90003_1&mode=view"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ann": [
+    {
+      "title": "Reminder for ECO2021 Final Exam",
+      "body": "ECO2021 final exam will take place on December 19 (Thursday), 8.30 am-10.30 am. Please keep the following in mind:\n \n1. Dictionary: Each exam room will provide 1 dictionary. During busy times, borrowing will be limited to 3 minutes per use. Please do NOT bring your own dictionary, which will be considered as “other paper materials”.\n \n2. Belongings: Do not forget to bring your simple calculator (non-programmable, and without the ability to store text), 2B pencil and eraser. It may be difficult to borrow them after the exam starts.\n \n3. For all other requirements and instructions, please refer to the announcement from course staff on December 2.\n \nWish you all the best for the final exam!",
+      "posted": "Posted on: Tuesday, December 17, 2024 09:08:49 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "course staff's Office Hours",
+      "body": "I will hold two more office hours in TxD 907 during Dec 11 (Wednesday), 11am - 3:30pm, and Dec 18 (Wednesday), 10:30am - 5:30pm. If you cannot drop by during the time, feel free to email me your questions or make an appointment for a Zoom meeting with me.\nGood luck with all of your final exams!",
+      "posted": "Posted on: Wednesday, December 04, 2024 06:39:08 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Reminder of OCTE",
+      "body": "According to the school arrangements, we will take 10 minutes tomorrow at the beginning of the class to complete the Online Course and Teaching Evaluation (OCTE) questionnaire for our course. Teachers will not be in the classroom during this time. \nYou can also log in to the OCTE system with your student ID and complete the evaluation at your convenience. The OCTE opening time is Nov 30 - Dec 10, please complete the evaluation within this time. \nPlease note that the OCTE completion is anonymous and will not affect your grades. For your convenience, we have attached a quick guide for OCTE.\nA quick guide to OCTE for students.pdf",
+      "posted": "Posted on: Sunday, December 01, 2024 06:54:00 PM CST",
+      "links": [
+        {
+          "n": "A quick guide to OCTE for students.pdf",
+          "u": "https://bb.example.invalid/bbcswebdav/pid-103047-dt-content-rid-103047_1/xid-103047_1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "Final exam: sample exam, information and policies",
+      "body": "Our lecture will be finished on Dec 2 (next Monday). There will be no more lectures provided by me after the day. Tutorials will continue regularly until the last teaching week. I will hold a few more office hours for the next two weeks, which will be announced later.\nUnder BB content, I have posted a sample final exam for you to practice. Our final exam will take place on Dec 19 (Thursday), 8:30am - 10:30am. The exam location will be arranged by the registry, to which you should follow your seat arrangements. The final exam will be a 120 minutes closed-book exam with 20 multiple choices questions and 5 free response questions. It will cover all of the topics, but with more of the weight on topics after the midterm (roughly speaking 30% before midterm and 70% after midterm). On the exam day, please arrive at least 10 minutes before the start of the exam. If you were late by more than 30 minutes, you will not be allowed to join the exam and will receive 0 points towards the midterm. Please bring to the exam your student ID and a simple calculator (non-programmable, and without the ability to store text). You may bring in other stationary (pen, ruler, eraser), but do NOT bring any paper or other materials you can write on. Scratch papers will be provided. A dictionary will be provided if you need to use it. Please bring a pencil for filling in the multiple-choice answer sheet. Furthermore, you are NOT allowed to bring books, notes, electronic devices and any means of communicating or accessing outside material. At the end of the exam, you are required to turn in all the papers, including the exam questions, answer book, multiple choice answer sheet and scratch papers. Please keep in mind that academic misconduct during examinations, verified by the Disciplinary Committee, may result in a failure grade for the course.    \nFor student who has a valid reason to miss the exam (getting up late or mis-remembering the exam time are not valid reasons), please contact me as early as possible to explain the situation and provide supporting documents. According to SME policy, you need to send an official application on SIS with my approval within 5 working days after the original exam. With an official approval to skip the centralized exam, you are allowed to join a make-up final exam which will be hold within 15 calendar days after centralized exam week. For detailed make-up policy, please refer to the course syllabus. If you have confusions about the exam policy, feel free to contact me or our TA.",
+      "posted": "Posted on: Monday, December 02, 2024 02:51:34 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Exam-paper-checking Location",
+      "body": "Please be aware that the location to check our exam papers is TXD 904 (the conference room on the 9th floor of TXD).",
+      "posted": "Posted on: Thursday, November 14, 2024 03:32:08 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Midterm Exam Grade Released",
+      "body": "Our midterm exam grades are posted on BB now. The average points of the three sessions that I am teaching is 69.06; median is 72; maximum is 100; and minimum is 15.\nIf you would like to check your exam papers, you can visit the 9th Floor of TxD on next Thursday (Nov 14) and Friday (Nov 15), 10:30am - 12:30pm and 1:30pm - 5:30pm. Our TA will be there. Each student has 5 minutes to check his/her exam papers. According to SME policies, no notes or photos are allowed to be taken. The TA will not modify the grading unless the points were added up with mistake. If you disagree with the grading, you can require the exam paper to be forwarded to me for regrade. However, please note that my regrading can possibly lead to higher or lower grades, and the updated grade will be recorded (even if it becomes lower).\nFor students who cannot come during the above time, you can email either one of our TAs ([person] or [person]) with a proof of time conflicts to make an appointment for another time within next week. We will NOT provide further chances to check exam papers after Nov 18.\nHave a nice weekend and see you in class on Monday.",
+      "posted": "Posted on: Friday, November 08, 2024 11:27:48 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Final Exam Time and Modification of USTF Office Hour",
+      "body": "The Registry has determined our final exam to be Dec 19 (Thursday), 8:30am - 10:30am. The location will also be arranged by Registry, so please pay attention to their announcement later.\nFurthermore, due to personal schedules, one of our USTFs, Moyang Huang's office hour for this Friday and next Friday (Nov 8 and 15) will be temporarily changed to 7-9pm.",
+      "posted": "Posted on: Thursday, November 07, 2024 08:42:53 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Update on tutorial arrangement",
+      "body": "I would like to apologize that due to some mis-management, tutorials in this week had to be canceled. Instead, we will hold tutorials next week to discuss solutions of Assignment 6 and Quiz 7. Given that you may want to know solution of Assignment 6 to prepare for the midterm, Assignment 6 solutions is posted under topic 6 in \"Content\" on BB. You can check the solutions by yourself. If there is any confusion, feel free to visit our TA and USTFs' office hour.\nSorry for the inconvenience caused.\nSee you tomorrow in lecture.",
+      "posted": "Posted on: Tuesday, October 29, 2024 08:15:57 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Location Announcement for Midterm Exam",
+      "body": "Please find your seat location for our midterm exam in the attached file: ECO2021_midterm_location_L01-03.xlsx\nPlease check in advance if you are located in Liwen Hall or TA 302.\nMidterm exam information for ECO2021:\nLocation: Liwen Hall and TA 302\nTime: 10:00am - 11:30am, November 3, Sunday",
+      "posted": "Posted on: Friday, October 25, 2024 05:47:17 PM CST",
+      "links": [
+        {
+          "n": "ECO2021_midterm_location_L01-03.xlsx",
+          "u": "https://bb.example.invalid/bbcswebdav/pid-103048-dt-content-rid-103048_1/xid-103048_1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "Sample exam for midterm and office hour arrangements",
+      "body": "Firstly, I have posted the midterm exam from last year as a sample exam for you to practice. Last year, there were only multiple choices questions, but please note that this year, we will have free response questions in addition to multiple choices.\nSecondly, our USTF, course staff, will change his office hour for this week to Friday, 3-5pm, due to an exam conflict. Furthermore, I will hold two extra office hours this Tuesday (tomorrow) and next Tuesday (Oct 29), 1pm - 3pm, in Zhiren 414. Feel free to drop by. If you have conflict during my office hours, you can also ask me questions before/after lectures, or make an appointment with me.\nThirdly, given that the exam will take place in the weekend of week 8, I change the plan of assignment and quiz during week 8 accordingly. On monday of week 8 (Oct 28), Assignment 7 and Quiz 8 will be posted, but the deadline will be Nov 10, so you can choose to focus on preparing for the exam next week. During next week, there will be tutorials to discuss solutions to Assignment 6 and Quiz 7. Then tutorials will be canceled in week 9 (Nov 5-6). The new tutorial arrangements have been updated in the new course syllabus posted on BB.",
+      "posted": "Posted on: Monday, October 21, 2024 10:44:21 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 12.",
+      "posted": "Posted on: Monday, December 02, 2024 12:30:00 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 11.",
+      "posted": "Posted on: Monday, November 25, 2024 12:30:00 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 10.",
+      "posted": "Posted on: Monday, November 18, 2024 12:30:00 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 9.",
+      "posted": "Posted on: Monday, November 11, 2024 12:30:00 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 8.",
+      "posted": "Posted on: Monday, October 28, 2024 12:30:00 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 7.",
+      "posted": "Posted on: Monday, October 21, 2024 12:30:00 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assignment Grading Policy and Midterm Exam of ECO2021",
+      "body": "For our assignments and quizzes, I will provide a \"drop-the-worst-grade\" chance for each of them in the end of the semester. You don't have to apply for it. I will automatically delete the worst grade for assignments and quizzes respectively for everyone when final grades are calculated.\nFor our midterm exam, it will take place on Nov 3 (Sunday), 10am - 11:30am, in Liwen Hall and TA302. Another announcement will be sent later about which location you are assigned to. The midterm exam will be a 90 minutes closed-book exam with multiple choices questions and free response questions. It will cover topics 1 to 6 (Ch4 - 9) listed in the syllabus. On the exam day, please arrive at least 10 minutes before the start of the exam. If you were late by more than 30 minutes, you will not be allowed to join the exam and will receive 0 points towards the midterm. Please bring to the exam your student ID and a simple calculator (non-programmable, and without the ability to store text). You may bring in other stationary (pen, ruler, eraser), but do NOT bring any paper or other materials you can write on. Scratch papers will be provided. A dictionary will be provided if you need to use it. Please bring a pencil for filling in the multiple choice answer sheet. Furthermore, you are NOT allowed to bring books, notes, electronic devices or any means of communicating or accessing outside material. At the end of the exam, you are required to turn in all the papers, including the exam questions, answer book, multiple choice answer sheet and scratch papers. Please keep in mind that academic misconduct during examinations, verified by the Disciplinary Committee, may result in a failure grade for the course.    \nFor student who has a valid reason to miss the midterm exam, please contact me as early as possible to explain the situation and provide supporting documents. According to SME policy, you need to send an official applicaiton on SIS with my approval within 5 working days after the original exam. Then I will move the weight of the midterm exam to final exam. For detailed make-up policy, please refer to the course syllabus. If you have confusions about the exam and its policy, feel free to contact me or our TA.",
+      "posted": "Posted on: Wednesday, October 09, 2024 09:04:24 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 5.",
+      "posted": "Posted on: Monday, September 30, 2024 12:30:00 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 6.",
+      "posted": "Posted on: Monday, October 14, 2024 12:30:00 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 4.",
+      "posted": "Posted on: Monday, September 23, 2024 12:30:00 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 3.",
+      "posted": "Posted on: Monday, September 16, 2024 12:30:00 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Lecture and Tutorial Arrangements",
+      "body": "Hope you all had a smooth start during the first week of this semester. Here are several reminders and arrangements of our lectures/tutorials in the coming weeks that I would like to draw your attention:\nI have updated the course syllabus on BB which now contains all information about our TA and USTF. They will start their office hours in the second week. Furthermore, I also included tentative contents for tutorials at the last page.\nQuiz 2 and Assignment 1 will be posted at 12:30am on Monday (Sep 9), with deadlines on Sunday (Sep 15), 11:59pm. They will be counted in your final grades.\nOur first tutorial will start in week 3 (you can check the schedules in the syllabus). However, due to the Mid-Autumn Festival, the Tuesday sessions on Sep 17 will be canceled, while the Wednesday sessions will not be affected. In order to keep all tutorial sessions consistent, I will arrange make up sessions on Sep 21 (Saturday), 1:30pm - 2:20pm (T01), 2:30pm - 3:20pm (T02), 3:30pm - 4:20pm (T03), in Teaching Complex B205. For students registed with Tuesday sessions who cannot join the make-up tutorials, you can also attend the Wednesday sessions instead for that week.\nThere will be a make-up lecture on Sep 14 (Saturday) in the regular lecture time and location according to the university academic calendar.\nThere will be no tutorials during the National Day week, so we don't need to hold any make-up tutorials on Sep 29.\nHave a nice weekend and see you on Monday.",
+      "posted": "Posted on: Friday, September 06, 2024 11:28:43 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 2.",
+      "posted": "Posted on: Monday, September 09, 2024 12:30:00 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in Weekly Quizzes: MC Quiz 1 (not counted in final grade).",
+      "posted": "Posted on: Tuesday, September 03, 2024 07:58:00 PM CST",
+      "links": [],
+      "images": []
+    }
+  ],
+  "grades": [
+    [
+      "Assignment 11\nDUE: DEC 8, 2024\nAssignment",
+      "Dec 11, 2024 01:06 AM\nGRADED",
+      "77.09\n/100",
+      ""
+    ],
+    [
+      "MC Quiz 12\nDUE: DEC 8, 2024\nTest",
+      "Dec 10, 2024 03:36 AM\nGRADED",
+      "45.67\n/50",
+      ""
+    ],
+    [
+      "Assignment 10\nDUE: DEC 1, 2024\nAssignment",
+      "Dec 03, 2024 04:02 AM\nGRADED",
+      "58.34\n/100",
+      ""
+    ],
+    [
+      "MC Quiz 11\nDUE: DEC 1, 2024\nTest",
+      "Dec 06, 2024 07:48 AM\nGRADED",
+      "32.38\n/50",
+      ""
+    ],
+    [
+      "Assignment 9\nDUE: NOV 24, 2024\nAssignment",
+      "Nov 28, 2024 01:44 AM\nGRADED",
+      "54.20\n/100",
+      ""
+    ],
+    [
+      "Assignment 7\nDUE: NOV 10, 2024\nAssignment",
+      "Nov 12, 2024 06:13 AM\nGRADED",
+      "71.47\n/100",
+      ""
+    ],
+    [
+      "MC Quiz 10\nDUE: NOV 24, 2024\nTest",
+      "UPCOMING",
+      "-\n/50",
+      ""
+    ],
+    [
+      "MC Quiz 8\nDUE: NOV 10, 2024\nTest",
+      "Nov 15, 2024 06:45 AM\nGRADED",
+      "31.91\n/50",
+      ""
+    ],
+    [
+      "Midterm Exam",
+      "Nov 09, 2024 08:39 PM\nGRADED",
+      "97.50\n/100",
+      ""
+    ],
+    [
+      "MC Quiz 1 (not counted in final grade)\nDUE: SEP 15, 2024\nTest",
+      "Sep 20, 2024 01:49 AM\nGRADED",
+      "",
+      ""
+    ],
+    [
+      "Assignment 6\nDUE: OCT 27, 2024\nAssignment",
+      "Oct 29, 2024 02:04 PM\nGRADED",
+      "97.97\n/100",
+      ""
+    ],
+    [
+      "Assignment 5\nDUE: OCT 20, 2024\nAssignment",
+      "Oct 24, 2024 05:33 AM\nGRADED",
+      "0.00\n/100",
+      ""
+    ],
+    [
+      "MC Quiz 7\nDUE: OCT 27, 2024\nTest",
+      "Oct 31, 2024 08:18 AM\nGRADED",
+      "36.44\n/50",
+      ""
+    ],
+    [
+      "Assignment 4\nDUE: OCT 13, 2024\nAssignment",
+      "Oct 16, 2024 08:03 AM\nGRADED",
+      "68.65\n/100",
+      ""
+    ],
+    [
+      "MC Quiz 5\nDUE: OCT 13, 2024\nTest",
+      "Oct 17, 2024 04:09 AM\nGRADED",
+      "40.86\n/50",
+      ""
+    ],
+    [
+      "MC Quiz 4\nDUE: SEP 29, 2024\nTest",
+      "UPCOMING",
+      "-\n/50",
+      ""
+    ],
+    [
+      "Assignment 2\nDUE: SEP 22, 2024\nAssignment",
+      "Sep 25, 2024 09:39 AM\nGRADED",
+      "93.92\n/100",
+      ""
+    ],
+    [
+      "Assignment 1\nDUE: SEP 15, 2024\nAssignment",
+      "Sep 17, 2024 09:25 AM\nGRADED",
+      "86.86\n/100",
+      ""
+    ],
+    [
+      "MC Quiz 3\nDUE: SEP 22, 2024\nTest",
+      "Sep 25, 2024 02:38 PM\nGRADED",
+      "37.07\n/50",
+      ""
+    ],
+    [
+      "MC Quiz 2\nDUE: SEP 15, 2024\nTest",
+      "Sep 19, 2024 08:46 AM\nGRADED",
+      "31.61\n/50",
+      ""
+    ],
+    [
+      "Assignment 3\nDUE: SEP 29, 2024\nAssignment",
+      "GRADED",
+      "80.31\n/100",
+      ""
+    ],
+    [
+      "Assignment 8\nDUE: NOV 17, 2024\nAssignment",
+      "GRADED",
+      "97.79\n/100",
+      ""
+    ],
+    [
+      "MC Quiz 6\nDUE: OCT 20, 2024\nTest",
+      "Oct 22, 2024 06:59 AM\nGRADED",
+      "33.49\n/50",
+      ""
+    ],
+    [
+      "MC Quiz 9\nDUE: NOV 17, 2024\nTest",
+      "Nov 19, 2024 06:59 AM\nGRADED",
+      "33.65\n/50",
+      ""
+    ],
+    [
+      "Total",
+      "",
+      "1,060.86\n/1450",
+      ""
+    ],
+    [
+      "Weighted Total",
+      "",
+      "-",
+      ""
+    ]
+  ],
+  "details": [
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503000_1&course_id=_90003_1&mode=view",
+      "title": "Review Submission History: Assignment 1",
+      "attempt": "9/15/24 9:00 PM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503001_1&course_id=_90003_1&mode=view",
+      "title": "Review Submission History: Assignment 2",
+      "attempt": "9/22/24 11:07 PM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503002_1&course_id=_90003_1&mode=view",
+      "title": "Review Submission History: Assignment 3",
+      "attempt": "9/28/24 2:44 AM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503003_1&course_id=_90003_1&mode=view",
+      "title": "Review Submission History: Assignment 4",
+      "attempt": "10/13/24 11:07 PM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503004_1&course_id=_90003_1&mode=view",
+      "title": "Upload Assignment: Assignment 5",
+      "attempt": null,
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503005_1&course_id=_90003_1&mode=view",
+      "title": "Review Submission History: Assignment 6",
+      "attempt": "10/26/24 2:47 AM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503006_1&course_id=_90003_1&mode=view",
+      "title": "Review Submission History: Assignment 7",
+      "attempt": "11/10/24 3:34 PM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503007_1&course_id=_90003_1&mode=view",
+      "title": "Review Submission History: Assignment 8",
+      "attempt": "11/16/24 2:55 AM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503008_1&course_id=_90003_1&mode=view",
+      "title": "Review Submission History: Assignment 9",
+      "attempt": "11/24/24 11:14 PM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503009_1&course_id=_90003_1&mode=view",
+      "title": "Review Submission History: Assignment 10",
+      "attempt": "11/29/24 2:28 PM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_503010_1&course_id=_90003_1&mode=view",
+      "title": "Review Submission History: Assignment 11",
+      "attempt": "12/7/24 5:06 PM",
+      "body": null
+    }
+  ]
+}

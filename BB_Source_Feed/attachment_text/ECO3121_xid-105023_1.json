@@ -1,0 +1,128 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "The Chinese  Universi\n\n\n\n\n\n    ty of Hong  Kong,  Shenzhen"
+    },
+    {
+      "page": 2,
+      "text": "Example: A Natural Experiment in Education"
+    },
+    {
+      "page": 3,
+      "text": "Example: A Natural Experiment in Education"
+    },
+    {
+      "page": 4,
+      "text": "Example: A Natural Experiment in Education"
+    },
+    {
+      "page": 5,
+      "text": "Example: A Natural Experiment in Education"
+    },
+    {
+      "page": 6,
+      "text": "Example: A Natural Experiment in Education"
+    },
+    {
+      "page": 7,
+      "text": "DD in a Regression Framework"
+    },
+    {
+      "page": 8,
+      "text": "Extension 1: Continuous Treatment\n\n\n\n\n\n• Instead of using I(treat) dummy, we now consider\n  treatment as a continuous variable\n• The effect is then the marginal effect of treatment indensity\n• Everything else are the same"
+    },
+    {
+      "page": 9,
+      "text": "Extension 1: Continuous Treatment"
+    },
+    {
+      "page": 10,
+      "text": "Extension 1: Continuous Treatment"
+    },
+    {
+      "page": 11,
+      "text": "Extension 1: Continuous Treatment"
+    },
+    {
+      "page": 12,
+      "text": "Example: Malaria Eradication as a Natural Experiment"
+    },
+    {
+      "page": 13,
+      "text": "Example: Malaria Eradication as a Natural Experiment"
+    },
+    {
+      "page": 14,
+      "text": "Example: Malaria Eradication as a Natural Experiment"
+    },
+    {
+      "page": 15,
+      "text": "Example: Malaria Eradication as a Natural Experiment"
+    },
+    {
+      "page": 16,
+      "text": "Example: Malaria Eradication as a Natural Experiment"
+    },
+    {
+      "page": 17,
+      "text": "Example: Malaria Eradication as a Natural Experiment"
+    },
+    {
+      "page": 18,
+      "text": "Example: Malaria Eradication as a Natural Experiment"
+    },
+    {
+      "page": 19,
+      "text": "Example: Malaria Eradication as a Natural Experiment"
+    },
+    {
+      "page": 20,
+      "text": "Extension 2: Event study"
+    },
+    {
+      "page": 21,
+      "text": "Extension 2: Event study"
+    },
+    {
+      "page": 22,
+      "text": "Extension 2: Event study"
+    },
+    {
+      "page": 23,
+      "text": "Extension 2: Event study\n\n\n\n\n\n• This new regression allows us to estimate the “dynamic”\n  treatment effect\n• Parallel trends assumption for DD is more likely to hold over a\n  shorter time-window\n• In the long-run, many other things may happen that could\n  confound the effect of the treatment\n• Should be cautious to extrapolate short-term effects to long-term\n  effect"
+    },
+    {
+      "page": 24,
+      "text": "Key Assumption Behind DD"
+    },
+    {
+      "page": 25,
+      "text": "The Common Trends Assumption"
+    },
+    {
+      "page": 26,
+      "text": "The Common Trends Assumption"
+    },
+    {
+      "page": 27,
+      "text": "The Common Trends Assumption"
+    },
+    {
+      "page": 28,
+      "text": "Defending the Common Trends Assumption"
+    },
+    {
+      "page": 29,
+      "text": "Approach 1: A compelling graph"
+    },
+    {
+      "page": 30,
+      "text": "Approach 1: A compelling graph"
+    },
+    {
+      "page": 31,
+      "text": "Approach 2: Falsification Test\n\n• We can include dummies for each time period\n\n\n• Ideally, the “treatment effect” should be\n  statistically insignificant before the treatment"
+    }
+  ]
+}

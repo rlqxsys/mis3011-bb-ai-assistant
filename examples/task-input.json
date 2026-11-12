@@ -1,0 +1,272 @@
+{
+  "now": "2024-10-23T03:57:40.000Z",
+  "tasks": [
+    {
+      "id": "ai:CSC1001:2024:02f0433a2a2683692c79",
+      "courseCode": "CSC1001",
+      "term": "2024",
+      "title": "CSC1001 期中考试",
+      "kind": "exam",
+      "channel": "offline",
+      "deadline": null,
+      "opensAt": null,
+      "closesAt": null,
+      "durationMinutes": 120,
+      "fixed": {
+        "start": "2024-11-10T19:00:00+08:00",
+        "end": "2024-11-10T21:00:00+08:00",
+        "location": null,
+        "origin": "ai_grounded"
+      },
+      "sectionOptions": null,
+      "condition": null,
+      "requirements": [
+        "可携带一张 A4 双面作弊纸（打印或手写）",
+        "可携带无编程功能的普通计算器",
+        "可携带纸质词典",
+        "其他材料一律不允许",
+        "考试范围：Lecture1 - Lecture5",
+        "题型：8~12 道填空题、4~6 道简答题、2~3 道编程题",
+        "考场与座位名单将在 11 月 8 日前上传，请按名单前往正确考场",
+        "如临近考试因故无法参加，请尽快通过邮件联系老师申请缺考"
+      ],
+      "issues": [
+        "期中考试地点尚未公布，需留意后续通知。",
+        "公告称地点等细节将在近日公布，考试地点尚未确定。"
+      ],
+      "sources": [
+        {
+          "path": "courses/CSC1001.json",
+          "locator": "ann[16]",
+          "quote": "the CSC1001 Midterm is scheduled for Nov. 1 (Friday) from 19:00 to 21:00",
+          "role": "ai_grounded",
+          "documentId": "CSC1001:2024:announcement:6edbbf24807174c4c048",
+          "documentVersion": "eff823e3f780de4455b5",
+          "contentId": null,
+          "publishedAt": "2024-10-14T05:48:38.000Z",
+          "aiRunId": "ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1"
+        },
+        {
+          "path": "courses/CSC1001.json",
+          "locator": "ann[15]",
+          "quote": "The midterm will now take place on Nov. 10 (Sunday) from 19:00 to 21:00.",
+          "role": "ai_grounded",
+          "documentId": "CSC1001:2024:announcement:ba1e63675691f3a2cdff",
+          "documentVersion": "5aee5f94bb10b487aa69",
+          "contentId": null,
+          "publishedAt": "2024-10-17T11:18:52.000Z",
+          "aiRunId": "ai:6b447491-3f6f-44f3-9caf-be6e947b269d"
+        },
+        {
+          "path": "courses/CSC1001.json",
+          "locator": "ann[13]",
+          "quote": "The midterm exam for CSC1001 will be held from 19:00 - 21:00 (Beijing Time) on Nov. 10.",
+          "role": "ai_grounded",
+          "documentId": "CSC1001:2024:announcement:7a187a95d9de8ee4c944",
+          "documentVersion": "13fead1ff5d00e170887",
+          "contentId": null,
+          "publishedAt": "2024-10-22T05:30:35.000Z",
+          "aiRunId": "ai:6d2b9d54-9525-4ab9-8106-2b27acf731ee"
+        }
+      ],
+      "version": 3,
+      "status": {
+        "value": "unknown",
+        "origin": "no_evidence",
+        "at": null
+      },
+      "remainingMinutes": 240,
+      "estimateOrigin": "ai_estimate",
+      "splittable": true,
+      "notBefore": null,
+      "paused": false,
+      "snoozedUntil": null,
+      "initialEstimateMinutes": 240,
+      "estimateReason": "按考试时长 120 分钟估算复习准备约 240 分钟，假设需覆盖课程前半学期内容；实际复习量取决于个人基础与考试范围，可拆分进行。",
+      "estimateSamples": 0,
+      "optional": false,
+      "aiUncertainties": [
+        {
+          "field": "location",
+          "question": "期中考试地点尚未公布，需留意后续通知。"
+        },
+        {
+          "field": "location",
+          "question": "公告称地点等细节将在近日公布，考试地点尚未确定。"
+        }
+      ]
+    },
+    {
+      "id": "ai:CSC1001:2024:5cf2104e63895b1b7670",
+      "courseCode": "CSC1001",
+      "term": "2024",
+      "title": "CSC1001 导修课 T13/T14（11 月 1 日）",
+      "kind": "tutorial",
+      "channel": "offline",
+      "deadline": null,
+      "opensAt": null,
+      "closesAt": null,
+      "durationMinutes": null,
+      "fixed": null,
+      "sectionOptions": null,
+      "condition": null,
+      "requirements": [],
+      "issues": [
+        "公告只说 11 月 1 日导修课照常举行，未给出具体上课时段，需确认时间。"
+      ],
+      "sources": [
+        {
+          "path": "courses/CSC1001.json",
+          "locator": "ann[16]",
+          "quote": "tutorials (T13/T14) on Nov. 1 are canceled",
+          "role": "ai_grounded",
+          "documentId": "CSC1001:2024:announcement:6edbbf24807174c4c048",
+          "documentVersion": "eff823e3f780de4455b5",
+          "contentId": null,
+          "publishedAt": "2024-10-14T05:48:38.000Z",
+          "aiRunId": "ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1"
+        },
+        {
+          "path": "courses/CSC1001.json",
+          "locator": "ann[16]",
+          "quote": "tutorials (T13/T14) on Nov. 1 are canceled",
+          "role": "ai_grounded",
+          "documentId": "CSC1001:2024:announcement:6edbbf24807174c4c048",
+          "documentVersion": "eff823e3f780de4455b5",
+          "contentId": null,
+          "publishedAt": "2024-10-14T05:48:38.000Z",
+          "aiRunId": "ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1"
+        },
+        {
+          "path": "courses/CSC1001.json",
+          "locator": "ann[15]",
+          "quote": "the original Tutorial on Nov. 1 will still be held on time.",
+          "role": "ai_grounded",
+          "documentId": "CSC1001:2024:announcement:ba1e63675691f3a2cdff",
+          "documentVersion": "5aee5f94bb10b487aa69",
+          "contentId": null,
+          "publishedAt": "2024-10-17T11:18:52.000Z",
+          "aiRunId": "ai:6b447491-3f6f-44f3-9caf-be6e947b269d"
+        },
+        {
+          "path": "courses/CSC1001.json",
+          "locator": "ann[15]",
+          "quote": "the original Tutorial on Nov. 1 will still be held on time.",
+          "role": "ai_grounded",
+          "documentId": "CSC1001:2024:announcement:ba1e63675691f3a2cdff",
+          "documentVersion": "5aee5f94bb10b487aa69",
+          "contentId": null,
+          "publishedAt": "2024-10-17T11:18:52.000Z",
+          "aiRunId": "ai:6b447491-3f6f-44f3-9caf-be6e947b269d"
+        }
+      ],
+      "version": 4,
+      "status": {
+        "value": "unknown",
+        "origin": "course_announcement",
+        "at": "2024-10-17T11:18:52.000Z",
+        "note": "此前 T13/T14 导修课被取消，本次公告明确 11 月 1 日导修课照常举行，故恢复原任务；沿用旧分班，不重复填写 sections。"
+      },
+      "remainingMinutes": 0,
+      "estimateOrigin": "default_estimate",
+      "splittable": false,
+      "notBefore": null,
+      "paused": false,
+      "snoozedUntil": null,
+      "sections": [
+        "T13",
+        "T14"
+      ],
+      "initialEstimateMinutes": 90,
+      "estimateReason": "取消事项无需准备。",
+      "estimateSamples": 0,
+      "optional": false,
+      "aiUncertainties": [
+        {
+          "field": "fixedStart",
+          "question": "公告只说 11 月 1 日导修课照常举行，未给出具体上课时段，需确认时间。"
+        }
+      ]
+    },
+    {
+      "id": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b",
+      "courseCode": "ECO3121",
+      "term": "2024",
+      "title": "Problem Set 2",
+      "kind": "assignment",
+      "channel": "bb",
+      "deadline": {
+        "at": "2024-11-02T15:00:00+08:00",
+        "date": "2024-11-02",
+        "precision": "minute",
+        "origin": "ai_grounded"
+      },
+      "opensAt": null,
+      "closesAt": null,
+      "durationMinutes": null,
+      "fixed": null,
+      "sectionOptions": null,
+      "condition": null,
+      "requirements": [
+        "将答案、Stata 代码和所需输出合并为一个 PDF 文件",
+        "上传至 Blackboard"
+      ],
+      "issues": [],
+      "sources": [
+        {
+          "path": "courses/ECO3121.json",
+          "locator": "ann[20]",
+          "quote": "The Problem set 2 has been released. The due is 3 PM, November 2nd, 2024.",
+          "role": "ai_grounded",
+          "documentId": "ECO3121:2024:announcement:fb771452f5092b778dbb",
+          "documentVersion": "23fd8937dc9d40bd5929",
+          "contentId": null,
+          "publishedAt": "2024-10-23T03:57:40.000Z",
+          "aiRunId": "ai:de95db0f-dbd6-4f44-a921-773102f6c4fa"
+        },
+        {
+          "path": "courses/ECO3121.json",
+          "locator": "ann[20]",
+          "quote": "Combine your answer, Stata code and requested output in one PDF file and upload it to Blackboard.",
+          "role": "ai_grounded",
+          "documentId": "ECO3121:2024:announcement:fb771452f5092b778dbb",
+          "documentVersion": "23fd8937dc9d40bd5929",
+          "contentId": null,
+          "publishedAt": "2024-10-23T03:57:40.000Z",
+          "aiRunId": "ai:de95db0f-dbd6-4f44-a921-773102f6c4fa"
+        },
+        {
+          "path": "courses/ECO3121.json",
+          "locator": "ann[20]",
+          "quote": "Late submission is NOT allowed.",
+          "role": "ai_grounded",
+          "documentId": "ECO3121:2024:announcement:fb771452f5092b778dbb",
+          "documentVersion": "23fd8937dc9d40bd5929",
+          "contentId": null,
+          "publishedAt": "2024-10-23T03:57:40.000Z",
+          "aiRunId": "ai:de95db0f-dbd6-4f44-a921-773102f6c4fa"
+        }
+      ],
+      "version": 1,
+      "status": {
+        "value": "unknown",
+        "origin": "no_evidence",
+        "at": null
+      },
+      "remainingMinutes": 180,
+      "estimateOrigin": "ai_estimate",
+      "splittable": true,
+      "notBefore": null,
+      "paused": false,
+      "snoozedUntil": null,
+      "policy": {
+        "late": "not_allowed"
+      },
+      "initialEstimateMinutes": 180,
+      "estimateReason": "按一份含 Stata 代码与输出的问题集作业估算，约需 3 小时完成与整理；仅为可修改的准备建议，原文未给出预计用时。",
+      "estimateSamples": 0,
+      "optional": false,
+      "aiUncertainties": []
+    }
+  ]
+}

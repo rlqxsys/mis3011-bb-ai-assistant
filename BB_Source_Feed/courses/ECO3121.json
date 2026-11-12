@@ -1,0 +1,945 @@
+{
+  "code": "ECO3121",
+  "title": "ECO3121: Introductory Econometrics",
+  "url": "/webapps/blackboard/execute/launcher?type=Course&id=_90005_1",
+  "pages": [
+    {
+      "n": "Content",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90005_1&content_id=_705001_1",
+      "rows": [
+        {
+          "title": "Syllabus",
+          "body": "Syllabus",
+          "links": [
+            {
+              "n": "Syllabus",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105000-dt-content-rid-105000_1/xid-105000_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture Slides in Last year ECO3121",
+          "body": "Lecture Slides in Last year ECO3121",
+          "links": [
+            {
+              "n": "Lecture Slides in Last year ECO3121",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90005_1&content_id=_705002_1"
+            }
+          ]
+        },
+        {
+          "title": "Fun Reading",
+          "body": "Fun Reading",
+          "links": [
+            {
+              "n": "Fun Reading",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90005_1&content_id=_705003_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial",
+          "body": "Tutorial",
+          "links": [
+            {
+              "n": "Tutorial",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90005_1&content_id=_705004_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 2 updated slides",
+          "body": "Attached Files:\n week 2.1-2.2-3.1.pdf (3.439 MB)",
+          "links": [
+            {
+              "n": "week 2.1-2.2-3.1.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105001-dt-content-rid-105001_1/xid-105001_1"
+            }
+          ]
+        },
+        {
+          "title": "Assignment",
+          "body": "Assignment",
+          "links": [
+            {
+              "n": "Assignment",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90005_1&content_id=_705005_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/Lecture Slides in Last year ECO3121",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90005_1&content_id=_705002_1",
+      "rows": [
+        {
+          "title": "Lecture 1 Introduction",
+          "body": "Lecture 1 Introduction",
+          "links": [
+            {
+              "n": "Lecture 1 Introduction",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105002-dt-content-rid-105002_1/xid-105002_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 2 Statistics Review",
+          "body": "Lecture 2 Statistics Review",
+          "links": [
+            {
+              "n": "Lecture 2 Statistics Review",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105003-dt-content-rid-105003_1/xid-105003_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 3 The Simple Regression Model (1)",
+          "body": "Lecture 3 The Simple Regression Model (1)",
+          "links": [
+            {
+              "n": "Lecture 3 The Simple Regression Model (1)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105004-dt-content-rid-105004_1/xid-105004_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 4 The Simple Regression Model (2)",
+          "body": "Lecture 4 The Simple Regression Model (2)",
+          "links": [
+            {
+              "n": "Lecture 4 The Simple Regression Model (2)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105005-dt-content-rid-105005_1/xid-105005_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 5 The Simple Regression Model (3)",
+          "body": "Lecture 5 The Simple Regression Model (3)",
+          "links": [
+            {
+              "n": "Lecture 5 The Simple Regression Model (3)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105006-dt-content-rid-105006_1/xid-105006_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 6 Multivariate Regression Model (1)",
+          "body": "Lecture 6 Multivariate Regression Model (1)",
+          "links": [
+            {
+              "n": "Lecture 6 Multivariate Regression Model (1)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105007-dt-content-rid-105007_1/xid-105007_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 7 Multivariate Regression Model (2)",
+          "body": "Lecture 7 Multivariate Regression Model (2)",
+          "links": [
+            {
+              "n": "Lecture 7 Multivariate Regression Model (2)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105008-dt-content-rid-105008_1/xid-105008_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 8 Multivariate Regression Model (3)",
+          "body": "Lecture 8 Multivariate Regression Model (3)",
+          "links": [
+            {
+              "n": "Lecture 8 Multivariate Regression Model (3)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105009-dt-content-rid-105009_1/xid-105009_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 9",
+          "body": "Lecture 9",
+          "links": [
+            {
+              "n": "Lecture 9",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105010-dt-content-rid-105010_1/xid-105010_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 10 Multivariate Regression Model (5)",
+          "body": "Lecture 10 Multivariate Regression Model (5)",
+          "links": [
+            {
+              "n": "Lecture 10 Multivariate Regression Model (5)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105011-dt-content-rid-105011_1/xid-105011_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 11 Multivariate Regression Model (6)",
+          "body": "Lecture 11 Multivariate Regression Model (6)",
+          "links": [
+            {
+              "n": "Lecture 11 Multivariate Regression Model (6)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105012-dt-content-rid-105012_1/xid-105012_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 12 Multivariate Regression Model (7)",
+          "body": "Lecture 12 Multivariate Regression Model (7)",
+          "links": [
+            {
+              "n": "Lecture 12 Multivariate Regression Model (7)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105013-dt-content-rid-105013_1/xid-105013_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 13 Dummy Variable (1)",
+          "body": "Lecture 13 Dummy Variable (1)",
+          "links": [
+            {
+              "n": "Lecture 13 Dummy Variable (1)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105014-dt-content-rid-105014_1/xid-105014_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 14 Dummy Variable (2)",
+          "body": "Lecture 14 Dummy Variable (2)",
+          "links": [
+            {
+              "n": "Lecture 14 Dummy Variable (2)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105015-dt-content-rid-105015_1/xid-105015_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 15 Instrumental Variable (1)",
+          "body": "Lecture 15 Instrumental Variable (1)",
+          "links": [
+            {
+              "n": "Lecture 15 Instrumental Variable (1)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105016-dt-content-rid-105016_1/xid-105016_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 16 Instrumental Variable (2)",
+          "body": "Lecture 16 Instrumental Variable (2)",
+          "links": [
+            {
+              "n": "Lecture 16 Instrumental Variable (2)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105017-dt-content-rid-105017_1/xid-105017_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 17 Instrumental Variable (3)",
+          "body": "Lecture 17 Instrumental Variable (3)",
+          "links": [
+            {
+              "n": "Lecture 17 Instrumental Variable (3)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105018-dt-content-rid-105018_1/xid-105018_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 18 Heteroskedasticity",
+          "body": "Lecture 18 Heteroskedasticity",
+          "links": [
+            {
+              "n": "Lecture 18 Heteroskedasticity",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105019-dt-content-rid-105019_1/xid-105019_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 19 Panel Data Analysis (1)",
+          "body": "Lecture 19 Panel Data Analysis (1)",
+          "links": [
+            {
+              "n": "Lecture 19 Panel Data Analysis (1)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105020-dt-content-rid-105020_1/xid-105020_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 20 Panel Data Analysis (2)",
+          "body": "Lecture 20 Panel Data Analysis (2)",
+          "links": [
+            {
+              "n": "Lecture 20 Panel Data Analysis (2)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105021-dt-content-rid-105021_1/xid-105021_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 21 Panel Data Analysis (3)",
+          "body": "Lecture 21 Panel Data Analysis (3)",
+          "links": [
+            {
+              "n": "Lecture 21 Panel Data Analysis (3)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105022-dt-content-rid-105022_1/xid-105022_1"
+            }
+          ]
+        },
+        {
+          "title": "Lecture 22 Panel Data Analysis (4)",
+          "body": "Lecture 22 Panel Data Analysis (4)",
+          "links": [
+            {
+              "n": "Lecture 22 Panel Data Analysis (4)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105023-dt-content-rid-105023_1/xid-105023_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/Fun Reading",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90005_1&content_id=_705003_1",
+      "rows": [
+        {
+          "title": "Tax Rates and Tax Evasion",
+          "body": "Tax Rates and Tax Evasion",
+          "links": [
+            {
+              "n": "Tax Rates and Tax Evasion",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105024-dt-content-rid-105024_1/xid-105024_1"
+            }
+          ]
+        },
+        {
+          "title": "Elder health",
+          "body": "Elder health",
+          "links": [
+            {
+              "n": "Elder health",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105025-dt-content-rid-105025_1/xid-105025_1"
+            }
+          ]
+        },
+        {
+          "title": "The colonial origin of comparative development",
+          "body": "The colonial origin of comparative development",
+          "links": [
+            {
+              "n": "The colonial origin of comparative development",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105026-dt-content-rid-105026_1/xid-105026_1"
+            }
+          ]
+        },
+        {
+          "title": "Missing Woman",
+          "body": "Missing Woman",
+          "links": [
+            {
+              "n": "Missing Woman",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105027-dt-content-rid-105027_1/xid-105027_1"
+            }
+          ]
+        },
+        {
+          "title": "Later, Longer, Fewer",
+          "body": "Later, Longer, Fewer",
+          "links": [
+            {
+              "n": "Later, Longer, Fewer",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105028-dt-content-rid-105028_1/xid-105028_1"
+            }
+          ]
+        },
+        {
+          "title": "Sex Ratio and Housing Price",
+          "body": "Sex Ratio and Housing Price",
+          "links": [
+            {
+              "n": "Sex Ratio and Housing Price",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105029-dt-content-rid-105029_1/xid-105029_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/Tutorial",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90005_1&content_id=_705004_1",
+      "rows": [
+        {
+          "title": "Tutorial 1",
+          "body": "Attached Files:\n aghousehold.csv (4.589 MB)\n aghousehold.dta (5.299 MB)\n aghousehold.xls (17.275 MB)\n An Introduction to Stata Programming（2ed）.pdf (16.755 MB)\n Data_Description.pdf (79.483 KB)\n statacheatsheets.pdf (3.56 MB)\n tut1_code.do (2.035 KB)\n Slide_tut1.pdf (1.716 MB)\nThere is a sample dataset you can play with. It is the same dataset in three different formats.",
+          "links": [
+            {
+              "n": "aghousehold.csv",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105030-dt-content-rid-105030_1/xid-105030_1"
+            },
+            {
+              "n": "aghousehold.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105031-dt-content-rid-105031_1/xid-105031_1"
+            },
+            {
+              "n": "aghousehold.xls",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105032-dt-content-rid-105032_1/xid-105032_1"
+            },
+            {
+              "n": "An Introduction to Stata Programming（2ed）.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105033-dt-content-rid-105033_1/xid-105033_1"
+            },
+            {
+              "n": "Data_Description.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105034-dt-content-rid-105034_1/xid-105034_1"
+            },
+            {
+              "n": "statacheatsheets.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105035-dt-content-rid-105035_1/xid-105035_1"
+            },
+            {
+              "n": "tut1_code.do",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105036-dt-content-rid-105036_1/xid-105036_1"
+            },
+            {
+              "n": "Slide_tut1.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105037-dt-content-rid-105037_1/xid-105037_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial 2",
+          "body": "Attached Files:\n tut2-slide.pdf (383.449 KB)\n tut2-manuscripts.pdf (664.072 KB)",
+          "links": [
+            {
+              "n": "tut2-slide.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105038-dt-content-rid-105038_1/xid-105038_1"
+            },
+            {
+              "n": "tut2-manuscripts.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105039-dt-content-rid-105039_1/xid-105039_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial 3",
+          "body": "Attached Files:\n tut3-slide.pdf (530.868 KB)\n tut3-annex.pdf (137.87 KB)",
+          "links": [
+            {
+              "n": "tut3-slide.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105040-dt-content-rid-105040_1/xid-105040_1"
+            },
+            {
+              "n": "tut3-annex.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105041-dt-content-rid-105041_1/xid-105041_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial 4",
+          "body": "Attached Files:\n Stata：Regression Analysis.pdf (277.65 KB)\n tut4-code.do (789 B)\n tut4_slide.pdf (626.927 KB)",
+          "links": [
+            {
+              "n": "Stata：Regression Analysis.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105042-dt-content-rid-105042_1/xid-105042_1"
+            },
+            {
+              "n": "tut4-code.do",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105043-dt-content-rid-105043_1/xid-105043_1"
+            },
+            {
+              "n": "tut4_slide.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105044-dt-content-rid-105044_1/xid-105044_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial 5",
+          "body": "Attached Files:\n ps1_solution.pdf (45.99 KB)\n ps1_code.do (1.06 KB)",
+          "links": [
+            {
+              "n": "ps1_solution.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105045-dt-content-rid-105045_1/xid-105045_1"
+            },
+            {
+              "n": "ps1_code.do",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105046-dt-content-rid-105046_1/xid-105046_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial 6",
+          "body": "Attached Files:\n Tut6_slide.pdf (653.119 KB)\n Interrelationship between t, F and Chi-Squared.pdf (101.46 KB)\n Critical values of t, F and Chi-Squared.pdf (524.085 KB)",
+          "links": [
+            {
+              "n": "Tut6_slide.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105047-dt-content-rid-105047_1/xid-105047_1"
+            },
+            {
+              "n": "Interrelationship between t, F and Chi-Squared.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105048-dt-content-rid-105048_1/xid-105048_1"
+            },
+            {
+              "n": "Critical values of t, F and Chi-Squared.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105049-dt-content-rid-105049_1/xid-105049_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial 7",
+          "body": "Attached Files:\n Tut7_slide.pdf (507.399 KB)\n Tut7-do file.do (1.37 KB)\n Proof of the consistency and asymtoptic normality of OLS.pdf (1.011 MB)",
+          "links": [
+            {
+              "n": "Tut7_slide.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105050-dt-content-rid-105050_1/xid-105050_1"
+            },
+            {
+              "n": "Tut7-do file.do",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105051-dt-content-rid-105051_1/xid-105051_1"
+            },
+            {
+              "n": "Proof of the consistency and asymtoptic normality of OLS.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105052-dt-content-rid-105052_1/xid-105052_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial 8",
+          "body": "Attached Files:\n ps2-solution.pdf (112.242 KB)\n ps2-code.do (703 B)\n inpresdata.dta (15.177 MB)",
+          "links": [
+            {
+              "n": "ps2-solution.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105053-dt-content-rid-105053_1/xid-105053_1"
+            },
+            {
+              "n": "ps2-code.do",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105054-dt-content-rid-105054_1/xid-105054_1"
+            },
+            {
+              "n": "inpresdata.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105055-dt-content-rid-105055_1/xid-105055_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial 9",
+          "body": "Attached Files:\n Tut9_slide.pdf (399.464 KB)\n dollars.dta (2.704 KB)\n grilic.dta (18.011 KB)\n sforce.dta (2.171 KB)\n Tut9-do file.do (1.401 KB)\n Interesting questions about IV estimation.pdf (224.029 KB)",
+          "links": [
+            {
+              "n": "Tut9_slide.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105056-dt-content-rid-105056_1/xid-105056_1"
+            },
+            {
+              "n": "dollars.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105057-dt-content-rid-105057_1/xid-105057_1"
+            },
+            {
+              "n": "grilic.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105058-dt-content-rid-105058_1/xid-105058_1"
+            },
+            {
+              "n": "sforce.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105059-dt-content-rid-105059_1/xid-105059_1"
+            },
+            {
+              "n": "Tut9-do file.do",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105060-dt-content-rid-105060_1/xid-105060_1"
+            },
+            {
+              "n": "Interesting questions about IV estimation.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105061-dt-content-rid-105061_1/xid-105061_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial 10",
+          "body": "Attached Files:\n Tut10_slide.pdf (385.952 KB)",
+          "links": [
+            {
+              "n": "Tut10_slide.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105062-dt-content-rid-105062_1/xid-105062_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial 11",
+          "body": "Attached Files:\n ps3-solution.pdf (70.072 KB)\n ps3-code.do (573 B)\n aghousehold.dta (5.299 MB)\n village_rainfall.dta (57.123 KB)",
+          "links": [
+            {
+              "n": "ps3-solution.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105063-dt-content-rid-105063_1/xid-105063_1"
+            },
+            {
+              "n": "ps3-code.do",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105064-dt-content-rid-105064_1/xid-105064_1"
+            },
+            {
+              "n": "aghousehold.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105065-dt-content-rid-105065_1/xid-105065_1"
+            },
+            {
+              "n": "village_rainfall.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105066-dt-content-rid-105066_1/xid-105066_1"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial 12",
+          "body": "Attached Files:\n cardkrueger1994.dta (13.748 KB)\n traffic.dta (71.346 KB)\n Tut12-do file.do (727 B)\n Tut12-slide.pdf (732.682 KB)",
+          "links": [
+            {
+              "n": "cardkrueger1994.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105067-dt-content-rid-105067_1/xid-105067_1"
+            },
+            {
+              "n": "traffic.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105068-dt-content-rid-105068_1/xid-105068_1"
+            },
+            {
+              "n": "Tut12-do file.do",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105069-dt-content-rid-105069_1/xid-105069_1"
+            },
+            {
+              "n": "Tut12-slide.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105070-dt-content-rid-105070_1/xid-105070_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/Assignment",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90005_1&content_id=_705005_1",
+      "rows": [
+        {
+          "title": "Assignment 1 Answer",
+          "body": "Attached Files:\n ps1_solution.pdf (45.99 KB)\n ps1_code.do (1.06 KB)",
+          "links": [
+            {
+              "n": "ps1_solution.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105071-dt-content-rid-105071_1/xid-105071_1"
+            },
+            {
+              "n": "ps1_code.do",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105072-dt-content-rid-105072_1/xid-105072_1"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 2 Answer",
+          "body": "Attached Files:\n ps2-solution.pdf (112.242 KB)\n ps2-code.do (703 B)\n inpresdata.dta (15.177 MB)",
+          "links": [
+            {
+              "n": "ps2-solution.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105073-dt-content-rid-105073_1/xid-105073_1"
+            },
+            {
+              "n": "ps2-code.do",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105074-dt-content-rid-105074_1/xid-105074_1"
+            },
+            {
+              "n": "inpresdata.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105075-dt-content-rid-105075_1/xid-105075_1"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 3 Answer",
+          "body": "Attached Files:\n ps3-solution.pdf (70.072 KB)\n ps3-code.do (573 B)\n aghousehold.dta (5.299 MB)\n village_rainfall.dta (57.123 KB)",
+          "links": [
+            {
+              "n": "ps3-solution.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105076-dt-content-rid-105076_1/xid-105076_1"
+            },
+            {
+              "n": "ps3-code.do",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105077-dt-content-rid-105077_1/xid-105077_1"
+            },
+            {
+              "n": "aghousehold.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105078-dt-content-rid-105078_1/xid-105078_1"
+            },
+            {
+              "n": "village_rainfall.dta",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105079-dt-content-rid-105079_1/xid-105079_1"
+            }
+          ]
+        },
+        {
+          "title": "Assignment 4 Answer",
+          "body": "Attached Files:\n ps4-solution.pdf (52.468 KB)",
+          "links": [
+            {
+              "n": "ps4-solution.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-105080-dt-content-rid-105080_1/xid-105080_1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ann": [
+    {
+      "title": "Grade Review or Appeal for Final Exam",
+      "body": "If you have any question for ECO3121 grading scheme, especially in final exam, please mail me with your personal requirement ASAP ([contact]). \nFor grade appeal process, the paper review and regrading will be arranged in next semester. The detailed time will be noticed after you mail me. \nHave a good holiday!",
+      "posted": "Posted on: Monday, January 20, 2025 06:07:32 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "A Reminder for Final Exam",
+      "body": "Please kindly note the following information about the final exam:\nSchedule:\n(1)Date: December 18, 2024\n(2)Time: 8:30 am - 10:30 am\n(3)Venue: Teaching C Bldg\nAdditional information:\n(1)This is a closed-book exam. You can only bring your student ID card, stationary, and drinking water. You are NOT allowed to bring a calculator or any paper materials.\n(2)Please find your specific exam venue and seat number in the Excel sheet sent by the Registry.\n(3)An official cheating sheet is attached, which will be printed and provided during the final exam.\nECO3121 Final Exam Fall 2024 Cheating Sheet.pdf\n(4)The final exam question sample will not be provided.",
+      "posted": "Posted on: Friday, December 13, 2024 07:56:43 PM CST",
+      "links": [
+        {
+          "n": "ECO3121 Final Exam Fall 2024 Cheating Sheet.pdf",
+          "u": "https://bb.example.invalid/bbcswebdav/pid-105081-dt-content-rid-105081_1/xid-105081_1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "Assignment Answers",
+      "body": "Please note that the answers to all the assignments are released, you can find them in the \"Assignment\" folder in the BB platform.",
+      "posted": "Posted on: Thursday, December 12, 2024 12:16:36 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Arrangement for this Week's Tutorial",
+      "body": "Please kindly note that there is no tutorial this week, you can review the tutorial slide by yourself.\nIn addition, please remember the deadline for submitting your answers to problem set 4 is 3:00 PM today and no late submission is allowed.",
+      "posted": "Posted on: Wednesday, December 11, 2024 10:51:27 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Teaching Evaluation for USTF",
+      "body": "Please be reminded that it is mandatory for all students to complete the Course and Teaching Evaluation (CTE) for USTF by December 14th.\nYou can access the questionnaire sent by wj_smeustf. Detailed instructions on how to complete the CTE, as well as the profiles of the USTFs, can be found in the slide below:\nECO3121-SME 2024-25 T1 USTF OCTE.pdf\nAdditionally, please ensure that you complete the CTE for the course instructor and teaching assistant via the link provided below:\n[course link]",
+      "posted": "Posted on: Monday, December 09, 2024 02:07:41 PM CST",
+      "links": [
+        {
+          "n": "ECO3121-SME 2024-25 T1 USTF OCTE.pdf",
+          "u": "https://bb.example.invalid/bbcswebdav/pid-105082-dt-content-rid-105082_1/xid-105082_1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "Final Exam Coverage",
+      "body": "Please kindly note that the final exam will cover all the content taught throughout the course, except for the topics on continuous treatment and event study, which were discussed in the last class.",
+      "posted": "Posted on: Friday, December 06, 2024 11:27:54 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Reminder for completing teaching evaluation",
+      "body": "Please make sure to complete the online teaching evaluation questionnaire by December 13th (Friday). You can access the evaluation system through the below link:\n[course link]\nYour feedback is essential in helping us improve the quality of our courses and teaching methods. Thank you in advance for your time and cooperation!",
+      "posted": "Posted on: Monday, December 02, 2024 09:43:45 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Course arrangement",
+      "body": "Please kindly note that the last class will be scheduled on December 5th, 2024(Thursday).\nThere will be no classes on December 3rd, December 10th, and December 12th.",
+      "posted": "Posted on: Monday, December 02, 2024 09:25:52 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assignment 4",
+      "body": "The Problem set 4 has been released. The due is 3 PM, December 11th (Wednesday), 2024. \n \nPlease note that:\n1)Combine your answer, Stata code, and requested output into one PDF file and upload it to Blackboard.\n2)Late submission is strictly NOT allowed.",
+      "posted": "Posted on: Friday, November 29, 2024 01:38:42 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Grade Review for ECO3121",
+      "body": "To improve the efficiency of grade review process and guarantee fairness to all students, the detail for the meeting of grade review will have two parts.\nIf students only want to know exam grade for each question (we have totally 4 questions), students do not need to register and just come to TxD 604 this Friday (22nd) from 1pm to 5pm.\nIf students want to check the midterm exam paper, students are required to register the following link: [course link]\nTo be noticed, during the exam paper review,\n1.    all questions will be reconsidered and regraded;\n2.    students are not allowed to take mobile phone, backpack /handbag, pencil or papers into the review venue.\n3.    students are not allowed to take photo /or video recording /or copy the exam questions /or answers with pens and papers.\n4.    students could only review their scores and grade; they were not allowed to know the grade of the other students.\nIf you still have problems, please contact me. Mail me with evidence of any necessary time conflict to ask for other possible grade review.",
+      "posted": "Posted on: Tuesday, November 19, 2024 05:36:26 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Release of Midterm Grade",
+      "body": "Your midterm exam grade is released in Blackboard. We will hold a grade review on this Friday (22nd) from 1pm to 5pm in TxD 604. If you want to check your grade for each question or appeal for paper review, please register your ID information in the following link:\n[course link]",
+      "posted": "Posted on: Tuesday, November 19, 2024 12:17:51 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assignment 3",
+      "body": "The Problem set 3 has been released. The due is 3 PM, November 28th (Thursday), 2024. \n \nPlease note that:\n1)Combine your answer, Stata code, and requested output into one PDF file and upload it to Blackboard.\n2)Late submission is strictly NOT allowed.",
+      "posted": "Posted on: Sunday, November 17, 2024 09:55:02 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Arrangement for this week's tutorial",
+      "body": "Please kindly note that there is no tutorial this week (Nov. 11-Nov. 15).",
+      "posted": "Posted on: Tuesday, November 12, 2024 11:59:21 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "A reminder for midterm exam",
+      "body": "Please kindly note that you need to attend the midterm exam tomorrow (Nov. 9th) at Liwen Hall from 4 pm to 6 pm.\nThere are some matters needing your attention:\n(1)This is a closed-book exam. You can only bring your student ID card, stationary, and drinking water. You are NOT allowed to bring a calculator or any paper materials.\n(2)There is no clock in the Liwen hall. You may bring a watch, except a smartwatch, if necessary. You are NOT allowed to bring any other intellectual electronic devices.\n(3)Please carefully check your seat NO. before the test to prevent incorrect positioning. If you are unable to find a seat after the exam starts, we will not extend the time for you to compensate the time you have lost in searching for a seat.",
+      "posted": "Posted on: Friday, November 08, 2024 02:09:07 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Adjustment for course staff’s office hour this week",
+      "body": "Please kindly note that course staff is on an academic trip today, and the course staff will replace the professor to hold the office hour from 11 am to 12 am today (Nov. 7th).\nIf you have questions, please come to the 9th floor of Teaching Complex D to find the TA between 11 am and 12 am.",
+      "posted": "Posted on: Thursday, November 07, 2024 09:08:32 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Seating Plan for Midterm Exam",
+      "body": "Please note that the seating plan for the midterm exam is attached.\nSeating Plan for midterm.pdf\nPlease carefully check your exam seat number and whether your personal information including your name and ID is correct.\nIf you have any questions, please contact me as soon as possible.",
+      "posted": "Posted on: Tuesday, November 05, 2024 11:20:17 AM CST",
+      "links": [
+        {
+          "n": "Seating Plan for midterm.pdf",
+          "u": "https://bb.example.invalid/bbcswebdav/pid-105083-dt-content-rid-105083_1/xid-105083_1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "Change of course staff and course staff's Office Location",
+      "body": "Please kindly note that course staff’s office has been relocated to Room 905, Teaching Complex D, and TA  course staff's office has been relocated to 9th-floor, Teaching Complex D.\nAll future office hours and meetings will be held at these new locations.\nIf you have some questions to ask the professor today (Nov. 5th), you can arrive at the new location at 4 PM-5 PM.",
+      "posted": "Posted on: Tuesday, November 05, 2024 11:12:43 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Official cheating sheet for midterm",
+      "body": "An official cheating is attached, which will be printed and provided during the midterm exam.\nYou are NOT allowed to bring other cheating sheets to the midterm exam. Please remember that this official cheating sheet covers some complex formulas, but it does not cover basic knowledge that you are supposed to understand well. \ncheatsheet_midterm.pdf",
+      "posted": "Posted on: Friday, November 01, 2024 02:10:34 PM CST",
+      "links": [
+        {
+          "n": "cheatsheet_midterm.pdf",
+          "u": "https://bb.example.invalid/bbcswebdav/pid-105084-dt-content-rid-105084_1/xid-105084_1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "The adjustment of the courses this afternoon",
+      "body": "Please note that course staff will teach today's afternoon classes since course staff needs to address an urgent issue.",
+      "posted": "Posted on: Thursday, October 31, 2024 11:15:36 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Midterm exam arrangement",
+      "body": "To ensure a smooth midterm exam experience, I am writing to share the confirmed arrangements for the exam and adjustments to the class schedule before midterm. Please read the following information carefully.\nMidterm Exam Schedule:\nDate: November 9, 2024\nTime: 4:00 PM - 6:00 PM\nVenue: Liwen Hall\nAdditional Information:\nContent Covered: The midterm will cover everything we have learned in class before the exam, excluding the instrumental variable.\nQuestion Type: Exam questions will be based on lectures and problem sets, formatted as short-answer questions. Please read the attached one past mid-term exam sample for       reference in BB.\nECO3121_Midterm Exam_Sample.pdf\nExam Type: This is a closed-book exam. You can bring only your student card, drinking water, and stationery. No any other materials or calculators are permitted.\nSeat Plan: The seat plan will be released soon.\nCheating Sheet: An “official” cheating sheet will be uploaded to Blackboard before the midterm, and printed copies will be provided during the exam. Please note that only this     official sheet is allowed; it includes some complex formulas but does not cover the basic knowledge you are expected to understand.\nClass Schedule Adjustment:\n            1. Classes on November 5 and November 7 will be canceled to help you prepare for the exam. The theme of the class on October 31 will be a midterm review.\n            2. Our tutorial on November 6 and November 7 will talk about problem set 2.\nIf you have any other questions, please do not hesitate to contact me. Thanks for your cooperation!",
+      "posted": "Posted on: Wednesday, October 23, 2024 01:54:21 PM CST",
+      "links": [
+        {
+          "n": "ECO3121_Midterm Exam_Sample.pdf",
+          "u": "https://bb.example.invalid/bbcswebdav/pid-105085-dt-content-rid-105085_1/xid-105085_1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "Assignment 2",
+      "body": "The Problem set 2 has been released. The due is 3 PM, November 2nd, 2024. \n \nPlease note that:\n1)Combine your answer, Stata code and requested output in one PDF file and upload it to Blackboard.\n2)Late submission is NOT allowed.",
+      "posted": "Posted on: Wednesday, October 23, 2024 11:57:40 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Adjustment for USTF course staff’s office hour",
+      "body": "Please note that the course staff will replace course staff to hold the office hour only for this week.\n \nSo, students who decide to discuss with course staff during his office hour need to come to the Zhiren 321 on Thursday 5PM-6PM.",
+      "posted": "Posted on: Wednesday, October 16, 2024 11:25:51 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Information about the newly joined USTF",
+      "body": "I am glad to inform you that a new USTF will join our TA group this week, let's warmly welcome her! The personal and working information about her is as follows:\n \nName: course staff\nEmail: [contact]\nOffice hour: Mon. 5 PM-6 PM, Start-up Zone Library 103\nTutorial time: Wed. 8:00 PM-8:50 PM, Teaching X, Room B201\nPlease note that her office hour is on Monday, and she will teach Tutorial 06.",
+      "posted": "Posted on: Tuesday, October 08, 2024 12:18:07 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assignment 1",
+      "body": "The Problem set 1 has been released. The due is 3 PM, October 11, 2024. \nTo complete this assignment, you need to submit a total 3 files:\n1. answer script (pdf or handwritten)\n2. do file for Question 2\n3. log file for Question 2\nMay you have a happy National Day holiday!",
+      "posted": "Posted on: Thursday, September 26, 2024 12:03:36 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Tentative arrangements for midterm exams",
+      "body": "I hope this email finds you well. I am writing to inform you of the details of our course's upcoming midterm examination. Kindly mark your calendars accordingly to ensure a smooth preparation process.\nMidterm Exam Schedule:\nDate & Time: November 9th, 2023, from 4:00 PM to 6:00 PM\nLocation: Liwen Hall\nPlease reserve this time slot in your schedule to attend the exam.\nIf you find that the scheduled time for the midterm examination conflicts with another exam, please do not hesitate to inform me as soon as possible.   \nThis is a tentative arrangement, and more detailed information will be announced before the midterm.",
+      "posted": "Posted on: Monday, September 23, 2024 03:37:05 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Time adjustment for USTF course staff's office hour this week",
+      "body": "Please kindly note that the office time for course staff has been changed to 9:00 PM-10:00 PM on Thursday only for this week.\nThe office location has not been changed.",
+      "posted": "Posted on: Wednesday, September 18, 2024 03:15:42 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Stata Installation and Tutorial Sessions",
+      "body": "I hope this message finds you well. I want to inform you about an important update regarding our upcoming course activities.\n1. Stata Installation: Please proceed to the University Software Center and download and install Stata as soon as possible. The website of Software Center is [course link] The installation guidance can also be found on the website. Please note that you need to open the website with a browser when connecting to the campus network.\n2. Tutorial Sessions: Our tutorial sessions for the course will commence this week. We have scheduled 4 sessions each week to accommodate everyone's schedule. The details are as follows:\nSession 5: Wednesday, 7:00 PM-7:50 PM\nSession 6: Wednesday, 8:00 PM - 8:50 PM\nSession 7: Thursday, 7:00 PM-7:50 PM\nSession 8: Thursday, 8:00 PM - 8:50 PM\nAll sessions will be held in Teaching Complex B201.\nIt is important to mention that the content covered in each session will be the same, so you only need to attend one session per week.",
+      "posted": "Posted on: Monday, September 09, 2024 09:47:51 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Pre-class Notice",
+      "body": "Welcome to ECO3121: Introductory Econometrics! To help you get started smoothly, I'd like to share a few important updates with you.\n \n1. The syllabus of this course and the slides for tomorrow's class will soon be uploaded to BlackBoard.\n2. There will be no scheduled tutorials for the first week. Tutorials will begin from the second week.\n \n3. Please read the syllabus carefully. Detailed information about the TA's office hours, as well as the WeChat group for the course, is included in the syllabus.",
+      "posted": "Posted on: Monday, September 02, 2024 02:19:56 PM CST",
+      "links": [],
+      "images": []
+    }
+  ],
+  "grades": [
+    [
+      "Assignment 4\nDUE: DEC 11, 2024\nAssignment",
+      "Dec 16, 2024 02:59 AM\nGRADED",
+      "22.62\n/25",
+      ""
+    ],
+    [
+      "Assignment 3\nDUE: NOV 28, 2024\nAssignment",
+      "Dec 02, 2024 09:05 PM\nGRADED",
+      "17.61\n/25",
+      ""
+    ],
+    [
+      "Assignment 2\nDUE: NOV 2, 2024\nAssignment",
+      "Nov 05, 2024 09:24 PM\nGRADED",
+      "0.00\n/25",
+      ""
+    ],
+    [
+      "Midterm Exam",
+      "Nov 25, 2024 06:21 AM\nGRADED",
+      "63.23",
+      ""
+    ],
+    [
+      "Assignment 1\nDUE: OCT 11, 2024\nAssignment",
+      "Oct 12, 2024 10:34 PM\nGRADED",
+      "23.30\n/25",
+      ""
+    ],
+    [
+      "Total",
+      "",
+      "63.53\n/100",
+      ""
+    ],
+    [
+      "Weighted Total",
+      "",
+      "-",
+      ""
+    ]
+  ],
+  "details": []
+}

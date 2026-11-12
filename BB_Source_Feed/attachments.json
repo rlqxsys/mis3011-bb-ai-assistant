@@ -1,0 +1,2681 @@
+{
+  "CSC1001": [
+    {
+      "name": "Ass2_STUDENT.zip",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-102000-dt-content-rid-102000_1/xid-102000_1",
+      "contentFile": "attachment_text/CSC1001_xid-102000_1.json",
+      "format": "zip",
+      "contentStatus": "archive_names",
+      "downloadStatus": "verified",
+      "cachePath": "CSC1001/xid-102000_1 Ass2_STUDENT.zip"
+    },
+    {
+      "name": "CSC_1001_Assignment_2.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-102001-dt-content-rid-102001_1/xid-102001_1",
+      "contentFile": "attachment_text/CSC1001_xid-102001_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "CSC1001/xid-102001_1 CSC_1001_Assignment_2.pdf"
+    },
+    {
+      "name": "CSC_1001_Assignment_4.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-102002-dt-content-rid-102002_1/xid-102002_1",
+      "contentFile": "attachment_text/CSC1001_xid-102002_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "CSC1001/xid-102002_1 CSC_1001_Assignment_4.pdf"
+    },
+    {
+      "name": "Ass4_STUDENT.zip",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-102003-dt-content-rid-102003_1/xid-102003_1",
+      "contentFile": "attachment_text/CSC1001_xid-102003_1.json",
+      "format": "zip",
+      "contentStatus": "archive_names",
+      "downloadStatus": "verified",
+      "cachePath": "CSC1001/xid-102003_1 Ass4_STUDENT.zip"
+    },
+    {
+      "name": "CSC1001_HW1.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-102004-dt-content-rid-102004_1/xid-102004_1",
+      "contentFile": "attachment_text/CSC1001_xid-102004_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "CSC1001/xid-102004_1 CSC1001_HW1.pdf"
+    },
+    {
+      "name": "Seating arrangment",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-102005-dt-content-rid-102005_1/xid-102005_1",
+      "contentFile": "attachment_text/CSC1001_xid-102005_1.json",
+      "format": "xlsx",
+      "contentStatus": "deidentified_cells",
+      "downloadStatus": "verified",
+      "cachePath": "CSC1001/xid-102005_1 Seating arrangment.xlsx"
+    },
+    {
+      "name": "Seating layout",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-102006-dt-content-rid-102006_1/xid-102006_1",
+      "contentFile": "attachment_text/CSC1001_xid-102006_1.json",
+      "format": "xlsx",
+      "contentStatus": "deidentified_cells",
+      "downloadStatus": "verified",
+      "cachePath": "CSC1001/xid-102006_1 Seating layout.xlsx"
+    },
+    {
+      "name": "Final Exam Seating.xlsx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-102007-dt-content-rid-102007_1/xid-102007_1",
+      "contentFile": "attachment_text/CSC1001_xid-102007_1.json",
+      "format": "xlsx",
+      "contentStatus": "deidentified_cells",
+      "downloadStatus": "verified",
+      "cachePath": "CSC1001/xid-102007_1 Final Exam Seating.xlsx"
+    },
+    {
+      "name": "CSC1001 SEATING Arrangement.xlsx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-102008-dt-content-rid-102008_1/xid-102008_1",
+      "contentFile": "attachment_text/CSC1001_xid-102008_1.json",
+      "format": "xlsx",
+      "contentStatus": "deidentified_cells",
+      "downloadStatus": "verified",
+      "cachePath": "CSC1001/xid-102008_1 CSC1001 SEATING Arrangement.xlsx"
+    },
+    {
+      "name": "CSC1001 SEATING LAYOUT.xlsx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-102009-dt-content-rid-102009_1/xid-102009_1",
+      "contentFile": "attachment_text/CSC1001_xid-102009_1.json",
+      "format": "xlsx",
+      "contentStatus": "deidentified_cells",
+      "downloadStatus": "verified",
+      "cachePath": "CSC1001/xid-102009_1 CSC1001 SEATING LAYOUT.xlsx"
+    }
+  ],
+  "ECO2021": [
+    {
+      "name": "ECO2021_Syllabus_2024.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103000-dt-content-rid-103000_1/xid-103000_1",
+      "contentFile": "attachment_text/ECO2021_xid-103000_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103000_1 ECO2021_Syllabus_2024.pdf"
+    },
+    {
+      "name": "Midterm 2023.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103001-dt-content-rid-103001_1/xid-103001_1",
+      "contentFile": "attachment_text/ECO2021_xid-103001_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103001_1 Midterm 2023.pdf"
+    },
+    {
+      "name": "Midterm 2023-answers.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103002-dt-content-rid-103002_1/xid-103002_1",
+      "contentFile": "attachment_text/ECO2021_xid-103002_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103002_1 Midterm 2023-answers.pdf"
+    },
+    {
+      "name": "Final exam sample 2023.doc",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103003-dt-content-rid-103003_1/xid-103003_1",
+      "contentFile": "attachment_text/ECO2021_xid-103003_1.json",
+      "format": "doc",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103003_1 Final exam sample 2023.doc"
+    },
+    {
+      "name": "Final exam sample 2023 with Answers.doc",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103004-dt-content-rid-103004_1/xid-103004_1",
+      "contentFile": "attachment_text/ECO2021_xid-103004_1.json",
+      "format": "doc",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103004_1 Final exam sample 2023 with Answers.doc"
+    },
+    {
+      "name": "0Introduction & Ch04.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103005-dt-content-rid-103005_1/xid-103005_1",
+      "contentFile": "attachment_text/ECO2021_xid-103005_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103005_1 0Introduction & Ch04.pdf"
+    },
+    {
+      "name": "0Introduction & Ch04_with notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103006-dt-content-rid-103006_1/xid-103006_1",
+      "contentFile": "attachment_text/ECO2021_xid-103006_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103006_1 0Introduction & Ch04_with notes.pdf"
+    },
+    {
+      "name": "Ch05.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103007-dt-content-rid-103007_1/xid-103007_1",
+      "contentFile": "attachment_text/ECO2021_xid-103007_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103007_1 Ch05.pdf"
+    },
+    {
+      "name": "Ch05_with notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103008-dt-content-rid-103008_1/xid-103008_1",
+      "contentFile": "attachment_text/ECO2021_xid-103008_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103008_1 Ch05_with notes.pdf"
+    },
+    {
+      "name": "Hand-Written Notes_ECO2021_Ch5.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103009-dt-content-rid-103009_1/xid-103009_1",
+      "contentFile": "attachment_text/ECO2021_xid-103009_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103009_1 Hand-Written Notes_ECO2021_Ch5.pdf"
+    },
+    {
+      "name": "Ch06.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103010-dt-content-rid-103010_1/xid-103010_1",
+      "contentFile": "attachment_text/ECO2021_xid-103010_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103010_1 Ch06.pdf"
+    },
+    {
+      "name": "Ch06_with notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103011-dt-content-rid-103011_1/xid-103011_1",
+      "contentFile": "attachment_text/ECO2021_xid-103011_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103011_1 Ch06_with notes.pdf"
+    },
+    {
+      "name": "Ch07.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103012-dt-content-rid-103012_1/xid-103012_1",
+      "contentFile": "attachment_text/ECO2021_xid-103012_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103012_1 Ch07.pdf"
+    },
+    {
+      "name": "Ch07_with notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103013-dt-content-rid-103013_1/xid-103013_1",
+      "contentFile": "attachment_text/ECO2021_xid-103013_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103013_1 Ch07_with notes.pdf"
+    },
+    {
+      "name": "Hand-Written Notes_ECO2021_Ch7.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103014-dt-content-rid-103014_1/xid-103014_1",
+      "contentFile": "attachment_text/ECO2021_xid-103014_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103014_1 Hand-Written Notes_ECO2021_Ch7.pdf"
+    },
+    {
+      "name": "Ch08.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103015-dt-content-rid-103015_1/xid-103015_1",
+      "contentFile": "attachment_text/ECO2021_xid-103015_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103015_1 Ch08.pdf"
+    },
+    {
+      "name": "Ch08 Reading_What causes people to save and invest.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103016-dt-content-rid-103016_1/xid-103016_1",
+      "contentFile": "attachment_text/ECO2021_xid-103016_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103016_1 Ch08 Reading_What causes people to save and invest.pdf"
+    },
+    {
+      "name": "Ch08_with notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103017-dt-content-rid-103017_1/xid-103017_1",
+      "contentFile": "attachment_text/ECO2021_xid-103017_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103017_1 Ch08_with notes.pdf"
+    },
+    {
+      "name": "Ch09.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103018-dt-content-rid-103018_1/xid-103018_1",
+      "contentFile": "attachment_text/ECO2021_xid-103018_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103018_1 Ch09.pdf"
+    },
+    {
+      "name": "Ch09 Reading_How fintech will eat into banks’ business.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103019-dt-content-rid-103019_1/xid-103019_1",
+      "contentFile": "attachment_text/ECO2021_xid-103019_1.json",
+      "format": "pdf",
+      "contentStatus": "no_text_layer",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103019_1 Ch09 Reading_How fintech will eat into banks’ business.pdf"
+    },
+    {
+      "name": "Ch09 Reading_When central banks issue digital money.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103020-dt-content-rid-103020_1/xid-103020_1",
+      "contentFile": "attachment_text/ECO2021_xid-103020_1.json",
+      "format": "pdf",
+      "contentStatus": "no_text_layer",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103020_1 Ch09 Reading_When central banks issue digital money.pdf"
+    },
+    {
+      "name": "Ch09_with notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103021-dt-content-rid-103021_1/xid-103021_1",
+      "contentFile": "attachment_text/ECO2021_xid-103021_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103021_1 Ch09_with notes.pdf"
+    },
+    {
+      "name": "Assignment 6 answers.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103022-dt-content-rid-103022_1/xid-103022_1",
+      "contentFile": "attachment_text/ECO2021_xid-103022_1.json",
+      "format": "pdf",
+      "contentStatus": "no_text_layer",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103022_1 Assignment 6 answers.pdf"
+    },
+    {
+      "name": "Ch10.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103023-dt-content-rid-103023_1/xid-103023_1",
+      "contentFile": "attachment_text/ECO2021_xid-103023_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103023_1 Ch10.pdf"
+    },
+    {
+      "name": "Ch10_with notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103024-dt-content-rid-103024_1/xid-103024_1",
+      "contentFile": "attachment_text/ECO2021_xid-103024_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103024_1 Ch10_with notes.pdf"
+    },
+    {
+      "name": "Ch11.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103025-dt-content-rid-103025_1/xid-103025_1",
+      "contentFile": "attachment_text/ECO2021_xid-103025_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103025_1 Ch11.pdf"
+    },
+    {
+      "name": "Ch11 with notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103026-dt-content-rid-103026_1/xid-103026_1",
+      "contentFile": "attachment_text/ECO2021_xid-103026_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103026_1 Ch11 with notes.pdf"
+    },
+    {
+      "name": "Ch12.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103027-dt-content-rid-103027_1/xid-103027_1",
+      "contentFile": "attachment_text/ECO2021_xid-103027_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103027_1 Ch12.pdf"
+    },
+    {
+      "name": "Ch12_with_notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103028-dt-content-rid-103028_1/xid-103028_1",
+      "contentFile": "attachment_text/ECO2021_xid-103028_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103028_1 Ch12_with_notes.pdf"
+    },
+    {
+      "name": "Ch13.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103029-dt-content-rid-103029_1/xid-103029_1",
+      "contentFile": "attachment_text/ECO2021_xid-103029_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103029_1 Ch13.pdf"
+    },
+    {
+      "name": "Ch13_with_notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103030-dt-content-rid-103030_1/xid-103030_1",
+      "contentFile": "attachment_text/ECO2021_xid-103030_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103030_1 Ch13_with_notes.pdf"
+    },
+    {
+      "name": "Ch14.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103031-dt-content-rid-103031_1/xid-103031_1",
+      "contentFile": "attachment_text/ECO2021_xid-103031_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103031_1 Ch14.pdf"
+    },
+    {
+      "name": "Ch14 with notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103032-dt-content-rid-103032_1/xid-103032_1",
+      "contentFile": "attachment_text/ECO2021_xid-103032_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103032_1 Ch14 with notes.pdf"
+    },
+    {
+      "name": "Ch15.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103033-dt-content-rid-103033_1/xid-103033_1",
+      "contentFile": "attachment_text/ECO2021_xid-103033_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103033_1 Ch15.pdf"
+    },
+    {
+      "name": "Ch15_with_notes.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103034-dt-content-rid-103034_1/xid-103034_1",
+      "contentFile": "attachment_text/ECO2021_xid-103034_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103034_1 Ch15_with_notes.pdf"
+    },
+    {
+      "name": "Assignment 1.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103035-dt-content-rid-103035_1/xid-103035_1",
+      "contentFile": "attachment_text/ECO2021_xid-103035_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103035_1 Assignment 1.pdf"
+    },
+    {
+      "name": "Assignment 2.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103036-dt-content-rid-103036_1/xid-103036_1",
+      "contentFile": "attachment_text/ECO2021_xid-103036_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103036_1 Assignment 2.pdf"
+    },
+    {
+      "name": "Assignment 3.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103037-dt-content-rid-103037_1/xid-103037_1",
+      "contentFile": "attachment_text/ECO2021_xid-103037_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103037_1 Assignment 3.pdf"
+    },
+    {
+      "name": "Assignment 4 Glawe and Wagner.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103038-dt-content-rid-103038_1/xid-103038_1",
+      "contentFile": "attachment_text/ECO2021_xid-103038_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103038_1 Assignment 4 Glawe and Wagner.pdf"
+    },
+    {
+      "name": "China in the middle-income trap.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103039-dt-content-rid-103039_1/xid-103039_1",
+      "contentFile": "attachment_text/ECO2021_xid-103039_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103039_1 China in the middle-income trap.pdf"
+    },
+    {
+      "name": "Assignment 5.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103040-dt-content-rid-103040_1/xid-103040_1",
+      "contentFile": "attachment_text/ECO2021_xid-103040_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103040_1 Assignment 5.pdf"
+    },
+    {
+      "name": "Assignment 6.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103041-dt-content-rid-103041_1/xid-103041_1",
+      "contentFile": "attachment_text/ECO2021_xid-103041_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103041_1 Assignment 6.pdf"
+    },
+    {
+      "name": "Assignment 7.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103042-dt-content-rid-103042_1/xid-103042_1",
+      "contentFile": "attachment_text/ECO2021_xid-103042_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103042_1 Assignment 7.pdf"
+    },
+    {
+      "name": "Assignment 8.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103043-dt-content-rid-103043_1/xid-103043_1",
+      "contentFile": "attachment_text/ECO2021_xid-103043_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103043_1 Assignment 8.pdf"
+    },
+    {
+      "name": "Assignment 9.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103044-dt-content-rid-103044_1/xid-103044_1",
+      "contentFile": "attachment_text/ECO2021_xid-103044_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103044_1 Assignment 9.pdf"
+    },
+    {
+      "name": "Assignment 10.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103045-dt-content-rid-103045_1/xid-103045_1",
+      "contentFile": "attachment_text/ECO2021_xid-103045_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103045_1 Assignment 10.pdf"
+    },
+    {
+      "name": "Assignment 11.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103046-dt-content-rid-103046_1/xid-103046_1",
+      "contentFile": "attachment_text/ECO2021_xid-103046_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103046_1 Assignment 11.pdf"
+    },
+    {
+      "name": "A quick guide to OCTE for students.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103047-dt-content-rid-103047_1/xid-103047_1",
+      "contentFile": "attachment_text/ECO2021_xid-103047_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103047_1 A quick guide to OCTE for students.pdf"
+    },
+    {
+      "name": "ECO2021_midterm_location_L01-03.xlsx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-103048-dt-content-rid-103048_1/xid-103048_1",
+      "contentFile": "attachment_text/ECO2021_xid-103048_1.json",
+      "format": "xlsx",
+      "contentStatus": "deidentified_cells",
+      "downloadStatus": "verified",
+      "cachePath": "ECO2021/xid-103048_1 ECO2021_midterm_location_L01-03.xlsx"
+    }
+  ],
+  "ECO3121": [
+    {
+      "name": "Syllabus",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105000-dt-content-rid-105000_1/xid-105000_1",
+      "contentFile": "attachment_text/ECO3121_xid-105000_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105000_1 Syllabus.pdf"
+    },
+    {
+      "name": "week 2.1-2.2-3.1.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105001-dt-content-rid-105001_1/xid-105001_1",
+      "contentFile": "attachment_text/ECO3121_xid-105001_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105001_1 week 2.1-2.2-3.1.pdf"
+    },
+    {
+      "name": "Lecture 1 Introduction",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105002-dt-content-rid-105002_1/xid-105002_1",
+      "contentFile": "attachment_text/ECO3121_xid-105002_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105002_1 Lecture 1 Introduction.pdf"
+    },
+    {
+      "name": "Lecture 2 Statistics Review",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105003-dt-content-rid-105003_1/xid-105003_1",
+      "contentFile": "attachment_text/ECO3121_xid-105003_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105003_1 Lecture 2 Statistics Review.pdf"
+    },
+    {
+      "name": "Lecture 3 The Simple Regression Model (1)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105004-dt-content-rid-105004_1/xid-105004_1",
+      "contentFile": "attachment_text/ECO3121_xid-105004_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105004_1 Lecture 3 The Simple Regression Model (1).pdf"
+    },
+    {
+      "name": "Lecture 4 The Simple Regression Model (2)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105005-dt-content-rid-105005_1/xid-105005_1",
+      "contentFile": "attachment_text/ECO3121_xid-105005_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105005_1 Lecture 4 The Simple Regression Model (2).pdf"
+    },
+    {
+      "name": "Lecture 5 The Simple Regression Model (3)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105006-dt-content-rid-105006_1/xid-105006_1",
+      "contentFile": "attachment_text/ECO3121_xid-105006_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105006_1 Lecture 5 The Simple Regression Model (3).pdf"
+    },
+    {
+      "name": "Lecture 6 Multivariate Regression Model (1)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105007-dt-content-rid-105007_1/xid-105007_1",
+      "contentFile": "attachment_text/ECO3121_xid-105007_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105007_1 Lecture 6 Multivariate Regression Model (1).pdf"
+    },
+    {
+      "name": "Lecture 7 Multivariate Regression Model (2)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105008-dt-content-rid-105008_1/xid-105008_1",
+      "contentFile": "attachment_text/ECO3121_xid-105008_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105008_1 Lecture 7 Multivariate Regression Model (2).pdf"
+    },
+    {
+      "name": "Lecture 8 Multivariate Regression Model (3)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105009-dt-content-rid-105009_1/xid-105009_1",
+      "contentFile": "attachment_text/ECO3121_xid-105009_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105009_1 Lecture 8 Multivariate Regression Model (3).pdf"
+    },
+    {
+      "name": "Lecture 9",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105010-dt-content-rid-105010_1/xid-105010_1",
+      "contentFile": "attachment_text/ECO3121_xid-105010_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105010_1 Lecture 9.pdf"
+    },
+    {
+      "name": "Lecture 10 Multivariate Regression Model (5)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105011-dt-content-rid-105011_1/xid-105011_1",
+      "contentFile": "attachment_text/ECO3121_xid-105011_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105011_1 Lecture 10 Multivariate Regression Model (5).pdf"
+    },
+    {
+      "name": "Lecture 11 Multivariate Regression Model (6)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105012-dt-content-rid-105012_1/xid-105012_1",
+      "contentFile": "attachment_text/ECO3121_xid-105012_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105012_1 Lecture 11 Multivariate Regression Model (6).pdf"
+    },
+    {
+      "name": "Lecture 12 Multivariate Regression Model (7)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105013-dt-content-rid-105013_1/xid-105013_1",
+      "contentFile": "attachment_text/ECO3121_xid-105013_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105013_1 Lecture 12 Multivariate Regression Model (7).pdf"
+    },
+    {
+      "name": "Lecture 13 Dummy Variable (1)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105014-dt-content-rid-105014_1/xid-105014_1",
+      "contentFile": "attachment_text/ECO3121_xid-105014_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105014_1 Lecture 13 Dummy Variable (1).pdf"
+    },
+    {
+      "name": "Lecture 14 Dummy Variable (2)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105015-dt-content-rid-105015_1/xid-105015_1",
+      "contentFile": "attachment_text/ECO3121_xid-105015_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105015_1 Lecture 14 Dummy Variable (2).pdf"
+    },
+    {
+      "name": "Lecture 15 Instrumental Variable (1)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105016-dt-content-rid-105016_1/xid-105016_1",
+      "contentFile": "attachment_text/ECO3121_xid-105016_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105016_1 Lecture 15 Instrumental Variable (1).pdf"
+    },
+    {
+      "name": "Lecture 16 Instrumental Variable (2)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105017-dt-content-rid-105017_1/xid-105017_1",
+      "contentFile": "attachment_text/ECO3121_xid-105017_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105017_1 Lecture 16 Instrumental Variable (2).pdf"
+    },
+    {
+      "name": "Lecture 17 Instrumental Variable (3)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105018-dt-content-rid-105018_1/xid-105018_1",
+      "contentFile": "attachment_text/ECO3121_xid-105018_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105018_1 Lecture 17 Instrumental Variable (3).pdf"
+    },
+    {
+      "name": "Lecture 18 Heteroskedasticity",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105019-dt-content-rid-105019_1/xid-105019_1",
+      "contentFile": "attachment_text/ECO3121_xid-105019_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105019_1 Lecture 18 Heteroskedasticity.pdf"
+    },
+    {
+      "name": "Lecture 19 Panel Data Analysis (1)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105020-dt-content-rid-105020_1/xid-105020_1",
+      "contentFile": "attachment_text/ECO3121_xid-105020_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105020_1 Lecture 19 Panel Data Analysis (1).pdf"
+    },
+    {
+      "name": "Lecture 20 Panel Data Analysis (2)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105021-dt-content-rid-105021_1/xid-105021_1",
+      "contentFile": "attachment_text/ECO3121_xid-105021_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105021_1 Lecture 20 Panel Data Analysis (2).pdf"
+    },
+    {
+      "name": "Lecture 21 Panel Data Analysis (3)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105022-dt-content-rid-105022_1/xid-105022_1",
+      "contentFile": "attachment_text/ECO3121_xid-105022_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105022_1 Lecture 21 Panel Data Analysis (3).pdf"
+    },
+    {
+      "name": "Lecture 22 Panel Data Analysis (4)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105023-dt-content-rid-105023_1/xid-105023_1",
+      "contentFile": "attachment_text/ECO3121_xid-105023_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105023_1 Lecture 22 Panel Data Analysis (4).pdf"
+    },
+    {
+      "name": "Tax Rates and Tax Evasion",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105024-dt-content-rid-105024_1/xid-105024_1",
+      "contentFile": "attachment_text/ECO3121_xid-105024_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105024_1 Tax Rates and Tax Evasion.pdf"
+    },
+    {
+      "name": "Elder health",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105025-dt-content-rid-105025_1/xid-105025_1",
+      "contentFile": "attachment_text/ECO3121_xid-105025_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105025_1 Elder health.pdf"
+    },
+    {
+      "name": "The colonial origin of comparative development",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105026-dt-content-rid-105026_1/xid-105026_1",
+      "contentFile": "attachment_text/ECO3121_xid-105026_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105026_1 The colonial origin of comparative development.pdf"
+    },
+    {
+      "name": "Missing Woman",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105027-dt-content-rid-105027_1/xid-105027_1",
+      "contentFile": "attachment_text/ECO3121_xid-105027_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105027_1 Missing Woman.pdf"
+    },
+    {
+      "name": "Later, Longer, Fewer",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105028-dt-content-rid-105028_1/xid-105028_1",
+      "contentFile": "attachment_text/ECO3121_xid-105028_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105028_1 Later, Longer, Fewer.pdf"
+    },
+    {
+      "name": "Sex Ratio and Housing Price",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105029-dt-content-rid-105029_1/xid-105029_1",
+      "contentFile": "attachment_text/ECO3121_xid-105029_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105029_1 Sex Ratio and Housing Price.pdf"
+    },
+    {
+      "name": "aghousehold.csv",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105030-dt-content-rid-105030_1/xid-105030_1",
+      "contentFile": null,
+      "format": "csv",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105030_1 aghousehold.csv"
+    },
+    {
+      "name": "aghousehold.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105031-dt-content-rid-105031_1/xid-105031_1",
+      "contentFile": null,
+      "format": "dta",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105031_1 aghousehold.dta"
+    },
+    {
+      "name": "aghousehold.xls",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105032-dt-content-rid-105032_1/xid-105032_1",
+      "contentFile": null,
+      "format": "xls",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105032_1 aghousehold.xls"
+    },
+    {
+      "name": "An Introduction to Stata Programming（2ed）.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105033-dt-content-rid-105033_1/xid-105033_1",
+      "contentFile": "attachment_text/ECO3121_xid-105033_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105033_1 An Introduction to Stata Programming（2ed）.pdf"
+    },
+    {
+      "name": "Data_Description.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105034-dt-content-rid-105034_1/xid-105034_1",
+      "contentFile": "attachment_text/ECO3121_xid-105034_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105034_1 Data_Description.pdf"
+    },
+    {
+      "name": "statacheatsheets.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105035-dt-content-rid-105035_1/xid-105035_1",
+      "contentFile": "attachment_text/ECO3121_xid-105035_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105035_1 statacheatsheets.pdf"
+    },
+    {
+      "name": "tut1_code.do",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105036-dt-content-rid-105036_1/xid-105036_1",
+      "contentFile": null,
+      "format": null,
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105036_1 tut1_code.do"
+    },
+    {
+      "name": "Slide_tut1.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105037-dt-content-rid-105037_1/xid-105037_1",
+      "contentFile": "attachment_text/ECO3121_xid-105037_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105037_1 Slide_tut1.pdf"
+    },
+    {
+      "name": "tut2-slide.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105038-dt-content-rid-105038_1/xid-105038_1",
+      "contentFile": "attachment_text/ECO3121_xid-105038_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105038_1 tut2-slide.pdf"
+    },
+    {
+      "name": "tut2-manuscripts.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105039-dt-content-rid-105039_1/xid-105039_1",
+      "contentFile": "attachment_text/ECO3121_xid-105039_1.json",
+      "format": "pdf",
+      "contentStatus": "no_text_layer",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105039_1 tut2-manuscripts.pdf"
+    },
+    {
+      "name": "tut3-slide.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105040-dt-content-rid-105040_1/xid-105040_1",
+      "contentFile": "attachment_text/ECO3121_xid-105040_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105040_1 tut3-slide.pdf"
+    },
+    {
+      "name": "tut3-annex.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105041-dt-content-rid-105041_1/xid-105041_1",
+      "contentFile": "attachment_text/ECO3121_xid-105041_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105041_1 tut3-annex.pdf"
+    },
+    {
+      "name": "Stata：Regression Analysis.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105042-dt-content-rid-105042_1/xid-105042_1",
+      "contentFile": "attachment_text/ECO3121_xid-105042_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105042_1 Stata：Regression Analysis.pdf"
+    },
+    {
+      "name": "tut4-code.do",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105043-dt-content-rid-105043_1/xid-105043_1",
+      "contentFile": null,
+      "format": null,
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105043_1 tut4-code.do"
+    },
+    {
+      "name": "tut4_slide.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105044-dt-content-rid-105044_1/xid-105044_1",
+      "contentFile": "attachment_text/ECO3121_xid-105044_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105044_1 tut4_slide.pdf"
+    },
+    {
+      "name": "ps1_solution.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105045-dt-content-rid-105045_1/xid-105045_1",
+      "contentFile": "attachment_text/ECO3121_xid-105045_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105045_1 ps1_solution.pdf"
+    },
+    {
+      "name": "ps1_code.do",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105046-dt-content-rid-105046_1/xid-105046_1",
+      "contentFile": null,
+      "format": null,
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105046_1 ps1_code.do"
+    },
+    {
+      "name": "Tut6_slide.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105047-dt-content-rid-105047_1/xid-105047_1",
+      "contentFile": "attachment_text/ECO3121_xid-105047_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105047_1 Tut6_slide.pdf"
+    },
+    {
+      "name": "Interrelationship between t, F and Chi-Squared.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105048-dt-content-rid-105048_1/xid-105048_1",
+      "contentFile": "attachment_text/ECO3121_xid-105048_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105048_1 Interrelationship between t, F and Chi-Squared.pdf"
+    },
+    {
+      "name": "Critical values of t, F and Chi-Squared.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105049-dt-content-rid-105049_1/xid-105049_1",
+      "contentFile": "attachment_text/ECO3121_xid-105049_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105049_1 Critical values of t, F and Chi-Squared.pdf"
+    },
+    {
+      "name": "Tut7_slide.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105050-dt-content-rid-105050_1/xid-105050_1",
+      "contentFile": "attachment_text/ECO3121_xid-105050_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105050_1 Tut7_slide.pdf"
+    },
+    {
+      "name": "Tut7-do file.do",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105051-dt-content-rid-105051_1/xid-105051_1",
+      "contentFile": "attachment_text/ECO3121_xid-105051_1.json",
+      "format": "do",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105051_1 Tut7-do file.do"
+    },
+    {
+      "name": "Proof of the consistency and asymtoptic normality of OLS.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105052-dt-content-rid-105052_1/xid-105052_1",
+      "contentFile": "attachment_text/ECO3121_xid-105052_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105052_1 Proof of the consistency and asymtoptic normality of OLS.pdf"
+    },
+    {
+      "name": "ps2-solution.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105053-dt-content-rid-105053_1/xid-105053_1",
+      "contentFile": "attachment_text/ECO3121_xid-105053_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105053_1 ps2-solution.pdf"
+    },
+    {
+      "name": "ps2-code.do",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105054-dt-content-rid-105054_1/xid-105054_1",
+      "contentFile": null,
+      "format": null,
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105054_1 ps2-code.do"
+    },
+    {
+      "name": "inpresdata.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105055-dt-content-rid-105055_1/xid-105055_1",
+      "contentFile": null,
+      "format": "dta",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105055_1 inpresdata.dta"
+    },
+    {
+      "name": "Tut9_slide.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105056-dt-content-rid-105056_1/xid-105056_1",
+      "contentFile": "attachment_text/ECO3121_xid-105056_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105056_1 Tut9_slide.pdf"
+    },
+    {
+      "name": "dollars.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105057-dt-content-rid-105057_1/xid-105057_1",
+      "contentFile": null,
+      "format": "dta",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105057_1 dollars.dta"
+    },
+    {
+      "name": "grilic.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105058-dt-content-rid-105058_1/xid-105058_1",
+      "contentFile": null,
+      "format": null,
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105058_1 grilic.dta"
+    },
+    {
+      "name": "sforce.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105059-dt-content-rid-105059_1/xid-105059_1",
+      "contentFile": null,
+      "format": "dta",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105059_1 sforce.dta"
+    },
+    {
+      "name": "Tut9-do file.do",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105060-dt-content-rid-105060_1/xid-105060_1",
+      "contentFile": null,
+      "format": null,
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105060_1 Tut9-do file.do"
+    },
+    {
+      "name": "Interesting questions about IV estimation.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105061-dt-content-rid-105061_1/xid-105061_1",
+      "contentFile": "attachment_text/ECO3121_xid-105061_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105061_1 Interesting questions about IV estimation.pdf"
+    },
+    {
+      "name": "Tut10_slide.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105062-dt-content-rid-105062_1/xid-105062_1",
+      "contentFile": "attachment_text/ECO3121_xid-105062_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105062_1 Tut10_slide.pdf"
+    },
+    {
+      "name": "ps3-solution.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105063-dt-content-rid-105063_1/xid-105063_1",
+      "contentFile": "attachment_text/ECO3121_xid-105063_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105063_1 ps3-solution.pdf"
+    },
+    {
+      "name": "ps3-code.do",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105064-dt-content-rid-105064_1/xid-105064_1",
+      "contentFile": "attachment_text/ECO3121_xid-105064_1.json",
+      "format": "do",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105064_1 ps3-code.do"
+    },
+    {
+      "name": "aghousehold.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105065-dt-content-rid-105065_1/xid-105065_1",
+      "contentFile": null,
+      "format": "dta",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105065_1 aghousehold.dta"
+    },
+    {
+      "name": "village_rainfall.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105066-dt-content-rid-105066_1/xid-105066_1",
+      "contentFile": null,
+      "format": null,
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105066_1 village_rainfall.dta"
+    },
+    {
+      "name": "cardkrueger1994.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105067-dt-content-rid-105067_1/xid-105067_1",
+      "contentFile": null,
+      "format": "dta",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105067_1 cardkrueger1994.dta"
+    },
+    {
+      "name": "traffic.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105068-dt-content-rid-105068_1/xid-105068_1",
+      "contentFile": null,
+      "format": "dta",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105068_1 traffic.dta"
+    },
+    {
+      "name": "Tut12-do file.do",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105069-dt-content-rid-105069_1/xid-105069_1",
+      "contentFile": null,
+      "format": null,
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105069_1 Tut12-do file.do"
+    },
+    {
+      "name": "Tut12-slide.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105070-dt-content-rid-105070_1/xid-105070_1",
+      "contentFile": "attachment_text/ECO3121_xid-105070_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105070_1 Tut12-slide.pdf"
+    },
+    {
+      "name": "ps1_solution.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105071-dt-content-rid-105071_1/xid-105071_1",
+      "contentFile": "attachment_text/ECO3121_xid-105071_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105071_1 ps1_solution.pdf"
+    },
+    {
+      "name": "ps1_code.do",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105072-dt-content-rid-105072_1/xid-105072_1",
+      "contentFile": null,
+      "format": null,
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105072_1 ps1_code.do"
+    },
+    {
+      "name": "ps2-solution.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105073-dt-content-rid-105073_1/xid-105073_1",
+      "contentFile": "attachment_text/ECO3121_xid-105073_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105073_1 ps2-solution.pdf"
+    },
+    {
+      "name": "ps2-code.do",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105074-dt-content-rid-105074_1/xid-105074_1",
+      "contentFile": "attachment_text/ECO3121_xid-105074_1.json",
+      "format": "do",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105074_1 ps2-code.do"
+    },
+    {
+      "name": "inpresdata.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105075-dt-content-rid-105075_1/xid-105075_1",
+      "contentFile": null,
+      "format": null,
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105075_1 inpresdata.dta"
+    },
+    {
+      "name": "ps3-solution.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105076-dt-content-rid-105076_1/xid-105076_1",
+      "contentFile": "attachment_text/ECO3121_xid-105076_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105076_1 ps3-solution.pdf"
+    },
+    {
+      "name": "ps3-code.do",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105077-dt-content-rid-105077_1/xid-105077_1",
+      "contentFile": "attachment_text/ECO3121_xid-105077_1.json",
+      "format": "do",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105077_1 ps3-code.do"
+    },
+    {
+      "name": "aghousehold.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105078-dt-content-rid-105078_1/xid-105078_1",
+      "contentFile": null,
+      "format": "dta",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105078_1 aghousehold.dta"
+    },
+    {
+      "name": "village_rainfall.dta",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105079-dt-content-rid-105079_1/xid-105079_1",
+      "contentFile": null,
+      "format": null,
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105079_1 village_rainfall.dta"
+    },
+    {
+      "name": "ps4-solution.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105080-dt-content-rid-105080_1/xid-105080_1",
+      "contentFile": "attachment_text/ECO3121_xid-105080_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105080_1 ps4-solution.pdf"
+    },
+    {
+      "name": "ECO3121 Final Exam Fall 2024 Cheating Sheet.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105081-dt-content-rid-105081_1/xid-105081_1",
+      "contentFile": "attachment_text/ECO3121_xid-105081_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105081_1 ECO3121 Final Exam Fall 2024 Cheating Sheet.pdf"
+    },
+    {
+      "name": "ECO3121-SME 2024-25 T1 USTF OCTE.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105082-dt-content-rid-105082_1/xid-105082_1",
+      "contentFile": "attachment_text/ECO3121_xid-105082_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105082_1 ECO3121-SME 2024-25 T1 USTF OCTE.pdf"
+    },
+    {
+      "name": "Seating Plan for midterm.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105083-dt-content-rid-105083_1/xid-105083_1",
+      "contentFile": null,
+      "format": "pdf",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105083_1 Seating Plan for midterm.pdf"
+    },
+    {
+      "name": "cheatsheet_midterm.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105084-dt-content-rid-105084_1/xid-105084_1",
+      "contentFile": "attachment_text/ECO3121_xid-105084_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105084_1 cheatsheet_midterm.pdf"
+    },
+    {
+      "name": "ECO3121_Midterm Exam_Sample.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-105085-dt-content-rid-105085_1/xid-105085_1",
+      "contentFile": "attachment_text/ECO3121_xid-105085_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ECO3121/xid-105085_1 ECO3121_Midterm Exam_Sample.pdf"
+    }
+  ],
+  "ENG1001": [
+    {
+      "name": "2023 EBP Syllabus",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104000-dt-content-rid-104000_1/xid-104000_1",
+      "contentFile": "attachment_text/ENG1001_xid-104000_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104000_1 2023 EBP Syllabus.pdf"
+    },
+    {
+      "name": "2023 EBP Course Schedule (Tentative)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104001-dt-content-rid-104001_1/xid-104001_1",
+      "contentFile": "attachment_text/ENG1001_xid-104001_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "localFile": "attachment_files/xid-104001_1.pdf",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104001_1 2023 EBP Course Schedule (Tentative).pdf"
+    },
+    {
+      "name": "FALL 2023 EBP Student Syllabus Checklist and Plagiarism Pledge",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104002-dt-content-rid-104002_1/xid-104002_1",
+      "contentFile": "attachment_text/ENG1001_xid-104002_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104002_1 FALL 2023 EBP Student Syllabus Checklist and Plagiarism Pledge.docx"
+    },
+    {
+      "name": "cover sheet for student assignments.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104003-dt-content-rid-104003_1/xid-104003_1",
+      "contentFile": "attachment_text/ENG1001_xid-104003_1.json",
+      "format": "pdf",
+      "contentStatus": "no_text_layer",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104003_1 cover sheet for student assignments.pdf"
+    },
+    {
+      "name": "Windows Speech Recognition",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104004-dt-content-rid-104004_1/xid-104004_1",
+      "contentFile": "attachment_text/ENG1001_xid-104004_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104004_1 Windows Speech Recognition.docx"
+    },
+    {
+      "name": "Microsoft Text-to-speech Instructions",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104005-dt-content-rid-104005_1/xid-104005_1",
+      "contentFile": "attachment_text/ENG1001_xid-104005_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104005_1 Microsoft Text-to-speech Instructions.docx"
+    },
+    {
+      "name": "Blackboard User Guide",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104006-dt-content-rid-104006_1/xid-104006_1",
+      "contentFile": "attachment_text/ENG1001_xid-104006_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104006_1 Blackboard User Guide.pdf"
+    },
+    {
+      "name": "University Links to English Language Magazines",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104007-dt-content-rid-104007_1/xid-104007_1",
+      "contentFile": "attachment_text/ENG1001_xid-104007_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104007_1 University Links to English Language Magazines.docx"
+    },
+    {
+      "name": "Link to Supplementary Course Videos_EBP",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104008-dt-content-rid-104008_1/xid-104008_1",
+      "contentFile": "attachment_text/ENG1001_xid-104008_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104008_1 Link to Supplementary Course Videos_EBP.docx"
+    },
+    {
+      "name": "Student Email Advice",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104009-dt-content-rid-104009_1/xid-104009_1",
+      "contentFile": "attachment_text/ENG1001_xid-104009_1.json",
+      "format": "pptx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104009_1 Student Email Advice.pptx"
+    },
+    {
+      "name": "The Writing Process",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104010-dt-content-rid-104010_1/xid-104010_1",
+      "contentFile": "attachment_text/ENG1001_xid-104010_1.json",
+      "format": "pptx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104010_1 The Writing Process.pptx"
+    },
+    {
+      "name": "Public Speaking",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104011-dt-content-rid-104011_1/xid-104011_1",
+      "contentFile": "attachment_text/ENG1001_xid-104011_1.json",
+      "format": "pptx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104011_1 Public Speaking.pptx"
+    },
+    {
+      "name": "How to Write a Personal Essay",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104012-dt-content-rid-104012_1/xid-104012_1",
+      "contentFile": "attachment_text/ENG1001_xid-104012_1.json",
+      "format": "ppt",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104012_1 How to Write a Personal Essay.ppt"
+    },
+    {
+      "name": "How to Write a Summary",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104013-dt-content-rid-104013_1/xid-104013_1",
+      "contentFile": "attachment_text/ENG1001_xid-104013_1.json",
+      "format": "ppt",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104013_1 How to Write a Summary.ppt"
+    },
+    {
+      "name": "How to Write a Response Essay",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104014-dt-content-rid-104014_1/xid-104014_1",
+      "contentFile": "attachment_text/ENG1001_xid-104014_1.json",
+      "format": "ppt",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104014_1 How to Write a Response Essay.ppt"
+    },
+    {
+      "name": "Loving and Hating New York.docx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104015-dt-content-rid-104015_1/xid-104015_1",
+      "contentFile": "attachment_text/ENG1001_xid-104015_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104015_1 Loving and Hating New York.docx"
+    },
+    {
+      "name": "more praise for idleness.docx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104016-dt-content-rid-104016_1/xid-104016_1",
+      "contentFile": "attachment_text/ENG1001_xid-104016_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104016_1 more praise for idleness.docx"
+    },
+    {
+      "name": "Reimagining the Fashion Industry by Designing out Waste.docx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104017-dt-content-rid-104017_1/xid-104017_1",
+      "contentFile": "attachment_text/ENG1001_xid-104017_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104017_1 Reimagining the Fashion Industry by Designing out Waste.docx"
+    },
+    {
+      "name": "The high price society pays for social media _ Financial Times.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104018-dt-content-rid-104018_1/xid-104018_1",
+      "contentFile": "attachment_text/ENG1001_xid-104018_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104018_1 The high price society pays for social media _ Financial Times.pdf"
+    },
+    {
+      "name": "Two Ways to Belong in America.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104019-dt-content-rid-104019_1/xid-104019_1",
+      "contentFile": "attachment_text/ENG1001_xid-104019_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104019_1 Two Ways to Belong in America.pdf"
+    },
+    {
+      "name": "We Need to Make 'Electrifying Everything' Easier - Scientific American.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104020-dt-content-rid-104020_1/xid-104020_1",
+      "contentFile": "attachment_text/ENG1001_xid-104020_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104020_1 We Need to Make 'Electrifying Everything' Easier - Scientific American.pdf"
+    },
+    {
+      "name": "What I Have Lived For.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104021-dt-content-rid-104021_1/xid-104021_1",
+      "contentFile": "attachment_text/ENG1001_xid-104021_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104021_1 What I Have Lived For.pdf"
+    },
+    {
+      "name": "Writing Drafts by Richard Marius.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104022-dt-content-rid-104022_1/xid-104022_1",
+      "contentFile": "attachment_text/ENG1001_xid-104022_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104022_1 Writing Drafts by Richard Marius.pdf"
+    },
+    {
+      "name": "Enter the dragon.docx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104023-dt-content-rid-104023_1/xid-104023_1",
+      "contentFile": "attachment_text/ENG1001_xid-104023_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104023_1 Enter the dragon.docx"
+    },
+    {
+      "name": "How College Changes the Parent-Child Relationship.docx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104024-dt-content-rid-104024_1/xid-104024_1",
+      "contentFile": "attachment_text/ENG1001_xid-104024_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104024_1 How College Changes the Parent-Child Relationship.docx"
+    },
+    {
+      "name": "Bill Gates - We Must Develop Drugs Much Faster in the Next Pandemic.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104025-dt-content-rid-104025_1/xid-104025_1",
+      "contentFile": "attachment_text/ENG1001_xid-104025_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104025_1 Bill Gates - We Must Develop Drugs Much Faster in the Next Pandemic.pdf"
+    },
+    {
+      "name": "Is a simpler life a better life.docx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104026-dt-content-rid-104026_1/xid-104026_1",
+      "contentFile": "attachment_text/ENG1001_xid-104026_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104026_1 Is a simpler life a better life.docx"
+    },
+    {
+      "name": "Science Has Spoiled My Supper.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104027-dt-content-rid-104027_1/xid-104027_1",
+      "contentFile": "attachment_text/ENG1001_xid-104027_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104027_1 Science Has Spoiled My Supper.pdf"
+    },
+    {
+      "name": "3 creative ways to fix fashion's waste problem_AmitKalra_2017S-480p_default.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104028-dt-content-rid-104028_1/xid-104028_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104028_1 3 creative ways to fix fashion's waste problem_AmitKalra_2017S-480p_default.mp4"
+    },
+    {
+      "name": "I Am Not Your Asian Stereotype _ Canwen Xu _ TEDxBoise.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104029-dt-content-rid-104029_1/xid-104029_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104029_1 I Am Not Your Asian Stereotype _ Canwen Xu _ TEDxBoise.mp4"
+    },
+    {
+      "name": "Rethinking Whole Foods _ Larry Olmsted _ TEDxUniversityofNevada.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104030-dt-content-rid-104030_1/xid-104030_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104030_1 Rethinking Whole Foods _ Larry Olmsted _ TEDxUniversityofNevada.mp4"
+    },
+    {
+      "name": "Solomon Goldstein-Rose_ How much clean electricity do we really need_ _ TED Countdown.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104031-dt-content-rid-104031_1/xid-104031_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104031_1 Solomon Goldstein-Rose_ How much clean electricity do we really need_ _ TED Countdown.mp4"
+    },
+    {
+      "name": "The Extreme 996 Work Culture in China.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104032-dt-content-rid-104032_1/xid-104032_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104032_1 The Extreme 996 Work Culture in China.mp4"
+    },
+    {
+      "name": "The Magic Of Revision _ Obert Skye _ TEDxIdahoFalls.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104033-dt-content-rid-104033_1/xid-104033_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104033_1 The Magic Of Revision _ Obert Skye _ TEDxIdahoFalls.mp4"
+    },
+    {
+      "name": "The masterpiece of a simple life Maura Malloy TEDxIndianapolis_default.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104034-dt-content-rid-104034_1/xid-104034_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104034_1 The masterpiece of a simple life Maura Malloy TEDxIndianapolis_default.mp4"
+    },
+    {
+      "name": "The next outbreak.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104035-dt-content-rid-104035_1/xid-104035_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104035_1 The next outbreak.mp4"
+    },
+    {
+      "name": "There's more to life than being happy Emily Esfahani Smith_default.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104036-dt-content-rid-104036_1/xid-104036_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104036_1 There's more to life than being happy Emily Esfahani Smith_default.mp4"
+    },
+    {
+      "name": "What makes a city liveable.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104037-dt-content-rid-104037_1/xid-104037_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104037_1 What makes a city liveable.mp4"
+    },
+    {
+      "name": "Why_our_screens_make_us_less_happy___Adam_Alter_default.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104038-dt-content-rid-104038_1/xid-104038_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104038_1 Why_our_screens_make_us_less_happy___Adam_Alter_default.mp4"
+    },
+    {
+      "name": "Why we need to pay attention to Chinese millennials _ Sebastian Guo.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104039-dt-content-rid-104039_1/xid-104039_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104039_1 Why we need to pay attention to Chinese millennials _ Sebastian Guo.mp4"
+    },
+    {
+      "name": "What To Do When Your Parents Are Over Protective.mp4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104040-dt-content-rid-104040_1/xid-104040_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104040_1 What To Do When Your Parents Are Over Protective.mp4"
+    },
+    {
+      "name": "Understanding the Writing Rubric",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104041-dt-content-rid-104041_1/xid-104041_1",
+      "contentFile": "attachment_text/ENG1001_xid-104041_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104041_1 Understanding the Writing Rubric.pdf"
+    },
+    {
+      "name": "2023 EBP Essay Rubric_Personal Essay",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104042-dt-content-rid-104042_1/xid-104042_1",
+      "contentFile": "attachment_text/ENG1001_xid-104042_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104042_1 2023 EBP Essay Rubric_Personal Essay.pdf"
+    },
+    {
+      "name": "2023 EBP Personal Essay Assignment Instructions",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104043-dt-content-rid-104043_1/xid-104043_1",
+      "contentFile": "attachment_text/ENG1001_xid-104043_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "localFile": "attachment_files/xid-104043_1.pdf",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104043_1 2023 EBP Personal Essay Assignment Instructions.pdf"
+    },
+    {
+      "name": "Page number template.docx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104044-dt-content-rid-104044_1/xid-104044_1",
+      "contentFile": "attachment_text/ENG1001_xid-104044_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104044_1 Page number template.docx"
+    },
+    {
+      "name": "Peer Editing Form",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104045-dt-content-rid-104045_1/xid-104045_1",
+      "contentFile": "attachment_text/ENG1001_xid-104045_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104045_1 Peer Editing Form.pdf"
+    },
+    {
+      "name": "2023 EBP Individual Presentation Instructions_FINAL.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104046-dt-content-rid-104046_1/xid-104046_1",
+      "contentFile": "attachment_text/ENG1001_xid-104046_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "localFile": "attachment_files/xid-104046_1.pdf",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104046_1 2023 EBP Individual Presentation Instructions_FINAL.pdf"
+    },
+    {
+      "name": "2023 EBP Rubric for oral presentations",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104047-dt-content-rid-104047_1/xid-104047_1",
+      "contentFile": "attachment_text/ENG1001_xid-104047_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104047_1 2023 EBP Rubric for oral presentations.pdf"
+    },
+    {
+      "name": "Microsoft Text to Speech Instructions",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104048-dt-content-rid-104048_1/xid-104048_1",
+      "contentFile": "attachment_text/ENG1001_xid-104048_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104048_1 Microsoft Text to Speech Instructions.docx"
+    },
+    {
+      "name": "Audio link for textbook READINGS",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104049-dt-content-rid-104049_1/xid-104049_1",
+      "contentFile": "attachment_text/ENG1001_xid-104049_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104049_1 Audio link for textbook READINGS.docx"
+    },
+    {
+      "name": "10 Tips on How to Write Less Badly",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104050-dt-content-rid-104050_1/xid-104050_1",
+      "contentFile": "attachment_text/ENG1001_xid-104050_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104050_1 10 Tips on How to Write Less Badly.docx"
+    },
+    {
+      "name": "Bad Writing and Bad Thinking",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104051-dt-content-rid-104051_1/xid-104051_1",
+      "contentFile": null,
+      "format": "doc",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104051_1 Bad Writing and Bad Thinking.doc"
+    },
+    {
+      "name": "Cambodia Criminalizes Khmer Rouge Atrocity Denial",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104052-dt-content-rid-104052_1/xid-104052_1",
+      "contentFile": "attachment_text/ENG1001_xid-104052_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104052_1 Cambodia Criminalizes Khmer Rouge Atrocity Denial.docx"
+    },
+    {
+      "name": "Cancer From the Kitchen",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104053-dt-content-rid-104053_1/xid-104053_1",
+      "contentFile": null,
+      "format": "doc",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104053_1 Cancer From the Kitchen.doc"
+    },
+    {
+      "name": "Conquering the Wave that No One Dared Surf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104054-dt-content-rid-104054_1/xid-104054_1",
+      "contentFile": "attachment_text/ENG1001_xid-104054_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104054_1 Conquering the Wave that No One Dared Surf.docx"
+    },
+    {
+      "name": "Environmental Prize Goes Unrewarded",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104055-dt-content-rid-104055_1/xid-104055_1",
+      "contentFile": null,
+      "format": "doc",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104055_1 Environmental Prize Goes Unrewarded.doc"
+    },
+    {
+      "name": "Forget What You Know About Good Study Habits",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104056-dt-content-rid-104056_1/xid-104056_1",
+      "contentFile": "attachment_text/ENG1001_xid-104056_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104056_1 Forget What You Know About Good Study Habits.docx"
+    },
+    {
+      "name": "Growing Up Digital, Wired for Distraction",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104057-dt-content-rid-104057_1/xid-104057_1",
+      "contentFile": null,
+      "format": "doc",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104057_1 Growing Up Digital, Wired for Distraction.doc"
+    },
+    {
+      "name": "How a Student Took On Eminent Economists",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104058-dt-content-rid-104058_1/xid-104058_1",
+      "contentFile": "attachment_text/ENG1001_xid-104058_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104058_1 How a Student Took On Eminent Economists.docx"
+    },
+    {
+      "name": "Is Eavesdropping so Wrong?",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104059-dt-content-rid-104059_1/xid-104059_1",
+      "contentFile": "attachment_text/ENG1001_xid-104059_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104059_1 Is Eavesdropping so Wrong_.docx"
+    },
+    {
+      "name": "Is Ecuador Home to the Worlds Best Chocolate?",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104060-dt-content-rid-104060_1/xid-104060_1",
+      "contentFile": "attachment_text/ENG1001_xid-104060_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104060_1 Is Ecuador Home to the Worlds Best Chocolate_.docx"
+    },
+    {
+      "name": "Kung Fu for Philosophers",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104061-dt-content-rid-104061_1/xid-104061_1",
+      "contentFile": null,
+      "format": "doc",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104061_1 Kung Fu for Philosophers.doc"
+    },
+    {
+      "name": "Men and Women Respond Differently to Danger",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104062-dt-content-rid-104062_1/xid-104062_1",
+      "contentFile": null,
+      "format": "doc",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104062_1 Men and Women Respond Differently to Danger.doc"
+    },
+    {
+      "name": "New York Street Food",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104063-dt-content-rid-104063_1/xid-104063_1",
+      "contentFile": null,
+      "format": "doc",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104063_1 New York Street Food.doc"
+    },
+    {
+      "name": "Patricia Travers",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104064-dt-content-rid-104064_1/xid-104064_1",
+      "contentFile": "attachment_text/ENG1001_xid-104064_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104064_1 Patricia Travers.docx"
+    },
+    {
+      "name": "Robot Warriors",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104065-dt-content-rid-104065_1/xid-104065_1",
+      "contentFile": "attachment_text/ENG1001_xid-104065_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104065_1 Robot Warriors.docx"
+    },
+    {
+      "name": "Scientists Crack Cancer Code",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104066-dt-content-rid-104066_1/xid-104066_1",
+      "contentFile": null,
+      "format": "doc",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104066_1 Scientists Crack Cancer Code.doc"
+    },
+    {
+      "name": "Surrendering",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104067-dt-content-rid-104067_1/xid-104067_1",
+      "contentFile": "attachment_text/ENG1001_xid-104067_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104067_1 Surrendering.docx"
+    },
+    {
+      "name": "Taking Regular Breaks from the Desk",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104068-dt-content-rid-104068_1/xid-104068_1",
+      "contentFile": "attachment_text/ENG1001_xid-104068_1.json",
+      "format": "doc",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104068_1 Taking Regular Breaks from the Desk.doc"
+    },
+    {
+      "name": "Ten Hiring Manager Deal Breakers",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104069-dt-content-rid-104069_1/xid-104069_1",
+      "contentFile": null,
+      "format": "doc",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104069_1 Ten Hiring Manager Deal Breakers.doc"
+    },
+    {
+      "name": "The Man Who Forgot Everything",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104070-dt-content-rid-104070_1/xid-104070_1",
+      "contentFile": "attachment_text/ENG1001_xid-104070_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104070_1 The Man Who Forgot Everything.docx"
+    },
+    {
+      "name": "Water Safety Expert Says Drowning Doesn't Just Happen",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104071-dt-content-rid-104071_1/xid-104071_1",
+      "contentFile": "attachment_text/ENG1001_xid-104071_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104071_1 Water Safety Expert Says Drowning Doesn't Just Happen.docx"
+    },
+    {
+      "name": "What Kind of Snake Inspired the Story of Borneo's Dragons",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104072-dt-content-rid-104072_1/xid-104072_1",
+      "contentFile": "attachment_text/ENG1001_xid-104072_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104072_1 What Kind of Snake Inspired the Story of Borneo's Dragons.docx"
+    },
+    {
+      "name": "How to pronounce the R sound",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104073-dt-content-rid-104073_1/xid-104073_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "integrityNote": "Two independent downloads are byte-identical; the declared MP4 media-data length exceeds the available bytes.",
+      "downloadStatus": "repeated_identical_with_warning",
+      "cachePath": "ENG1001/xid-104073_1 How to pronounce the R sound.mp4"
+    },
+    {
+      "name": "How to pronounce the TH sounds.",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104074-dt-content-rid-104074_1/xid-104074_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104074_1 How to pronounce the TH sounds.mp4"
+    },
+    {
+      "name": "How to make the W sound.",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104075-dt-content-rid-104075_1/xid-104075_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104075_1 How to make the W sound.mp4"
+    },
+    {
+      "name": "R and L sounds by comparison",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104076-dt-content-rid-104076_1/xid-104076_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104076_1 R and L sounds by comparison.mp4"
+    },
+    {
+      "name": "R vs. W sounds",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104077-dt-content-rid-104077_1/xid-104077_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104077_1 R vs. W sounds.mp4"
+    },
+    {
+      "name": "English Study Pronunciation What did you do today",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104078-dt-content-rid-104078_1/xid-104078_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104078_1 English Study Pronunciation What did you do today.mp4"
+    },
+    {
+      "name": "How to pronounce to the in a sentence",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104079-dt-content-rid-104079_1/xid-104079_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "integrityNote": "Two independent downloads are byte-identical; the declared MP4 media-data length exceeds the available bytes.",
+      "downloadStatus": "repeated_identical_with_warning",
+      "cachePath": "ENG1001/xid-104079_1 How to pronounce to the in a sentence.mp4"
+    },
+    {
+      "name": "English Sounds - F [f] and V [v] Consonants - How to make the F and V Consonants",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104080-dt-content-rid-104080_1/xid-104080_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104080_1 English Sounds - F [f] and V [v] Consonants - How to make the F and V Consonants.mp4"
+    },
+    {
+      "name": "Learn the IPA -- Consonants -- American English",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104081-dt-content-rid-104081_1/xid-104081_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104081_1 Learn the IPA -- Consonants -- American English.mp4"
+    },
+    {
+      "name": "PPT 14 Conjunctions 2020.pptx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104082-dt-content-rid-104082_1/xid-104082_1",
+      "contentFile": "attachment_text/ENG1001_xid-104082_1.json",
+      "format": "pptx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104082_1 PPT 14 Conjunctions 2020.pptx"
+    },
+    {
+      "name": "Pronouns 2020.pptx",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104083-dt-content-rid-104083_1/xid-104083_1",
+      "contentFile": "attachment_text/ENG1001_xid-104083_1.json",
+      "format": "pptx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104083_1 Pronouns 2020.pptx"
+    },
+    {
+      "name": "SVO_Folsom Cordova Unified School District.ppt",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104084-dt-content-rid-104084_1/xid-104084_1",
+      "contentFile": null,
+      "format": "ppt",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104084_1 SVO_Folsom Cordova Unified School District.ppt"
+    },
+    {
+      "name": "SALL Talk Video Link",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104085-dt-content-rid-104085_1/xid-104085_1",
+      "contentFile": "attachment_text/ENG1001_xid-104085_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104085_1 SALL Talk Video Link.docx"
+    },
+    {
+      "name": "Public Speaking Video Link",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104086-dt-content-rid-104086_1/xid-104086_1",
+      "contentFile": "attachment_text/ENG1001_xid-104086_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104086_1 Public Speaking Video Link.docx"
+    },
+    {
+      "name": "Module I_Speaking_Voice and Language",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104087-dt-content-rid-104087_1/xid-104087_1",
+      "contentFile": "attachment_text/ENG1001_xid-104087_1.json",
+      "format": "pptx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104087_1 Module I_Speaking_Voice and Language.pptx"
+    },
+    {
+      "name": "Module I_ Writing",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104088-dt-content-rid-104088_1/xid-104088_1",
+      "contentFile": null,
+      "format": "ppt",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104088_1 Module I_ Writing.ppt"
+    },
+    {
+      "name": "Module II_Writing_Language",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104089-dt-content-rid-104089_1/xid-104089_1",
+      "contentFile": null,
+      "format": "ppt",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104089_1 Module II_Writing_Language.ppt"
+    },
+    {
+      "name": "Module II_Speaking_Body language",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104090-dt-content-rid-104090_1/xid-104090_1",
+      "contentFile": null,
+      "format": "ppt",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104090_1 Module II_Speaking_Body language.ppt"
+    },
+    {
+      "name": "Module III_Writing_Plagiarism Paraphrasing Direct Quotation",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104091-dt-content-rid-104091_1/xid-104091_1",
+      "contentFile": null,
+      "format": "ppt",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104091_1 Module III_Writing_Plagiarism Paraphrasing Direct Quotation.ppt"
+    },
+    {
+      "name": "Great Writing 5 (Units 1-4)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104092-dt-content-rid-104092_1/xid-104092_1",
+      "contentFile": "attachment_text/ENG1001_xid-104092_1.json",
+      "format": "pdf",
+      "contentStatus": "no_text_layer",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104092_1 Great Writing 5 (Units 1-4).pdf"
+    },
+    {
+      "name": "Great Writing 5 (Units 5-8)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104093-dt-content-rid-104093_1/xid-104093_1",
+      "contentFile": "attachment_text/ENG1001_xid-104093_1.json",
+      "format": "pdf",
+      "contentStatus": "no_text_layer",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104093_1 Great Writing 5 (Units 5-8).pdf"
+    },
+    {
+      "name": "Listening Exam 1 Video",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104094-dt-content-rid-104094_1/xid-104094_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104094_1 Listening Exam 1 Video.mp4"
+    },
+    {
+      "name": "Listening Exam 1 QUIZ",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104095-dt-content-rid-104095_1/xid-104095_1",
+      "contentFile": "attachment_text/ENG1001_xid-104095_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104095_1 Listening Exam 1 QUIZ.docx"
+    },
+    {
+      "name": "Listening Exam 2 Video",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104096-dt-content-rid-104096_1/xid-104096_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104096_1 Listening Exam 2 Video.mp4"
+    },
+    {
+      "name": "Listening Exam 2 QUIZ",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104097-dt-content-rid-104097_1/xid-104097_1",
+      "contentFile": "attachment_text/ENG1001_xid-104097_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104097_1 Listening Exam 2 QUIZ.docx"
+    },
+    {
+      "name": "Listening Exam 3 Video",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104098-dt-content-rid-104098_1/xid-104098_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104098_1 Listening Exam 3 Video.mp4"
+    },
+    {
+      "name": "Listening Exam 3 QUIZ",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104099-dt-content-rid-104099_1/xid-104099_1",
+      "contentFile": "attachment_text/ENG1001_xid-104099_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104099_1 Listening Exam 3 QUIZ.docx"
+    },
+    {
+      "name": "Keys to Listening Exam #1",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104100-dt-content-rid-104100_1/xid-104100_1",
+      "contentFile": "attachment_text/ENG1001_xid-104100_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104100_1 Keys to Listening Exam #1.docx"
+    },
+    {
+      "name": "Keys to Listening Exam #2",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104101-dt-content-rid-104101_1/xid-104101_1",
+      "contentFile": "attachment_text/ENG1001_xid-104101_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104101_1 Keys to Listening Exam #2.docx"
+    },
+    {
+      "name": "Keys to Listening Exam #3",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104102-dt-content-rid-104102_1/xid-104102_1",
+      "contentFile": "attachment_text/ENG1001_xid-104102_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104102_1 Keys to Listening Exam #3.docx"
+    },
+    {
+      "name": "Should British universities worry about a lack of Nobel Prizes in the 21st century_.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104103-dt-content-rid-104103_1/xid-104103_1",
+      "contentFile": "attachment_text/ENG1001_xid-104103_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104103_1 Should British universities worry about a lack of Nobel Prizes in the 21st century_.pdf"
+    },
+    {
+      "name": "The office is dead! Long live the office in a post-pandemic world.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104104-dt-content-rid-104104_1/xid-104104_1",
+      "contentFile": "attachment_text/ENG1001_xid-104104_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104104_1 The office is dead! Long live the office in a post-pandemic world.pdf"
+    },
+    {
+      "name": "New school planned by Dr. Dre and Jimmy Iovine seeks to teach blend of skills to prepare students for real-world jobs.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104105-dt-content-rid-104105_1/xid-104105_1",
+      "contentFile": "attachment_text/ENG1001_xid-104105_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104105_1 New school planned by Dr. Dre and Jimmy Iovine seeks to teach blend of skills to prepare studen.pdf"
+    },
+    {
+      "name": "S-R_High 1.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104106-dt-content-rid-104106_1/xid-104106_1",
+      "contentFile": "attachment_text/ENG1001_xid-104106_1.json",
+      "format": "pdf",
+      "contentStatus": "no_text_layer",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104106_1 S-R_High 1.pdf"
+    },
+    {
+      "name": "S-R_High 2.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104107-dt-content-rid-104107_1/xid-104107_1",
+      "contentFile": "attachment_text/ENG1001_xid-104107_1.json",
+      "format": "pdf",
+      "contentStatus": "no_text_layer",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104107_1 S-R_High 2.pdf"
+    },
+    {
+      "name": "S-R_High 3.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104108-dt-content-rid-104108_1/xid-104108_1",
+      "contentFile": "attachment_text/ENG1001_xid-104108_1.json",
+      "format": "pdf",
+      "contentStatus": "no_text_layer",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104108_1 S-R_High 3.pdf"
+    },
+    {
+      "name": "Ethos, Pathos & Logos I",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104109-dt-content-rid-104109_1/xid-104109_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104109_1 Ethos, Pathos & Logos I.mp4"
+    },
+    {
+      "name": "Ethos, Pathos, and Logos II",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104110-dt-content-rid-104110_1/xid-104110_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104110_1 Ethos, Pathos, and Logos II.mp4"
+    },
+    {
+      "name": "Examples of ethos, pathos, and logos I",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104111-dt-content-rid-104111_1/xid-104111_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104111_1 Examples of ethos, pathos, and logos I.mp4"
+    },
+    {
+      "name": "Examples of Ethos, Pathos, and Logos II",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104112-dt-content-rid-104112_1/xid-104112_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104112_1 Examples of Ethos, Pathos, and Logos II.mp4"
+    },
+    {
+      "name": "Speak to me in a language I can understand",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104113-dt-content-rid-104113_1/xid-104113_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104113_1 Speak to me in a language I can understand.mp4"
+    },
+    {
+      "name": "Module III_Speaking_Content",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104114-dt-content-rid-104114_1/xid-104114_1",
+      "contentFile": "attachment_text/ENG1001_xid-104114_1.json",
+      "format": "pptx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104114_1 Module III_Speaking_Content.pptx"
+    },
+    {
+      "name": "Tell me a human story",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104115-dt-content-rid-104115_1/xid-104115_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104115_1 Tell me a human story.mp4"
+    },
+    {
+      "name": "Different sources in APA styles (in the reference list)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104116-dt-content-rid-104116_1/xid-104116_1",
+      "contentFile": "attachment_text/ENG1001_xid-104116_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104116_1 Different sources in APA styles (in the reference list).pdf"
+    },
+    {
+      "name": "Modul IV_Writing_Finding Quality Sources and APA Citation Style",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104117-dt-content-rid-104117_1/xid-104117_1",
+      "contentFile": null,
+      "format": "ppt",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104117_1 Modul IV_Writing_Finding Quality Sources and APA Citation Style.pptx"
+    },
+    {
+      "name": "Mind-blowing PowerPoint - Creating Effective Visual Presentations",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104118-dt-content-rid-104118_1/xid-104118_1",
+      "contentFile": null,
+      "format": "mp4",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104118_1 Mind-blowing PowerPoint - Creating Effective Visual Presentations.mp4"
+    },
+    {
+      "name": "Module IV_Speaking_Visual Aids",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-104119-dt-content-rid-104119_1/xid-104119_1",
+      "contentFile": null,
+      "format": "ppt",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "ENG1001/xid-104119_1 Module IV_Speaking_Visual Aids.ppt"
+    }
+  ],
+  "MAT1001": [
+    {
+      "name": "MAT1001 Course Outline AY2023 24 Term 1",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101000-dt-content-rid-101000_1/xid-101000_1",
+      "contentFile": "attachment_text/MAT1001_xid-101000_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101000_1 MAT1001 Course Outline AY2023 24 Term 1.pdf"
+    },
+    {
+      "name": "Week 1",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101001-dt-content-rid-101001_1/xid-101001_1",
+      "contentFile": "attachment_text/MAT1001_xid-101001_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101001_1 Week 1.docx"
+    },
+    {
+      "name": "Slides Chap 1",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101002-dt-content-rid-101002_1/xid-101002_1",
+      "contentFile": "attachment_text/MAT1001_xid-101002_1.json",
+      "format": "ppt",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101002_1 Slides Chap 1.ppt"
+    },
+    {
+      "name": "Slides Chap 2",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101003-dt-content-rid-101003_1/xid-101003_1",
+      "contentFile": "attachment_text/MAT1001_xid-101003_1.json",
+      "format": "ppt",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101003_1 Slides Chap 2.ppt"
+    },
+    {
+      "name": "Slides Chap 3",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101004-dt-content-rid-101004_1/xid-101004_1",
+      "contentFile": "attachment_text/MAT1001_xid-101004_1.json",
+      "format": "ppt",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101004_1 Slides Chap 3.ppt"
+    },
+    {
+      "name": "Week 2",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101005-dt-content-rid-101005_1/xid-101005_1",
+      "contentFile": "attachment_text/MAT1001_xid-101005_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101005_1 Week 2.docx"
+    },
+    {
+      "name": "TA Office Hours",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101006-dt-content-rid-101006_1/xid-101006_1",
+      "contentFile": null,
+      "format": "xlsx",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101006_1 TA Office Hours.xlsx"
+    },
+    {
+      "name": "Week 3",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101007-dt-content-rid-101007_1/xid-101007_1",
+      "contentFile": "attachment_text/MAT1001_xid-101007_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101007_1 Week 3.docx"
+    },
+    {
+      "name": "Week 4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101008-dt-content-rid-101008_1/xid-101008_1",
+      "contentFile": "attachment_text/MAT1001_xid-101008_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101008_1 Week 4.docx"
+    },
+    {
+      "name": "Slides Chap 4",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101009-dt-content-rid-101009_1/xid-101009_1",
+      "contentFile": "attachment_text/MAT1001_xid-101009_1.json",
+      "format": "ppt",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101009_1 Slides Chap 4.ppt"
+    },
+    {
+      "name": "Slides Chap 5",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101010-dt-content-rid-101010_1/xid-101010_1",
+      "contentFile": "attachment_text/MAT1001_xid-101010_1.json",
+      "format": "ppt",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101010_1 Slides Chap 5.ppt"
+    },
+    {
+      "name": "Week 5",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101011-dt-content-rid-101011_1/xid-101011_1",
+      "contentFile": "attachment_text/MAT1001_xid-101011_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101011_1 Week 5.docx"
+    },
+    {
+      "name": "Some notes on concavity 1 (optional)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101012-dt-content-rid-101012_1/xid-101012_1",
+      "contentFile": null,
+      "format": "png",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101012_1 Some notes on concavity 1 (optional).png"
+    },
+    {
+      "name": "Some notes on concavity 2 (optional)",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101013-dt-content-rid-101013_1/xid-101013_1",
+      "contentFile": null,
+      "format": "png",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101013_1 Some notes on concavity 2 (optional).png"
+    },
+    {
+      "name": "Week 6",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101014-dt-content-rid-101014_1/xid-101014_1",
+      "contentFile": "attachment_text/MAT1001_xid-101014_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101014_1 Week 6.docx"
+    },
+    {
+      "name": "Midterm 2022",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101015-dt-content-rid-101015_1/xid-101015_1",
+      "contentFile": "attachment_text/MAT1001_xid-101015_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101015_1 Midterm 2022.pdf"
+    },
+    {
+      "name": "Midterm seat assignments for L09 and L10",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101016-dt-content-rid-101016_1/xid-101016_1",
+      "contentFile": null,
+      "format": "pdf",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101016_1 Midterm seat assignments for L09 and L10.pdf"
+    },
+    {
+      "name": "Midterm Information 2023",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101017-dt-content-rid-101017_1/xid-101017_1",
+      "contentFile": "attachment_text/MAT1001_xid-101017_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101017_1 Midterm Information 2023.pdf"
+    },
+    {
+      "name": "Week 7",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101018-dt-content-rid-101018_1/xid-101018_1",
+      "contentFile": "attachment_text/MAT1001_xid-101018_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101018_1 Week 7.docx"
+    },
+    {
+      "name": "SSE student help",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101019-dt-content-rid-101019_1/xid-101019_1",
+      "contentFile": null,
+      "format": "jpg",
+      "contentStatus": "metadata_only",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101019_1 SSE student help.jpg"
+    },
+    {
+      "name": "Week 8",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101020-dt-content-rid-101020_1/xid-101020_1",
+      "contentFile": "attachment_text/MAT1001_xid-101020_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101020_1 Week 8.docx"
+    },
+    {
+      "name": "Midterm 2022 Solutions",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101021-dt-content-rid-101021_1/xid-101021_1",
+      "contentFile": "attachment_text/MAT1001_xid-101021_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101021_1 Midterm 2022 Solutions.pdf"
+    },
+    {
+      "name": "Midterm 2023 solutions",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101022-dt-content-rid-101022_1/xid-101022_1",
+      "contentFile": "attachment_text/MAT1001_xid-101022_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101022_1 Midterm 2023 solutions.pdf"
+    },
+    {
+      "name": "Week 9",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101023-dt-content-rid-101023_1/xid-101023_1",
+      "contentFile": "attachment_text/MAT1001_xid-101023_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101023_1 Week 9.docx"
+    },
+    {
+      "name": "Week 10",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101024-dt-content-rid-101024_1/xid-101024_1",
+      "contentFile": "attachment_text/MAT1001_xid-101024_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101024_1 Week 10.docx"
+    },
+    {
+      "name": "Week 11",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101025-dt-content-rid-101025_1/xid-101025_1",
+      "contentFile": "attachment_text/MAT1001_xid-101025_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101025_1 Week 11.docx"
+    },
+    {
+      "name": "Reference material",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101026-dt-content-rid-101026_1/xid-101026_1",
+      "contentFile": "attachment_text/MAT1001_xid-101026_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101026_1 Reference material.pdf"
+    },
+    {
+      "name": "Week 12",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101027-dt-content-rid-101027_1/xid-101027_1",
+      "contentFile": "attachment_text/MAT1001_xid-101027_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101027_1 Week 12.docx"
+    },
+    {
+      "name": "Week 13",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101028-dt-content-rid-101028_1/xid-101028_1",
+      "contentFile": "attachment_text/MAT1001_xid-101028_1.json",
+      "format": "docx",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101028_1 Week 13.docx"
+    },
+    {
+      "name": "Assignment 1-copy",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101029-dt-content-rid-101029_1/xid-101029_1",
+      "contentFile": "attachment_text/MAT1001_xid-101029_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101029_1 Assignment 1-copy.pdf"
+    },
+    {
+      "name": "MAT1001 Final 2022.pdf",
+      "sourceUrl": "https://bb.example.invalid/bbcswebdav/pid-101030-dt-content-rid-101030_1/xid-101030_1",
+      "contentFile": "attachment_text/MAT1001_xid-101030_1.json",
+      "format": "pdf",
+      "contentStatus": "text_extracted",
+      "downloadStatus": "verified",
+      "cachePath": "MAT1001/xid-101030_1 MAT1001 Final 2022.pdf"
+    }
+  ]
+}

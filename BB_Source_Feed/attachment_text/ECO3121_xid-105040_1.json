@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "    ECO 3121 Simple Linear Regression Model\n\n\n\n               TA Group\n\n\n        The Chinese University of Hong Kong, Shenzhen\n\n\n                    September 23, 2024\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 23, 2024           1 / 18"
+    },
+    {
+      "page": 2,
+      "text": "Contents\n\n\n\n\n1  Simple Linear Regression\n      Definition\n     Casual Interpretation\n\n\n2  Ordinary Least Square (OLS) Estimation\n      Derivation\n      Properties\n     Standard Assumptions\n\n\n3  Goodness of fit\n      Statistical terms\n     R-squared\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024           2 / 18"
+    },
+    {
+      "page": 3,
+      "text": "                             Simple Linear Regression\n\n\n\n\n\n             Simple Linear Regression\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 23, 2024           3 / 18"
+    },
+    {
+      "page": 4,
+      "text": "                                              Simple Linear Regression    Definition\n\nSimple Linear Regression\n\n\n\n\nSimple Linear Regression is a statistical technique that uses one explanatory\nvariable X to predict the outcome of a dependent variable Y\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024           4 / 18"
+    },
+    {
+      "page": 5,
+      "text": "                                              Simple Linear Regression    Casual Interpretation\n\nCeteris paribus effect\n\n\n\n\n\n     Holding other factors fixed, how y changes when x changes\n\n    Zero Conditional Mean Independence: E(u|x) = E(u) = 0\n           Implies:\n         Cov(x, u) = E(xu) = 0\n         E(y|x) = β0 + β1x + E(u|x) = β0 + β1x\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024           5 / 18"
+    },
+    {
+      "page": 6,
+      "text": "                Ordinary Least Square (OLS) Estimation\n\n\n\n\n\n      Ordinary Least Square (OLS) Estimation\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 23, 2024           6 / 18"
+    },
+    {
+      "page": 7,
+      "text": "                                 Ordinary Least Square (OLS) Estimation    Derivation\n\nMinimize the sum of squared residuals\n\n\n\nFind (ˆβ0, ˆβ1) to minimize the sum of the squared residuals ˆu2i\n\n\n                                     n\n                       min            X ˆu2i                                                           ˆβ0, ˆβ1\n                                          i=1\n\n                               n\n                  min          X(yi −ˆβ0 −ˆβ1xi)2                                               ˆβ0, ˆβ1\n                                   i=1\n\nMathematical theorem: The partial derivatives of the extremum point of the\ncontinuous differentiable function are 0.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024           7 / 18"
+    },
+    {
+      "page": 8,
+      "text": "                                 Ordinary Least Square (OLS) Estimation    Derivation\n\nMathematical derivation\n\n\n\nAt the minimum point of the function L(ˆβ0, ˆβ1):\n     ∂L = −2 Pni=1(yi −ˆβ0 −ˆβ1xi) = 0       ∂ˆβ0\n     ∂L = −2 Pni=1 xi(yi −ˆβ0 −ˆβ1xi) = 0       ∂ˆβ1\n\n\nwe derive:\n\n                  Pni=1(xi −x)(yi −y)                                    ˆβ1 =\n                    Pni=1(xi −x)2\n\n                                             ˆβ0 = y −ˆβ1x\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024           8 / 18"
+    },
+    {
+      "page": 9,
+      "text": "                                 Ordinary Least Square (OLS) Estimation    Derivation\n\nThe method of moment\n\n\n\n\nFor the population regression model, there are two population moment conditions\nwhen the SLR. assumptions have been satisfied.\n\n    E(u) = 0\n\n    Cov(x, u) = E(xu) = 0\nChoose the ˆβ0, ˆβ1 to solve the sample counterparts of above equations.\n\nThen we have the first order conditions (F.O.C.):\n    n−1 Pni=1(yi −ˆβ0 −ˆβ1xi) = 0\n    n−1 Pni=1 xi(yi −ˆβ0 −ˆβ1xi) = 0\n\n\nThe estimation results are the same as the results of OLS estimation solved by the\nalgebraic method.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024           9 / 18"
+    },
+    {
+      "page": 10,
+      "text": "                                 Ordinary Least Square (OLS) Estimation    Properties\n\nProperties of OLS estimation\n\n\n\n\n     Fitted(or predicted) values:ˆyi = ˆβ0 + ˆβ1xi\n      Residuals:ˆui = yi −ˆyi\n     Estimator:ˆβ1 = △x△ˆy\n     Algebraic properties of OLS statistics:\n      Pni=1 ˆui = 0\n      Pni=1 xiˆui = 0\n          point (x, y) is always on the OLS regression line\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024          10 / 18"
+    },
+    {
+      "page": 11,
+      "text": "                                 Ordinary Least Square (OLS) Estimation    Standard Assumptions\n\nAssumptions SLR.1-SLR.4\n\n\n\n\n\nSLR.1 (Linear in Parameters)\n    y = β0 + β1x + u\n\nSLR.2 (Random Sampling)\n    random sample {(xi, yi) : i = 1, 2, ..., n}\n\nSLR.3 (Sample Variation in the Explanatory Variable)\n     xi, i = 1, 2, ..., n, are not all the same value\n   Pni=1(xi −x)2 > 0\nSLR.4 (Zero Conditional Mean)\n    E(u|x) = 0\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024          11 / 18"
+    },
+    {
+      "page": 12,
+      "text": "                                 Ordinary Least Square (OLS) Estimation    Standard Assumptions\n\nUnbiasedness of OLS\n\n\n\nTheorem 2.1: Unbiasedness of OLS\n\n     under SLR.1-SLR.4\n     E(ˆβ1) = β1, E(ˆβ0) = β0\n\nExpected value of ˆβ1\n                = β1 + Pni=1 wiui       ˆβ1 = β1 + Pni=1(xi−x)uiSSTx\n     E(ˆβ1) = β1 + Pni=1 E(wiui) = β1 + Pni=1 wiE(ui) = β1\n\nExpected value of ˆβ0\n       ˆβ0 = y −ˆβ1x = β0 + β1x + u −ˆβ1x = β0 + (β1 −ˆβ1)x + u\n     E(ˆβ0) = β0 + E[(β1 −ˆβ1)x] + E(u) = β0\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024          12 / 18"
+    },
+    {
+      "page": 13,
+      "text": "                                 Ordinary Least Square (OLS) Estimation    Standard Assumptions\n\nVaraince of the OLS estimators\n\n\nSLR.5 (Homoskedasticity/Constant Variance)\n    V ar(ui|xi) = σ2\n\n\nTheorem 2.2 (Sampling Variances of the OLS Estimators)\n\n     under SLR.1-SLR.5\n                      σ2          σ2\n    V ar(ˆβ1) = Pni=1(xi−x)2 = SSTx\n                σ2n−1 Pni=1 x2i    V ar(ˆβ0) =    SSTx\n\n\nProof:\n    V ar(ˆβ1) = V ar(Pni=1 wiui) = Pni=1 w2i V ar(ui)\n        = σ2 Pni=1 w2i = Pni=1(xi−x)2σ2\n     please see the calculation for V ar(ˆβ0) in the annex.\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024          13 / 18"
+    },
+    {
+      "page": 14,
+      "text": "                                 Ordinary Least Square (OLS) Estimation    Standard Assumptions\n\nEstimate standard error of regression\n\n\n\n\nDefinition:\n     √       q Pni=1 ˆu2i  q SSR\n        ˆσ =   ˆσ2 =    n−2 =   n−2\n\n\nTheorem 2.3 (Unbiased Estimator of σ2)\n\n     under SLR.1-SLR.5\n     E(ˆσ2) = σ2\n\nStandard deviation of ˆβ1: sd(ˆβ1) =   σ                              √SSTx\nStandard error of ˆβ1: se(ˆβ1) =      ˆσ                          √SSTx\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024          14 / 18"
+    },
+    {
+      "page": 15,
+      "text": "                                    Goodness of fit\n\n\n\n\n\n                Goodness of fit\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 23, 2024          15 / 18"
+    },
+    {
+      "page": 16,
+      "text": "                                                   Goodness of fit    Statistical terms\n\nSST,SSE,SSR\n\n\n\n\nTotal sum of squares(SST):\n   SST ≡Pni=1(yi −y)2\n\n\nExplained sum of squares (SSE):\n   SSE ≡Pni=1(ˆyi −y)2\n\n\nResidual sum of squares (SSR):\n   SSR ≡Pni=1 ˆu2i\n\n\nProperty: SST=SSE+SSR\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024          16 / 18"
+    },
+    {
+      "page": 17,
+      "text": "                                                   Goodness of fit    R-squared\n\nR-squared(coefficient of determination)\n\n\n\n\n\nDefinition:\n\n     the fraction of the sample variation in y that is explained by x.\n    R2 ≡SSESST = 1 −SSRSST\n\n\nProperties:\n    0 ⩽R2 ⩽1\n   SSE ⩽SST\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 23, 2024          17 / 18"
+    },
+    {
+      "page": 18,
+      "text": "                                 Acknowledgement\n\n\n\n\n      Thank you!\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 23, 2024          18 / 18"
+    }
+  ]
+}

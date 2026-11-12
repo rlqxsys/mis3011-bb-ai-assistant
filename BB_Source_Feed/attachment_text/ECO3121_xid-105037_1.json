@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "            ECO 3121 TUT1\n\n\n               TA Group\n\n\n        The Chinese University of Hong Kong, Shenzhen\n\n\n                     September 9, 2024\n\n\n\n\n\nTA Group                                CUHK(SZ)                               September 9, 2024           1 / 22"
+    },
+    {
+      "page": 2,
+      "text": "Contents\n\n\n\n\n\n1  Basic information\n\n\n\n\n2  Introduction to Stata\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024           2 / 22"
+    },
+    {
+      "page": 3,
+      "text": "                                      Basic information\n\n\n\n\n\n                 Basic information\n\n\n\n\n\nTA Group                                CUHK(SZ)                               September 9, 2024           3 / 22"
+    },
+    {
+      "page": 4,
+      "text": "                                                       Basic information\n\nContact\n\n\n\n\n\n     Contact email:\n        Ming LI (Prof.): liming2020@ cuhk.edu.cn\n         Zehao LU (TA): [email]\n          Yuxin Yang (Grader): 220022103@ link.cuhk.edu.cn\n         Di WU (USTF): [student ID]@ link.cuhk.edu.cn\n         Nuoyan ZENG (USTF): [student ID]@ link.cuhk.edu.cn\n    Oﬀice Hour:\n        Ming LI (Prof.): Thu. 11am-12am. Zhiren 617A\n         Zehao LU (TA): Tue. 5pm-6pm. Zhiren 321\n         Di WU (USTF): Thu. 5pm-6pm. Start-up Zone Library 103\n         Nuoyan ZENG (USTF): Fri. 10am-11am. Start-up Zone Library 103\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024           4 / 22"
+    },
+    {
+      "page": 5,
+      "text": "                                                       Basic information\n\nTutorial\n\n\n\n\n\n    T05: Wed. 7:00 pm-7:50 pm Teaching X, Room B201 (Nuoyan ZENG)\n\n    T06: Wed. 8:00 pm-8:50 pm Teaching X, Room B201 (Zehao LU)\n    T07: Thu. 7:00 pm-7:50 pm Teaching X, Room B201 (Zehao LU)\n\n    T08: Thu. 8:00 pm-8:50 pm Teaching X, Room B201 (Di WU)\n\nFor each session of the tutorial, we will present the same content. So you only\nneed to attend one of them every week.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024           5 / 22"
+    },
+    {
+      "page": 6,
+      "text": "                                    Introduction to Stata\n\n\n\n\n\n                Introduction to Stata\n\n\n\n\n\nTA Group                                CUHK(SZ)                               September 9, 2024           6 / 22"
+    },
+    {
+      "page": 7,
+      "text": "                                                      Introduction to Stata\n\nWhy Stata?\n\n\n\n\n\nStata (/’steIt@/ ) is a general-purpose statistical software package developed by\nStataCorp.\n\n   A powerful statistical software that enables users to analyze, manage, and\n     produce graphical visualizations of data.\n\n     Despite not being open-source, Stata offers an extensive range of oﬀicial and\n     user-written commands.\n\n     Widely used for academic research, especially in the field of economics and\n     finance. See paper replication packages at AEA website.\n\n    Other advantages are fast, accurate, and easy to use.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024           7 / 22"
+    },
+    {
+      "page": 8,
+      "text": "                                                      Introduction to Stata\n\nComparison with other statistical software\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024           8 / 22"
+    },
+    {
+      "page": 9,
+      "text": "                                                      Introduction to Stata\n\nInterface\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024           9 / 22"
+    },
+    {
+      "page": 10,
+      "text": "                                                      Introduction to Stata\n\nStata file format\n\n\n\n\n\n     Stata works with 3 key file formats that are integral to its data management\n    and analysis processes\n          “.dta” files: store datasets in Stata’s native format\n          “.do” files: scripts that contain a series of Stata commands\n         “.ado” files: define custom commands or programs to extend Stata’s\n           functionality\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          10 / 22"
+    },
+    {
+      "page": 11,
+      "text": "                                                      Introduction to Stata\n\nFirst steps: create your do-file\n\n\n     Write all your codes in the do-file editor. Do not click the manual or write\n     your command in the interface frequently\n     Press ”Ctrl+D” to run the selected command\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          11 / 22"
+    },
+    {
+      "page": 12,
+      "text": "                                                      Introduction to Stata\n\nFirst steps: working directory\n\n\n\n\n\n    To see your working directory, type:\n\n                             pwd\n\n    To change the working directory to avoid typing the whole path when calling\n     or saving files, type:\n\n                             cd “c:\\my path”\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          12 / 22"
+    },
+    {
+      "page": 13,
+      "text": "                                                      Introduction to Stata\n\nFirst steps: log file\n\n\n\n\nCreate a log file, sort of Stata’s built-in tape recorder and where you can:\n1) retrieve the output of your work and 2) keep a record of your work.\n\n    To create a log file, type:\n\n                                log using mylog.log\n\n     This will create the file ’mylog.log’ in your working directory. You can read it\n     using any word processor (notepad, word, etc.).\n\n    To close a log file, type:\n\n                                      log close\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          13 / 22"
+    },
+    {
+      "page": 14,
+      "text": "                                                      Introduction to Stata\n\nOpening/saving Stata files (*.dta)\n\n\n\nTo open files already in Stata with the extension *.dta, run Stata and you can\neither:\n    Go to file→open in the menu, or\n    Type\n\n                       use “c:\\mydata\\mydatafile.dta”\n\n       If your working directory is already set to c:\\mydata, just type\n\n                             use “mydatafile”,clear\n\n    To save a data file from Stata go to file –save as or just type:\n\n                           save “my datafile”,replace\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          14 / 22"
+    },
+    {
+      "page": 15,
+      "text": "                                                      Introduction to Stata\n\nImport data\n\n\n\n\nStata has two major ways to import data in other formats\n\n     Import CSV or Excel file in your do-file editor (strongly recommended!)\n\n    Copy and paste in ”Data Editor”\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          15 / 22"
+    },
+    {
+      "page": 16,
+      "text": "                                                      Introduction to Stata\n\nData structure\n\n\n\nTo see the whole picture of data,\n\n    Type\n\n                                          edit\n\n     Click ”Data Editor”\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          16 / 22"
+    },
+    {
+      "page": 17,
+      "text": "                                                      Introduction to Stata\n\nVariable type\n\nStata has a color-coded system for each type. Black is for numbers, red is for text\nor string and blue is for labeled variables\n     For numeric variables, you can do any statistical procedure with this variable\n     For string variables, even though you see numbers, you can’t do any\n      statistical procedure with this variable other than simple frequencies\n     For labeled variables, you can do any statistical procedure\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          17 / 22"
+    },
+    {
+      "page": 18,
+      "text": "                                                      Introduction to Stata\n\nFrequently used commands\n\n\n\n\n\n     tostring, destring: change numerical (string) variable to string (numerical)\n     variable\n\n     describe: describe variable names, storage type, display format, label\n\n    summarize: mean, std, min, max\n\n     tabulate: frequency of value\n\n    rename: rename variable\n\n     generate: generate new variable\n\n    keep, drop: keep or drop variables\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          18 / 22"
+    },
+    {
+      "page": 19,
+      "text": "                                                      Introduction to Stata\n\nWhen you encounter some problems: help file\n\n    Help file is always your best teacher!!! just type ”help + command”, for\n    example\n\n                                   help regress\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          19 / 22"
+    },
+    {
+      "page": 20,
+      "text": "                                                      Introduction to Stata\n\nWhen you encounter some problems: book\n\n\n    Baum, Christopher F. An introduction to Stata programming. Vol. 2.\n     College Station, TX: Stata Press, 2009.\n\n    Whether you are a beginner or an experienced Stata user, you will gain a lot\n    from reading this book.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          20 / 22"
+    },
+    {
+      "page": 21,
+      "text": "                                                      Introduction to Stata\n\nWhen you encounter some problems: online resource\n\n    Other excellent online learning resources:\n           English: The Stata Forum\n          Chinese: WeChat Oﬀicial Account: ”RStata”, ” 连享会”\n     Just Google it or ask ChatGPT.\n\n\n\n\n\n                            (a) 连享会                   (b) RStata\n\n\n\n            TA Group                                CUHK(SZ)                               September 9, 2024          21 / 22"
+    },
+    {
+      "page": 22,
+      "text": "                                 Acknowledgement\n\n\n\n\n      Thank you!\n\n\n\n\n\nTA Group                                CUHK(SZ)                               September 9, 2024          22 / 22"
+    }
+  ]
+}

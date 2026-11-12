@@ -1,0 +1,120 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "uctory Econometrics"
+    },
+    {
+      "page": 2,
+      "text": "The expected value of the OLS Estimators"
+    },
+    {
+      "page": 3,
+      "text": "The expected value of the OLS Estimators\n\n\n  • Omitted variable bias\n                                                                                      If x1 and x2 are correlated, assume a linear\n                                                    regression relationship between them\n\n\n\n\n\n                If y is only regressed                If y is only regressed                 error term\n        on x1 this will be the        on x1, this will be the\n          estimated intercept          estimated slope on x1\n  • Conclusion: All estimated coefficients will be\n   biased"
+    },
+    {
+      "page": 4,
+      "text": "The expected value of the OLS Estimators"
+    },
+    {
+      "page": 5,
+      "text": "The expected value of the OLS Estimators"
+    },
+    {
+      "page": 6,
+      "text": "The expected value of the OLS Estimators\n\n\n  • Example: Omitting ability in a wage equation\n\n\n\n\n\n                                                                             Will both be positive\n\n\n\n\n\n              The return to education    will be overestimated because                     . It will look\n                as if people with many years of education earn very high wages, but this is partly\n              due to the fact that people with more education are also more able on average.\n  • When is there no omitted variable bias?\n       • If the omitted variable is irrelevant or uncorrelated"
+    },
+    {
+      "page": 7,
+      "text": "The expected value of the OLS Estimators\n\n  • Omitted variable bias: more general cases\n\n\n                                                                  True model (contains x1, x2, and x3)\n\n\n                                                        Estimated model (x3 is omitted)\n       • No general statements possible about direction of\n       bias\n       • Analysis as in simple case if one regressor\n       uncorrelated with others\n  • Example: Omitting ability in a wage equation\n\n\n\n                      If exper is approximately uncorrelated with educ and abil, then the direction\n              of the omitted variable bias can be as analyzed in the simple two variable case."
+    },
+    {
+      "page": 8,
+      "text": "Example"
+    },
+    {
+      "page": 9,
+      "text": "Example"
+    },
+    {
+      "page": 10,
+      "text": "Example"
+    },
+    {
+      "page": 11,
+      "text": "Example"
+    },
+    {
+      "page": 12,
+      "text": ""
+    },
+    {
+      "page": 13,
+      "text": "Summary"
+    },
+    {
+      "page": 14,
+      "text": "The variance of the OLS Estimators\n\n  • Standard assumptions for the multiple\n   regression model (cont.)\n  • Assumption MLR.5 (Homoskedasticity)\n                                                   The value of the explanatory variables\n                                                   must contain no information about the\n                                                            variance of the unobserved factors\n  • Example: Wage equation\n\n                                                                       This assumption may also be hard\n                                                                    to justify in many cases\n\n  • Short hand notation                             All explanatory variables are\n                                                                       collected in a random vector\n\n                             with"
+    },
+    {
+      "page": 15,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 16,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 17,
+      "text": "The variance of the OLS Estimators\n  • Theorem 3.2 (Sampling variances of the OLS\n   slope estimators)\n       Under assumptions MLR.1 – MLR.5:\n\n\n\n                                                       Variance of the error term\n\n\n\n\n\n             Total sample variation in               R-squared from a regression of explanatory variable xj\n            explanatory variable xj:               on all other independent variables\n                                                        (including a constant)"
+    },
+    {
+      "page": 18,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 19,
+      "text": "The variance of the OLS Estimators\n\n   • Components of OLS Variances:\n   • 1) The error variance\n        • A high error variance increases the sampling variance because\n        there is more “noise” in the equation\n        • A large error variance necessarily makes estimates imprecise\n        • The error variance does not decrease with sample size\n   • 2) The total sample variation in the explanatory variable\n        • More sample variation leads to more precise estimates\n        • Total sample variation automatically increases with the sample size\n        • Increasing the sample size is thus a way to get more precise\n        estimates"
+    },
+    {
+      "page": 20,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 21,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 22,
+      "text": "The variance of the OLS Estimators\n\n  • An example for multicollinearity\n\n\n\n Average standardized            Expenditures        Expenditures for in-        Other ex-\n  test score of school                 for teachers          structional materials        penditures\n\n\n\n\n\n      The different expenditure categories will be strongly correlated because if a school has a lot of\n        resources it will spend a lot on everything.\n\n            It will be hard to estimate the differential effects of different expenditure categories because all\n       expenditures are either high or low. For precise estimates of the differential effects, one would\n      need information about situations where expenditure categories change differentially.\n\n       As a consequence, sampling variance of the estimated effects will be large."
+    },
+    {
+      "page": 23,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 24,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 25,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 26,
+      "text": "The variance of the OLS Estimators\n\n  • Variances in misspecified models\n        • The choice of whether to include a particular variable in a\n        regression can be made by analyzing the tradeoff\n       between bias and variance\n\n\n                                                                  True population model\n\n\n\n\n                                                              Estimated model 1\n\n\n\n                                                  Estimated model 2\n        •  It might be the case that the likely omitted variable bias in\n        the misspecified model 2 is overcompensated by a smaller\n        variance"
+    },
+    {
+      "page": 27,
+      "text": "The variance of the OLS Estimators\n\n\n • Variances in misspecified models (cont.)\n\n\n                                                                      Conditional on x1 and x2, the\n                                                                      variance in model 2 is always\n                                                                        smaller than that in model 1\n\n\n\n\n                                        Conclusion: Do not include irrelevant regressors • Case 1:\n\n • Case 2:       Trade off bias and variance; Caution: bias will not vanish even in large samples"
+    },
+    {
+      "page": 28,
+      "text": "The variance of the OLS Estimators\n\n  • Estimating the error variance\n\n\n\n\n\n     An unbiased estimate of the error variance can be obtained by substracting the number of\n       estimated regression coefficients from the number of observations. The number of obser-\n       vations minus the number of estimated parameters is also called the degrees of freedom. The n\n       estimated squared residuals in the sum are not completely independent but related\n       through the k+1 equations that define the first order conditions of the minimization problem.\n\n\n  • Theorem 3.3 (Unbiased estimator of the error\n   variance)"
+    },
+    {
+      "page": 29,
+      "text": "The variance of the OLS Estimators\n\n   • Estimation of the sampling variances of the OLS\n    estimators\n\n The true sampling\n  variation of the\n  estimated\n\n\n\n\n\n                                      Plug in    for the unknown\n\n\n  The estimated samp-\n  ling variation of the\n  estimated\n\n   • Note that these formulas are only valid under\n   assumptions  MLR.1-MLR.5 (in particular, there has to\n   be homoskedasticity)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "paragraphs": [
+    "Week 11 (Nov 20 – 24, Lectures 21 and 22) Teaching and Learning",
+    "",
+    "Topics",
+    "",
+    "7.8 Relative rates of growth (continued from Week 10 if unfinished): comparing growth rates of functions and formal definitions; big-O and little-o notation; a technique for computing limits of products of quotients by replacing a function with one with the same growth rate (等价代换) --- this technique is not explicitly stated in the book --- see the file “1001lec20 2022”.",
+    "",
+    "8.2 Integration by parts: indefinite integral version; reduction formulae (Example 5); definite integral version; tabular integration (shortcut for multiple iterations of integration by parts).",
+    "",
+    "8.3 Trigonometric integrals: products of powers of sine and cosine; products of powers of tangent and secant; eliminating square roots (Example 4); products of sin(mx) and cos(nx).",
+    "",
+    "8.4 Trigonometric substitutions: the three forms 1-x^2, x^2-1, and 1+x^2, and their trig substitutions by sin, sec, and tan.",
+    "",
+    "",
+    "Note: ",
+    "",
+    "it is OK to shuffle the contents above around in an order you prefer and feel free to add in your own stuff, so long as the non-optional topics are all covered.",
+    "Feel free to go faster but aim not to be slower.",
+    "",
+    "",
+    "Assignment 11",
+    "",
+    "7.8: #2,8,10,17,21(a),23(a)",
+    "8.2: #6,10,12,24,29,31,45,46,61,66,69,74",
+    "8.3: #3,8,20,29,34,35,38,44,51,64",
+    "8.4: #2,3,6,9,11,57,58",
+    "",
+    "The questions above need to be submitted; students are encouraged to attempt other questions in the same chapters if they need more exercises.",
+    "",
+    "Deadline: 10 PM, Friday, Dec 1 --- solutions should be submitted online on Blackboard."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "      ECO3121 TUT10: Heteroskedasticity\n\n\n\n               TA Group\n\n\n        The Chinese University of Hong Kong, Shenzhen\n\n\n                   November 25, 2024\n\n\n\n\n\nTA Group                                CUHK(SZ)                            November 25, 2024           1 / 15"
+    },
+    {
+      "page": 2,
+      "text": "Contents\n\n\n\n1  Heteroskedasticity\n      Definition and consequences\n      Heteroskedasticity-robust inference\n\n2  Testing for Heteroskedasticity\n     Breusch-Pagan test\n     White test\n     White test: an alternative expression\n\n3  Weighted Least Squares\n    The heteroskedasticity is known up to a multiplicative constant\n     Weighted least squares\n\n4  Stata Commands\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 25, 2024           2 / 15"
+    },
+    {
+      "page": 3,
+      "text": "                                       Heteroskedasticity\n\n\n\n\n\n                  Heteroskedasticity\n\n\n\n\n\nTA Group                                CUHK(SZ)                            November 25, 2024           3 / 15"
+    },
+    {
+      "page": 4,
+      "text": "                                                          Heteroskedasticity    Definition and consequences\n\nHeteroskedasticity\n\n\n\nDefinition:\n\n     Heteroskedasticity refers to a condition in which the variance of the random\n      error term u in a regression model varies widely.\n\n                     V ar(ui|xi) = σ2h(xi) ̸= σ2\n\nConsequences remain the same:\n\n    OLS estimators are still unbiased and consistent.\n     Interpretation of R2 does not change.\n\nConsequences that change significantly:\n    Formula for calculating V ar(ˆβj) is invalid.\n    The t-test and F-test are invalid.\n\n    OLS estimators may not be the most efficient estimators.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 25, 2024           4 / 15"
+    },
+    {
+      "page": 5,
+      "text": "                                                          Heteroskedasticity    Heteroskedasticity-robust inference\n\nHeteroskedasticity-robust standard error\n\n\nMotivation:\n\n      Practically, we do not know the real form of heteroskedasticity.\n\n     Heteroskedasticity-robust inference helps calculate a valid estimator for\n    V ar(ˆβj) in large samples.\nVariance of ˆβ1 under heteroskedasticity-robust inference in SLR. case:\n\n             Pni=1(xi −x)2V ar(ui)  Pni=1(xi −x)2σ2i         V ar(ˆβ1) =              =\n                      SST 2x            SST 2x\n\nThen, heteroskedasticity-robust standard error:\n\n          q \\  sPni=1(xi −x)2ˆu2i                   V ar(ˆβ1) =\n                              SST 2x\n\nt-test and F-test are vaild by using the heteroskedasticity-robust standard error.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 25, 2024           5 / 15"
+    },
+    {
+      "page": 6,
+      "text": "                           Testing for Heteroskedasticity\n\n\n\n\n\n            Testing for Heteroskedasticity\n\n\n\n\n\nTA Group                                CUHK(SZ)                            November 25, 2024           6 / 15"
+    },
+    {
+      "page": 7,
+      "text": "                                             Testing for Heteroskedasticity   Breusch-Pagan test\n\nBreusch-Pagan test\n\n\n\n\n\nTest for the null hypothesis with multiple restrictions:\n\n                   H0 : δ1 = δ2 = · · · = δk = 0\n\nwhere δ1, δ2, · · · , δk are the coefficients from the regression model:\n\n                               ˆu2i = δ0 + δ1x1i + · · · + δkxki + ϵi\n\nRejection rule:\n              R2ˆu2/k   F =               > cα(k, n −k −1).          (1−R2                ˆu2)/(n−k−1)\n      Fail to reject does not necessarily mean accepting homoskedasticity.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 25, 2024           7 / 15"
+    },
+    {
+      "page": 8,
+      "text": "                                             Testing for Heteroskedasticity   White test\n\nWhite test\n\n\nPresume that there are 3 independent variables: x1, x2, x3.\n\n\nTest for the null hypothesis with multiple restrictions:\n\n                   H0 : δ1 = δ2 = · · · = δ9 = 0\n\nwhere δ1, δ2, · · · , δk are the coefficients from the regression model:\n\n                 ˆu2i = δ0 + δ1x1i + δ2x2i + δ3x3i + δ4x21i + δ5x22i + δ6x23i\n\n                    +δ7x1ix2i + δ8x1ix3i + δ9x2ix3i + ϵi\n\nComments for white test:\n\n      F-statistic is used to carry out the statistical inference.\n\n     Detect more deviations from homoskedasticity than BP test.\n   A large number (2k + C2k) of parameters are needed to be estimated.\n\n\n\n            TA Group                                CUHK(SZ)                            November 25, 2024           8 / 15"
+    },
+    {
+      "page": 9,
+      "text": "                                             Testing for Heteroskedasticity   White test: an alternative expression\n\nWhite test: an alternative expression\n\n\n\n\nPresume that there are k independent variables: x1, x2, · · · , xk:\n\n                          yi = β0 + β1x1i + · · · + βkxki + ui\n\n\n\nTest for the null hypothesis with multiple restrictions:\n\n                      H0 : δ1 = δ2 = 0\n\nwhere δ1, δ2 are the coefficients from the regression model:\n\n                                    ˆu2i = δ0 + δ1ˆyi + δ2ˆy2i + ϵi\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 25, 2024           9 / 15"
+    },
+    {
+      "page": 10,
+      "text": "                             Weighted Least Squares\n\n\n\n\n\n             Weighted Least Squares\n\n\n\n\n\nTA Group                                CUHK(SZ)                            November 25, 2024          10 / 15"
+    },
+    {
+      "page": 11,
+      "text": "                                            Weighted Least Squares   The heteroskedasticity is known up to a multiplicative constant\n\nKnown up to a multiplicative constant\n\n\nAssume that we know the real form of the heteroskedasticity:\n\n                       V ar(ui|xi) = σ2hi\n\nwhere hi > 0, hi is the function of xi.\n\n\nLet the original model:\n\n                          yi = β0 + β1x1i + · · · + βkxki + ui\nbe divided by √hi, then we have:\n\n                    yi       1        x1i            xki     ui\n             √hi = β0 √hi + β1 √hi + · · · + βk √hi + √hi\n\nor\n                    y∗i = β0x∗0i + β1x∗1i + · · · + βkx∗ki + u∗i\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 25, 2024          11 / 15"
+    },
+    {
+      "page": 12,
+      "text": "                                            Weighted Least Squares   Weighted least squares\n\nWeighted least squares\n\n\n\nThe transformed model is solved by this minimization:\n\n                                                  1\n                      minβ0,··· ,βkΣni=1wi(ˆui)2, where wi =\n                                                          hi\n\nThis method is called the weighted least squares, in which each squared residual\nin the minimization process is weighted.\n\n\nComments for WLS:\n    V ar(u∗i |xi) = σ2, t-test and F-test are valid in large samples.\n    The weighted least squares estimators are BLUEs under MLR.1-MLR.4.\n\n   WLS is a special case of the generalized least squares (GLS).\n\n       If the form of heteroskedasticity is unknown, we apply feasible GLS (FGLS),\n    which uses an estimated weight.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 25, 2024          12 / 15"
+    },
+    {
+      "page": 13,
+      "text": "                                      Stata Commands\n\n\n\n\n\n                 Stata Commands\n\n\n\n\n\nTA Group                                CUHK(SZ)                            November 25, 2024          13 / 15"
+    },
+    {
+      "page": 14,
+      "text": "                                                       Stata Commands\n\nSyntax\n\n\nAfter estimating a linear model by using OLS, we can test for heteroskedasticity.\n\n\nBP-test:\n\n                                    estat hettest\n\nWhite test:\n\n                                  estat imtest,white\n\n If heteroskedasticity is perceived, we can let the Stata show the\nheteroskedasticity-robust error:\n\n                                 reg y x1 x2 x3,r\n\nor use weighted least squares:\n\n                            reg y x1 x2 x3 [aw=1/hi]\n\n\n\n            TA Group                                CUHK(SZ)                            November 25, 2024          14 / 15"
+    },
+    {
+      "page": 15,
+      "text": "                                 Acknowledgement\n\n\n\n\n      Thank you!\n\n\n\n\n\nTA Group                                CUHK(SZ)                            November 25, 2024          15 / 15"
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "code": "MAT1001",
+  "title": "MAT1001: Calculus I",
+  "url": "/webapps/blackboard/execute/launcher?type=Course&id=_90001_1",
+  "pages": [
+    {
+      "n": "Information",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90001_1&content_id=_701001_1",
+      "rows": [
+        {
+          "title": "MAT1001 Course Outline AY2023 24 Term 1",
+          "body": "MAT1001 Course Outline AY2023 24 Term 1",
+          "links": [
+            {
+              "n": "MAT1001 Course Outline AY2023 24 Term 1",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101000-dt-content-rid-101000_1/xid-101000_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 1",
+          "body": "Week 1",
+          "links": [
+            {
+              "n": "Week 1",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101001-dt-content-rid-101001_1/xid-101001_1"
+            }
+          ]
+        },
+        {
+          "title": "Slides Chap 1",
+          "body": "Slides Chap 1",
+          "links": [
+            {
+              "n": "Slides Chap 1",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101002-dt-content-rid-101002_1/xid-101002_1"
+            }
+          ]
+        },
+        {
+          "title": "Slides Chap 2",
+          "body": "Slides Chap 2",
+          "links": [
+            {
+              "n": "Slides Chap 2",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101003-dt-content-rid-101003_1/xid-101003_1"
+            }
+          ]
+        },
+        {
+          "title": "Slides Chap 3",
+          "body": "Slides Chap 3",
+          "links": [
+            {
+              "n": "Slides Chap 3",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101004-dt-content-rid-101004_1/xid-101004_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 2",
+          "body": "Week 2",
+          "links": [
+            {
+              "n": "Week 2",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101005-dt-content-rid-101005_1/xid-101005_1"
+            }
+          ]
+        },
+        {
+          "title": "TA Office Hours",
+          "body": "TA Office Hours",
+          "links": [
+            {
+              "n": "TA Office Hours",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101006-dt-content-rid-101006_1/xid-101006_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 3",
+          "body": "Week 3",
+          "links": [
+            {
+              "n": "Week 3",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101007-dt-content-rid-101007_1/xid-101007_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 4",
+          "body": "Week 4",
+          "links": [
+            {
+              "n": "Week 4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101008-dt-content-rid-101008_1/xid-101008_1"
+            }
+          ]
+        },
+        {
+          "title": "Slides Chap 4",
+          "body": "Slides Chap 4",
+          "links": [
+            {
+              "n": "Slides Chap 4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101009-dt-content-rid-101009_1/xid-101009_1"
+            }
+          ]
+        },
+        {
+          "title": "Slides Chap 5",
+          "body": "Slides Chap 5",
+          "links": [
+            {
+              "n": "Slides Chap 5",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101010-dt-content-rid-101010_1/xid-101010_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 5",
+          "body": "Week 5",
+          "links": [
+            {
+              "n": "Week 5",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101011-dt-content-rid-101011_1/xid-101011_1"
+            }
+          ]
+        },
+        {
+          "title": "Some notes on concavity 1 (optional)",
+          "body": "Some notes on concavity 1 (optional)",
+          "links": [
+            {
+              "n": "Some notes on concavity 1 (optional)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101012-dt-content-rid-101012_1/xid-101012_1"
+            }
+          ]
+        },
+        {
+          "title": "Some notes on concavity 2 (optional)",
+          "body": "Some notes on concavity 2 (optional)",
+          "links": [
+            {
+              "n": "Some notes on concavity 2 (optional)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101013-dt-content-rid-101013_1/xid-101013_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 6",
+          "body": "Week 6",
+          "links": [
+            {
+              "n": "Week 6",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101014-dt-content-rid-101014_1/xid-101014_1"
+            }
+          ]
+        },
+        {
+          "title": "Midterm 2022",
+          "body": "Midterm 2022",
+          "links": [
+            {
+              "n": "Midterm 2022",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101015-dt-content-rid-101015_1/xid-101015_1"
+            }
+          ]
+        },
+        {
+          "title": "Midterm seat assignments for L09 and L10",
+          "body": "Midterm seat assignments for L09 and L10",
+          "links": [
+            {
+              "n": "Midterm seat assignments for L09 and L10",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101016-dt-content-rid-101016_1/xid-101016_1"
+            }
+          ]
+        },
+        {
+          "title": "Midterm Information 2023",
+          "body": "Midterm Information 2023",
+          "links": [
+            {
+              "n": "Midterm Information 2023",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101017-dt-content-rid-101017_1/xid-101017_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 7",
+          "body": "Week 7",
+          "links": [
+            {
+              "n": "Week 7",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101018-dt-content-rid-101018_1/xid-101018_1"
+            }
+          ]
+        },
+        {
+          "title": "SSE student help",
+          "body": "SSE student help",
+          "links": [
+            {
+              "n": "SSE student help",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101019-dt-content-rid-101019_1/xid-101019_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 8",
+          "body": "Week 8",
+          "links": [
+            {
+              "n": "Week 8",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101020-dt-content-rid-101020_1/xid-101020_1"
+            }
+          ]
+        },
+        {
+          "title": "Midterm 2022 Solutions",
+          "body": "Midterm 2022 Solutions",
+          "links": [
+            {
+              "n": "Midterm 2022 Solutions",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101021-dt-content-rid-101021_1/xid-101021_1"
+            }
+          ]
+        },
+        {
+          "title": "Midterm 2023 solutions",
+          "body": "Midterm 2023 solutions",
+          "links": [
+            {
+              "n": "Midterm 2023 solutions",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101022-dt-content-rid-101022_1/xid-101022_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 9",
+          "body": "Week 9",
+          "links": [
+            {
+              "n": "Week 9",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101023-dt-content-rid-101023_1/xid-101023_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 10",
+          "body": "Week 10",
+          "links": [
+            {
+              "n": "Week 10",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101024-dt-content-rid-101024_1/xid-101024_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 11",
+          "body": "Week 11",
+          "links": [
+            {
+              "n": "Week 11",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101025-dt-content-rid-101025_1/xid-101025_1"
+            }
+          ]
+        },
+        {
+          "title": "Reference material",
+          "body": "Reference material",
+          "links": [
+            {
+              "n": "Reference material",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101026-dt-content-rid-101026_1/xid-101026_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 12",
+          "body": "Week 12",
+          "links": [
+            {
+              "n": "Week 12",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101027-dt-content-rid-101027_1/xid-101027_1"
+            }
+          ]
+        },
+        {
+          "title": "Week 13",
+          "body": "Week 13",
+          "links": [
+            {
+              "n": "Week 13",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101028-dt-content-rid-101028_1/xid-101028_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Assessment Scheme",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90001_1&content_id=_701002_1",
+      "rows": []
+    },
+    {
+      "n": "Assignment",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90001_1&content_id=_701003_1",
+      "rows": [
+        {
+          "title": "Assignment copy",
+          "body": "Assignment copy",
+          "links": [
+            {
+              "n": "Assignment copy",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90001_1&content_id=_701004_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Assignment/Assignment copy",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90001_1&content_id=_701004_1",
+      "rows": [
+        {
+          "title": "Assignment 1-copy",
+          "body": "Assignment 1-copy",
+          "links": [
+            {
+              "n": "Assignment 1-copy",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-101029-dt-content-rid-101029_1/xid-101029_1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ann": [
+    {
+      "title": "Assignment 12--> Q78, 79",
+      "body": "For Questions 78 and 79 of Assignment 12, you only need to explore the integrals using a computer. No written solution is required for these two questions.",
+      "posted": "Posted on: Wednesday, December 06, 2023 03:57:58 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Final exam paper of 2022",
+      "body": "Attached please find the final exam paper of 2022 for your practice.\nMAT1001 Final 2022.pdf",
+      "posted": "Posted on: Tuesday, December 05, 2023 07:32:52 PM CST",
+      "links": [
+        {
+          "n": "MAT1001 Final 2022.pdf",
+          "u": "https://bb.example.invalid/bbcswebdav/pid-101030-dt-content-rid-101030_1/xid-101030_1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "Week 13",
+      "body": "Dear Students of L09 and L10,\nPlease download from BB the following file: Week 13 - Teaching Scope and Assignments.\nAs I informed you in class, the lectures for Week 13 are online and you can view them anytime from now at the following ZOOM links.\nFor Lecture 25, the link is:\n[course link]\n[access details]\nFor Lecture 26, the link is:\n[course link]\n[access details]\nPlease try these links out right away and let me know if there are any problems.\nHappy viewing, and all the best on your final exam!\ncourse staff",
+      "posted": "Posted on: Thursday, November 30, 2023 09:22:15 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Week 12",
+      "body": "Dear Students of L09 and L10,\nPlease download from the BB the file: Week 12 - teaching scope and assignments. Thank you.",
+      "posted": "Posted on: Friday, November 24, 2023 07:54:43 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Week 11",
+      "body": "Dear Students of Lecture Sections L09 and L10,\nPlease download from BB the following two files:\n1. Week 11 - teaching scope and assignments\n2. Reference material for Week 11 lectures",
+      "posted": "Posted on: Friday, November 17, 2023 05:05:05 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Week 10",
+      "body": "Dear Students of L09 and L10,\nPlease download from the BB the file: Week 10 (teaching scope and assignments). Thank you.",
+      "posted": "Posted on: Friday, November 10, 2023 02:30:25 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Week 9",
+      "body": "Dear Students of L09 and L10,\nPlease download the file: Week 9 (teaching scope and assignments), from the BB. Thanks.",
+      "posted": "Posted on: Friday, November 03, 2023 04:30:44 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Midterm solutions 2023",
+      "body": "Dear Students of L09 and L10,\nPlease download the solutions to midterm 2023 from the BB for your own reference.",
+      "posted": "Posted on: Monday, October 30, 2023 02:53:07 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Week 8",
+      "body": "Dear Students of L09 and L10,\n1. Please download from BB the following two files:\n(i) Week 8 teaching scope and assignments\n(ii) The solutions to the midterm exam of 2022\n2. Please take note carefully of the following instructions in advance about the coming midterm exam 2023.\n(i). No books, no notes, no dictionaries, no calculators, and most importantly, no hand-phones are allowed in the examination hall.  \n(ii). The maximum possible score of this examination is 110.\n(iii). There are 13 questions (with parts), which are worth 120 points in total. This means that you do not have to answer all the questions in order to get the full score.\nWishing you all the best on the coming midterm exam,\ncourse staff",
+      "posted": "Posted on: Thursday, October 26, 2023 01:49:16 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "SSE student help",
+      "body": "Dear Students of L09 and L10,\nPlease download from BB a self-explanatory note on SSE student help. Thank you.",
+      "posted": "Posted on: Monday, October 23, 2023 02:40:54 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Week 7",
+      "body": "Dear Students of L09 and L10,\nPlease download from BB the following file:\nWeek 7 (2023) - teaching scope and assignments for Week 7.\nThanks,\ncourse staff",
+      "posted": "Posted on: Friday, October 20, 2023 04:51:20 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Information on the midterm 2023",
+      "body": "Dear Students of L09 and L10,\nI have uploaded onto BB the following two files.\n1. Information concerning the midterm for this year\n2. Your seat assignments for the midterm\nPlease refer to these two files for all the information that you would need in preparation for your exam.\nAll the best for your midterm!\ncourse staff",
+      "posted": "Posted on: Tuesday, October 17, 2023 02:54:39 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Week 6",
+      "body": "Dear Students of L09 and L10,\nI have uploaded onto BB the following two files.\n1. Week 6 - teaching scope and assignments\n2. Midterm 2022, for your practice in preparation for the coming midterm exam",
+      "posted": "Posted on: Sunday, October 15, 2023 04:50:30 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Optional topic on concavity",
+      "body": "Dear Students of L09 and L10,\nI have uploaded onto BB two pages of notes on an optional topic on concavity, and I will spend some time on this topic.",
+      "posted": "Posted on: Wednesday, October 11, 2023 02:34:02 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Week 5",
+      "body": "Dear Students of Lecture Sections L09 and L10,\n1. A Very Warm Welcome back to school after your holidays!\n2. To get ready for next week, I have uploaded onto BB the following files:\n  (i) Week 5 (2023) - teaching scope and assignments\n  (ii) Slides for Thomas' Calculus Chapters 4 and 5\n3. Just a gentle reminder that on 8 October 2023 (Sun) from 2 to 5pm, we will make up for the office hours that we missed on 29 September 2023 (Fri). The venue is my office in ChengDao505, as usual.",
+      "posted": "Posted on: Thursday, October 05, 2023 04:18:01 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "HW 1 and HW 2 Marking Questions",
+      "body": "Hi class in Lecture 9 and 10,\nIf you have questions regarding the scores and marks of HW 1 and HW2, please contact the following markers via email directly:\nAssignment 1\t朱子夫\t陈旺谦\t陈雁南\t连观武\nAssignment 2\t闫梦文\t 王圣妍\t姚嘉巍\t黄於聪\nMarking requests should be sent to the markers within one week of receiving your scores.",
+      "posted": "Posted on: Tuesday, September 26, 2023 06:54:10 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Week 4",
+      "body": "Dear Students of Lecture Sections L09 and L10,\nI have uploaded onto the BB the following file:\nWeek 4 teaching scope and assignments\nPlease download the file for next week's lectures.",
+      "posted": "Posted on: Friday, September 22, 2023 08:19:40 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "More Supporting Resources for Calculus",
+      "body": "The Minerva College (厚含书院) just opened up the Minerva Academic Support Salon: Mathematics Session. In these sessions, there will be senior undergraduate tutors who major in mathematics to help our students learn calculus by answering their questions. The time of these sessions will be from 7 to 9 on Tuesday and Wednesday, and you will need to book an appointment via the code below in order to use this service (you can see the location once you scan the code).\nFor more details, please see [course link]\nPlease note that the calculus help session offered by the Minerva College every Tuesday and Wednesday evening is open to ALL university students (regardless of the school/college you belong to), but you must book an appointment using the code below before going (the location can be seen after scanning the code).",
+      "posted": "Posted on: Friday, September 22, 2023 06:40:22 PM CST",
+      "links": [],
+      "images": [
+        {
+          "alt": "",
+          "u": "https://bb.example.invalid/embedded/MAT1001/announcement-18/image-1"
+        }
+      ]
+    },
+    {
+      "title": "Week 3",
+      "body": "Dear Students of Lecture L09 and L10,\nI have uploaded onto BB the following file:\nWeek 3 teaching scope and assignment.\nPlease download this file for our classes next week. Thanks.",
+      "posted": "Posted on: Thursday, September 14, 2023 08:26:23 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "HW 1 Deadline reminder",
+      "body": "Deadline for HW 1 is 10 PM, Friday, Sept 15, 2023.\nPlease find the problems of HW 1 below:\n2.1:  #1,7,8,15\n2.2:  #1,10,18,19,23,28,32,40,45,54,57,65(a),77,78\nThe questions above come from the chapter-end exercises of our Textbook. Please BE SURE to use the correct textbook version/serial number for your HW.",
+      "posted": "Posted on: Monday, September 11, 2023 11:11:35 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "MAT1001 Week 2",
+      "body": "Dear Students of Lecture Sections L09 and L10,\nI have uploaded onto the BB the following two files:\n1. Week 2 teaching scope and assignments\n2. TA office hours\nPlease download these for our lessons next week.",
+      "posted": "Posted on: Friday, September 08, 2023 05:37:13 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Make-up class on September 9",
+      "body": "Dear Students of MAT1001-Lecture-D1/09,\nThis is to inform you that your make-up class on Saturday, September 9 is relocated to Room TD102. Please take note.\nThe time remains unchanged, i.e., 3:30pm to 5:30pm.\nSee you all!",
+      "posted": "Posted on: Wednesday, September 06, 2023 08:41:10 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "MAT1001 Week 1",
+      "body": "Dear Students of Lecture Sections L09 and L10,\nHi! A very warm welcome to MAT1001 Calculus I.\nTo get started, I have already uploaded to the BlackBoard the following five files.\n1. Course Outline\n2. Week 1 (teaching scope and assignments)\n3. Slides for Chaps 1, 2 and 3 of Thomas' calculus\nPlease download all these files, and we will be ready for our classes that will start tomorrow, Tuesday, September 5. We look forward to enjoying the study of calculus together.\nSee you all in class.",
+      "posted": "Posted on: Monday, September 04, 2023 03:27:03 PM CST",
+      "links": [],
+      "images": []
+    }
+  ],
+  "grades": [
+    [
+      "Mid-term Grades",
+      "Nov 11, 2023 06:17 PM\nGRADED",
+      "61.93\n/110",
+      ""
+    ],
+    [
+      "Assignment 1 Submission Link\nDUE: SEP 15, 2023\nAssignment",
+      "Sep 17, 2023 01:31 AM\nGRADED",
+      "13.10\n/20",
+      ""
+    ],
+    [
+      "HW 1 submission\nDUE: SEP 15, 2023\nAssignment",
+      "Sep 19, 2023 04:22 AM\nGRADED",
+      "19.30\n/20",
+      ""
+    ],
+    [
+      "Assignment 2 Submission Link\nDUE: SEP 22, 2023\nAssignment",
+      "Sep 24, 2023 07:11 AM\nGRADED",
+      "15.13\n/18",
+      ""
+    ],
+    [
+      "Assignment 3 Submission Link\nDUE: SEP 29, 2023\nAssignment",
+      "Oct 02, 2023 02:18 AM\nGRADED",
+      "17.02\n/22",
+      ""
+    ],
+    [
+      "Assignment 4 submission link\nDUE: OCT 13, 2023\nAssignment",
+      "Oct 15, 2023 11:32 PM\nGRADED",
+      "16.55\n/18",
+      ""
+    ],
+    [
+      "Assignment 6 Submission Link\nDUE: OCT 27, 2023\nAssignment",
+      "Oct 28, 2023 09:07 PM\nGRADED",
+      "0.00\n/18",
+      ""
+    ],
+    [
+      "Assignment 8 Submission Link\nDUE: NOV 10, 2023\nAssignment",
+      "Nov 15, 2023 02:31 AM\nGRADED",
+      "14.09\n/18",
+      ""
+    ],
+    [
+      "Assignment 9 Submission Link\nDUE: NOV 17, 2023\nAssignment",
+      "Nov 20, 2023 06:18 AM\nGRADED",
+      "15.89\n/18",
+      ""
+    ],
+    [
+      "Assignment 10 Submission Link\nDUE: NOV 24, 2023\nAssignment",
+      "Nov 27, 2023 06:26 PM\nGRADED",
+      "16.99\n/18",
+      ""
+    ],
+    [
+      "Assignment 11 Submission Link\nDUE: DEC 1, 2023\nAssignment",
+      "Dec 06, 2023 07:47 AM\nGRADED",
+      "11.80\n/18",
+      ""
+    ],
+    [
+      "Assignment 12 Submission Link\nDUE: DEC 8, 2023\nAssignment",
+      "Dec 09, 2023 11:04 PM\nGRADED",
+      "17.05\n/18",
+      ""
+    ],
+    [
+      "Total",
+      "",
+      "218.85\n/316",
+      ""
+    ],
+    [
+      "Weighted Total",
+      "",
+      "-",
+      ""
+    ]
+  ],
+  "details": []
+}

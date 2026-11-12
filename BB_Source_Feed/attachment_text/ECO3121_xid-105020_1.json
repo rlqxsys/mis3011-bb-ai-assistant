@@ -1,0 +1,128 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "The Chinese  Universi\n\n\n\n\n\n    ty of Hong  Kong,  Shenzhen"
+    },
+    {
+      "page": 2,
+      "text": "Pooling Independent Cross Sections across Time"
+    },
+    {
+      "page": 3,
+      "text": "Pooling Independent Cross Sections across Time"
+    },
+    {
+      "page": 4,
+      "text": "What Are Panel Data?"
+    },
+    {
+      "page": 5,
+      "text": "The structure of economic data"
+    },
+    {
+      "page": 6,
+      "text": "The structure of economic data"
+    },
+    {
+      "page": 7,
+      "text": "The structure of economic data"
+    },
+    {
+      "page": 8,
+      "text": "The structure of economic data"
+    },
+    {
+      "page": 9,
+      "text": "Notations for Panel Data"
+    },
+    {
+      "page": 10,
+      "text": "Why Are Panel Data Useful?"
+    },
+    {
+      "page": 11,
+      "text": "Example of A Panel Data Set"
+    },
+    {
+      "page": 12,
+      "text": "Traffic Death Data for 1982"
+    },
+    {
+      "page": 13,
+      "text": "Traffic Death Data for 1988"
+    },
+    {
+      "page": 14,
+      "text": "Omitted Variable Bias"
+    },
+    {
+      "page": 15,
+      "text": "Omitted Variable Bias"
+    },
+    {
+      "page": 16,
+      "text": "Basic Idea of Using Panel Data"
+    },
+    {
+      "page": 17,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 18,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 19,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 20,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 21,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 22,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 23,
+      "text": "Panel Data with T > 2"
+    },
+    {
+      "page": 24,
+      "text": "Fixed Effects Form"
+    },
+    {
+      "page": 25,
+      "text": "Fixed Effects Form"
+    },
+    {
+      "page": 26,
+      "text": "Fixed Effects Form"
+    },
+    {
+      "page": 27,
+      "text": "Fixed Effects Form"
+    },
+    {
+      "page": 28,
+      "text": "Binary Regressor Form"
+    },
+    {
+      "page": 29,
+      "text": "Binary Regressor Form"
+    },
+    {
+      "page": 30,
+      "text": "Binary Regressor Form"
+    },
+    {
+      "page": 31,
+      "text": "Summary: Two Forms"
+    }
+  ]
+}

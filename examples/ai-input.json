@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "id": "CSC1001:2024:announcement:6edbbf24807174c4c048",
+      "courseCode": "CSC1001",
+      "term": "2024",
+      "title": "Time of Midterm and No Tutorial for that Day",
+      "text": "We have noticed that many midterm exams are arranged on weekends. To avoid conflicts, the CSC1001 Midterm is scheduled for Nov. 1 (Friday) from 19:00 to 21:00.\nAs a result, tutorials (T13/T14) on Nov. 1 are canceled. If you are in T13/T14, you may attend any tutorial section that week or study independently using the provided slides and codes.\nFurther details regarding the Midterm arrangements (e.g., locations, permitted materials, etc.) will be communicated in the coming days.\nThanks.",
+      "publishedAt": "2024-10-14T05:48:38.000Z",
+      "sourcePath": "courses/CSC1001.json",
+      "locator": "ann[16]",
+      "contentId": null,
+      "type": "announcement",
+      "version": "eff823e3f780de4455b5"
+    }
+  ]
+}

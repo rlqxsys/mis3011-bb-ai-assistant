@@ -1,0 +1,156 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "uctory Econometrics"
+    },
+    {
+      "page": 2,
+      "text": "Multiple Regression Model\n\n\n   • Contents\n\n      Motivation for multiple Regression\n\n      Mechanics and interpretation of OLS\n\n      The expected value of the OLS Estimators\n\n\n\n\n\n   2"
+    },
+    {
+      "page": 3,
+      "text": "Motivation\n\n\n\n\n\n   3"
+    },
+    {
+      "page": 4,
+      "text": "Motivation\n\n  • Motivation for multiple regression\n       • Incorporate more explanatory factors into the model\n       • Explicitly hold fixed other factors that otherwise\n      would be in\n       • Allow for more flexible functional forms\n  • Example: Wage equation\n\n             Now measures effect of education explicitly holding experience fixed\n\n\n\n                                                                                                     All other factors…\n\n\n\n        Hourly wage        Years of education          Years of labor market experience"
+    },
+    {
+      "page": 5,
+      "text": "Motivation\n\n  • Example: Average test scores and per student\n   spending\n\n\n                                                                                  Other factors\n\n     Average standardized       Per student spending      Average family income\n       test score of school           at this school               of students at this school\n        • Per student spending is likely to be correlated with\n       average family income at a given high school because of\n       school financing\n        • Omitting average family income in regression would lead\n        to biased estimate of the effect of spending on average\n         test scores\n        • In a simple regression model, effect of per student\n       spending would partly include the effect of family income\n      on test scores"
+    },
+    {
+      "page": 6,
+      "text": "Motivation\n\n  • Example: Family income and family consumption\n\n\n\n                                                                                Other factors\n\n    Family consumption         Family income             Family income squared\n       • Model has two explanatory variables: inome and\n      income squared\n       • Consumption is explained as a quadratic function of\n      income\n       • One has to be very careful when interpreting the\n                                                                      Depends on how   By how muchcoefficients:does consumption\n                                                                much income is   increase if income is increased\n                                                                                    already there   by one unit?"
+    },
+    {
+      "page": 7,
+      "text": "Motivation\n\n  • Definition of the multiple linear regression model\n\n\n        “Explains variable    in terms of variables                  ”\n\n\n\n               Intercept                     Slope parameters\n\n\n\n\n\n     Dependent variable,\n                                                                                       Error term,     explained variable,                                           Independent variables,                                                                                    disturbance,     response variable,…                                               explanatory variables,                                                                             unobservables,…\n                                               regressors,…"
+    },
+    {
+      "page": 8,
+      "text": "Motivation\n\n  • Example: CEO salary, sales, and CEO tenure\n\n\n\n\n\n    Log of CEO salary          Log sales           Quadratic function of CEO tenure with the firm\n       • Model assumes a constant elasticity relationship\n      between CEO salary and the sales of his or her firm\n       • Model assumes a quadratic relationship between\n     CEO salary and his or her tenure with the firm\n  • Meaning of “linear” regression\n       • The model has to be linear in the parameters (not in\n       the variables)"
+    },
+    {
+      "page": 9,
+      "text": "Motivation\n\n  • OLS Estimation of the multiple regression model\n  • Random sample\n\n  • Regression residuals\n\n  • Minimize sum of squared residuals\n\n\n\n\n\n                                        Minimization will be carried out by computer"
+    },
+    {
+      "page": 10,
+      "text": "Mechanics and interpretation of OLS\n\n\n\n\n\n   10"
+    },
+    {
+      "page": 11,
+      "text": "Mechanics and interpretation of OLS\n\n\n\n\n\n   11"
+    },
+    {
+      "page": 12,
+      "text": "Mechanics and interpretation of OLS\n\n\n\n\n\n   12"
+    },
+    {
+      "page": 13,
+      "text": "Mechanics and interpretation of OLS\n\n\n\n\n\n   13"
+    },
+    {
+      "page": 14,
+      "text": "Mechanics and interpretation of OLS\n\n\n\n\n\n   14"
+    },
+    {
+      "page": 15,
+      "text": "Mechanics and interpretation of OLS\n\n\n\n\n\n   15"
+    },
+    {
+      "page": 16,
+      "text": "Mechanics and interpretation of OLS\n\n\n\n\n\n   16"
+    },
+    {
+      "page": 17,
+      "text": "Mechanics and interpretation of OLS\n\n\n\n\n\n   17"
+    },
+    {
+      "page": 18,
+      "text": "Mechanics and interpretation of OLS\n\n\n\n\n\n   18"
+    },
+    {
+      "page": 19,
+      "text": "Mechanics and interpretation of OLS\n\n  • “Partialling out” interpretation of multiple regression\n  • One can show that the estimated coefficient of an\n   explanatory variable in a multiple regression can be\n   obtained in two steps:\n        • 1) Regress the explanatory variable on all other\n        explanatory variables\n        • 2) Regress  on the residuals from this regression\n  • Why does this procedure work?\n        • The residuals from the first regression is the part of the\n        explanatory variable that is uncorrelated with the other\n        explanatory variables\n        • The slope coefficient of the second regression therefore\n        represents the isolated effect of the explanatory variable\n      on the dep. variable"
+    },
+    {
+      "page": 20,
+      "text": "Mechanics and interpretation of OLS\n\n  • Interpretation of the multiple regression model\n\n\n                             By how much does the dependent variable change if the j-th\n                                independent variable is increased by one unit, holding all\n                                  other independent variables and the error term constant\n\n       • The multiple linear regression model manages to\n       hold the values   of other explanatory variables fixed\n      even if, in reality, they are correlated with the\n       explanatory variable under consideration\n       • “Ceteris paribus”-interpretation\n       • It has still to be assumed that unobserved factors do\n       not change if the explanatory variables are changed"
+    },
+    {
+      "page": 21,
+      "text": "Mechanics and interpretation of OLS\n\n   • Example: Determinants of college GPA\n\n\n\n\n\n   Grade point average at college     High school grade point average    Achievement test score\n   • Interpretation\n        • Holding ACT fixed, another point on high school grade point\n        average is associated with another .453 points college grade\n        point average\n        • Or: If we compare two students with the same ACT, but the\n       hsGPA of student A is one point higher, we predict student A to\n       have a colGPA that is .453 higher than that of student B\n        • Holding high school grade point average fixed, another 10\n         points on ACT are associated with less than one point on\n         college GPA"
+    },
+    {
+      "page": 22,
+      "text": "Mechanics and interpretation of OLS\n\n\n  • Properties of OLS on any sample of data\n  • Fitted values and residuals\n\n\n\n\n                 Fitted or predicted values                              Residuals\n  • Algebraic properties of OLS regression\n\n\n\n\n\n    Deviations from regression      Covariance between deviations     Sample averages of y and of the\n     line sum up to zero           and regressors are zero             regressors lie on regression line"
+    },
+    {
+      "page": 23,
+      "text": "Mechanics and interpretation of OLS\n\n\n  • Goodness-of-Fit\n  • Decomposition of total variation\n\n                                                                   Notice that R-squared can only\n                                                                    increase if another explanatory\n  • R-squared                                             variable is added to the regression\n\n  • Alternative expression for R-squared\n                                                                R-squared is equal to the squared\n                                                                          correlation coefficient between the\n                                                                        actual and the predicted value of\n                                                                   the dependent variable"
+    },
+    {
+      "page": 24,
+      "text": "Mechanics and interpretation of OLS\n\n  • Example: Explaining arrest records\n\n                        Proportion prior arrests Number of times                             Months in prison 1986     Quarters employed 1986\n                          that led to conviction arrested 1986\n\n\n\n  • Interpretation:\n        •  If the proportion prior arrests increases by 0.5, the\n        predicted fall in arrests is 7.5 arrests per 100 men\n        •  If the months in prison increase from 0 to 12, the\n        predicted fall in arrests is 0.408 arrests for a particular man\n        •  If the quarters employed increase by 1, the predicted fall\n         in arrests is 10.4 arrests per 100 men"
+    },
+    {
+      "page": 25,
+      "text": "Mechanics and interpretation of OLS\n\n\n  • Example: Explaining arrest records (cont.)\n        • An additional explanatory variable is added:\n\n\n\n\n                                                         Average sentence in prior convictions\n\n                                        R-squared increases only slightly\n  • Interpretation:\n        • Average prior sentence increases number of arrests (?)\n        • Limited additional explanatory power as R-squared\n        increases by little\n  • General remark on R-squared\n        • Even if R-squared is small (as in the given example),\n        regression may still provide good estimates of ceteris\n        paribus effects"
+    },
+    {
+      "page": 26,
+      "text": "Mechanics and interpretation of OLS\n\n\n\n\n\n   26"
+    },
+    {
+      "page": 27,
+      "text": "The expected value of the OLS Estimators\n\n  • Standard assumptions for the multiple\n   regression model\n  • Assumption MLR.1 (Linear in parameters)\n                                                                                 In the population, the relation-\n                                                                         ship between y and the expla-\n                                                                      natory variables is linear\n\n  • Assumption MLR.2 (Random sampling)\n\n                                                       The data is a random sample\n                                                        drawn from the population\n\n\n\n\n\n                                       Each data point therefore follows the population equation"
+    },
+    {
+      "page": 28,
+      "text": "The expected value of the OLS Estimators\n\n   • Standard assumptions for the multiple regression model\n    (cont.)\n   • Assumption MLR.3 (No perfect collinearity)\n\n          “In the sample (and therefore in the population), none\n          of the independent variables is constant and there are\n        no exact linear relationships among the independent variables.”\n   • Remarks on MLR.3\n        • The assumption only rules out perfect collinearity/correlation\n       bet-ween explanatory variables; imperfect correlation is allowed\n        •  If an explanatory variable is a perfect linear combination of\n        other explanatory variables it is superfluous and may be\n        eliminated\n        • Constant variables are also ruled out (collinear with intercept)"
+    },
+    {
+      "page": 29,
+      "text": "The expected value of the OLS Estimators\n\n• Example for perfect collinearity: small sample\n\n\n\n\n           In a small sample, avginc may accidentally be an exact multiple of expend; it will not\n         be possible to disentangle their separate effects because there is exact covariation\n• Example for perfect collinearity: relationships\n between regressors\n\n\n\n\n\n                Either shareA or shareB will have to be dropped from the regression because there\n                     is an exact linear relationship between them: shareA + shareB = 1"
+    },
+    {
+      "page": 30,
+      "text": "The expected value of the OLS Estimators\n\n  • Standard assumptions for the multiple\n   regression model (cont.)\n  • Assumption MLR.4 (Zero conditional mean)\n\n                                                      The value of the explanatory variables\n                                                      must contain no information about the mean\n                                                                 of the unobserved factors\n       • In a multiple regression model, the zero conditional\n     mean assumption is much more likely to hold\n      because fewer things end up in the error\n  • Example: Average test scores\n\n\n\n\n                                  If avginc was not included in the regression, it would end up in the error term; it\n                  would then be hard to defend that expend is uncorrelated with the error"
+    },
+    {
+      "page": 31,
+      "text": "The expected value of the OLS Estimators\n\n\n  • Discussion of the zero mean conditional assumption\n       • Explanatory variables that are correlated with the error\n       term are called endogenous; endogeneity is a violation of\n       assumption MLR.4\n       • Explanatory variables that are uncorrelated with the error\n       term are called exogenous; MLR.4 holds if all explanat. var.\n       are exogenous\n       • Exogeneity is the key assumption for a causal\n        interpretation of the regression, and for unbiasedness of\n       the OLS estimators\n  • Theorem 3.1 (Unbiasedness of OLS)\n\n       • Unbiasedness is an average property in repeated samples;\n         in a given sample, the estimates may still be far away from\n       the true values"
+    },
+    {
+      "page": 32,
+      "text": "The expected value of the OLS Estimators\n\n\n\n\n\n   32"
+    },
+    {
+      "page": 33,
+      "text": "The expected value of the OLS Estimators\n\n  • Including irrelevant variables in a regression\n   model\n\n\n     No problem because                              .      = 0 in the population\n\n     However, including irrevelant variables may increase sampling variance.\n  • Omitting relevant variables: the simple case\n\n\n                                                       True model (contains x1 and x2)\n\n\n                                             Estimated model (x2 is omitted)"
+    },
+    {
+      "page": 34,
+      "text": "The expected value of the OLS Estimators\n\n\n  • Omitted variable bias\n                                                                                      If x1 and x2 are correlated, assume a linear\n                                                    regression relationship between them\n\n\n\n\n\n                If y is only regressed                If y is only regressed                 error term\n        on x1 this will be the        on x1, this will be the\n          estimated intercept          estimated slope on x1\n  • Conclusion: All estimated coefficients will be\n   biased"
+    },
+    {
+      "page": 35,
+      "text": "The expected value of the OLS Estimators"
+    },
+    {
+      "page": 36,
+      "text": "The expected value of the OLS Estimators"
+    },
+    {
+      "page": 37,
+      "text": "The expected value of the OLS Estimators\n\n\n  • Example: Omitting ability in a wage equation\n\n\n\n\n\n                                                                             Will both be positive\n\n\n\n\n\n              The return to education    will be overestimated because                     . It will look\n                as if people with many years of education earn very high wages, but this is partly\n              due to the fact that people with more education are also more able on average.\n  • When is there no omitted variable bias?\n       • If the omitted variable is irrelevant or uncorrelated"
+    },
+    {
+      "page": 38,
+      "text": "The expected value of the OLS Estimators\n\n  • Omitted variable bias: more general cases\n\n\n                                                                  True model (contains x1, x2, and x3)\n\n\n                                                        Estimated model (x3 is omitted)\n       • No general statements possible about direction of\n       bias\n       • Analysis as in simple case if one regressor\n       uncorrelated with others\n  • Example: Omitting ability in a wage equation\n\n\n\n                      If exper is approximately uncorrelated with educ and abil, then the direction\n              of the omitted variable bias can be as analyzed in the simple two variable case."
+    }
+  ]
+}

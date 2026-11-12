@@ -1,0 +1,14 @@
+{
+  "testType": "native-BB_Source_Feed-browser-with-test-double",
+  "actualModelTest": false,
+  "inputSource": "BB_Source_Feed",
+  "passed": 5,
+  "checks": [
+    "跟进设置默认来自原始包五门课程，尚未发布的公告不会提前解析",
+    "原始公告到达后页面自动出现真实 CSC1001 考试与准备安排，无材料上传或手动分析",
+    "任务引用能定位原始 courses/CSC1001.json 的 ann[16]，原文件可打开",
+    "原始改期公告自动更新同一考试并撤销旧提醒；模型响应在此浏览器测试中为明确替身",
+    "三个页面在 390px 手机上无横向溢出，只有一个共用弹窗"
+  ],
+  "browserErrors": []
+}

@@ -1,0 +1,1774 @@
+{
+  "code": "ENG1001",
+  "title": "ENG1001: English Bridge Program",
+  "url": "/webapps/blackboard/execute/launcher?type=Course&id=_90004_1",
+  "pages": [
+    {
+      "n": "Content",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704001_1",
+      "rows": [
+        {
+          "title": "COURSE DOCUMENTS",
+          "body": "COURSE DOCUMENTS",
+          "links": [
+            {
+              "n": "COURSE DOCUMENTS",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704002_1"
+            }
+          ]
+        },
+        {
+          "title": "FALL 2023 EBP POWERPOINT LESSONS",
+          "body": "FALL 2023 EBP POWERPOINT LESSONS",
+          "links": [
+            {
+              "n": "FALL 2023 EBP POWERPOINT LESSONS",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704003_1"
+            }
+          ]
+        },
+        {
+          "title": "COURSE MATERIALS",
+          "body": "COURSE MATERIALS",
+          "links": [
+            {
+              "n": "COURSE MATERIALS",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704004_1"
+            }
+          ]
+        },
+        {
+          "title": "WRITING ASSIGNMENTS",
+          "body": "WRITING ASSIGNMENTS",
+          "links": [
+            {
+              "n": "WRITING ASSIGNMENTS",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704005_1"
+            }
+          ]
+        },
+        {
+          "title": "INDIVIDUAL PRESENTATIONS",
+          "body": "INDIVIDUAL PRESENTATIONS",
+          "links": [
+            {
+              "n": "INDIVIDUAL PRESENTATIONS",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704006_1"
+            }
+          ]
+        },
+        {
+          "title": "PRACTICE EXAMS",
+          "body": "PRACTICE EXAMS",
+          "links": [
+            {
+              "n": "PRACTICE EXAMS",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704007_1"
+            }
+          ]
+        },
+        {
+          "title": "MORE ARTICLES FOR READING, LISTENING, AND SPEAKING PRACTICE",
+          "body": "In this folder you will find 24 articles for listening, reading, and speaking practice. \nOur advice is to highlight the text and listen to article using Microsoft's Text-to-Speech feature (we have the instructions in the folder).\nListen to the article to improve your ability to hear spoken English. Then read the article out loud and work on your pronunciation. Highlight and listen to the article a few sentences at a time, and read those sentences out loud to improve your pronunciation.",
+          "links": [
+            {
+              "n": "MORE ARTICLES FOR READING, LISTENING, AND SPEAKING PRACTICE",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704008_1"
+            }
+          ]
+        },
+        {
+          "title": "PRONUNCIATION VIDEOS",
+          "body": "These videos will help you learn to pronounce certain difficult sounds in English. Students wanting additional help should visit the SALL Center. The SALL center has world-class software to help you perfect your English pronunciation.",
+          "links": [
+            {
+              "n": "PRONUNCIATION VIDEOS",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704009_1"
+            }
+          ]
+        },
+        {
+          "title": "GRAMMAR QUIZZES",
+          "body": "GRAMMAR QUIZZES",
+          "links": [
+            {
+              "n": "GRAMMAR QUIZZES",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704010_1"
+            }
+          ]
+        },
+        {
+          "title": "SALL TALK",
+          "body": "SALL TALK",
+          "links": [
+            {
+              "n": "SALL TALK",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704011_1"
+            }
+          ]
+        },
+        {
+          "title": "PUBLIC SPEAKING",
+          "body": "PUBLIC SPEAKING",
+          "links": [
+            {
+              "n": "PUBLIC SPEAKING",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704012_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/COURSE DOCUMENTS",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704002_1",
+      "rows": [
+        {
+          "title": "2023 EBP Syllabus",
+          "body": "2023 EBP Syllabus",
+          "links": [
+            {
+              "n": "2023 EBP Syllabus",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104000-dt-content-rid-104000_1/xid-104000_1"
+            }
+          ]
+        },
+        {
+          "title": "2023 EBP Course Schedule (Tentative)",
+          "body": "2023 EBP Course Schedule (Tentative)",
+          "links": [
+            {
+              "n": "2023 EBP Course Schedule (Tentative)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104001-dt-content-rid-104001_1/xid-104001_1"
+            }
+          ]
+        },
+        {
+          "title": "FALL 2023 EBP Student Syllabus Checklist and Plagiarism Pledge",
+          "body": "FALL 2023 EBP Student Syllabus Checklist and Plagiarism Pledge",
+          "links": [
+            {
+              "n": "FALL 2023 EBP Student Syllabus Checklist and Plagiarism Pledge",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104002-dt-content-rid-104002_1/xid-104002_1"
+            }
+          ]
+        },
+        {
+          "title": "Cover Sheet for student assignments",
+          "body": "Attached Files:\n cover sheet for student assignments.pdf (30.057 KB)\nPlease print off and fill out this cover sheet with every graded written assignment. Be sure to staple the cover sheet to your paper.",
+          "links": [
+            {
+              "n": "cover sheet for student assignments.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104003-dt-content-rid-104003_1/xid-104003_1"
+            }
+          ]
+        },
+        {
+          "title": "Windows Speech Recognition",
+          "body": "Windows Speech Recognition",
+          "links": [
+            {
+              "n": "Windows Speech Recognition",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104004-dt-content-rid-104004_1/xid-104004_1"
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Text-to-speech Instructions",
+          "body": "Microsoft Text-to-speech Instructions",
+          "links": [
+            {
+              "n": "Microsoft Text-to-speech Instructions",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104005-dt-content-rid-104005_1/xid-104005_1"
+            }
+          ]
+        },
+        {
+          "title": "Blackboard User Guide",
+          "body": "Blackboard User Guide",
+          "links": [
+            {
+              "n": "Blackboard User Guide",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104006-dt-content-rid-104006_1/xid-104006_1"
+            }
+          ]
+        },
+        {
+          "title": "University Links to English Language Magazines",
+          "body": "University Links to English Language Magazines",
+          "links": [
+            {
+              "n": "University Links to English Language Magazines",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104007-dt-content-rid-104007_1/xid-104007_1"
+            }
+          ]
+        },
+        {
+          "title": "Link to Supplementary Course Videos_EBP",
+          "body": "Link to Supplementary Course Videos_EBP",
+          "links": [
+            {
+              "n": "Link to Supplementary Course Videos_EBP",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104008-dt-content-rid-104008_1/xid-104008_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/FALL 2023 EBP POWERPOINT LESSONS",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704003_1",
+      "rows": [
+        {
+          "title": "course staff's Materials",
+          "body": "course staff's Materials",
+          "links": [
+            {
+              "n": "course staff's Materials",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704013_1"
+            }
+          ]
+        },
+        {
+          "title": "Student Email Advice",
+          "body": "Student Email Advice",
+          "links": [
+            {
+              "n": "Student Email Advice",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104009-dt-content-rid-104009_1/xid-104009_1"
+            }
+          ]
+        },
+        {
+          "title": "The Writing Process",
+          "body": "The Writing Process",
+          "links": [
+            {
+              "n": "The Writing Process",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104010-dt-content-rid-104010_1/xid-104010_1"
+            }
+          ]
+        },
+        {
+          "title": "Public Speaking",
+          "body": "Public Speaking",
+          "links": [
+            {
+              "n": "Public Speaking",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104011-dt-content-rid-104011_1/xid-104011_1"
+            }
+          ]
+        },
+        {
+          "title": "How to Write a Personal Essay",
+          "body": "How to Write a Personal Essay",
+          "links": [
+            {
+              "n": "How to Write a Personal Essay",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104012-dt-content-rid-104012_1/xid-104012_1"
+            }
+          ]
+        },
+        {
+          "title": "How to Write a Summary",
+          "body": "How to Write a Summary",
+          "links": [
+            {
+              "n": "How to Write a Summary",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104013-dt-content-rid-104013_1/xid-104013_1"
+            }
+          ]
+        },
+        {
+          "title": "How to Write a Response Essay",
+          "body": "How to Write a Response Essay",
+          "links": [
+            {
+              "n": "How to Write a Response Essay",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104014-dt-content-rid-104014_1/xid-104014_1"
+            }
+          ]
+        },
+        {
+          "title": "Module I",
+          "body": "Module I",
+          "links": [
+            {
+              "n": "Module I",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704014_1"
+            }
+          ]
+        },
+        {
+          "title": "Module II",
+          "body": "Module II",
+          "links": [
+            {
+              "n": "Module II",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704015_1"
+            }
+          ]
+        },
+        {
+          "title": "Module III",
+          "body": "Module III",
+          "links": [
+            {
+              "n": "Module III",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704016_1"
+            }
+          ]
+        },
+        {
+          "title": "Module IV",
+          "body": "Module IV",
+          "links": [
+            {
+              "n": "Module IV",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704017_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/COURSE MATERIALS",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704004_1",
+      "rows": [
+        {
+          "title": "Great Writing 5",
+          "body": "You may study the reaction (response) essay (Unit 6) and other writing topics with this textbook.",
+          "links": [
+            {
+              "n": "Great Writing 5",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704018_1"
+            }
+          ]
+        },
+        {
+          "title": "2023 EBP course staff Reading and Video Assignments",
+          "body": "This is a tentative schedule. Changes may be made for weeks after the National Day holiday.",
+          "links": [
+            {
+              "n": "2023 EBP course staff Reading and Video Assignments",
+              "u": "https://resource.example.invalid/ENG1001/m033/1"
+            }
+          ]
+        },
+        {
+          "title": "Guidelines on Presentations",
+          "body": "Guidelines on Presentations",
+          "links": [
+            {
+              "n": "Guidelines on Presentations",
+              "u": "https://resource.example.invalid/ENG1001/m034/1"
+            }
+          ]
+        },
+        {
+          "title": "Guidelines on Writing Practice",
+          "body": "Guidelines on Writing Practice",
+          "links": [
+            {
+              "n": "Guidelines on Writing Practice",
+              "u": "https://resource.example.invalid/ENG1001/m035/1"
+            }
+          ]
+        },
+        {
+          "title": "Student Presentation Schedule - L09",
+          "body": "Student Presentation Schedule - L09",
+          "links": [
+            {
+              "n": "Student Presentation Schedule - L09",
+              "u": "https://resource.example.invalid/ENG1001/m036/1"
+            }
+          ]
+        },
+        {
+          "title": "Student Presentation Schedule - L10",
+          "body": "Student Presentation Schedule - L10",
+          "links": [
+            {
+              "n": "Student Presentation Schedule - L10",
+              "u": "https://resource.example.invalid/ENG1001/m037/1"
+            }
+          ]
+        },
+        {
+          "title": "Student Presentation Schedule - L11",
+          "body": "Student Presentation Schedule - L11",
+          "links": [
+            {
+              "n": "Student Presentation Schedule - L11",
+              "u": "https://resource.example.invalid/ENG1001/m038/1"
+            }
+          ]
+        },
+        {
+          "title": "Student Presentation Schedule - L12",
+          "body": "Student Presentation Schedule - L12",
+          "links": [
+            {
+              "n": "Student Presentation Schedule - L12",
+              "u": "https://resource.example.invalid/ENG1001/m039/1"
+            }
+          ]
+        },
+        {
+          "title": "Readings",
+          "body": "Attached Files:\n Loving and Hating New York.docx (19.945 KB)\n more praise for idleness.docx (20.113 KB)\n Reimagining the Fashion Industry by Designing out Waste.docx (18.752 KB)\n The high price society pays for social media _ Financial Times.pdf (133.985 KB)\n Two Ways to Belong in America.pdf (84.058 KB)\n We Need to Make 'Electrifying Everything' Easier - Scientific American.pdf (820.04 KB)\n What I Have Lived For.pdf (6.558 KB)\n Writing Drafts by Richard Marius.pdf (46.609 KB)\n Enter the dragon.docx (19.959 KB)\n How College Changes the Parent-Child Relationship.docx (18.843 KB)\n Bill Gates - We Must Develop Drugs Much Faster in the Next Pandemic.pdf (134.758 KB)\n Is a simpler life a better life.docx (15.724 KB)\n Science Has Spoiled My Supper.pdf (83.496 KB)",
+          "links": [
+            {
+              "n": "Loving and Hating New York.docx",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104015-dt-content-rid-104015_1/xid-104015_1"
+            },
+            {
+              "n": "more praise for idleness.docx",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104016-dt-content-rid-104016_1/xid-104016_1"
+            },
+            {
+              "n": "Reimagining the Fashion Industry by Designing out Waste.docx",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104017-dt-content-rid-104017_1/xid-104017_1"
+            },
+            {
+              "n": "The high price society pays for social media _ Financial Times.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104018-dt-content-rid-104018_1/xid-104018_1"
+            },
+            {
+              "n": "Two Ways to Belong in America.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104019-dt-content-rid-104019_1/xid-104019_1"
+            },
+            {
+              "n": "We Need to Make 'Electrifying Everything' Easier - Scientific American.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104020-dt-content-rid-104020_1/xid-104020_1"
+            },
+            {
+              "n": "What I Have Lived For.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104021-dt-content-rid-104021_1/xid-104021_1"
+            },
+            {
+              "n": "Writing Drafts by Richard Marius.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104022-dt-content-rid-104022_1/xid-104022_1"
+            },
+            {
+              "n": "Enter the dragon.docx",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104023-dt-content-rid-104023_1/xid-104023_1"
+            },
+            {
+              "n": "How College Changes the Parent-Child Relationship.docx",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104024-dt-content-rid-104024_1/xid-104024_1"
+            },
+            {
+              "n": "Bill Gates - We Must Develop Drugs Much Faster in the Next Pandemic.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104025-dt-content-rid-104025_1/xid-104025_1"
+            },
+            {
+              "n": "Is a simpler life a better life.docx",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104026-dt-content-rid-104026_1/xid-104026_1"
+            },
+            {
+              "n": "Science Has Spoiled My Supper.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104027-dt-content-rid-104027_1/xid-104027_1"
+            }
+          ]
+        },
+        {
+          "title": "Videos",
+          "body": "Attached Files:\n 3 creative ways to fix fashion's waste problem_AmitKalra_2017S-480p_default.mp4 (83.785 MB)\n I Am Not Your Asian Stereotype _ Canwen Xu _ TEDxBoise.mp4 (26.008 MB)\n Rethinking Whole Foods _ Larry Olmsted _ TEDxUniversityofNevada.mp4 (64.368 MB)\n Solomon Goldstein-Rose_ How much clean electricity do we really need_ _ TED Countdown.mp4 (25.881 MB)\n The Extreme 996 Work Culture in China.mp4 (49.065 MB)\n The Magic Of Revision _ Obert Skye _ TEDxIdahoFalls.mp4 (33.369 MB)\n The masterpiece of a simple life Maura Malloy TEDxIndianapolis_default.mp4 (52.069 MB)\n The next outbreak.mp4 (39.831 MB)\n There's more to life than being happy Emily Esfahani Smith_default.mp4 (56.932 MB)\n What makes a city liveable.mp4 (55.03 MB)\n Why_our_screens_make_us_less_happy___Adam_Alter_default.mp4 (80.814 MB)\n Why we need to pay attention to Chinese millennials _ Sebastian Guo.mp4 (31.517 MB)\n What To Do When Your Parents Are Over Protective.mp4 (68.011 MB)",
+          "links": [
+            {
+              "n": "3 creative ways to fix fashion's waste problem_AmitKalra_2017S-480p_default.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104028-dt-content-rid-104028_1/xid-104028_1"
+            },
+            {
+              "n": "I Am Not Your Asian Stereotype _ Canwen Xu _ TEDxBoise.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104029-dt-content-rid-104029_1/xid-104029_1"
+            },
+            {
+              "n": "Rethinking Whole Foods _ Larry Olmsted _ TEDxUniversityofNevada.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104030-dt-content-rid-104030_1/xid-104030_1"
+            },
+            {
+              "n": "Solomon Goldstein-Rose_ How much clean electricity do we really need_ _ TED Countdown.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104031-dt-content-rid-104031_1/xid-104031_1"
+            },
+            {
+              "n": "The Extreme 996 Work Culture in China.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104032-dt-content-rid-104032_1/xid-104032_1"
+            },
+            {
+              "n": "The Magic Of Revision _ Obert Skye _ TEDxIdahoFalls.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104033-dt-content-rid-104033_1/xid-104033_1"
+            },
+            {
+              "n": "The masterpiece of a simple life Maura Malloy TEDxIndianapolis_default.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104034-dt-content-rid-104034_1/xid-104034_1"
+            },
+            {
+              "n": "The next outbreak.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104035-dt-content-rid-104035_1/xid-104035_1"
+            },
+            {
+              "n": "There's more to life than being happy Emily Esfahani Smith_default.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104036-dt-content-rid-104036_1/xid-104036_1"
+            },
+            {
+              "n": "What makes a city liveable.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104037-dt-content-rid-104037_1/xid-104037_1"
+            },
+            {
+              "n": "Why_our_screens_make_us_less_happy___Adam_Alter_default.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104038-dt-content-rid-104038_1/xid-104038_1"
+            },
+            {
+              "n": "Why we need to pay attention to Chinese millennials _ Sebastian Guo.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104039-dt-content-rid-104039_1/xid-104039_1"
+            },
+            {
+              "n": "What To Do When Your Parents Are Over Protective.mp4",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104040-dt-content-rid-104040_1/xid-104040_1"
+            }
+          ]
+        },
+        {
+          "title": "Slides for Presentations",
+          "body": "Please upload your presentation visual aids here. If you want to use the classroom computer, then Mac Keynote files are not acceptable. You may also choose to bring your own equipment for the presentation, but please make sure it has an HDMI or VGA connection. \nNote: This link is only for you to upload files, and it doesn't have anything to do with your grade.",
+          "links": [
+            {
+              "n": "Slides for Presentations",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_504000_1&course_id=_90004_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Writing Practice",
+          "body": "Please upload your writing practice here.",
+          "links": [
+            {
+              "n": "Writing Practice",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_504001_1&course_id=_90004_1&mode=view"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/WRITING ASSIGNMENTS",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704005_1",
+      "rows": [
+        {
+          "title": "Understanding the Writing Rubric",
+          "body": "Understanding the Writing Rubric",
+          "links": [
+            {
+              "n": "Understanding the Writing Rubric",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104041-dt-content-rid-104041_1/xid-104041_1"
+            }
+          ]
+        },
+        {
+          "title": "2023 EBP Essay Rubric_Personal Essay",
+          "body": "2023 EBP Essay Rubric_Personal Essay",
+          "links": [
+            {
+              "n": "2023 EBP Essay Rubric_Personal Essay",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104042-dt-content-rid-104042_1/xid-104042_1"
+            }
+          ]
+        },
+        {
+          "title": "2023 EBP Personal Essay Assignment Instructions",
+          "body": "2023 EBP Personal Essay Assignment Instructions",
+          "links": [
+            {
+              "n": "2023 EBP Personal Essay Assignment Instructions",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104043-dt-content-rid-104043_1/xid-104043_1"
+            }
+          ]
+        },
+        {
+          "title": "Template for page number",
+          "body": "Attached Files:\n Page number template.docx (18.017 KB)\nYou may download this document if you don't know how to insert page number in the required format.",
+          "links": [
+            {
+              "n": "Page number template.docx",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104044-dt-content-rid-104044_1/xid-104044_1"
+            }
+          ]
+        },
+        {
+          "title": "Peer Editing Form",
+          "body": "Peer Editing Form",
+          "links": [
+            {
+              "n": "Peer Editing Form",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104045-dt-content-rid-104045_1/xid-104045_1"
+            }
+          ]
+        },
+        {
+          "title": "Assignment Submission",
+          "body": "Assignment Submission",
+          "links": [
+            {
+              "n": "Assignment Submission",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704019_1"
+            }
+          ]
+        },
+        {
+          "title": "Sample Essays",
+          "body": "Sample Essays",
+          "links": [
+            {
+              "n": "Sample Essays",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704020_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/INDIVIDUAL PRESENTATIONS",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704006_1",
+      "rows": [
+        {
+          "title": "Slides for Individual Presentation",
+          "body": "If you choose to use the classroom computer for your Individual Presentation, please upload your slides here. Only PowerPoint and PDF files can be opened on that computer.",
+          "links": [
+            {
+              "n": "Slides for Individual Presentation",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_504002_1&course_id=_90004_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "2023 EBP Individual Presentation Instructions",
+          "body": "Attached Files:\n 2023 EBP Individual Presentation Instructions_FINAL.pdf (76.656 KB)",
+          "links": [
+            {
+              "n": "2023 EBP Individual Presentation Instructions_FINAL.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104046-dt-content-rid-104046_1/xid-104046_1"
+            }
+          ]
+        },
+        {
+          "title": "2023 EBP Rubric for oral presentations",
+          "body": "2023 EBP Rubric for oral presentations",
+          "links": [
+            {
+              "n": "2023 EBP Rubric for oral presentations",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104047-dt-content-rid-104047_1/xid-104047_1"
+            }
+          ]
+        },
+        {
+          "title": "High Grade Presentations",
+          "body": "Inside this file you will find several A-grade presentations from the past. Please note that students used to present on their expressive essay topics \"my favorite...\", but the requirement regarding topic-choosing has changed this semester.",
+          "links": [
+            {
+              "n": "High Grade Presentations",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704021_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/PRACTICE EXAMS",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704007_1",
+      "rows": [
+        {
+          "title": "PRACTICE LISTENING EXAMS",
+          "body": "In this folder you will find a practice final listening exam. This will give you an idea of the exam's level of difficulty and help you to prepare for this year's exam.",
+          "links": [
+            {
+              "n": "PRACTICE LISTENING EXAMS",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704022_1"
+            }
+          ]
+        },
+        {
+          "title": "PRACTICE READING / WRITING EXAM",
+          "body": "In this folder, you can find three articles from The Conversation. \nTo take a mock Reading / Writing exam, please follow the instructions below.\nThe total exam time is two and a half hours. You may NOT use a dictionary.\nTask 1. Read the article. Summarize each scholar’s ideas in your own words. The summary should be about 100 words.\nTask 2. Write a response essay (400-500 words) on this material. You may respond to any viewpoint(s) in the material or the topic in general. Please include at least one direct quotation and one paraphrase in your essay with correct APA in-text citation. Please also include an APA reference entry for the material, although it will not be graded along with the rest of the paper.",
+          "links": [
+            {
+              "n": "PRACTICE READING / WRITING EXAM",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704023_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/MORE ARTICLES FOR READING, LISTENING, AND SPEAKING PRACTICE",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704008_1",
+      "rows": [
+        {
+          "title": "Microsoft Text to Speech Instructions",
+          "body": "Microsoft Text to Speech Instructions",
+          "links": [
+            {
+              "n": "Microsoft Text to Speech Instructions",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104048-dt-content-rid-104048_1/xid-104048_1"
+            }
+          ]
+        },
+        {
+          "title": "Audio link for textbook READINGS",
+          "body": "Audio link for textbook READINGS",
+          "links": [
+            {
+              "n": "Audio link for textbook READINGS",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104049-dt-content-rid-104049_1/xid-104049_1"
+            }
+          ]
+        },
+        {
+          "title": "10 Tips on How to Write Less Badly",
+          "body": "10 Tips on How to Write Less Badly",
+          "links": [
+            {
+              "n": "10 Tips on How to Write Less Badly",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104050-dt-content-rid-104050_1/xid-104050_1"
+            }
+          ]
+        },
+        {
+          "title": "Bad Writing and Bad Thinking",
+          "body": "Bad Writing and Bad Thinking",
+          "links": [
+            {
+              "n": "Bad Writing and Bad Thinking",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104051-dt-content-rid-104051_1/xid-104051_1"
+            }
+          ]
+        },
+        {
+          "title": "Cambodia Criminalizes Khmer Rouge Atrocity Denial",
+          "body": "Cambodia Criminalizes Khmer Rouge Atrocity Denial",
+          "links": [
+            {
+              "n": "Cambodia Criminalizes Khmer Rouge Atrocity Denial",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104052-dt-content-rid-104052_1/xid-104052_1"
+            }
+          ]
+        },
+        {
+          "title": "Cancer From the Kitchen",
+          "body": "Cancer From the Kitchen",
+          "links": [
+            {
+              "n": "Cancer From the Kitchen",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104053-dt-content-rid-104053_1/xid-104053_1"
+            }
+          ]
+        },
+        {
+          "title": "Conquering the Wave that No One Dared Surf",
+          "body": "Conquering the Wave that No One Dared Surf",
+          "links": [
+            {
+              "n": "Conquering the Wave that No One Dared Surf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104054-dt-content-rid-104054_1/xid-104054_1"
+            }
+          ]
+        },
+        {
+          "title": "Environmental Prize Goes Unrewarded",
+          "body": "Environmental Prize Goes Unrewarded",
+          "links": [
+            {
+              "n": "Environmental Prize Goes Unrewarded",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104055-dt-content-rid-104055_1/xid-104055_1"
+            }
+          ]
+        },
+        {
+          "title": "Forget What You Know About Good Study Habits",
+          "body": "Forget What You Know About Good Study Habits",
+          "links": [
+            {
+              "n": "Forget What You Know About Good Study Habits",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104056-dt-content-rid-104056_1/xid-104056_1"
+            }
+          ]
+        },
+        {
+          "title": "Growing Up Digital, Wired for Distraction",
+          "body": "Growing Up Digital, Wired for Distraction",
+          "links": [
+            {
+              "n": "Growing Up Digital, Wired for Distraction",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104057-dt-content-rid-104057_1/xid-104057_1"
+            }
+          ]
+        },
+        {
+          "title": "How a Student Took On Eminent Economists",
+          "body": "How a Student Took On Eminent Economists",
+          "links": [
+            {
+              "n": "How a Student Took On Eminent Economists",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104058-dt-content-rid-104058_1/xid-104058_1"
+            }
+          ]
+        },
+        {
+          "title": "Is Eavesdropping so Wrong?",
+          "body": "Is Eavesdropping so Wrong?",
+          "links": [
+            {
+              "n": "Is Eavesdropping so Wrong?",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104059-dt-content-rid-104059_1/xid-104059_1"
+            }
+          ]
+        },
+        {
+          "title": "Is Ecuador Home to the Worlds Best Chocolate?",
+          "body": "Is Ecuador Home to the Worlds Best Chocolate?",
+          "links": [
+            {
+              "n": "Is Ecuador Home to the Worlds Best Chocolate?",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104060-dt-content-rid-104060_1/xid-104060_1"
+            }
+          ]
+        },
+        {
+          "title": "Kung Fu for Philosophers",
+          "body": "Kung Fu for Philosophers",
+          "links": [
+            {
+              "n": "Kung Fu for Philosophers",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104061-dt-content-rid-104061_1/xid-104061_1"
+            }
+          ]
+        },
+        {
+          "title": "Men and Women Respond Differently to Danger",
+          "body": "Men and Women Respond Differently to Danger",
+          "links": [
+            {
+              "n": "Men and Women Respond Differently to Danger",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104062-dt-content-rid-104062_1/xid-104062_1"
+            }
+          ]
+        },
+        {
+          "title": "New York Street Food",
+          "body": "New York Street Food",
+          "links": [
+            {
+              "n": "New York Street Food",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104063-dt-content-rid-104063_1/xid-104063_1"
+            }
+          ]
+        },
+        {
+          "title": "Patricia Travers",
+          "body": "Patricia Travers",
+          "links": [
+            {
+              "n": "Patricia Travers",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104064-dt-content-rid-104064_1/xid-104064_1"
+            }
+          ]
+        },
+        {
+          "title": "Robot Warriors",
+          "body": "Robot Warriors",
+          "links": [
+            {
+              "n": "Robot Warriors",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104065-dt-content-rid-104065_1/xid-104065_1"
+            }
+          ]
+        },
+        {
+          "title": "Scientists Crack Cancer Code",
+          "body": "Scientists Crack Cancer Code",
+          "links": [
+            {
+              "n": "Scientists Crack Cancer Code",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104066-dt-content-rid-104066_1/xid-104066_1"
+            }
+          ]
+        },
+        {
+          "title": "Surrendering",
+          "body": "Surrendering",
+          "links": [
+            {
+              "n": "Surrendering",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104067-dt-content-rid-104067_1/xid-104067_1"
+            }
+          ]
+        },
+        {
+          "title": "Taking Regular Breaks from the Desk",
+          "body": "Taking Regular Breaks from the Desk",
+          "links": [
+            {
+              "n": "Taking Regular Breaks from the Desk",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104068-dt-content-rid-104068_1/xid-104068_1"
+            }
+          ]
+        },
+        {
+          "title": "Ten Hiring Manager Deal Breakers",
+          "body": "Ten Hiring Manager Deal Breakers",
+          "links": [
+            {
+              "n": "Ten Hiring Manager Deal Breakers",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104069-dt-content-rid-104069_1/xid-104069_1"
+            }
+          ]
+        },
+        {
+          "title": "The Man Who Forgot Everything",
+          "body": "The Man Who Forgot Everything",
+          "links": [
+            {
+              "n": "The Man Who Forgot Everything",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104070-dt-content-rid-104070_1/xid-104070_1"
+            }
+          ]
+        },
+        {
+          "title": "Water Safety Expert Says Drowning Doesn't Just Happen",
+          "body": "Water Safety Expert Says Drowning Doesn't Just Happen",
+          "links": [
+            {
+              "n": "Water Safety Expert Says Drowning Doesn't Just Happen",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104071-dt-content-rid-104071_1/xid-104071_1"
+            }
+          ]
+        },
+        {
+          "title": "What Kind of Snake Inspired the Story of Borneo's Dragons",
+          "body": "What Kind of Snake Inspired the Story of Borneo's Dragons",
+          "links": [
+            {
+              "n": "What Kind of Snake Inspired the Story of Borneo's Dragons",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104072-dt-content-rid-104072_1/xid-104072_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/PRONUNCIATION VIDEOS",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704009_1",
+      "rows": [
+        {
+          "title": "How to pronounce the R sound",
+          "body": "How to pronounce the R sound",
+          "links": [
+            {
+              "n": "How to pronounce the R sound",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104073-dt-content-rid-104073_1/xid-104073_1"
+            }
+          ]
+        },
+        {
+          "title": "How to pronounce the TH sounds.",
+          "body": "How to pronounce the TH sounds.",
+          "links": [
+            {
+              "n": "How to pronounce the TH sounds.",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104074-dt-content-rid-104074_1/xid-104074_1"
+            }
+          ]
+        },
+        {
+          "title": "How to make the W sound.",
+          "body": "How to make the W sound.",
+          "links": [
+            {
+              "n": "How to make the W sound.",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104075-dt-content-rid-104075_1/xid-104075_1"
+            }
+          ]
+        },
+        {
+          "title": "R and L sounds by comparison",
+          "body": "R and L sounds by comparison",
+          "links": [
+            {
+              "n": "R and L sounds by comparison",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104076-dt-content-rid-104076_1/xid-104076_1"
+            }
+          ]
+        },
+        {
+          "title": "R vs. W sounds",
+          "body": "R vs. W sounds",
+          "links": [
+            {
+              "n": "R vs. W sounds",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104077-dt-content-rid-104077_1/xid-104077_1"
+            }
+          ]
+        },
+        {
+          "title": "English Study Pronunciation What did you do today",
+          "body": "English Study Pronunciation What did you do today",
+          "links": [
+            {
+              "n": "English Study Pronunciation What did you do today",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104078-dt-content-rid-104078_1/xid-104078_1"
+            }
+          ]
+        },
+        {
+          "title": "How to pronounce to the in a sentence",
+          "body": "How to pronounce to the in a sentence",
+          "links": [
+            {
+              "n": "How to pronounce to the in a sentence",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104079-dt-content-rid-104079_1/xid-104079_1"
+            }
+          ]
+        },
+        {
+          "title": "English Sounds - F [f] and V [v] Consonants - How to make the F and V Consonants",
+          "body": "English Sounds - F [f] and V [v] Consonants - How to make the F and V Consonants",
+          "links": [
+            {
+              "n": "English Sounds - F [f] and V [v] Consonants - How to make the F and V Consonants",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104080-dt-content-rid-104080_1/xid-104080_1"
+            }
+          ]
+        },
+        {
+          "title": "Learn the IPA -- Consonants -- American English",
+          "body": "Learn the IPA -- Consonants -- American English",
+          "links": [
+            {
+              "n": "Learn the IPA -- Consonants -- American English",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104081-dt-content-rid-104081_1/xid-104081_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/GRAMMAR QUIZZES",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704010_1",
+      "rows": [
+        {
+          "title": "PPT Lessons for the Grammar Quizzes",
+          "body": "Attached Files:\n PPT 14 Conjunctions 2020.pptx (249.461 KB)\n Pronouns 2020.pptx (454.931 KB)\n SVO_Folsom Cordova Unified School District.ppt (766.5 KB)\nPlease study the corresponding PPT lesson before taking a quiz.",
+          "links": [
+            {
+              "n": "PPT 14 Conjunctions 2020.pptx",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104082-dt-content-rid-104082_1/xid-104082_1"
+            },
+            {
+              "n": "Pronouns 2020.pptx",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104083-dt-content-rid-104083_1/xid-104083_1"
+            },
+            {
+              "n": "SVO_Folsom Cordova Unified School District.ppt",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104084-dt-content-rid-104084_1/xid-104084_1"
+            }
+          ]
+        },
+        {
+          "title": "APA Citations and References",
+          "body": "Please study the writing topics of Module 3 & 4 before taking this quiz. This quiz will be scored by the average of any attempts made. Due at end of day, Thur 30 Nov 2023.",
+          "links": [
+            {
+              "n": "APA Citations and References",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90004_1&content_id=_400100_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Pronouns",
+          "body": "Pronouns",
+          "links": [
+            {
+              "n": "Pronouns",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90004_1&content_id=_400101_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Conjunctions",
+          "body": "This quiz tests your knowledge of the English conjunctions. Before taking the quiz, study the PowerPoint lesson “Conjunctions”.",
+          "links": [
+            {
+              "n": "Conjunctions",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90004_1&content_id=_400102_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "SVO",
+          "body": "This quiz tests your knowledge of the basic concepts of English grammatical structure. Before taking the quiz, you should study the PowerPoint lesson entitled “SVO”.",
+          "links": [
+            {
+              "n": "SVO",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/launchAssessment.jsp?course_id=_90004_1&content_id=_400103_1&mode=view"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/SALL TALK",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704011_1",
+      "rows": [
+        {
+          "title": "SALL Talk Video Link",
+          "body": "SALL Talk Video Link",
+          "links": [
+            {
+              "n": "SALL Talk Video Link",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104085-dt-content-rid-104085_1/xid-104085_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/PUBLIC SPEAKING",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704012_1",
+      "rows": [
+        {
+          "title": "Public Speaking Video Link",
+          "body": "Public Speaking Video Link",
+          "links": [
+            {
+              "n": "Public Speaking Video Link",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104086-dt-content-rid-104086_1/xid-104086_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/FALL 2023 EBP POWERPOINT LESSONS/course staff's Materials",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704013_1",
+      "rows": [
+        {
+          "title": "Public Speaking",
+          "body": "Public Speaking",
+          "links": [
+            {
+              "n": "Public Speaking",
+              "u": "https://resource.example.invalid/ENG1001/m098/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/FALL 2023 EBP POWERPOINT LESSONS/Module I",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704014_1",
+      "rows": [
+        {
+          "title": "Module I_Speaking_Voice and Language",
+          "body": "Module I_Speaking_Voice and Language",
+          "links": [
+            {
+              "n": "Module I_Speaking_Voice and Language",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104087-dt-content-rid-104087_1/xid-104087_1"
+            }
+          ]
+        },
+        {
+          "title": "Module I_ Writing",
+          "body": "Module I_ Writing",
+          "links": [
+            {
+              "n": "Module I_ Writing",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104088-dt-content-rid-104088_1/xid-104088_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/FALL 2023 EBP POWERPOINT LESSONS/Module II",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704015_1",
+      "rows": [
+        {
+          "title": "Module II_Writing_Language",
+          "body": "Module II_Writing_Language",
+          "links": [
+            {
+              "n": "Module II_Writing_Language",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104089-dt-content-rid-104089_1/xid-104089_1"
+            }
+          ]
+        },
+        {
+          "title": "Module II_Speaking_Body language",
+          "body": "Module II_Speaking_Body language",
+          "links": [
+            {
+              "n": "Module II_Speaking_Body language",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104090-dt-content-rid-104090_1/xid-104090_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/FALL 2023 EBP POWERPOINT LESSONS/Module III",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704016_1",
+      "rows": [
+        {
+          "title": "Module III_Writing_Plagiarism Paraphrasing Direct Quotation",
+          "body": "Module III_Writing_Plagiarism Paraphrasing Direct Quotation",
+          "links": [
+            {
+              "n": "Module III_Writing_Plagiarism Paraphrasing Direct Quotation",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104091-dt-content-rid-104091_1/xid-104091_1"
+            }
+          ]
+        },
+        {
+          "title": "Module III_Speaking_Content",
+          "body": "Module III_Speaking_Content",
+          "links": [
+            {
+              "n": "Module III_Speaking_Content",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704024_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/FALL 2023 EBP POWERPOINT LESSONS/Module IV",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704017_1",
+      "rows": [
+        {
+          "title": "Module IV_Writing",
+          "body": "Module IV_Writing",
+          "links": [
+            {
+              "n": "Module IV_Writing",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704025_1"
+            }
+          ]
+        },
+        {
+          "title": "Module IV_Speaking",
+          "body": "Module IV_Speaking",
+          "links": [
+            {
+              "n": "Module IV_Speaking",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704026_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/COURSE MATERIALS/Great Writing 5",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704018_1",
+      "rows": [
+        {
+          "title": "Great Writing 5 (Units 1-4)",
+          "body": "Great Writing 5 (Units 1-4)",
+          "links": [
+            {
+              "n": "Great Writing 5 (Units 1-4)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104092-dt-content-rid-104092_1/xid-104092_1"
+            }
+          ]
+        },
+        {
+          "title": "Great Writing 5 (Units 5-8)",
+          "body": "Great Writing 5 (Units 5-8)",
+          "links": [
+            {
+              "n": "Great Writing 5 (Units 5-8)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104093-dt-content-rid-104093_1/xid-104093_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/WRITING ASSIGNMENTS/Assignment Submission",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704019_1",
+      "rows": [
+        {
+          "title": "Personal Essay",
+          "body": "Please open this folder to submit your Personal Essays.",
+          "links": [
+            {
+              "n": "Personal Essay",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704027_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/WRITING ASSIGNMENTS/Sample Essays",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704020_1",
+      "rows": []
+    },
+    {
+      "n": "Content/INDIVIDUAL PRESENTATIONS/High Grade Presentations",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704021_1",
+      "rows": []
+    },
+    {
+      "n": "Content/PRACTICE EXAMS/PRACTICE LISTENING EXAMS",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704022_1",
+      "rows": [
+        {
+          "title": "Listening Exam 1 Video",
+          "body": "Listening Exam 1 Video",
+          "links": [
+            {
+              "n": "Listening Exam 1 Video",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104094-dt-content-rid-104094_1/xid-104094_1"
+            }
+          ]
+        },
+        {
+          "title": "Listening Exam 1 QUIZ",
+          "body": "Listening Exam 1 QUIZ",
+          "links": [
+            {
+              "n": "Listening Exam 1 QUIZ",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104095-dt-content-rid-104095_1/xid-104095_1"
+            }
+          ]
+        },
+        {
+          "title": "Listening Exam 2 Video",
+          "body": "Listening Exam 2 Video",
+          "links": [
+            {
+              "n": "Listening Exam 2 Video",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104096-dt-content-rid-104096_1/xid-104096_1"
+            }
+          ]
+        },
+        {
+          "title": "Listening Exam 2 QUIZ",
+          "body": "Listening Exam 2 QUIZ",
+          "links": [
+            {
+              "n": "Listening Exam 2 QUIZ",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104097-dt-content-rid-104097_1/xid-104097_1"
+            }
+          ]
+        },
+        {
+          "title": "Listening Exam 3 Video",
+          "body": "Listening Exam 3 Video",
+          "links": [
+            {
+              "n": "Listening Exam 3 Video",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104098-dt-content-rid-104098_1/xid-104098_1"
+            }
+          ]
+        },
+        {
+          "title": "Listening Exam 3 QUIZ",
+          "body": "Listening Exam 3 QUIZ",
+          "links": [
+            {
+              "n": "Listening Exam 3 QUIZ",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104099-dt-content-rid-104099_1/xid-104099_1"
+            }
+          ]
+        },
+        {
+          "title": "Keys to Listening Exam #1",
+          "body": "Keys to Listening Exam #1",
+          "links": [
+            {
+              "n": "Keys to Listening Exam #1",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104100-dt-content-rid-104100_1/xid-104100_1"
+            }
+          ]
+        },
+        {
+          "title": "Keys to Listening Exam #2",
+          "body": "Keys to Listening Exam #2",
+          "links": [
+            {
+              "n": "Keys to Listening Exam #2",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104101-dt-content-rid-104101_1/xid-104101_1"
+            }
+          ]
+        },
+        {
+          "title": "Keys to Listening Exam #3",
+          "body": "Keys to Listening Exam #3",
+          "links": [
+            {
+              "n": "Keys to Listening Exam #3",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104102-dt-content-rid-104102_1/xid-104102_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/PRACTICE EXAMS/PRACTICE READING / WRITING EXAM",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704023_1",
+      "rows": [
+        {
+          "title": "Articles from The Conversation",
+          "body": "Attached Files:\n Should British universities worry about a lack of Nobel Prizes in the 21st century_.pdf (450.151 KB)\n The office is dead! Long live the office in a post-pandemic world.pdf (555.08 KB)\n New school planned by Dr. Dre and Jimmy Iovine seeks to teach blend of skills to prepare students for real-world jobs.pdf (3.691 MB)",
+          "links": [
+            {
+              "n": "Should British universities worry about a lack of Nobel Prizes in the 21st century_.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104103-dt-content-rid-104103_1/xid-104103_1"
+            },
+            {
+              "n": "The office is dead! Long live the office in a post-pandemic world.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104104-dt-content-rid-104104_1/xid-104104_1"
+            },
+            {
+              "n": "New school planned by Dr. Dre and Jimmy Iovine seeks to teach blend of skills to prepare students for real-world jobs.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104105-dt-content-rid-104105_1/xid-104105_1"
+            }
+          ]
+        },
+        {
+          "title": "Sample Summary-Response Essays",
+          "body": "Attached Files:\n S-R_High 1.pdf (3.506 MB)\n S-R_High 2.pdf (918.687 KB)\n S-R_High 3.pdf (866.843 KB)\nThese samples are from previous years' \"Summary-Response Essays\". They are only for your reference as to the quality of language use. They SHOULD NOT be taken as samples for your \"Responsive Essays\" - they are not the same.",
+          "links": [
+            {
+              "n": "S-R_High 1.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104106-dt-content-rid-104106_1/xid-104106_1"
+            },
+            {
+              "n": "S-R_High 2.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104107-dt-content-rid-104107_1/xid-104107_1"
+            },
+            {
+              "n": "S-R_High 3.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104108-dt-content-rid-104108_1/xid-104108_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/FALL 2023 EBP POWERPOINT LESSONS/Module III/Module III_Speaking_Content",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704024_1",
+      "rows": [
+        {
+          "title": "Ethos, Pathos & Logos I",
+          "body": "Ethos, Pathos & Logos I",
+          "links": [
+            {
+              "n": "Ethos, Pathos & Logos I",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104109-dt-content-rid-104109_1/xid-104109_1"
+            }
+          ]
+        },
+        {
+          "title": "Ethos, Pathos, and Logos II",
+          "body": "Ethos, Pathos, and Logos II",
+          "links": [
+            {
+              "n": "Ethos, Pathos, and Logos II",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104110-dt-content-rid-104110_1/xid-104110_1"
+            }
+          ]
+        },
+        {
+          "title": "Examples of ethos, pathos, and logos I",
+          "body": "Examples of ethos, pathos, and logos I",
+          "links": [
+            {
+              "n": "Examples of ethos, pathos, and logos I",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104111-dt-content-rid-104111_1/xid-104111_1"
+            }
+          ]
+        },
+        {
+          "title": "Examples of Ethos, Pathos, and Logos II",
+          "body": "Examples of Ethos, Pathos, and Logos II",
+          "links": [
+            {
+              "n": "Examples of Ethos, Pathos, and Logos II",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104112-dt-content-rid-104112_1/xid-104112_1"
+            }
+          ]
+        },
+        {
+          "title": "Speak to me in a language I can understand",
+          "body": "Speak to me in a language I can understand",
+          "links": [
+            {
+              "n": "Speak to me in a language I can understand",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104113-dt-content-rid-104113_1/xid-104113_1"
+            }
+          ]
+        },
+        {
+          "title": "Module III_Speaking_Content",
+          "body": "Module III_Speaking_Content",
+          "links": [
+            {
+              "n": "Module III_Speaking_Content",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104114-dt-content-rid-104114_1/xid-104114_1"
+            }
+          ]
+        },
+        {
+          "title": "Tell me a human story",
+          "body": "Tell me a human story",
+          "links": [
+            {
+              "n": "Tell me a human story",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104115-dt-content-rid-104115_1/xid-104115_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/FALL 2023 EBP POWERPOINT LESSONS/Module IV/Module IV_Writing",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704025_1",
+      "rows": [
+        {
+          "title": "Different sources in APA styles (in the reference list)",
+          "body": "Different sources in APA styles (in the reference list)",
+          "links": [
+            {
+              "n": "Different sources in APA styles (in the reference list)",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104116-dt-content-rid-104116_1/xid-104116_1"
+            }
+          ]
+        },
+        {
+          "title": "Modul IV_Writing_Finding Quality Sources and APA Citation Style",
+          "body": "Modul IV_Writing_Finding Quality Sources and APA Citation Style",
+          "links": [
+            {
+              "n": "Modul IV_Writing_Finding Quality Sources and APA Citation Style",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104117-dt-content-rid-104117_1/xid-104117_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/FALL 2023 EBP POWERPOINT LESSONS/Module IV/Module IV_Speaking",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704026_1",
+      "rows": [
+        {
+          "title": "Mind-blowing PowerPoint - Creating Effective Visual Presentations",
+          "body": "Mind-blowing PowerPoint - Creating Effective Visual Presentations",
+          "links": [
+            {
+              "n": "Mind-blowing PowerPoint - Creating Effective Visual Presentations",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104118-dt-content-rid-104118_1/xid-104118_1"
+            }
+          ]
+        },
+        {
+          "title": "Module IV_Speaking_Visual Aids",
+          "body": "Module IV_Speaking_Visual Aids",
+          "links": [
+            {
+              "n": "Module IV_Speaking_Visual Aids",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-104119-dt-content-rid-104119_1/xid-104119_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/WRITING ASSIGNMENTS/Assignment Submission/Personal Essay",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90004_1&content_id=_704027_1",
+      "rows": []
+    }
+  ],
+  "ann": [
+    {
+      "title": "Notes on Individual Presentation",
+      "body": "The Individual Presentation will start from 4/5 Dec. For this assessment, please choose one article OR one video as the material. The material should be chosen from the course materials and should not be the same as your practice presentation. The format of the presentation is a Summary AND Response talk (4-5 mins), plus a Q & A session (1 min). Make sure to make the summary brief, preferably to be completed within 2 minutes; the summary only needs to cover the main points of the material chosen. \nPlease upload your slides to the Individual Presentation folder, if you choose to use the classroom computer. Otherwise, you need to bring your own device (HDMI connection is required). \nThere's no need to dress business formal, but sportswear should be avoided. Only students scheduled to present are required to come to class (on time); those not scheduled don't have to come. \nThank you for your attention.\np.s.\nDon't read for your presentation.",
+      "posted": "Posted on: Wednesday, November 22, 2023 04:05:22 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in GRAMMAR QUIZZES: APA Citations and References.",
+      "posted": "Posted on: Tuesday, November 21, 2023 11:49:36 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Arrangements for Final Exams",
+      "body": "The two final exams have been arranged as follows. Please arrive at the venue 15 minutes before the exam begins. Both exams are closed-book. \nThank you for your attention.\n \tDate\tVenue\tTime\tDuratiion\nListening Exam\tSaturday, 25 November\tTD307\t\n9:00 am (L9 & L10)\n10:30 am (L11 & L12)\n\t\n~ 50 minutes\nReading / Writing Exam\tSaturday, 2 December\tTB103\t\n9:00 am\n\t\n2.5 hours",
+      "posted": "Posted on: Monday, November 13, 2023 08:27:58 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in GRAMMAR QUIZZES: SVO.",
+      "posted": "Posted on: Friday, November 03, 2023 02:21:06 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in GRAMMAR QUIZZES: Pronouns.",
+      "posted": "Posted on: Monday, October 23, 2023 09:46:15 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assignment Submission for Personal Essay",
+      "body": "Please note that your Personal Essay (on the topic \"My most ... moment\") is due this Wed / Thur. But we WILL NOT meet in the classroom for you to submit the assignment. ONLY online submission is required. Please submit your essay to the VeriGuide assignment link created for your section. You should receive a confirmation email after successful submission - if you don't, double-check your submission. And if Google Chrome doesn't work well, try a different browser (such as Microsoft Edge or Firefox). \nPlease attach no cover page for online submission.\nA quiz on pronouns will be posted this Wednesday. Please study the ppt lesson before taking it.\nAgain, no classroom meeting this Wed / Thur. Thank you for your attention.\ncourse staff",
+      "posted": "Posted on: Monday, October 16, 2023 04:48:08 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Updated Presentation Schedules",
+      "body": "Please note that the schedule for practice presentations has been updated on Bb. Starting this Wed/Thur, only two students are schedule for every class. There will be a change to how the summary should be done, while the response remains unchanged. The new presentations will focus on comparison/contrast between the two materials (article and video), that is, the second part in the \"Guidelines\" I provided. I repeat the instructions here as below.\nSummary of similar and/or opposing views between article and video\nLearn to use comparison/contrast language: [course link]\nThe division of labour is still up to the students. The writing practice also remains unchanged. \nI'll further explain the schedule in class. Thanks for your attention.",
+      "posted": "Posted on: Monday, October 09, 2023 03:09:17 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "New test",
+      "body": "The following test has been made available in GRAMMAR QUIZZES: Conjunctions.",
+      "posted": "Posted on: Monday, October 09, 2023 12:06:37 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Attention to New Quizzes",
+      "body": "Please pay attention to the opening of new quizzes on Bb. Before taking a quiz, please study its corresponding material, either a PPT lesson or a video. Each quiz is due about two weeks after its release (due date is shown in quiz). Please study the quiz descriptions and instructions before starting. A Bb announcement will be made for each quiz launched. \nPlease be reminded that the quizzes are part of your participation grade. Thanks for your attention.\ncourse staff",
+      "posted": "Posted on: Friday, October 06, 2023 10:58:45 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assessment plan for course participation",
+      "body": "The following plan is used for assessing course participation, which accounts for 10% of the final grade:\nAttendance makes 50% of participation, with 5% deducted for each unauthorized absence.\nThe other 50 per cent is based on your quiz and homework performances. \nPlease take notice of future announcements on the opening of new quizzes.",
+      "posted": "Posted on: Tuesday, September 19, 2023 05:51:18 PM CST",
+      "links": [],
+      "images": []
+    }
+  ],
+  "grades": [
+    [
+      "PARTICIPATION\n10%",
+      "Feb 06, 2024 05:22 AM\nGRADED",
+      "93.23\n/100\n60.08\nAVERAGE\n93.24\nMEDIAN",
+      ""
+    ],
+    [
+      "FINAL READING & WRITING EXAM\n30%",
+      "Feb 03, 2024 02:44 AM\nGRADED",
+      "80.59\n/100\n62.57\nAVERAGE\n92.77\nMEDIAN",
+      ""
+    ],
+    [
+      "INDIVIDUAL PRESENTATION\n25%",
+      "Feb 05, 2024 01:53 AM\nGRADED",
+      "69.53\n/100\n66.42\nAVERAGE\n97.54\nMEDIAN",
+      ""
+    ],
+    [
+      "FINAL LISTENING EXAM\n15%",
+      "Feb 06, 2024 02:16 AM\nGRADED",
+      "58.14\n/100\n55.22\nAVERAGE\n92.84\nMEDIAN",
+      ""
+    ],
+    [
+      "PERSONAL ESSAY\n20%",
+      "Feb 06, 2024 07:30 AM\nGRADED",
+      "63.78\n/100\n83.48\nAVERAGE\n71.68\nMEDIAN",
+      ""
+    ],
+    [
+      "APA Citations and References\nDUE: NOV 30, 2023\nTest",
+      "Dec 04, 2023 11:57 PM\nGRADED",
+      "11.88\n/20",
+      ""
+    ],
+    [
+      "SVO\nDUE: NOV 17, 2023\nTest",
+      "Nov 20, 2023 12:37 AM\nGRADED",
+      "55.89\n/100",
+      ""
+    ],
+    [
+      "Pronouns\nDUE: NOV 6, 2023\nTest",
+      "Nov 08, 2023 06:44 PM\nGRADED",
+      "95.03\n/100",
+      ""
+    ],
+    [
+      "Conjunctions\nDUE: OCT 20, 2023\nTest",
+      "Oct 21, 2023 08:05 PM\nGRADED",
+      "90.21\n/100",
+      ""
+    ],
+    [
+      "Slides for Individual Presentation\nAssignment",
+      "Dec 13, 2023 09:36 AM\nSUBMITTED",
+      "-",
+      ""
+    ],
+    [
+      "Slides for Presentations\nAssignment",
+      "Nov 06, 2023 02:44 PM\nSUBMITTED",
+      "-",
+      ""
+    ],
+    [
+      "Total",
+      "",
+      "618.28\n/820",
+      ""
+    ],
+    [
+      "Weighted Total",
+      "",
+      "-",
+      ""
+    ],
+    [
+      "Writing Practice\nAssignment",
+      "Oct 07, 2023 03:02 PM\nSUBMITTED",
+      "-",
+      ""
+    ]
+  ],
+  "details": [
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_504000_1&course_id=_90004_1&mode=view",
+      "title": "Review Submission History: Slides for Presentations",
+      "attempt": "11/6/23 2:44 PM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_504001_1&course_id=_90004_1&mode=view",
+      "title": "Review Submission History: Writing Practice",
+      "attempt": "10/7/23 3:02 PM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_504002_1&course_id=_90004_1&mode=view",
+      "title": "Review Submission History: Slides for Individual Presentation",
+      "attempt": "12/13/23 9:36 AM",
+      "body": null
+    }
+  ]
+}

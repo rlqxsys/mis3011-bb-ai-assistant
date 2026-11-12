@@ -1,0 +1,595 @@
+{
+  "scenario": "exam-change",
+  "before": {
+    "tasks": [
+      {
+        "id": "CSC1001:2024:midterm",
+        "courseCode": "CSC1001",
+        "term": "2024",
+        "title": "Midterm Exam",
+        "kind": "exam",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": {
+          "start": "2024-11-01T19:00:00+08:00",
+          "end": "2024-11-01T21:00:00+08:00"
+        },
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "准备复习；考试地点稍后公布。"
+        ],
+        "issues": [],
+        "sources": [
+          {
+            "courseCode": "CSC1001",
+            "path": "courses/CSC1001.json",
+            "locator": "ann[16] · Posted on: Monday, October 14, 2024 01:48:38 PM CST",
+            "quote": "We have noticed that many midterm exams are arranged on weekends. To avoid conflicts, the CSC1001 Midterm is scheduled for Nov. 1 (Friday) from 19:00 to 21:00.\nAs a result, tutorials (T13/T14) on Nov. 1 are canceled. If you are in T13/T14, you may attend any tutorial section that week or study independently using the provided slides and codes.\nFurther details regarding the Midterm arrangements (e.g., locations, permitted materials, etc.) will be communicated in the coming days.\nThanks.",
+            "role": "announcement"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "no_evidence",
+          "at": null
+        },
+        "remainingMinutes": 240,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null
+      },
+      {
+        "id": "CSC1001:2024:tutorial-1101",
+        "courseCode": "CSC1001",
+        "term": "2024",
+        "title": "11 月 1 日 Tutorial",
+        "kind": "tutorial",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [],
+        "issues": [
+          "原始 tutorial 具体时段不在交接包；恢复后仍需学生补充课表。"
+        ],
+        "sources": [
+          {
+            "courseCode": "CSC1001",
+            "path": "courses/CSC1001.json",
+            "locator": "ann[16] · Posted on: Monday, October 14, 2024 01:48:38 PM CST",
+            "quote": "We have noticed that many midterm exams are arranged on weekends. To avoid conflicts, the CSC1001 Midterm is scheduled for Nov. 1 (Friday) from 19:00 to 21:00.\nAs a result, tutorials (T13/T14) on Nov. 1 are canceled. If you are in T13/T14, you may attend any tutorial section that week or study independently using the provided slides and codes.\nFurther details regarding the Midterm arrangements (e.g., locations, permitted materials, etc.) will be communicated in the coming days.\nThanks.",
+            "role": "announcement"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "cancelled",
+          "origin": "announcement",
+          "at": "2024-10-14T13:48:38+08:00"
+        },
+        "remainingMinutes": 0,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "sections": [
+          "T13",
+          "T14"
+        ]
+      }
+    ],
+    "plan": {
+      "blocks": [
+        {
+          "id": "CSC1001:2024:midterm@2024-10-15T11:00:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 1,
+          "start": "2024-10-15T11:00:00.000Z",
+          "end": "2024-10-15T11:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:midterm@2024-10-15T12:00:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 1,
+          "start": "2024-10-15T12:00:00.000Z",
+          "end": "2024-10-15T12:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:midterm@2024-10-15T13:00:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 1,
+          "start": "2024-10-15T13:00:00.000Z",
+          "end": "2024-10-15T13:20:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:midterm@2024-10-16T11:00:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 1,
+          "start": "2024-10-16T11:00:00.000Z",
+          "end": "2024-10-16T11:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:midterm@2024-10-16T12:00:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 1,
+          "start": "2024-10-16T12:00:00.000Z",
+          "end": "2024-10-16T12:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:midterm@2024-10-16T13:00:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 1,
+          "start": "2024-10-16T13:00:00.000Z",
+          "end": "2024-10-16T13:20:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        }
+      ],
+      "fixed": [
+        {
+          "start": "2024-11-01T19:00:00+08:00",
+          "end": "2024-11-01T21:00:00+08:00",
+          "taskId": "CSC1001:2024:midterm",
+          "title": "Midterm Exam",
+          "kind": "exam"
+        }
+      ],
+      "risks": []
+    },
+    "summary": {
+      "tasks": 2,
+      "active": 1,
+      "plannedMinutes": 240,
+      "risks": 0,
+      "unread": 1,
+      "pending": 3,
+      "today": "2024-10-15"
+    }
+  },
+  "events": [
+    {
+      "id": "replay:notice-1017:clock",
+      "type": "CLOCK_ADVANCED",
+      "to": "2024-10-17T19:20:00+08:00"
+    },
+    {
+      "id": "replay:notice-1017:exam",
+      "type": "TASK_CHANGED",
+      "taskId": "CSC1001:2024:midterm",
+      "patch": {
+        "fixed": {
+          "start": "2024-11-10T19:00:00+08:00",
+          "end": "2024-11-10T21:00:00+08:00"
+        }
+      },
+      "source": {
+        "courseCode": "CSC1001",
+        "path": "courses/CSC1001.json",
+        "locator": "ann[15] · Posted on: Thursday, October 17, 2024 07:18:52 PM CST",
+        "quote": "In response to the numerous concerns raised about the scheduling conflict with the MAT tutorial on Nov. 1, we have made adjustments to the Midterm Time. The midterm will now take place on Nov. 10 (Sunday) from 19:00 to 21:00.\nPlease note that there will be no make-up for midterm. Since we notice the midterm date about three weeks earlier, it is imperative that all students attend on time. \nShould you encounter any urgent issues preventing your attendance on that day and can provide proof, kindly reach out to me personally.\nAdditionally, as we rearranged the midterm, the original Tutorial on Nov. 1 will still be held on time.\nThe details including location and other information will be communicated in the next few days.\nThanks for your understanding.",
+        "role": "announcement"
+      },
+      "message": "期中考试由 11 月 1 日 19:00–21:00 改为 11 月 10 日同一时段；旧提醒已撤销，复习安排已重新检查。"
+    },
+    {
+      "id": "replay:notice-1017:tutorial",
+      "type": "STATUS_RECORDED",
+      "taskId": "CSC1001:2024:tutorial-1101",
+      "value": "unknown",
+      "origin": "announcement",
+      "source": {
+        "courseCode": "CSC1001",
+        "path": "courses/CSC1001.json",
+        "locator": "ann[15] · Posted on: Thursday, October 17, 2024 07:18:52 PM CST",
+        "quote": "In response to the numerous concerns raised about the scheduling conflict with the MAT tutorial on Nov. 1, we have made adjustments to the Midterm Time. The midterm will now take place on Nov. 10 (Sunday) from 19:00 to 21:00.\nPlease note that there will be no make-up for midterm. Since we notice the midterm date about three weeks earlier, it is imperative that all students attend on time. \nShould you encounter any urgent issues preventing your attendance on that day and can provide proof, kindly reach out to me personally.\nAdditionally, as we rearranged the midterm, the original Tutorial on Nov. 1 will still be held on time.\nThe details including location and other information will be communicated in the next few days.\nThanks for your understanding.",
+        "role": "announcement"
+      },
+      "note": "11 月 1 日 Tutorial 恢复；原课时仍需补充。"
+    }
+  ],
+  "after": {
+    "tasks": [
+      {
+        "id": "CSC1001:2024:midterm",
+        "courseCode": "CSC1001",
+        "term": "2024",
+        "title": "Midterm Exam",
+        "kind": "exam",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": {
+          "start": "2024-11-10T19:00:00+08:00",
+          "end": "2024-11-10T21:00:00+08:00"
+        },
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "准备复习；考试地点稍后公布。"
+        ],
+        "issues": [],
+        "sources": [
+          {
+            "courseCode": "CSC1001",
+            "path": "courses/CSC1001.json",
+            "locator": "ann[16] · Posted on: Monday, October 14, 2024 01:48:38 PM CST",
+            "quote": "We have noticed that many midterm exams are arranged on weekends. To avoid conflicts, the CSC1001 Midterm is scheduled for Nov. 1 (Friday) from 19:00 to 21:00.\nAs a result, tutorials (T13/T14) on Nov. 1 are canceled. If you are in T13/T14, you may attend any tutorial section that week or study independently using the provided slides and codes.\nFurther details regarding the Midterm arrangements (e.g., locations, permitted materials, etc.) will be communicated in the coming days.\nThanks.",
+            "role": "announcement"
+          },
+          {
+            "courseCode": "CSC1001",
+            "path": "courses/CSC1001.json",
+            "locator": "ann[15] · Posted on: Thursday, October 17, 2024 07:18:52 PM CST",
+            "quote": "In response to the numerous concerns raised about the scheduling conflict with the MAT tutorial on Nov. 1, we have made adjustments to the Midterm Time. The midterm will now take place on Nov. 10 (Sunday) from 19:00 to 21:00.\nPlease note that there will be no make-up for midterm. Since we notice the midterm date about three weeks earlier, it is imperative that all students attend on time. \nShould you encounter any urgent issues preventing your attendance on that day and can provide proof, kindly reach out to me personally.\nAdditionally, as we rearranged the midterm, the original Tutorial on Nov. 1 will still be held on time.\nThe details including location and other information will be communicated in the next few days.\nThanks for your understanding.",
+            "role": "announcement"
+          }
+        ],
+        "version": 2,
+        "status": {
+          "value": "unknown",
+          "origin": "no_evidence",
+          "at": null
+        },
+        "remainingMinutes": 240,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null
+      },
+      {
+        "id": "CSC1001:2024:tutorial-1101",
+        "courseCode": "CSC1001",
+        "term": "2024",
+        "title": "11 月 1 日 Tutorial",
+        "kind": "tutorial",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [],
+        "issues": [
+          "原始 tutorial 具体时段不在交接包；恢复后仍需学生补充课表。"
+        ],
+        "sources": [
+          {
+            "courseCode": "CSC1001",
+            "path": "courses/CSC1001.json",
+            "locator": "ann[16] · Posted on: Monday, October 14, 2024 01:48:38 PM CST",
+            "quote": "We have noticed that many midterm exams are arranged on weekends. To avoid conflicts, the CSC1001 Midterm is scheduled for Nov. 1 (Friday) from 19:00 to 21:00.\nAs a result, tutorials (T13/T14) on Nov. 1 are canceled. If you are in T13/T14, you may attend any tutorial section that week or study independently using the provided slides and codes.\nFurther details regarding the Midterm arrangements (e.g., locations, permitted materials, etc.) will be communicated in the coming days.\nThanks.",
+            "role": "announcement"
+          },
+          {
+            "courseCode": "CSC1001",
+            "path": "courses/CSC1001.json",
+            "locator": "ann[15] · Posted on: Thursday, October 17, 2024 07:18:52 PM CST",
+            "quote": "In response to the numerous concerns raised about the scheduling conflict with the MAT tutorial on Nov. 1, we have made adjustments to the Midterm Time. The midterm will now take place on Nov. 10 (Sunday) from 19:00 to 21:00.\nPlease note that there will be no make-up for midterm. Since we notice the midterm date about three weeks earlier, it is imperative that all students attend on time. \nShould you encounter any urgent issues preventing your attendance on that day and can provide proof, kindly reach out to me personally.\nAdditionally, as we rearranged the midterm, the original Tutorial on Nov. 1 will still be held on time.\nThe details including location and other information will be communicated in the next few days.\nThanks for your understanding.",
+            "role": "announcement"
+          }
+        ],
+        "version": 2,
+        "status": {
+          "value": "unknown",
+          "origin": "announcement",
+          "at": "2024-10-17T19:20:00+08:00",
+          "note": "11 月 1 日 Tutorial 恢复；原课时仍需补充。"
+        },
+        "remainingMinutes": 0,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "sections": [
+          "T13",
+          "T14"
+        ]
+      }
+    ],
+    "plan": {
+      "blocks": [
+        {
+          "id": "CSC1001:2024:midterm@2024-10-17T11:30:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 2,
+          "start": "2024-10-17T11:30:00.000Z",
+          "end": "2024-10-17T12:20:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:midterm@2024-10-17T12:30:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 2,
+          "start": "2024-10-17T12:30:00.000Z",
+          "end": "2024-10-17T13:20:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:midterm@2024-10-18T11:00:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 2,
+          "start": "2024-10-18T11:00:00.000Z",
+          "end": "2024-10-18T11:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:midterm@2024-10-18T12:00:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 2,
+          "start": "2024-10-18T12:00:00.000Z",
+          "end": "2024-10-18T12:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:midterm@2024-10-18T13:00:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 2,
+          "start": "2024-10-18T13:00:00.000Z",
+          "end": "2024-10-18T13:20:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:midterm@2024-10-19T11:00:00.000Z",
+          "taskId": "CSC1001:2024:midterm",
+          "taskVersion": 2,
+          "start": "2024-10-19T11:00:00.000Z",
+          "end": "2024-10-19T11:20:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        }
+      ],
+      "fixed": [
+        {
+          "start": "2024-11-10T19:00:00+08:00",
+          "end": "2024-11-10T21:00:00+08:00",
+          "taskId": "CSC1001:2024:midterm",
+          "title": "Midterm Exam",
+          "kind": "exam"
+        }
+      ],
+      "risks": []
+    },
+    "notifications": [
+      {
+        "id": "local-student:CSC1001:2024:midterm:v1:deadline",
+        "taskId": "CSC1001:2024:midterm",
+        "taskVersion": 1,
+        "type": "deadline",
+        "scheduledAt": "2024-10-31T11:00:00.000Z",
+        "deliverAt": "2024-10-31T11:00:00.000Z",
+        "title": "Midterm Exam：临近正式时间",
+        "body": "CSC1001 的正式时间为 2024-11-01T19:00:00+08:00。当前未检测到完成证据；这不代表你尚未开始。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:digest:2024-10-15",
+        "taskId": null,
+        "taskVersion": null,
+        "type": "digest",
+        "scheduledAt": "2024-10-15T08:00:00+08:00",
+        "deliverAt": "2024-10-15T00:00:00.000Z",
+        "title": "今日安排摘要",
+        "body": "1 项尚待核实完成的任务；0 段今日准备安排。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-15T10:00:00+08:00"
+      },
+      {
+        "id": "local-student:CSC1001:2024:midterm@2024-10-15T11:00:00.000Z:v1:start",
+        "taskId": "CSC1001:2024:midterm",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-15T10:45:00.000Z",
+        "deliverAt": "2024-10-15T10:45:00.000Z",
+        "title": "准备时段：Midterm Exam",
+        "body": "计划 2024-10-15T11:00:00.000Z 至 2024-10-15T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:CSC1001:2024:midterm@2024-10-16T11:00:00.000Z:v1:start",
+        "taskId": "CSC1001:2024:midterm",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-16T10:45:00.000Z",
+        "deliverAt": "2024-10-16T10:45:00.000Z",
+        "title": "准备时段：Midterm Exam",
+        "body": "计划 2024-10-16T11:00:00.000Z 至 2024-10-16T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:CSC1001:2024:midterm@2024-10-17T11:30:00.000Z:v1:start",
+        "taskId": "CSC1001:2024:midterm",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-17T11:20:00.000Z",
+        "deliverAt": "2024-10-17T11:20:00.000Z",
+        "title": "准备时段：Midterm Exam",
+        "body": "计划 2024-10-17T11:30:00.000Z 至 2024-10-17T12:20:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-17T19:20:00+08:00"
+      },
+      {
+        "id": "local-student:CSC1001:2024:midterm@2024-10-18T11:00:00.000Z:v1:start",
+        "taskId": "CSC1001:2024:midterm",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-18T10:45:00.000Z",
+        "deliverAt": "2024-10-18T10:45:00.000Z",
+        "title": "准备时段：Midterm Exam",
+        "body": "计划 2024-10-18T11:00:00.000Z 至 2024-10-18T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:CSC1001:2024:midterm@2024-10-19T11:00:00.000Z:v1:start",
+        "taskId": "CSC1001:2024:midterm",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-19T10:45:00.000Z",
+        "deliverAt": "2024-10-19T10:45:00.000Z",
+        "title": "准备时段：Midterm Exam",
+        "body": "计划 2024-10-19T11:00:00.000Z 至 2024-10-19T11:20:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:digest:2024-10-17",
+        "taskId": null,
+        "taskVersion": null,
+        "type": "digest",
+        "scheduledAt": "2024-10-17T08:00:00+08:00",
+        "deliverAt": "2024-10-17T00:00:00.000Z",
+        "title": "今日安排摘要",
+        "body": "1 项尚待核实完成的任务；2 段今日准备安排。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-17T19:20:00+08:00"
+      },
+      {
+        "id": "local-student:CSC1001:2024:midterm:v2:deadline",
+        "taskId": "CSC1001:2024:midterm",
+        "taskVersion": 2,
+        "type": "deadline",
+        "scheduledAt": "2024-11-09T11:00:00.000Z",
+        "deliverAt": "2024-11-09T11:00:00.000Z",
+        "title": "Midterm Exam：临近正式时间",
+        "body": "CSC1001 的正式时间为 2024-11-10T19:00:00+08:00。当前未检测到完成证据；这不代表你尚未开始。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:CSC1001:2024:midterm@2024-10-17T11:30:00.000Z:v2:start",
+        "taskId": "CSC1001:2024:midterm",
+        "taskVersion": 2,
+        "type": "plan",
+        "scheduledAt": "2024-10-17T11:20:00.000Z",
+        "deliverAt": "2024-10-17T11:20:00.000Z",
+        "title": "准备时段：Midterm Exam",
+        "body": "计划 2024-10-17T11:30:00.000Z 至 2024-10-17T12:20:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-17T19:20:00+08:00"
+      },
+      {
+        "id": "local-student:CSC1001:2024:midterm@2024-10-18T11:00:00.000Z:v2:start",
+        "taskId": "CSC1001:2024:midterm",
+        "taskVersion": 2,
+        "type": "plan",
+        "scheduledAt": "2024-10-18T10:45:00.000Z",
+        "deliverAt": "2024-10-18T10:45:00.000Z",
+        "title": "准备时段：Midterm Exam",
+        "body": "计划 2024-10-18T11:00:00.000Z 至 2024-10-18T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:CSC1001:2024:midterm@2024-10-19T11:00:00.000Z:v2:start",
+        "taskId": "CSC1001:2024:midterm",
+        "taskVersion": 2,
+        "type": "plan",
+        "scheduledAt": "2024-10-19T10:45:00.000Z",
+        "deliverAt": "2024-10-19T10:45:00.000Z",
+        "title": "准备时段：Midterm Exam",
+        "body": "计划 2024-10-19T11:00:00.000Z 至 2024-10-19T11:20:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:change:replay:notice-1017:exam:CSC1001:2024:midterm",
+        "taskId": "CSC1001:2024:midterm",
+        "taskVersion": 2,
+        "type": "change",
+        "scheduledAt": "2024-10-17T19:20:00+08:00",
+        "deliverAt": "2024-10-17T19:20:00+08:00",
+        "deliveredAt": "2024-10-17T19:20:00+08:00",
+        "title": "Midterm Exam：信息已更新",
+        "body": "期中考试由 11 月 1 日 19:00–21:00 改为 11 月 10 日同一时段；旧提醒已撤销，复习安排已重新检查。",
+        "status": "delivered"
+      },
+      {
+        "id": "local-student:CSC1001:2024:tutorial-1101:v2:clarify",
+        "taskId": "CSC1001:2024:tutorial-1101",
+        "taskVersion": 2,
+        "type": "clarify",
+        "scheduledAt": "2024-10-17T19:20:00+08:00",
+        "deliverAt": "2024-10-17T11:20:00.000Z",
+        "title": "11 月 1 日 Tutorial：需要确认",
+        "body": "没有明确的个人时间；请核实来源或补充时间，系统未猜测截止时刻。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-17T19:20:00+08:00"
+      },
+      {
+        "id": "local-student:change:replay:notice-1017:tutorial:CSC1001:2024:tutorial-1101",
+        "taskId": "CSC1001:2024:tutorial-1101",
+        "taskVersion": 2,
+        "type": "change",
+        "scheduledAt": "2024-10-17T19:20:00+08:00",
+        "deliverAt": "2024-10-17T19:20:00+08:00",
+        "deliveredAt": "2024-10-17T19:20:00+08:00",
+        "title": "11 月 1 日 Tutorial：信息已更新",
+        "body": "11 月 1 日 Tutorial 恢复；原课时仍需补充。 未检测到完成证据。这是本任务的证据，不代表其他关联事项已经完成。",
+        "status": "delivered"
+      }
+    ],
+    "summary": {
+      "tasks": 2,
+      "active": 2,
+      "plannedMinutes": 240,
+      "risks": 0,
+      "unread": 7,
+      "pending": 3,
+      "today": "2024-10-17"
+    }
+  }
+}

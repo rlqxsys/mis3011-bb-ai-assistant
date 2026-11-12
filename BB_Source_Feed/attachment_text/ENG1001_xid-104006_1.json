@@ -1,0 +1,144 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "         Michener Blackboard User Guide\n\n\n\n\n\n       A Faculty guide to providing a successful learning experience in Blackboard\n\n\n\n\n\n                ©2017 by The Michener Institute of Education at UHN\n                              222 St. Patrick Street\n                                   Toronto, Ontario, Canada\n                             M5T 1V4\n\nThis material has been prepared and developed by The Michener Institute of Education at UHN.\nReproduction of any part of this material, written, audio, visual or electronic, in any form, without\n                  the written consent of The Michener Institute is forbidden.\n\n\n\n                                                                       1  35"
+    },
+    {
+      "page": 2,
+      "text": "Introduction\n\nThis course style guide introduces a standardized means by which a Michener full-time program\ncourse in Blackboard Learn should be organized and presented to students. The intent is to\nprovide a consistent learning experience in Blackboard across all full-time programs. Please use\nthis style guide as a resource to be referenced at any time as your prepare your course for an\nupcoming semester.\n\n\nGetting Help with Blackboard\n\nIf you have questions or require assistance, please contact:\n      Michener’s Help Desk: for technical support; Monday to Friday between 8:00 AM and\n       5:00 PM at [email]\n      Michener’s Blackboard After Hours Support: for technical support; Monday to Friday\n      between 5:00 PM and 9:00 PM and weekends and holidays between 9:00 AM and 5:00\n    PM at [email]\n      Centre for Learning, Innovation and Simulation (CLIS): for all curriculum and\n        instructional design inquiries; Monday to Friday between 9:30 AM and 5:00 PM at\n       [email]\n\n\n\n\n\n                                                                       2  35"
+    },
+    {
+      "page": 3,
+      "text": "Contents\n\nMichener Blackboard User Guide .............................................................................................. 1\n  Introduction ............................................................................................................................ 2\n  Getting Help with Blackboard ................................................................................................. 2\n  Logging into Blackboard ......................................................................................................... 4\n  My Institution Screen .............................................................................................................. 5\n  Course Interface ..................................................................................................................... 6\n  Course Appearance ................................................................................................................ 7\n    Course Menu: ..................................................................................................................... 7\n   How to Set Your Course Menu ............................................................................................ 8\n  Control Panel Tools ................................................................................................................ 9\n  Weekly Learning Plans ..........................................................................................................10\n  Assessment Information ........................................................................................................ 11\n  Content Collection .................................................................................................................12\n  To create a folder in Content Collection .................................................................................13\n    Uploading Files to Content Collection – Single & Multiple Files ..........................................14\n    Uploading Files to Content Collection – Upload Zip Package .............................................15\n    Uploading the Zip Package to your course Content Collection ...........................................17\n    Overwriting a File ...............................................................................................................20\n     Edit Settings (to change the name of a file) ........................................................................22\n  Linking files from Content Collection ......................................................................................24\n   The Content Editor .............................................................................................................24\n    Link Content Using the Content Editor ...............................................................................25\n  Grade Centre .........................................................................................................................27\n    Weighted vs. Total Columns ...............................................................................................27\n    To arrange the column order in the Grade Centre ..............................................................28\n    Creating a Grade Centre Column .......................................................................................29\n    Weighting Grades ..............................................................................................................32\n  Appendix I .............................................................................................................................35\n    Course Roles .....................................................................................................................35\n\n\n\n\n\n                                                                       3  35"
+    },
+    {
+      "page": 4,
+      "text": "Logging into Blackboard\n\nAccess Michener’s Blackboard Learn system online and enter your username and password.\nYour user name and password for Blackboard will be provided by Michener’s Blackboard\nAdministrator. Please note that Blackboard passwords are case sensitive.\n\n\n\n\n\n                                                                       4  35"
+    },
+    {
+      "page": 5,
+      "text": "My Institution Screen\n\nThe My Institution screen is the first page you see after logging into Blackboard. This page\ncontains several modules that allow you to manage your Blackboard account, view course\nannouncements and access courses in which you are enrolled.\n\n    1.  Hot Spots: quick links to Michener services for Faculty and Students\n\n    2.  Tools: access to tools such as Announcements and editing your Personal Information\n\n    3. My Announcements: contains recently posted announcements in your course(s)\n\n    4. My Courses: contains links to courses that you are enrolled in. The courses are\n       organized by the role you have them (i.e., Instructor, Student, Teaching Assistant, etc.).\n       For more information about course roles, see Appendix I.\n\n\n\n\n\n                                                                       5  35"
+    },
+    {
+      "page": 6,
+      "text": "Course Interface\n\n   There are 4 sections for every course page:\n\n    1. The Course Menu: Contains links to tools and content in your course\n\n    2. The Control Panel: Contains links to course tools, Grade Centre, User & Group\n      management and the Content Collection\n\n    3. The Content area: This is where your course content is displayed to your students\n\n    4.  Student Preview: Tool that enables instructors to view the course exactly as a Student\n       experiences it. You can enter and exit Student Preview as often as needed without\n       logging out of Blackboard.\n\n    5.  Edit Mode: Tool that allows you to toggle between your Instructor view of the course to a\n        partial Student view of the course. Useful for quick testing the availability of content in\n       your course\n\n\n\n\n\n                                                                       6  35"
+    },
+    {
+      "page": 7,
+      "text": "Course Appearance\n\nA course in Blackboard should be arranged so that students can navigate the course with a\nminimum of direction. The Course Menu should provide quick access to what the student needs\nwith the fewest number of mouse clicks. Learning plans and assessment information should be\nneatly organized so that the student understands what is required of them from one week to the\nnext. This organization also extends to the Content Collection (the repository for your course’s\ncontent). The following are examples of the recommended arrangement for the Course Menu, a\nlearning plan, assessment information, Grade Centre and the Content Collection:\n\nCourse Menu:\n\nThe course menu’s appearance should be displayed in Text style for easy reading:\n\n\n\n\n\nCourse menu items that must be included for all Michener Blackboard courses:\n      Announcements (as your course entry point)\n      Course Outline\n      Contacts (Instructor or tutor contact information)\n      Weekly Learning Plans\n      Assessments\n      My Grades\n\nOther course menu items can be added as required by the course, for example:\n      Discussion Board\n      Groups\n      Journals\n\n\n\n\n\n                                                                       7  35"
+    },
+    {
+      "page": 8,
+      "text": "How to Set Your Course Menu\n\nIn addition to the required menu items, some courses may need discussion boards, journals,\ngroups, etc. In order to add these tools to your course menu:\n\n    1.  In the top left corner of your course menu, place your cursor over the “+” button\n    2.  Select “Content Area” or “Tool Link”\n            a.  Content Area: Selecting this options provides a section for course content\n             (documents, PowerPoint, web links…)\n            b.  Tool Link: for tools such as Discussion Board, Blogs, Journals\n    3.  Input a name for the course menu item in the “Name” field. Note: Try to keep the name\n      as short as possible\n    4.  Click the check box “Available to users” to make the new course menu item available to\n       student users\n    5.  Click “Submit” to complete the process\n    6.  Using the Up/Down arrow icon on the left side of the newly created course menu item,\n        click and drag the new menu item to the desired position in the course menu\n\n\n\n\n\n                                                                       8  35"
+    },
+    {
+      "page": 9,
+      "text": "Control Panel Tools\n\nThe Control Panel displays for users participating in a course with the role of Instructor,\nTeaching Assistant, Course Builder or System Administrator. It contains links for accessing\ncourse tools (such as Announcements, Discussion Board, Rubrics, Send Email and Tests,\nSurveys and Pools), course reporting (Evaluations), the Grade Centre and Users and Groups.\n\n\n\n\n\n                                                                       9  35"
+    },
+    {
+      "page": 10,
+      "text": "Weekly Learning Plans\n\nWeekly Learning Plans for each week or module should be organized in a way that allows the\nstudent to understand what is expected of them from week to week. Well organized learning\nplans consist of the following:\n\n    1. The folder in which content for the week or module is contained. Include a short, one or\n      two sentence description of the topics contained in the folder.\n\n    2. The competencies for the week/module\n\n    3. The learning objectives for the week/module\n\n    4. The learning activities relevant to the week/module\n\n\n\n\n\n                                                                      10  35"
+    },
+    {
+      "page": 11,
+      "text": "Assessment Information\n\nThe Assessments section of the course should contain links and information for all assessments\nin the course, even for those that are not delivered in Blackboard. The purpose is to provide\nquick access to information on all assessments that are part of their final grade calculation. The\nAssessments section should be linked in the Weekly Learning Plans where assessments are\nscheduled to take place. Assessments can take the form of Tests, Assignments (for submitting\ndocuments), graded Discussions and paper based offline tests and exams. The names,\ndescription and grading information should match the course outline to maintain consistency.\nThe name of assessments should be written as follows: “PAT #: Name of Assessment (Week\ndue) - % of grade”. A brief description of the assessment instructions can also be copied from\nthe course outline.\n\nExample of an Assessments page:\n\n\n\n\n\n                                                                            11  35"
+    },
+    {
+      "page": 12,
+      "text": "Content Collection\n\nThe Content Collection is the repository for all documents and files in your course. Content for\nyour course should be contained in folders for each week or module in a way that mirrors how\ncourse content is organized in your program directory on the Y:\\ drive. Once content is uploaded\nto the course Content Collection, it can then be linked in your course where students can\naccess it. Using Content Collection to manage the materials used in your course is essential in\norder to avoid duplicate copies, particularly when updating files for a new section of the course\nand to manage the amount of space your course occupies on the server at Blackboard\nManaged Hosting.\n\n\n\n\n\n                                                                      12  35"
+    },
+    {
+      "page": 13,
+      "text": "To create a folder in Content Collection\n\n    1.  In the Control Panel, click “Content Collection” and then click on your course code (ex:\n      ANRD121-W17-FT)\n\n    2.  Click the button “Create Folder”\n\n    3.  Input a name for the folder into the “Name” field\n\n    4.  Click “Submit” to complete the process\n\n\n\n\n\n                                                                      13  35"
+    },
+    {
+      "page": 14,
+      "text": "Uploading Files to Content Collection – Single & Multiple Files\n\nFiles can be uploaded to the course content collection in two ways: Single File and Upload Zip\nPackage.\n\n    1.  In the Content Collection, enter the folder in which you want to upload your files\n\n    2.  Place your cursor over the “Upload” button and select “Upload Files”\n\n    3.  Click the button “Browse My Computer” to select a single file or click and drag files and\n        folders from the Windows Explorer (or Mac Finder) into the dotted box\n\n    4.  Click “Submit” to complete the process\n\n\n\n\n\n                                                                      14  35"
+    },
+    {
+      "page": 15,
+      "text": "Uploading Files to Content Collection – Upload Zip Package\n\nThis is the other method for uploading multiple files and folders. Note: files and folders need to\nbe packaged into a .zip file before proceeding with this process.\n\nCreate a .zip package on a Microsoft Windows PC\n\n    1.  In the Windows Explorer, select all the files and folders you wish to place into a .zip\n      package\n\n    2.  Right-click on the selected files and folders and select “Send to”  “Compressed\n       (zipped) folder”\n\n    3. Re-name the newly created .zip package as desired\n\n\n\n\n\n                                                                      15  35"
+    },
+    {
+      "page": 16,
+      "text": "Create a .zip package on Apple mac OS\n\n    1.  In the Finder, select all the files and folders you wish to place into a .zip package\n\n    2.  Right-click on the selected files and folders and select “Compress # items”\n\n    3. Re-name the newly created .zip package as desired\n\n\n\n\n\n                                                                      16  35"
+    },
+    {
+      "page": 17,
+      "text": "Uploading the Zip Package to your course Content Collection\n\n    1.  In the Content Collection, enter the folder in which you want to upload your .zip file\n\n    2.  Place your cursor over the “Upload” button and select “Upload Zip package”\n\n    3.  Click the button “Browse my Computer” to select a .zip file or click and drag a .zip file\n       from the Windows Explorer (or Mac Finder) into the dotted box\n\n    4.  Click “Submit” to complete the process. The contents of the .zip file will be automatically\n       extracted into the selected folder in the Content Collection\n\n\n\n\n\n                                                                      17  35"
+    },
+    {
+      "page": 18,
+      "text": "18  35"
+    },
+    {
+      "page": 19,
+      "text": "19  35"
+    },
+    {
+      "page": 20,
+      "text": "Overwriting a File\n\nOverwriting a file in Content Collection is the recommended process for managing files that\nneed to be updated but also appear in multiple places in your course. It eliminates the need for\nhaving multiple copies of the same file present in Content Collection making it easier to manage\nthe content in your course. Once a file is overwritten, the change is reflected everywhere in the\ncourse it is linked in the course.\n\n    1.  In the Content Collection, navigate to the location of the file to be overwritten\n\n    2.  Place your cursor over the file and a chevron button will appear next to the file name\n\n    3.  Click the chevron button and select “Overwrite File”\n\n    4.  Click the button “Browse my Computer” to select the new file or click and drag the new\n          file from the Windows Explorer (or Mac Finder) into the dotted box\n\n    5.  Click “Submit” to complete the overwrite process\n\n\n\n\n\n                                                                      20  35"
+    },
+    {
+      "page": 21,
+      "text": "21  35"
+    },
+    {
+      "page": 22,
+      "text": "Edit Settings (to change the name of a file)\n\nAfter overwriting a file in the Content Collection, it may be necessary to update the file name\n(ex: for a course outline)\n\n    1.  Place your cursor over the file and a chevron button will appear next to the file name.\n\n    2.  Click the chevron button and select “Edit Settings”\n\n    3.  In the “File Name” field, update the file name to reflect the newly updated file\n\n    4.  Click “Submit” to apply the change\n       Note: the Edit Settings step is only required of there are minor differences between the\n       old and new files, such as changing the year from 2016 to 2017 in a course outline\n\n\n\n\n\n                                                                      22  35"
+    },
+    {
+      "page": 23,
+      "text": "23  35"
+    },
+    {
+      "page": 24,
+      "text": "Linking files from Content Collection\n\nFiles and links to external resources can be linked in the learning plans using the Content\nEditor, attached to an Item or as stand-alone items. Where possible, it is recommended that files\nbe linked within the learning plans using the Content Editor to place them within the context of\ntheir respective learning plans. Once a file has been uploaded to the course Content Collection,\nit can be linked anywhere in the course as many times as necessary without the need to upload\nmultiple copies of the same file.\n\nThe Content Editor\n\nThe Content Editor is the tool that allows you to add formatting to text, insert images and\nhyperlinks in a way that is similar to popular word processing software.\n\n\n\n\n\n                                                                      24  35"
+    },
+    {
+      "page": 25,
+      "text": "Link Content Using the Content Editor\n\nThis is the preferred method of linking content in your Learning Plans.\n\n    1.  Edit the desired Item in a content area\n\n    2.  Highlight the text for which you want to link a file from Content Collection\n\n    3.  Click the “Insert/Edit Link” button in the Content Editor (it looks like a little chain link)\n\n    4.  In the Insert/Edit Link window, click the button “Browse Course” to select the desired file\n       from the Content Collection\n\n    5.  For the Target drop-down menu, select “Open in New Window (_blank)”\n\n    6.  For “Title”, input a short description of the file being linked. This is a necessary\n        accessibility feature to comply with Provincial AODA legislation\n\n    7.  Click the “Update” button to complete the file link\n\n    8. Repeat steps 2-7 to link additional files in the Item\n\n    9.  Click “Submit” to finish editing the Item containing the new file link\n\n\n\n\n\n                                                                      25  35"
+    },
+    {
+      "page": 26,
+      "text": "26  35"
+    },
+    {
+      "page": 27,
+      "text": "Grade Centre\n\nThe Grade Centre is a spreadsheet-like tool where assessment grades are recorded and\nweighted according to the course outline for the purpose of calculating the student’s final grade.\nThe arrangement of the Grade Centre columns should mirror the arrangement of the\nassessments in the Assessments section of the course in order to be consistent between the\ncourse outline, the Assignments section, the student’s My Grade tool and the Instructor’s Grade\nCentre. Some assessment tools, such as tests, assignments and gradable items (discussions,\nblogs, journals, etc.) are automatically created when the assessment is created or made\ngradable. Where possible, it is recommended you use gradable items in Blackboard for\nassessments for automatic column creation in the Grade Centre. Offline and paper based\nassessments require columns to be manually created in Grade Centre. Grade Centre totals can\nbe Weighted or Totalled (for more information see link).\n\nWeighted vs. Total Columns\n\nWeighted and Total columns calculate grade information differently. The difference is as follows:\n\nWeighted – Includes only columns for assessments that count toward the final grade in the\ncourse outline. You set each assessment's raw score to be converted to a percentage of the\nfinal grade totalling 100%. Assessments should be weighted according to the course outline so\nthat the final grade is correctly calculated regardless of each assessment’s raw score.\n\nTotal – A cumulative total of the raw scores for all columns in the Grade Centre.\n\n\n\n\n\n                                                                      27  35"
+    },
+    {
+      "page": 28,
+      "text": "To arrange the column order in the Grade Centre\n\n    1.  In the Control Panel, click “Grade Centre” and select “Full Grade Centre”\n\n    2.  Place your cursor over the button “Manage”\n\n    3.  Select “Column Organization”\n\n    4.  In the “Not in a Grading Period” section, use the multi-directional arrow buttons to click\n      and drag Grade Centre items into the desired position\n\n    5.  Click “Submit” to apply the change\n\n\n\n\n\n                                                                      28  35"
+    },
+    {
+      "page": 29,
+      "text": "Creating a Grade Centre Column\n\nGrade Centre columns for assessments held outside of Blackboard need to be manually\ncreated to ensure the final grade is calculated according to the course outline.\n\n    1.  In the Full Grade Centre, click the button “Create Column”\n\n    2.  Input a name for the column in the “Column Name” field\n       Note: The Grade Centre Name column is optional and is only displayed in the Grade\n       Centre, not the student’s My Grades Tool\n\n    3.  For the drop-down menu “Primary Display”, leave it at the default setting “Score”\n\n    4.  Input the raw score into the “Points Possible” field (Note: this is a required field)\n\n    5.  Set your display options in the Options section\n\n              Include this Column in Grade Center Calculations: Yes or No\n\n             Show this Column to Students: Yes or No\n\n             Show Statistics (average and median) for this column to Students in My Grades:\n           Yes or No\n\n    6.  Click “Submit” to complete the process and return to the Grade Centre\n\n        New Grade Centre columns appear on the right side of the Grade Centre.\n\n\n\n\n\n                                                                      29  35"
+    },
+    {
+      "page": 30,
+      "text": "30  35"
+    },
+    {
+      "page": 31,
+      "text": "**Columns for assessments created in Blackboard (Tests, Assignments, Graded\nDiscussions/Blogs/Wikis and Journals) are created automatically in the Grade Centre.\n\n\n\n\n\n                                                                      31  35"
+    },
+    {
+      "page": 32,
+      "text": "Weighting Grades\n\nGrades should be weighted according to the course outline using the Weighted Total column.\nThis means that regardless of the raw scores for each assessment in the course, they will be\ncorrectly calculated as their respective percentages of the final grade.\n\nTo weight the grades for your course in the Grade Centre:\n\n    1.  Place your cursor over the title for the Weighted Total column and\n\n    2.  Click the chevron button and select “Edit Column Information”\n\n    3. Leave the Primary Display set to “Percentage” and the Secondary Display to “None”\n\n    4.  In the “Select Columns” section, choose the relevant Grade Centre columns. Note: you\n      can choose multiple columns by holding the Shift or Control keys.\n\n    5.  Click the right-facing arrow to move the selected columns into the “Selected Columns”\n         field\n\n    6.  Input the percentage weights for each assessment according to the course outline.\n      Percentages need to add up to 100%\n\n    7.  For the option “Calculate as Running Total”, select “No”\n\n    8.  Set your display options in the Options section\n\n                 Include this Column in Grade Center Calculations: Yes or No\n\n                Show this Column to Students: Yes or No\n\n                Show Statistics (average and median) for this column to Students in My\n                Grades: Yes or No\n\n    9.  Click ”Submit” to apply the changes\n\n\n\n\n\n                                                                      32  35"
+    },
+    {
+      "page": 33,
+      "text": "33  35"
+    },
+    {
+      "page": 34,
+      "text": "34  35"
+    },
+    {
+      "page": 35,
+      "text": "Appendix I\n\nCourse Roles\n\nInstructor – Instructors have full access to the course. This role is generally assigned to the\nperson developing, teaching, or facilitating the class. If a course is unavailable to students,\nusers with the Instructor role may still access it. The instructor role can control tool availability.\n\nTeaching Assistant – Users with the Teaching Assistant role have access to most of the course.\nIf the course is unavailable to students, teaching assistants may still access the course.\nTeaching assistants can't remove an instructor from a course.\n\nStudent – Student is the default course user role. A user with the role of Student submits\ncoursework and participates in discussions. Students can't create or grade course items.\n\nFor more information, please visit the Blackboard Course Roles page.\n\n\n\n\n\n                                                                      35  35"
+    }
+  ]
+}

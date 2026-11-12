@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#4b2358">
+  <title>BB Companion · 课程安排</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%234b2358'/%3E%3Ctext x='17' y='46' fill='%23e7d4a0' font-size='42' font-family='serif'%3EB%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/style.css">
+  <script type="module" src="/app.mjs"></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳到内容</a>
+  <header class="app-header">
+    <a class="brand" href="#tasks"><span class="brand-mark">B.</span><span>BB Companion</span></a>
+    <nav aria-label="主要导航">
+      <a href="#tasks" data-tab="tasks">任务</a>
+      <a href="#plan" data-tab="plan">计划</a>
+      <a href="#reminders" data-tab="reminders">提醒 <i id="nav-unread"></i></a>
+    </nav>
+    <div class="header-tools"><button class="text-button" data-action="scenarios">体验演示</button><button class="icon-button" data-action="settings" aria-label="设置" title="设置">⚙</button></div>
+  </header>
+  <div class="workspace">
+    <div class="context-bar"><div id="context"></div><span id="operation-status" role="status" aria-live="polite"></span></div>
+    <main id="main" tabindex="-1"><p class="empty">正在加载…</p></main>
+    <footer>BB Companion · Group 12</footer>
+  </div>
+  <dialog id="task-dialog" aria-labelledby="dialog-title"><div id="dialog-content"></div></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

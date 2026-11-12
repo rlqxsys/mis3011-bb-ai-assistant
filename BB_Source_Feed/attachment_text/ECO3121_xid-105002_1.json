@@ -1,0 +1,204 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "Introductory Econometrics"
+    },
+    {
+      "page": 2,
+      "text": "Teaching Team"
+    },
+    {
+      "page": 3,
+      "text": "Introduction and Statistics Review\n\n\n  Course Description\n   This course provides an introduction to econometrics theory and practice. We\n   begin with a comprehensive discussion of simple and multiple regression\n   analysis. More advanced topics will be tackled later in the semester, such as\n   time series analysis, panel data, and binary models. The purpose of the course\n    is to introduce you the statistical methods that economists use to test\n  economic theory and interpret economic data, and to give you experience in\n   estimating econometric models with real world data.\n   This course has a strong applied emphasis. We will use STATA for data analysis.\n  The course will provide you the opportunity to establish your skills of applying\n  STATA in empirical study. Instructions on how to use the software will be given\n   in tutorials and, if necessary, some of the tutorials may take place in the\n  computer lab."
+    },
+    {
+      "page": 4,
+      "text": "Course Objective\n\n\n  By the end of this course, you should be able to:\n   1. Be able to interpret empirical studies in ways that are interesting,\n      enlightening, and useful\n   2. Be aware of potential problems with the methods and know\n    how to make corrections if these problems are present\n   3. Formulate your own econometric models to perform empirical\n      investigations in business economics and finance\n   4.  Collect and organize economic and financial data, and use\n       statistical software packages (STATA) for empirical analysis"
+    },
+    {
+      "page": 5,
+      "text": "Textbook and Software\n\n\n   Textbook:\n    • Introductory Econometrics: A Modern Approach, Wooldridge, Jeffrey M., Cengage Learning,\n     6th edition, 2015\n    • Required readings and practice questions.\n\n   Software: STATA\n   The statistic software STATA will be used extensively in the course \n    • Class examples are illustrated using STATA\n    • Programming code for homework will be provided only for STATA users\n    • TA STATA tutorials\n\n   STATA is available at the University computer lab ([link])\n   Or you can download it at ([link])\n  One good introduction can be found at [link]"
+    },
+    {
+      "page": 6,
+      "text": "Evaluation\n\n    • Four assignments (25%)\n   -- Lowest score will be dropped, i.e. only three of them are counted\n\n    • Midterm exam (30%)\n   -- In class, details to be announced later\n   -- In case of illness or accident at the time of the midterm - with proper documentation from\n   a doctor or the police, the final will be weighted 75%.\n\n    • Final exam (45%)\n   -- Final examination will be cumulative, but will put slightly more emphasize on the materials\n    after the midterm exam\n\n    •  Attendance\n   -- While attendance itself does not account for any points, repeated failures to attend the\n    class will subject to up to 5 points punishment"
+    },
+    {
+      "page": 7,
+      "text": "Supportings\n\n    • Recommended end-of-chapter problems.\n  Each week, recommended problems will be posted on the course webpage.\n  Those problems are for practice purpose and, therefore, they won’t be marked.\n   Solutions will be posted after tutorials. \n\n    • TA Tutorials\n   Eight tutorials will be provided by TA. The purpose of these tutorials is to help\n   students use STATA and provide extra help to solve recommended end-of-\n   chapter problems.\n\n    • Office Hours:\n  You may stop by during my office hours (or the TAs’) with any questions or by\n   appointment.\n   Emails are not preferred since it is hard to type equations in emails"
+    },
+    {
+      "page": 8,
+      "text": "Course Website\n\n  The course website (Blackboard) provides valuable information related to the\n   course. On the website you will find: \n    • Lecture slides\n    • Additional reading materials\n    • Data and programming code\n    • Suggested problems and solution\n    • Assignments and solution\n    • Announcements\n    • Discussion page\n\n  You should check it regularly as you are responsible for any information\n  posted there in addition to any announcements made in class"
+    },
+    {
+      "page": 9,
+      "text": "Tentative Schedule\n\n Week          Content                                                                    Chapter\n\n  1                Introduction of Econometrics and Statistics Review                              1/Appendix\n\n  2               Simple Linear Regression Model I                                           2\n\n  3                Multiple Linear Regression Model I: Estimation                                3\n\n  4                Multiple Linear Regression Model II: Estimation                               3\n\n  5                Multiple Linear Regression Model III: Inference                                4\n\n  6                Multiple Linear Regression Model IV: Inference                                4\n\n  7                Multiple Linear Regression Model IV: Further issues                               5/6\n\n  8             Midterm\n\n  9                Instrumental Variables                                                   15\n\n  10               Binary Variables                                                         7\n\n  11               Heteroskedasticity                                                       8\n\n  12              Panel Data Analysis I                                                     13\n\n  13              Panel Data Analysis I                                                     14\n\n  14              Carrying Out an Empirical Project                                           19\n\n                     Final Exam"
+    },
+    {
+      "page": 10,
+      "text": "How to do a good job in this course?\n\n   • Attend classes\n   • Read textbook\n   • Finish homework independently\n   • Do recommended practice questions, including computer\n   exercise\n   • Ask questions"
+    },
+    {
+      "page": 11,
+      "text": "Is This Course Useful? YES!\n\n   • Reason #1: It makes you competitive when you want to be a RA\n    for SME professors\n   • Reason #2: It is very helpful when you apply for master programs\n    in Finance, Economics, Business Analytics, . . .\n   • Reason #3: It is a necessary course if you want to write an\n    empirical paper\n   • Reason #4: It is important if you want to find a job in data analysis:\n   Amazon, Alibaba, Tencent, JD, DiDi, investment banks, . . . (Big\n    Data!!!)\n   • …"
+    },
+    {
+      "page": 12,
+      "text": ""
+    },
+    {
+      "page": 13,
+      "text": "What is Econometrics?\n\n  “There are several aspects of the quantitative approach to economics,\n  and no single one of these aspects, taken by itself, should be\n  confounded with econometrics. Thus, econometrics is by no means the\n  same as economic statistics. Nor is it identical with what we call general\n  economic theory, although a considerable portion of this theory has a\n   definitely quantitative character. Nor should econometrics be taken as\n  synonymous with the application of mathematics to economics.\n  Experience has shown that each of these three view-points, that of\n   statistics, economic theory, and mathematics, is a necessary, but not\n  by itself a sufficient, condition for a real understanding of the\n   quantitative relations in modern economic life. It is the unification of all\n   three that is powerful. And it is this unification that constitutes\n  econometrics.”\n — Ragnar Frisch, Econometrica, (1933), 1, pp. 1-2."
+    },
+    {
+      "page": 14,
+      "text": "The Nature of Econometrics and Economic Data\n\n   • What is econometrics?\n        • Econometrics = use of statistical methods to analyze economic data\n        • Econometricians typically analyze nonexperimental data\n\n   • Typical goals of econometric analysis\n        • Estimating relationships between economic variables\n        • Testing economic theories and hypotheses\n        • Forecasting economic variables\n        • Evaluating and implementing government and business policy"
+    },
+    {
+      "page": 15,
+      "text": "Steps in an empirical analysis\n\n   In economics, theory and empirical analysis are both important. An\n  empirical analysis uses data to test a theory, estimate an economic\n   relationship, or determine the effects of a policy or intervention.\n\n  Step 1: Be very precise in posing the question you hope to answer.\n         • Does the education increase one’s salary? \n         • What affects a person’s decision to participate in crime?\n\n  Step 2: Specify an economic model, or at least a conceptual model, to\n  study the phenomenon of interest. For example,\n         • Maybe micro- or macromodels\n         • Often use optimizing behaviour, equilibrium modeling, …\n         • Establish relationships between economic variables\n         • Examples: demand equations, pricing equations, …"
+    },
+    {
+      "page": 16,
+      "text": "Steps in an empirical analysis\n\n   • Economic model of crime (Becker (1968))\n        • Derives equation for criminal activity based on utility maximization\n\n\n\n\n                  Hours spent in\n                      criminal activities\n\n                                                                                         Age\n                       “Wage” of cri-\n                          minal activities                                                    Expected                                Wage for legal                             Probability of                                                                                            sentence                                                      Other    Probability of   conviction if                                    employment\n                                                   income   getting caught caught\n        • Functional form of relationship not specified\n        • Equation could have been postulated without economic modeling"
+    },
+    {
+      "page": 17,
+      "text": "Steps in an empirical analysis\n\n   • Model of job training and worker productivity\n        • What is effect of additional training on worker productivity?\n        • Formal economic theory not really needed to derive equation:\n\n\n\n\n\n                          Hourly wage\n\n\n\n                                                  Years of formal\n                                                                        Weeks spent                                                  education                                                                    Years of work-                                                                                                         in job training\n                                                                         force experience\n        • Other factors may be relevant, but these are the most important (?)"
+    },
+    {
+      "page": 18,
+      "text": "Steps in an empirical analysis\n\n  Step 3: Turn the economic model into an econometric model.\n  Our focus is on econometric models. Here is where we resolve\n   certain difficulties and ambiguities concerning an economic model.\n  For example, in a study of criminal behavior:\n\n\n   (1) What is the exact functional relationship among economic\n      variables?\n   (2) How should we measure the probability of being caught\n     committing a crime?\n   (3) How do we account for unobserved factors that make\n      relationships among variables inexact?"
+    },
+    {
+      "page": 19,
+      "text": "Steps in an empirical analysis\n\n   • Econometric model of criminal activity\n        • The functional form has to be specified\n        • Variables may have to be approximated by other quantities\n\n\n\n                  Measure of cri-      Wage for legal     Other       Frequency of\n                    minal activity        employment      income       prior arrests\n                                                                                   Unobserved deter-\n                                                                                         minants of criminal\n                                                                                                                    activity\n\n\n\n\n\n                                                                                                                   e.g. moral character,\n                                                                             wage in criminal activity,\n                              Frequency of      Average sentence                                                               Age                 family background …\n                                  conviction         length after conviction"
+    },
+    {
+      "page": 20,
+      "text": "Steps in an empirical analysis\n\n   • Econometric model of job training and worker productivity\n\n\n\n\n                                                                                       Unobserved deter-\n                                                                                              minants of the wage\n\n\n                                                                                                                 e.g. innate ability,\n                Hourly wage     Years of formal  Years of work-     Weeks spent                                                                                                          quality of education,\n                                education        force experience    in job training                                                                                                      family background …\n   • Most of econometrics deals with the specification of the error\n   • Econometric models may be used for hypothesis testing\n        • For example, the parameter    represents “effect of training on wage”\n        • How large is this effect? Is it different from zero?"
+    },
+    {
+      "page": 21,
+      "text": "Steps in an empirical analysis\n\n   • Step 1: Carefully pose a question. \n   • Step 2: Specify an economic or conceptual model. \n   • Step 3: Turn the economic model into an econometric model. \n   • Step 4: Collect data on the variables and use statistical methods to\n    estimate the parameters, construct confidence intervals for the\n    parameters, and test hypotheses"
+    },
+    {
+      "page": 22,
+      "text": "Data and Data Set\n\n   • Data are the facts and figures collected, analyzed, and\n   summarized for presentation and interpretation. \n   • All the data collected in a particular study are referred to as the\n    data set for the study."
+    },
+    {
+      "page": 23,
+      "text": "Elements, Variables, and Observations\n\n   • Elements are the entities on which data are collected. \n   • A variable is a characteristic of interest for the elements. \n   • The set of measurements obtained for a particular element is\n    called an observation. Elements, Variables, and Observations \n   • A data set with n elements contains n observations.\n   • The total number of data values in a complete data set is the\n   number of elements multiplied by the number of variables"
+    },
+    {
+      "page": 24,
+      "text": "The structure of economic data\n\n   • Econometric analysis requires data\n\n   • Different kinds of economic data sets\n        • Cross-sectional data\n        • Time series data\n        • Pooled cross sections\n        • Panel/Longitudinal data\n\n   • Econometric methods depend on the nature of the data used\n        • Use of inappropriate methods may lead to misleading results"
+    },
+    {
+      "page": 25,
+      "text": "The structure of economic data\n\n   • Cross-sectional data sets\n\n        • Sample of individuals, households, firms, cities, states, countries,   or\n        other units of interest at a given point of time/in a given period\n\n        • Cross-sectional observations are more or less independent\n\n        • For example, pure random sampling from a population\n\n        • Sometimes pure random sampling is violated, e.g. units refuse to respond\n         in surveys, or if sampling is characterized by clustering\n\n        • Cross-sectional data typically encountered in applied microeconomics"
+    },
+    {
+      "page": 26,
+      "text": "The structure of economic data\n\n  Cross-sectional data sets \n   • In this course, we will assume that a cross-sectional data set\n    represents a random sample. That is, each unit in the population\n   has the same chance of appearing the sample \n   • Random sampling generates observations that are independent\n   and identically distributed. \n   • Intuitively, a random sample is representative of the population of\n    interest, and gives us the best chance of learning about the\n    population.\n\n\n  Example: Class attendance and final exam score"
+    },
+    {
+      "page": 27,
+      "text": "Cross-sectional data sets\n\n     • Cross-sectional data set on wages and other characteristics\n\n\n\n\n\n                                                                                                               Indicator variables\n                                                                                                        (1 = yes, 0 = no)\n\n\n\n\n\n                                                         Hourly wage                             Observation number                         Years of      Years of\n                                                                         education    experience"
+    },
+    {
+      "page": 28,
+      "text": "Cross-sectional data sets\n\n                • Cross-sectional data on growth rates and\n             country characteristics\n\n\n\n\n\n                                          Average growth rate of real  Government consumption       Adult secondary\n                                            per capita GDP              as a percentage of GDP        education rates"
+    },
+    {
+      "page": 29,
+      "text": "The structure of economic data\n\n   • Time series data\n        • Observations of a variable or several variables over time\n        • For example, stock prices, money supply, consumer price index, gross\n       domestic product, annual homicide rates, automobile sales, …\n        • Time series observations are typically serially correlated\n        • Ordering of observations conveys important information\n        • Data frequency: daily, weekly, monthly, quarterly, annually, …\n        • Typical features of time series: trends and seasonality\n        • Typical applications: applied macroeconomics and finance\n        • Example: daily stock price"
+    },
+    {
+      "page": 30,
+      "text": "Time series data\n\n                • Time series data on minimum wages and\n               related variables\n\n\n\n\n\n                    Average minimum         Average                       Unemployment       Gross national\n                  wage for the given year     coverage rate                        rate                 product"
+    },
+    {
+      "page": 31,
+      "text": "The structure of economic data\n\n   • Pooled cross sections\n        • Two or more cross sections are combined in one data set\n        • Cross sections are drawn independently of each other\n        • Pooled cross sections often used to evaluate policy changes\n        • Example:\n              • Evaluate effect of change in property taxes on house prices\n              • Random sample of house prices for the year 1993\n              • A new random sample of house prices for the year 1995\n              • Compare before/after (1993: before reform, 1995: after reform)"
+    },
+    {
+      "page": 32,
+      "text": "Pooled cross sections\n\n   • Pooled cross sections on housing prices\n\n                                                                                       Property tax\n\n                                                                                                          Size of house\n                                                                                                                      in square feet\n                                                                               Number of bedrooms\n                                                                               Number of bathrooms\n\n\n\n\n                                                                                         Before reform\n\n                                                                                                   After reform"
+    },
+    {
+      "page": 33,
+      "text": "The structure of economic data\n\n   • Panel or longitudinal data\n        • The same cross-sectional units are followed over time\n        • Panel data have a cross-sectional and a time series dimension\n        • Panel data can be used to account for time-invariant unobservables\n        • Panel data can be used to model lagged responses\n        • Example:\n              • City crime statistics; each city is observed in two years\n              • Time-invariant unobserved city characteristics may be modeled\n              • Effect of police on crime rates may exhibit time lag"
+    },
+    {
+      "page": 34,
+      "text": "Panel Data\n\n   • Two-year panel data on city crime statistics\n\n\n\n                                                                                       Each city has two time\n                                                                                                            series observations\n\n\n\n                                                                                 Number of\n                                                                                                               police in 1986\n\n\n                                                                                 Number of\n                                                                                                                police in 1990"
+    },
+    {
+      "page": 35,
+      "text": "The structure of economic data"
+    },
+    {
+      "page": 36,
+      "text": "The structure of economic data"
+    },
+    {
+      "page": 37,
+      "text": "The structure of economic data"
+    },
+    {
+      "page": 38,
+      "text": "The structure of economic data"
+    },
+    {
+      "page": 39,
+      "text": "Causality and the notion of ceteris paribus\n\n  The concept of causality is key in econometrics\n   In most tests of economic theory, the goal is to infer that on\n   variable has a causal effect on another variable, \n   • How can we know that more class attendance causes better\n    student performance on final exam (on average)? \n   • How can we know another year of education causes an increase in\n   wages (on average)?"
+    },
+    {
+      "page": 40,
+      "text": "Causality and the notion of ceteris paribus\n\n   • Causality and the notion of ceteris paribus\n\n                     Definition of causal effect of  on   :\n\n\n                   “How does variable  change if variable   is changed\n                       but all other relevant factors are held constant”\n   • Most economic questions are ceteris paribus questions\n   • It is important to define which causal effect one is interested in\n   • It is useful to describe how an experiment would have to be\n   designed to infer the causal effect in question"
+    },
+    {
+      "page": 41,
+      "text": "Causality and the notion of ceteris paribus\n\n   • Causal effect of fertilizer on crop yield\n        • “By how much will the production of soybeans increase if one increases\n        the amount of fertilizer applied to the ground”\n        • What are the potential ‘‘confounding factors‘‘?\n   • What is the ideal experiment?"
+    },
+    {
+      "page": 42,
+      "text": "Causality and the notion of ceteris paribus\n\n   • Causal effect of fertilizer on crop yield\n        • “By how much will the production of soybeans increase if one increases\n        the amount of fertilizer applied to the ground”\n        • Implicit assumption: all other factors that influence crop yield such as\n         quality of land, rainfall, presence of parasites etc. are held fixed\n   • Experiment:\n        • Choose several one-acre plots of land; randomly assign different\n       amounts of fertilizer to the different plots; compare yields\n        • Experiment works because amount of fertilizer applied is unrelated to\n        other factors influencing crop yields"
+    },
+    {
+      "page": 43,
+      "text": "Causality and the notion of ceteris paribus\n\n   • Measuring the return to education\n        • “If a person is chosen from the population and given another    year of\n        education, by how much will his or her wage increase?”\n        • What are the potential ‘‘confounding factors‘‘?\n   • What is the ideal experiment?"
+    },
+    {
+      "page": 44,
+      "text": "Causality and the notion of ceteris paribus\n\n   • Measuring the return to education\n        • “If a person is chosen from the population and given another    year of\n        education, by how much will his or her wage increase?”\n        • Implicit assumption: all other factors that influence wages such as\n        experience, family background, intelligence etc. are held fixed\n   • Experiment:\n        • Choose a group of people; randomly assign different amounts of\n       education to them (infeasable!); compare wage outcomes\n        • Problem without random assignment: amount of education is related to\n        other factors that influence wages (e.g. intelligence)"
+    },
+    {
+      "page": 45,
+      "text": "Causality and the notion of ceteris paribus\n\n   • Effect of law enforcement on city crime level\n        • “If a city is randomly chosen and given ten additional police officers, by\n      how much would its crime rate fall?”\n        • What are the potential ‘‘confounding factors‘‘?\n   • What is the ideal experiment?"
+    },
+    {
+      "page": 46,
+      "text": "Causality and the notion of ceteris paribus\n\n   • Effect of law enforcement on city crime level\n        • “If a city is randomly chosen and given ten additional police officers, by\n      how much would its crime rate fall?”\n        • Alternatively: “If two cities are the same in all respects, except that city A\n       has ten more police officers than city B, by how much would the two\n          cities‘ crime rates differ?”\n   • Experiment:\n        • Randomly assign number of police officers to a large number of cities\n        • In reality, number of police officers will be determined by crime rate\n        (simultaneous determination of crime and number of police)"
+    },
+    {
+      "page": 47,
+      "text": "Causality and the notion of ceteris paribus\n\n   • Effect of the minimum wage on unemployment\n        • “By how much (if at all) will unemployment increase if the minimum wage\n           is increased by a certain amount (holding other things fixed)?”\n        • What are the potential ‘‘confounding factors‘‘?\n   • What is the ideal experiment?"
+    },
+    {
+      "page": 48,
+      "text": "Causality and the notion of ceteris paribus\n\n   • Effect of the minimum wage on unemployment\n        • “By how much (if at all) will unemployment increase if the minimum wage\n           is increased by a certain amount (holding other things fixed)?”\n   • Experiment:\n        • Government randomly chooses minimum wage each year and observes\n      unemployment outcomes\n        • Experiment will work because level of minimum wage is unrelated  to\n        other factors determining unemployment\n        • In reality, the level of the minimum wage will depend on political  and\n       economic factors that also influence unemployment"
+    },
+    {
+      "page": 49,
+      "text": "Causality and the notion of ceteris paribus\n\n   • Testing predictions of economic theories\n        • Economic theories are not always stated in terms of causal effects\n        • For example, the expectations hypothesis states that long term interest\n        rates equal compounded expected short term interest rates\n\n\n        • An implicaton is that the interest rate of a three-months T-bill should be\n       equal to the expected interest rate for the first three months of a six-\n      months T-bill; this can be tested using econometric methods"
+    },
+    {
+      "page": 50,
+      "text": "Reviews\n\n  Contents \n   • What is econometrics? \n   • Steps in an empirical analysis \n   • The structure of economic data \n   • Causality and the notion of Ceteris Paribus\n\n\n  Reading: Chapter 1\n\n\n  Next lecture: Statistics Review (Appendix A, B, C)"
+    }
+  ]
+}

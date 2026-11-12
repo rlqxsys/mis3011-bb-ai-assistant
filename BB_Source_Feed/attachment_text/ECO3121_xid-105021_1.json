@@ -1,0 +1,132 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "The Chinese  Universi\n\n\n\n\n\n    ty of Hong  Kong,  Shenzhen"
+    },
+    {
+      "page": 2,
+      "text": "Notations for Panel Data"
+    },
+    {
+      "page": 3,
+      "text": "Why Are Panel Data Useful?"
+    },
+    {
+      "page": 4,
+      "text": "Basic Idea of Using Panel Data"
+    },
+    {
+      "page": 5,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 6,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 7,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 8,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 9,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 10,
+      "text": "Panel Data with T = 2"
+    },
+    {
+      "page": 11,
+      "text": "Panel Data with T > 2"
+    },
+    {
+      "page": 12,
+      "text": "Fixed Effects Form"
+    },
+    {
+      "page": 13,
+      "text": "Fixed Effects Form"
+    },
+    {
+      "page": 14,
+      "text": "Fixed Effects Form"
+    },
+    {
+      "page": 15,
+      "text": "Fixed Effects Form"
+    },
+    {
+      "page": 16,
+      "text": "Binary Regressor Form"
+    },
+    {
+      "page": 17,
+      "text": "Binary Regressor Form"
+    },
+    {
+      "page": 18,
+      "text": "Binary Regressor Form"
+    },
+    {
+      "page": 19,
+      "text": "Summary: Two Forms"
+    },
+    {
+      "page": 20,
+      "text": "Estimation"
+    },
+    {
+      "page": 21,
+      "text": "Binary OLS Regression"
+    },
+    {
+      "page": 22,
+      "text": "Demeaned OLS Regression"
+    },
+    {
+      "page": 23,
+      "text": "Demeaned OLS Regression"
+    },
+    {
+      "page": 24,
+      "text": "Use STATA: Empirical Example"
+    },
+    {
+      "page": 25,
+      "text": "Empirical Example"
+    },
+    {
+      "page": 26,
+      "text": "Regression with Time Fixed Effects"
+    },
+    {
+      "page": 27,
+      "text": "Regression with Time Fixed Effects"
+    },
+    {
+      "page": 28,
+      "text": "Regression with Time Fixed Effects"
+    },
+    {
+      "page": 29,
+      "text": "Both Entity and Time Fixed Effects"
+    },
+    {
+      "page": 30,
+      "text": "Both State and Time Fixed Effects"
+    },
+    {
+      "page": 31,
+      "text": "Use STATA: Empirical Example"
+    },
+    {
+      "page": 32,
+      "text": "Both State and Time Fixed Effects"
+    }
+  ]
+}

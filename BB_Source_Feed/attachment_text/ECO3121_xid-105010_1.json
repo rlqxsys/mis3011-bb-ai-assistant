@@ -1,0 +1,136 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "uctory Econometrics"
+    },
+    {
+      "page": 2,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 3,
+      "text": "The expected value of the OLS Estimators"
+    },
+    {
+      "page": 4,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 5,
+      "text": "The variance of the OLS Estimators\n  • Theorem 3.2 (Sampling variances of the OLS\n   slope estimators)\n       Under assumptions MLR.1 – MLR.5:\n\n\n\n                                                       Variance of the error term\n\n\n\n\n\n             Total sample variation in               R-squared from a regression of explanatory variable xj\n            explanatory variable xj:               on all other independent variables\n                                                        (including a constant)"
+    },
+    {
+      "page": 6,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 7,
+      "text": "The variance of the OLS Estimators\n\n   • Components of OLS Variances:\n   • 1) The error variance\n        • A high error variance increases the sampling variance because\n        there is more “noise” in the equation\n        • A large error variance necessarily makes estimates imprecise\n        • The error variance does not decrease with sample size\n   • 2) The total sample variation in the explanatory variable\n        • More sample variation leads to more precise estimates\n        • Total sample variation automatically increases with the sample size\n        • Increasing the sample size is thus a way to get more precise\n        estimates"
+    },
+    {
+      "page": 8,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 9,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 10,
+      "text": "The variance of the OLS Estimators\n\n  • Estimating the error variance\n\n\n\n\n\n     An unbiased estimate of the error variance can be obtained by substracting the number of\n       estimated regression coefficients from the number of observations. The number of obser-\n       vations minus the number of estimated parameters is also called the degrees of freedom. The n\n       estimated squared residuals in the sum are not completely independent but related\n       through the k+1 equations that define the first order conditions of the minimization problem.\n\n\n  • Theorem 3.3 (Unbiased estimator of the error\n   variance)"
+    },
+    {
+      "page": 11,
+      "text": "The variance of the OLS Estimators\n\n   • Estimation of the sampling variances of the OLS\n    estimators\n\n The true sampling\n  variation of the\n  estimated\n\n\n\n\n\n                                      Plug in    for the unknown\n\n\n  The estimated samp-\n  ling variation of the\n  estimated\n\n   • Note that these formulas are only valid under\n   assumptions  MLR.1-MLR.5 (in particular, there has to\n   be homoskedasticity)"
+    },
+    {
+      "page": 12,
+      "text": "The variance of the OLS Estimators"
+    },
+    {
+      "page": 13,
+      "text": "Efficiency of OLS: The Gauss-Markov Theorem"
+    },
+    {
+      "page": 14,
+      "text": "Efficiency of OLS: The Gauss-Markov Theorem"
+    },
+    {
+      "page": 15,
+      "text": "Efficiency of OLS: The Gauss-Markov Theorem"
+    },
+    {
+      "page": 16,
+      "text": "Efficiency of OLS: The Gauss-Markov Theorem"
+    },
+    {
+      "page": 17,
+      "text": "Conclusion"
+    },
+    {
+      "page": 18,
+      "text": "Review of Statistics\n\n\n  The framework allows rigorous statistical inference\n  about unknown parameters (unknown numbers) of\n  population distribution using a sample of data from\n  that population, which is the main goal of statistics\n  • Estimation\n  • Hypothesis testing\n  • Confidence interval"
+    },
+    {
+      "page": 19,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 20,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 21,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 22,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 23,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 24,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 25,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 26,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 27,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 28,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 29,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 30,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 31,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 32,
+      "text": "Review of Statistics"
+    },
+    {
+      "page": 33,
+      "text": "Review of Statistics"
+    }
+  ]
+}

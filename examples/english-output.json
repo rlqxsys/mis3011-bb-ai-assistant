@@ -1,0 +1,554 @@
+{
+  "scenario": "english",
+  "before": {
+    "tasks": [
+      {
+        "id": "ENG1001:2023:individual-presentation",
+        "courseCode": "ENG1001",
+        "term": "2023",
+        "title": "Individual Presentation · 本人展示",
+        "kind": "presentation",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "4–5 分钟 Summary AND Response，另加约 1 分钟问答。",
+          "只参加本人被安排的展示课次；无需正式商务着装，避免运动服。"
+        ],
+        "issues": [
+          "个人排表外链失效，具体上台日期未知，不能把全部展示课次排给一人。"
+        ],
+        "sources": [
+          {
+            "courseCode": "ENG1001",
+            "path": "courses/ENG1001.json",
+            "locator": "ann[0] · Posted on: Wednesday, November 22, 2023 04:05:22 PM CST",
+            "quote": "The Individual Presentation will start from 4/5 Dec. For this assessment, please choose one article OR one video as the material. The material should be chosen from the course materials and should not be the same as your practice presentation. The format of the presentation is a Summary AND Response talk (4-5 mins), plus a Q & A session (1 min). Make sure to make the summary brief, preferably to be completed within 2 minutes; the summary only needs to cover the main points of the material chosen. \nPlease upload your slides to the Individual Presentation folder, if you choose to use the classroom computer. Otherwise, you need to bring your own device (HDMI connection is required). \nThere's no need to dress business formal, but sportswear should be avoided. Only students scheduled to present are required to come to class (on time); those not scheduled don't have to come. \nThank you for your attention.\np.s.\nDon't read for your presentation.",
+            "role": "announcement"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "no_evidence",
+          "at": null
+        },
+        "remainingMinutes": 120,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null
+      },
+      {
+        "id": "ENG1001:2023:_504002_1",
+        "courseCode": "ENG1001",
+        "term": "2023",
+        "title": "Slides for Individual Presentation",
+        "kind": "upload",
+        "channel": "bb",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": "classroom-computer",
+        "requirements": [
+          "If you choose to use the classroom computer for your Individual Presentation, please upload your slides here. Only PowerPoint and PDF files can be opened on that computer."
+        ],
+        "issues": [
+          "未取得明确截止时刻，不自动补为午夜。"
+        ],
+        "sources": [
+          {
+            "courseCode": "ENG1001",
+            "path": "courses/ENG1001.json",
+            "locator": "pages[5].rows[0]",
+            "quote": "Slides for Individual Presentation\nIf you choose to use the classroom computer for your Individual Presentation, please upload your slides here. Only PowerPoint and PDF files can be opened on that computer.",
+            "role": "course"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "replay_initial",
+          "at": null
+        },
+        "remainingMinutes": 20,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "url": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_504002_1&course_id=_90004_1&mode=view",
+        "policy": {
+          "late": "unknown",
+          "attempts": "unknown",
+          "scoring": "unknown"
+        },
+        "optional": false
+      },
+      {
+        "id": "ENG1001:2023:listening-final",
+        "courseCode": "ENG1001",
+        "term": "2023",
+        "title": "Final Listening Exam",
+        "kind": "exam",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": {
+          "L09": {
+            "start": "2023-11-25T09:00:00+08:00",
+            "end": "2023-11-25T09:50:00+08:00",
+            "location": "TD307",
+            "arrivalMinutes": 15,
+            "approximateDuration": true
+          },
+          "L10": {
+            "start": "2023-11-25T09:00:00+08:00",
+            "end": "2023-11-25T09:50:00+08:00",
+            "location": "TD307",
+            "arrivalMinutes": 15,
+            "approximateDuration": true
+          },
+          "L11": {
+            "start": "2023-11-25T10:30:00+08:00",
+            "end": "2023-11-25T11:20:00+08:00",
+            "location": "TD307",
+            "arrivalMinutes": 15,
+            "approximateDuration": true
+          },
+          "L12": {
+            "start": "2023-11-25T10:30:00+08:00",
+            "end": "2023-11-25T11:20:00+08:00",
+            "location": "TD307",
+            "arrivalMinutes": 15,
+            "approximateDuration": true
+          }
+        },
+        "condition": null,
+        "requirements": [
+          "闭卷；提前 15 分钟到场。"
+        ],
+        "issues": [
+          "需选择 L09/L10/L11/L12；考试时长约 50 分钟。"
+        ],
+        "sources": [
+          {
+            "courseCode": "ENG1001",
+            "path": "courses/ENG1001.json",
+            "locator": "ann[2] · Posted on: Monday, November 13, 2023 08:27:58 PM CST",
+            "quote": "The two final exams have been arranged as follows. Please arrive at the venue 15 minutes before the exam begins. Both exams are closed-book. \nThank you for your attention.\n \tDate\tVenue\tTime\tDuratiion\nListening Exam\tSaturday, 25 November\tTD307\t\n9:00 am (L9 & L10)\n10:30 am (L11 & L12)\n\t\n~ 50 minutes\nReading / Writing Exam\tSaturday, 2 December\tTB103\t\n9:00 am\n\t\n2.5 hours",
+            "role": "announcement"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "no_evidence",
+          "at": null
+        },
+        "remainingMinutes": 60,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null
+      },
+      {
+        "id": "ENG1001:2023:personal-essay",
+        "courseCode": "ENG1001",
+        "term": "2023",
+        "title": "Personal Essay · VeriGuide",
+        "kind": "assignment",
+        "channel": "external",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "仅通过本班 VeriGuide 链接线上提交，无需纸质封面或到教室交件。",
+          "应收到成功确认邮件；平台目前不能读取该外部提交凭据。"
+        ],
+        "issues": [
+          "10 月 18／19 日按分班上课开始时间截止，尚缺本人准确课时。"
+        ],
+        "sources": [
+          {
+            "courseCode": "ENG1001",
+            "path": "courses/ENG1001.json",
+            "locator": "ann[5] · Posted on: Monday, October 16, 2023 04:48:08 PM CST",
+            "quote": "Please note that your Personal Essay (on the topic \"My most ... moment\") is due this Wed / Thur. But we WILL NOT meet in the classroom for you to submit the assignment. ONLY online submission is required. Please submit your essay to the VeriGuide assignment link created for your section. You should receive a confirmation email after successful submission - if you don't, double-check your submission. And if Google Chrome doesn't work well, try a different browser (such as Microsoft Edge or Firefox). \nPlease attach no cover page for online submission.\nA quiz on pronouns will be posted this Wednesday. Please study the ppt lesson before taking it.\nAgain, no classroom meeting this Wed / Thur. Thank you for your attention.\ncourse staff",
+            "role": "announcement"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "no_evidence",
+          "at": null
+        },
+        "remainingMinutes": 120,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null
+      }
+    ],
+    "plan": {
+      "blocks": [],
+      "fixed": [],
+      "risks": [
+        {
+          "taskId": "ENG1001:2023:individual-presentation",
+          "code": "needs_time",
+          "message": "缺少明确截止／本人参加时间，未擅自排期。"
+        },
+        {
+          "taskId": "ENG1001:2023:personal-essay",
+          "code": "needs_time",
+          "message": "缺少明确截止／本人参加时间，未擅自排期。"
+        }
+      ]
+    },
+    "summary": {
+      "tasks": 4,
+      "active": 2,
+      "plannedMinutes": 0,
+      "risks": 2,
+      "unread": 4,
+      "pending": 0,
+      "today": "2023-11-24"
+    }
+  },
+  "events": [
+    {
+      "id": "replay:eng:slides",
+      "type": "STATUS_RECORDED",
+      "taskId": "ENG1001:2023:_504002_1",
+      "value": "submitted",
+      "origin": "demo_bb",
+      "note": "模拟幻灯片已提交，但不代表本人已经完成展示。"
+    }
+  ],
+  "after": {
+    "tasks": [
+      {
+        "id": "ENG1001:2023:individual-presentation",
+        "courseCode": "ENG1001",
+        "term": "2023",
+        "title": "Individual Presentation · 本人展示",
+        "kind": "presentation",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "4–5 分钟 Summary AND Response，另加约 1 分钟问答。",
+          "只参加本人被安排的展示课次；无需正式商务着装，避免运动服。"
+        ],
+        "issues": [
+          "个人排表外链失效，具体上台日期未知，不能把全部展示课次排给一人。"
+        ],
+        "sources": [
+          {
+            "courseCode": "ENG1001",
+            "path": "courses/ENG1001.json",
+            "locator": "ann[0] · Posted on: Wednesday, November 22, 2023 04:05:22 PM CST",
+            "quote": "The Individual Presentation will start from 4/5 Dec. For this assessment, please choose one article OR one video as the material. The material should be chosen from the course materials and should not be the same as your practice presentation. The format of the presentation is a Summary AND Response talk (4-5 mins), plus a Q & A session (1 min). Make sure to make the summary brief, preferably to be completed within 2 minutes; the summary only needs to cover the main points of the material chosen. \nPlease upload your slides to the Individual Presentation folder, if you choose to use the classroom computer. Otherwise, you need to bring your own device (HDMI connection is required). \nThere's no need to dress business formal, but sportswear should be avoided. Only students scheduled to present are required to come to class (on time); those not scheduled don't have to come. \nThank you for your attention.\np.s.\nDon't read for your presentation.",
+            "role": "announcement"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "no_evidence",
+          "at": null
+        },
+        "remainingMinutes": 120,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null
+      },
+      {
+        "id": "ENG1001:2023:_504002_1",
+        "courseCode": "ENG1001",
+        "term": "2023",
+        "title": "Slides for Individual Presentation",
+        "kind": "upload",
+        "channel": "bb",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": "classroom-computer",
+        "requirements": [
+          "If you choose to use the classroom computer for your Individual Presentation, please upload your slides here. Only PowerPoint and PDF files can be opened on that computer."
+        ],
+        "issues": [
+          "未取得明确截止时刻，不自动补为午夜。"
+        ],
+        "sources": [
+          {
+            "courseCode": "ENG1001",
+            "path": "courses/ENG1001.json",
+            "locator": "pages[5].rows[0]",
+            "quote": "Slides for Individual Presentation\nIf you choose to use the classroom computer for your Individual Presentation, please upload your slides here. Only PowerPoint and PDF files can be opened on that computer.",
+            "role": "course"
+          }
+        ],
+        "version": 2,
+        "status": {
+          "value": "submitted",
+          "origin": "demo_bb",
+          "at": "2023-11-24T09:00:00+08:00",
+          "note": "模拟幻灯片已提交，但不代表本人已经完成展示。"
+        },
+        "remainingMinutes": 20,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "url": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_504002_1&course_id=_90004_1&mode=view",
+        "policy": {
+          "late": "unknown",
+          "attempts": "unknown",
+          "scoring": "unknown"
+        },
+        "optional": false
+      },
+      {
+        "id": "ENG1001:2023:listening-final",
+        "courseCode": "ENG1001",
+        "term": "2023",
+        "title": "Final Listening Exam",
+        "kind": "exam",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": {
+          "L09": {
+            "start": "2023-11-25T09:00:00+08:00",
+            "end": "2023-11-25T09:50:00+08:00",
+            "location": "TD307",
+            "arrivalMinutes": 15,
+            "approximateDuration": true
+          },
+          "L10": {
+            "start": "2023-11-25T09:00:00+08:00",
+            "end": "2023-11-25T09:50:00+08:00",
+            "location": "TD307",
+            "arrivalMinutes": 15,
+            "approximateDuration": true
+          },
+          "L11": {
+            "start": "2023-11-25T10:30:00+08:00",
+            "end": "2023-11-25T11:20:00+08:00",
+            "location": "TD307",
+            "arrivalMinutes": 15,
+            "approximateDuration": true
+          },
+          "L12": {
+            "start": "2023-11-25T10:30:00+08:00",
+            "end": "2023-11-25T11:20:00+08:00",
+            "location": "TD307",
+            "arrivalMinutes": 15,
+            "approximateDuration": true
+          }
+        },
+        "condition": null,
+        "requirements": [
+          "闭卷；提前 15 分钟到场。"
+        ],
+        "issues": [
+          "需选择 L09/L10/L11/L12；考试时长约 50 分钟。"
+        ],
+        "sources": [
+          {
+            "courseCode": "ENG1001",
+            "path": "courses/ENG1001.json",
+            "locator": "ann[2] · Posted on: Monday, November 13, 2023 08:27:58 PM CST",
+            "quote": "The two final exams have been arranged as follows. Please arrive at the venue 15 minutes before the exam begins. Both exams are closed-book. \nThank you for your attention.\n \tDate\tVenue\tTime\tDuratiion\nListening Exam\tSaturday, 25 November\tTD307\t\n9:00 am (L9 & L10)\n10:30 am (L11 & L12)\n\t\n~ 50 minutes\nReading / Writing Exam\tSaturday, 2 December\tTB103\t\n9:00 am\n\t\n2.5 hours",
+            "role": "announcement"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "no_evidence",
+          "at": null
+        },
+        "remainingMinutes": 60,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null
+      },
+      {
+        "id": "ENG1001:2023:personal-essay",
+        "courseCode": "ENG1001",
+        "term": "2023",
+        "title": "Personal Essay · VeriGuide",
+        "kind": "assignment",
+        "channel": "external",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "仅通过本班 VeriGuide 链接线上提交，无需纸质封面或到教室交件。",
+          "应收到成功确认邮件；平台目前不能读取该外部提交凭据。"
+        ],
+        "issues": [
+          "10 月 18／19 日按分班上课开始时间截止，尚缺本人准确课时。"
+        ],
+        "sources": [
+          {
+            "courseCode": "ENG1001",
+            "path": "courses/ENG1001.json",
+            "locator": "ann[5] · Posted on: Monday, October 16, 2023 04:48:08 PM CST",
+            "quote": "Please note that your Personal Essay (on the topic \"My most ... moment\") is due this Wed / Thur. But we WILL NOT meet in the classroom for you to submit the assignment. ONLY online submission is required. Please submit your essay to the VeriGuide assignment link created for your section. You should receive a confirmation email after successful submission - if you don't, double-check your submission. And if Google Chrome doesn't work well, try a different browser (such as Microsoft Edge or Firefox). \nPlease attach no cover page for online submission.\nA quiz on pronouns will be posted this Wednesday. Please study the ppt lesson before taking it.\nAgain, no classroom meeting this Wed / Thur. Thank you for your attention.\ncourse staff",
+            "role": "announcement"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "no_evidence",
+          "at": null
+        },
+        "remainingMinutes": 120,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null
+      }
+    ],
+    "plan": {
+      "blocks": [],
+      "fixed": [],
+      "risks": [
+        {
+          "taskId": "ENG1001:2023:individual-presentation",
+          "code": "needs_time",
+          "message": "缺少明确截止／本人参加时间，未擅自排期。"
+        },
+        {
+          "taskId": "ENG1001:2023:personal-essay",
+          "code": "needs_time",
+          "message": "缺少明确截止／本人参加时间，未擅自排期。"
+        }
+      ]
+    },
+    "notifications": [
+      {
+        "id": "local-student:ENG1001:2023:individual-presentation:v1:clarify",
+        "taskId": "ENG1001:2023:individual-presentation",
+        "taskVersion": 1,
+        "type": "clarify",
+        "scheduledAt": "2023-11-24T09:00:00+08:00",
+        "deliverAt": "2023-11-24T01:00:00.000Z",
+        "title": "Individual Presentation · 本人展示：需要确认",
+        "body": "没有明确的个人时间；请核实来源或补充时间，系统未猜测截止时刻。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2023-11-24T09:00:00+08:00"
+      },
+      {
+        "id": "local-student:ENG1001:2023:_504002_1:v1:clarify",
+        "taskId": "ENG1001:2023:_504002_1",
+        "taskVersion": 1,
+        "type": "clarify",
+        "scheduledAt": "2023-11-24T09:00:00+08:00",
+        "deliverAt": "2023-11-24T01:00:00.000Z",
+        "title": "Slides for Individual Presentation：需要确认",
+        "body": "请确认分班或是否使用教室电脑，不会先按所有候选安排提醒。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2023-11-24T09:00:00+08:00"
+      },
+      {
+        "id": "local-student:ENG1001:2023:listening-final:v1:clarify",
+        "taskId": "ENG1001:2023:listening-final",
+        "taskVersion": 1,
+        "type": "clarify",
+        "scheduledAt": "2023-11-24T09:00:00+08:00",
+        "deliverAt": "2023-11-24T01:00:00.000Z",
+        "title": "Final Listening Exam：需要确认",
+        "body": "请确认分班或是否使用教室电脑，不会先按所有候选安排提醒。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2023-11-24T09:00:00+08:00"
+      },
+      {
+        "id": "local-student:ENG1001:2023:personal-essay:v1:clarify",
+        "taskId": "ENG1001:2023:personal-essay",
+        "taskVersion": 1,
+        "type": "clarify",
+        "scheduledAt": "2023-11-24T09:00:00+08:00",
+        "deliverAt": "2023-11-24T01:00:00.000Z",
+        "title": "Personal Essay · VeriGuide：需要确认",
+        "body": "没有明确的个人时间；请核实来源或补充时间，系统未猜测截止时刻。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2023-11-24T09:00:00+08:00"
+      },
+      {
+        "id": "local-student:change:replay:eng:slides:ENG1001:2023:_504002_1",
+        "taskId": "ENG1001:2023:_504002_1",
+        "taskVersion": 2,
+        "type": "change",
+        "scheduledAt": "2023-11-24T09:00:00+08:00",
+        "deliverAt": "2023-11-24T09:00:00+08:00",
+        "deliveredAt": "2023-11-24T09:00:00+08:00",
+        "title": "Slides for Individual Presentation：信息已更新",
+        "body": "模拟幻灯片已提交，但不代表本人已经完成展示。 BB 显示已提交。这是本任务的证据，不代表其他关联事项已经完成。",
+        "status": "delivered"
+      }
+    ],
+    "summary": {
+      "tasks": 4,
+      "active": 2,
+      "plannedMinutes": 0,
+      "risks": 2,
+      "unread": 5,
+      "pending": 0,
+      "today": "2023-11-24"
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "scenario": "capacity",
+  "before": {
+    "tasks": [
+      {
+        "id": "ECO3121:2024:assignment-2",
+        "courseCode": "ECO3121",
+        "term": "2024",
+        "title": "Assignment 2",
+        "kind": "assignment",
+        "channel": "bb",
+        "deadline": {
+          "date": "2024-11-02",
+          "at": "2024-11-02T15:00:00+08:00",
+          "precision": "minute",
+          "yearInferred": false
+        },
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "The Problem set 2 has been released. The due is 3 PM, November 2nd, 2024. \n \nPlease note that:\n1)Combine your answer, Stata code and requested output in one PDF file and upload it to Blackboard.\n2)Late submission is NOT allowed."
+        ],
+        "issues": [],
+        "sources": [
+          {
+            "courseCode": "ECO3121",
+            "path": "courses/ECO3121.json",
+            "locator": "ann[20] · Posted on: Wednesday, October 23, 2024 11:57:40 AM CST",
+            "quote": "The Problem set 2 has been released. The due is 3 PM, November 2nd, 2024. \n \nPlease note that:\n1)Combine your answer, Stata code and requested output in one PDF file and upload it to Blackboard.\n2)Late submission is NOT allowed.",
+            "role": "announcement"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "replay_initial",
+          "at": null
+        },
+        "remainingMinutes": 120,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "policy": {
+          "late": "not_allowed",
+          "attempts": "unknown",
+          "scoring": "unknown"
+        }
+      }
+    ],
+    "plan": {
+      "blocks": [
+        {
+          "id": "ECO3121:2024:assignment-2@2024-11-01T11:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-2",
+          "taskVersion": 1,
+          "start": "2024-11-01T11:00:00.000Z",
+          "end": "2024-11-01T11:50:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ECO3121:2024:assignment-2@2024-11-01T12:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-2",
+          "taskVersion": 1,
+          "start": "2024-11-01T12:00:00.000Z",
+          "end": "2024-11-01T12:50:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ECO3121:2024:assignment-2@2024-11-02T02:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-2",
+          "taskVersion": 1,
+          "start": "2024-11-02T02:00:00.000Z",
+          "end": "2024-11-02T02:20:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        }
+      ],
+      "fixed": [],
+      "risks": []
+    },
+    "summary": {
+      "tasks": 1,
+      "active": 1,
+      "plannedMinutes": 120,
+      "risks": 0,
+      "unread": 1,
+      "pending": 3,
+      "today": "2024-11-01"
+    }
+  },
+  "events": [
+    {
+      "id": "replay:capacity:postpone",
+      "type": "TASK_DEFERRED",
+      "taskId": "ECO3121:2024:assignment-2",
+      "until": "2024-11-02T12:00:00+08:00"
+    }
+  ],
+  "after": {
+    "tasks": [
+      {
+        "id": "ECO3121:2024:assignment-2",
+        "courseCode": "ECO3121",
+        "term": "2024",
+        "title": "Assignment 2",
+        "kind": "assignment",
+        "channel": "bb",
+        "deadline": {
+          "date": "2024-11-02",
+          "at": "2024-11-02T15:00:00+08:00",
+          "precision": "minute",
+          "yearInferred": false
+        },
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "The Problem set 2 has been released. The due is 3 PM, November 2nd, 2024. \n \nPlease note that:\n1)Combine your answer, Stata code and requested output in one PDF file and upload it to Blackboard.\n2)Late submission is NOT allowed."
+        ],
+        "issues": [],
+        "sources": [
+          {
+            "courseCode": "ECO3121",
+            "path": "courses/ECO3121.json",
+            "locator": "ann[20] · Posted on: Wednesday, October 23, 2024 11:57:40 AM CST",
+            "quote": "The Problem set 2 has been released. The due is 3 PM, November 2nd, 2024. \n \nPlease note that:\n1)Combine your answer, Stata code and requested output in one PDF file and upload it to Blackboard.\n2)Late submission is NOT allowed.",
+            "role": "announcement"
+          }
+        ],
+        "version": 2,
+        "status": {
+          "value": "unknown",
+          "origin": "replay_initial",
+          "at": null
+        },
+        "remainingMinutes": 120,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": "2024-11-02T12:00:00+08:00",
+        "paused": false,
+        "snoozedUntil": null,
+        "policy": {
+          "late": "not_allowed",
+          "attempts": "unknown",
+          "scoring": "unknown"
+        }
+      }
+    ],
+    "plan": {
+      "blocks": [],
+      "fixed": [],
+      "risks": [
+        {
+          "taskId": "ECO3121:2024:assignment-2",
+          "code": "insufficient_time",
+          "missingMinutes": 120,
+          "message": "截止前仍缺 120 分钟可安排时间；请调整空闲时间、预计用时或其他安排。"
+        }
+      ]
+    },
+    "notifications": [
+      {
+        "id": "local-student:ECO3121:2024:assignment-2:v1:deadline",
+        "taskId": "ECO3121:2024:assignment-2",
+        "taskVersion": 1,
+        "type": "deadline",
+        "scheduledAt": "2024-11-01T07:00:00.000Z",
+        "deliverAt": "2024-11-01T07:00:00.000Z",
+        "title": "Assignment 2：临近正式时间",
+        "body": "ECO3121 的正式时间为 2024-11-02T15:00:00+08:00。当前未检测到完成证据；这不代表你尚未开始。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:digest:2024-11-01",
+        "taskId": null,
+        "taskVersion": null,
+        "type": "digest",
+        "scheduledAt": "2024-11-01T08:00:00+08:00",
+        "deliverAt": "2024-11-01T00:00:00.000Z",
+        "title": "今日安排摘要",
+        "body": "1 项尚待核实完成的任务；0 段今日准备安排。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-11-01T10:00:00+08:00"
+      },
+      {
+        "id": "local-student:ECO3121:2024:assignment-2@2024-11-01T11:00:00.000Z:v1:start",
+        "taskId": "ECO3121:2024:assignment-2",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-11-01T10:45:00.000Z",
+        "deliverAt": "2024-11-01T10:45:00.000Z",
+        "title": "准备时段：Assignment 2",
+        "body": "计划 2024-11-01T11:00:00.000Z 至 2024-11-01T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:ECO3121:2024:assignment-2@2024-11-02T02:00:00.000Z:v1:start",
+        "taskId": "ECO3121:2024:assignment-2",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-11-02T01:45:00.000Z",
+        "deliverAt": "2024-11-02T01:45:00.000Z",
+        "title": "准备时段：Assignment 2",
+        "body": "计划 2024-11-02T02:00:00.000Z 至 2024-11-02T02:20:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:ECO3121:2024:assignment-2:v2:deadline",
+        "taskId": "ECO3121:2024:assignment-2",
+        "taskVersion": 2,
+        "type": "deadline",
+        "scheduledAt": "2024-11-01T07:00:00.000Z",
+        "deliverAt": "2024-11-01T07:00:00.000Z",
+        "title": "Assignment 2：临近正式时间",
+        "body": "ECO3121 的正式时间为 2024-11-02T15:00:00+08:00。当前未检测到完成证据；这不代表你尚未开始。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:ECO3121:2024:assignment-2:v2:insufficient_time:p1",
+        "taskId": "ECO3121:2024:assignment-2",
+        "taskVersion": 2,
+        "type": "risk",
+        "scheduledAt": "2024-11-01T10:00:00+08:00",
+        "deliverAt": "2024-11-01T02:00:00.000Z",
+        "title": "Assignment 2：安排需要调整",
+        "body": "截止前仍缺 120 分钟可安排时间；请调整空闲时间、预计用时或其他安排。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-11-01T10:00:00+08:00"
+      },
+      {
+        "id": "local-student:change:replay:capacity:postpone:ECO3121:2024:assignment-2",
+        "taskId": "ECO3121:2024:assignment-2",
+        "taskVersion": 2,
+        "type": "change",
+        "scheduledAt": "2024-11-01T10:00:00+08:00",
+        "deliverAt": "2024-11-01T10:00:00+08:00",
+        "deliveredAt": "2024-11-01T10:00:00+08:00",
+        "title": "Assignment 2：信息已更新",
+        "body": "已推迟准备安排至 2024-11-02T12:00:00+08:00 之后；正式截止时间没有改变。",
+        "status": "delivered"
+      }
+    ],
+    "summary": {
+      "tasks": 1,
+      "active": 1,
+      "plannedMinutes": 0,
+      "risks": 1,
+      "unread": 3,
+      "pending": 1,
+      "today": "2024-11-01"
+    }
+  }
+}

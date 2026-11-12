@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": " ECO3121 TUT6: Multiple Linear Regression Model\n\n\n\n               TA Group\n\n\n        The Chinese University of Hong Kong, Shenzhen\n\n\n                      October 21, 2024\n\n\n\n\n\nTA Group                                CUHK(SZ)                                October 21, 2024            1 / 18"
+    },
+    {
+      "page": 2,
+      "text": "Contents\n\n\n\n\n\n1  Gauss-Markov Assumptions\n     Variance of OLS\n     Gauss-Markov assumptions\n     Gauss-Markov theorem\n\n\n\n2  Statistical Inference\n     Normality of random error\n     Testing hypotheses about βj\n     Testing multiple linear restrictions: The F test\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024            2 / 18"
+    },
+    {
+      "page": 3,
+      "text": "                          Gauss-Markov Assumptions\n\n\n\n\n\n           Gauss-Markov Assumptions\n\n\n\n\n\nTA Group                                CUHK(SZ)                                October 21, 2024            3 / 18"
+    },
+    {
+      "page": 4,
+      "text": "                                          Gauss-Markov Assumptions    Variance of OLS\n\nVariance of OLS\n\n\n\nMLR.5 Homoskedasticity\n    V ar(ui|xi1, xi2, · · · , xik) = σ2\n\n\nTheorem 3.2 Sampling Variances of the OLS Slope Estimators\n\n    Under MLR.1-MLR.5\n                              j = 1, 2, · · · , k    V ar(ˆβj) = SSTj(1−R2σ2   j),\n\n\nMulticollinearity\n\n    High (but not perfect) correlation between two or more independent variables\n       is called multicollinearity.(R2j →1)\n    V IFj = 1−R21 j →∞, V ar(ˆβj) →∞\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024            4 / 18"
+    },
+    {
+      "page": 5,
+      "text": "                                          Gauss-Markov Assumptions    Variance of OLS\n\nStandard errors of the OLS estimators\n\n\n\n\nDefinition:\n             √     √   √∑n                         i=1 ˆu2i        ˆσ =   ˆσ2 =   n−k−1 =   n−k−1SSR\n\n\nTheorem 3.3 Unbiased Estimation of σ2\n    Under MLR.1-MLR.5\n     E(ˆσ2) = σ2\n\nStandard deviation of ˆβj: sd(ˆβj) = √   σ\n                                   SSTj(1−R2j)\nStandard error of ˆβj: se(ˆβj) = √       ˆσ\n                               SSTj(1−R2j)\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024            5 / 18"
+    },
+    {
+      "page": 6,
+      "text": "                                          Gauss-Markov Assumptions   Gauss-Markov assumptions\n\nGauss-Markov assumptions(MLR.1-MLR.5)\n\n\n\n\nMLR.1 (Linear in Parameters)\n    y = β0 + β1x1 + β2x2 + · · · + βkxk + u\nMLR.2 (Random Sampling)\n     (xi1, xi2, · · · , xik, yi) : i = 1, 2, · · · , n are i.i.d\nMLR.3 (No Perfect Collinearity)\n    rank[Xn×(k+1)] = k + 1, where X is design matrix\nMLR.4 (Zero Conditional Mean)\n     E(ui|xi1, xi2, · · · , xik) = 0\nMLR.5 (Homoskedasticity)\n    V ar(ui|xi1, xi2, · · · , xik) = σ2\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024            6 / 18"
+    },
+    {
+      "page": 7,
+      "text": "                                          Gauss-Markov Assumptions   Gauss-Markov theorem\n\nGauss-Markov Theorem\n\n\n\n\nTheorem 3.4\n\n    Under MLR.1-MLR.5\n    The OLS estimators, ˆβ0, ˆβ1, · · · , ˆβk are the best linear unbiased estimators\n    (BLUEs) of β0, β1, · · · , βk, respectively.\n\n\nExplanation for theorem 3.4\n     best: V ar(ˆβj) ≤V ar(˜βj)\n          ∑n\n     linear: ˜βj =   i=1 wijyi\n     unbiased: E(˜βj) = βj, j = 0, 1, · · · , k\n    ˜βj is any linear and unbiased estimator\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024            7 / 18"
+    },
+    {
+      "page": 8,
+      "text": "                                          Statistical Inference\n\n\n\n\n\n                   Statistical Inference\n\n\n\n\n\nTA Group                                CUHK(SZ)                                October 21, 2024            8 / 18"
+    },
+    {
+      "page": 9,
+      "text": "                                                               Statistical Inference    Normality of random error\n\nNormality of random error\n\n\n\n\n\nMLR.6 (Normality of random error)\n     ui ∼N(0, σ2) independently of xi1, xi2, · · · , xik\n\n\nTheorem 4.1 Normal Sampling Distribution\n\n    Under MLR.1-MLR.6\n       ˆβj ∼Normal[βj, V ar(ˆβj)]\n      ˆβj−βj\n        ∼Normal(0, 1)\n      sd( ˆβj)\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024            9 / 18"
+    },
+    {
+      "page": 10,
+      "text": "                                                               Statistical Inference    Testing hypotheses about βj\n\nt-statistic and t-test\n\n\n\nPractically:\n    σ2 is usually unknown, we use ˆσ2 to replace the σ2 to obtain se(ˆβj). Then,\n    we can construct a t-statistic by using se(ˆβj).\n\n\nTheorem 4.2\n\n    Under MLR.1-MLR.6\n      ˆβj−βj\n         ∼tn−k−1 = tdf      se( ˆβj)\n\n\nt-test for βj:\n     using the t-statistic to determine whether βj significantly differs from a\n    known value given by the hypothesis.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024           10 / 18"
+    },
+    {
+      "page": 11,
+      "text": "                                                               Statistical Inference    Testing hypotheses about βj\n\nHypothesis\n\n\n\n\nStatistical hypothesis\n    a statement about how the population mean/unknown parameter (µ) is\n     related to a specified value (µ0)\n\n\n\n\n\nComment:\n\n     the equality sign (=) always shows in null hypothesis.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024           11 / 18"
+    },
+    {
+      "page": 12,
+      "text": "                                                               Statistical Inference    Testing hypotheses about βj\n\nSignificance level\n\nDefinition:\n   A pre-specified probability of incorrectly rejecting the null hypothesis when\n     the null is true.\n     the probability of making a Type-I error\n     denoted by α, usually takes the values of 1%, 5%, 10%\n\nunder the 2-sided hypothesis for t-test:\n\n                                 P(|t| > c α2 ) = α\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024           12 / 18"
+    },
+    {
+      "page": 13,
+      "text": "                                                               Statistical Inference    Testing hypotheses about βj\n\n5 steps for hypothesis testing: t-test\n\n\n\n\nProcedures:\n    make a null hypothesis: H0 : βj = 0\n    make an alternative hypothesis: H1 : βj ̸= 0\n     choose a significance level α for the test, and find the critical value c α2 at\n      this significance level.\n                                             ˆβj\n     calculate the t =                                 ˆβj    se( ˆβj)\n    compare the t-statistic with critical value, then conclude according to the\n     rejection rule:\n                                                |t ˆβj| > c α2\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024           13 / 18"
+    },
+    {
+      "page": 14,
+      "text": "                                                               Statistical Inference    Testing hypotheses about βj\n\nP-value\n\n\nDefinition:\n       If the null hypothesis is true, the probability that we’d observe a more\n     extreme t statistic in the direction of the alternative hypothesis than we did.\n\n    Under the 2-sided hypothesis:\n\n                          p-value = P(|t| > |tact||H0)\n\n                                        Comments:\n\n                                                    the t-test is equivalent to\n                                                          rejecting the null if the\n                                                     p-value is smaller than the\n                                                          significance level.\n\n                                                    the p-value can be seen as\n                                                    the risk of rejecting the null\n                                                      hypothesis.\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024           14 / 18"
+    },
+    {
+      "page": 15,
+      "text": "                                                               Statistical Inference    Testing hypotheses about βj\n\nConfidence interval\n\n\n\n\n    Confidence interval is an interval estimated around a sample mean under a\n     pre-specified confidence level (1 −α) that provides a range within which\n     the true population mean is expected to lie.\n\n    Commonly used confidence levels are 99%, 95%, 90%.\n\n  under the 2-sided hypothesis:\n\n\n\n                       α                                           α                                                         α        CI = ˆβj ± c                               2 × se(ˆβj) = [ˆβj −c                                                         2 se(ˆβj), ˆβj + c                                                                             2 se(ˆβj)]\n\n\nComment:\n    The α two-sided t-test for H0 : βj = µ0 is equivalent to checking\n    whether the 1 −α confidence interval contains µ0.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024           15 / 18"
+    },
+    {
+      "page": 16,
+      "text": "                                                               Statistical Inference    Testing multiple linear restrictions: The F test\n\nUnrestricted model vs restricted model\n\n\n\nFor an unrestricted model:\n\n                     y = β0 + β1x1 + β2x2 + β3x3 + u\n\nWe impose the null hypothesis with three exclusion restrictions:\n\n                   H0 : β1 = 0, β2 = 0, β3 = 0\n\nagainst\n                      H1 : H0 is not true\n\nThen, we have the restricted model:\n\n                y = β0 + 0 · x1 + 0 · x2 + 0 · x3 + u = β0 + u\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024           16 / 18"
+    },
+    {
+      "page": 17,
+      "text": "                                                               Statistical Inference    Testing multiple linear restrictions: The F test\n\nJoint hypotheses test: F-test\n\n    F test is a statistical test that is used in hypothesis testing to check whether\n     the variances of two populations or two samples are equal or not.\n\n    F statistic for testing multiple restrictions:\n         (SSRr−SSRur)/q       (R2ur−R2r)/q   F =               =                                    ∼Fq,n−k−1 = Fdfr−dfur,dfur          (SSRur)/(n−k−1)                              (1−R2ur)/(n−k−1)\n     Rejection rule: F > Fα(q, n −k −1)\n\n\n\n\n\n            TA Group                                CUHK(SZ)                                October 21, 2024           17 / 18"
+    },
+    {
+      "page": 18,
+      "text": "                                 Acknowledgement\n\n\n\n\n      Thank you!\n\n\n\n\n\nTA Group                                CUHK(SZ)                                October 21, 2024           18 / 18"
+    }
+  ]
+}

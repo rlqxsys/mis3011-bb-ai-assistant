@@ -1,0 +1,224 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "Chapter 12"
+    },
+    {
+      "page": 2,
+      "text": "1. Describe the structure and responsibilities of the\n   Federal Reserve System\n2. Analyze how changes in the federal funds rate and\n   real interest rate affect planned aggregate\n   expenditure and short-run equilibrium output\n3. Show how the demand for money and the supply of\n  money interact to determine the equilibrium nominal\n    interest rate\n4. Discuss how the Fed uses its ability to control the\n  money supply to influence nominal and real interest\n   rates\n\n                                                                         2"
+    },
+    {
+      "page": 3,
+      "text": "• With the intention of putting an end to bank\n  panics and their accompanying recessions,\n  Congress passed the Federal Reserve Act\n  in 1913, setting up the Federal Reserve\n  System—often referred to as “the Fed.”\n• Responsibilities of the Federal Reserve:\n  – Conduct monetary policy\n  – Oversee and regulate financial markets\n         • Central to solving financial crises\n                                                                          3"
+    },
+    {
+      "page": 4,
+      "text": "• The Federal Reserve System began\n  operations in 1914\n  – Does not attempt to maximize profit\n  – Promotes public goals such as economic\n    growth, low inflation, and smoothly functioning\n     financial markets\n         • [link]\n\n\n\n\n                                                                         4"
+    },
+    {
+      "page": 5,
+      "text": "• 12 Federal Reserve Bank districts\n   – Assess economic conditions in their region\n   – Provide services to commercial banks in their region\n•  Leadership is provided by the Board of Governors\n   – Seven governors are appointed by the President to\n     14-year terms\n   – President selects one of the seven as chairman for a\n     four-year term\n• The Federal Open Market Committee (FOMC) reviews\n economic conditions and sets monetary policy\n   – 12 members who meet eight times a year\n\n                                                                        5"
+    },
+    {
+      "page": 6,
+      "text": "6"
+    },
+    {
+      "page": 7,
+      "text": "•  Motivation for creating the Fed was to stabilize the\n   financial markets and the economy\n• Banking panics occurred when customers believe\n  one or more banks might be bankrupt\n  – Depositors rush to withdraw funds\n  – Banks have inadequate reserves to meet\n    demand  Bank close\n• Fed prevents bank panics by\n  – Supervising and regulating banks\n  – Loaning banks funds if needed\n• Fed did not prevent the bank panics of 1930 – 1933\n                                                                         7"
+    },
+    {
+      "page": 8,
+      "text": "• One-third of the banks closed\n  – Increased the severity of the Great Depression\n  – Difficult for small businesses and consumers to\n     get credit\n  – Money supply decreased\n• With no federal deposit insurance, people\n  held cash\n  – Feared banks would close and they would lose\n      their deposits\n  – Holding cash reduced banks' reserves\n         • Lower reserves decreased the money supply by a\n         multiple of the change in reserves\n                                                                         8"
+    },
+    {
+      "page": 9,
+      "text": "• Banks increased their reserve-                                                    Bank run during\n                                                            Great Depression  deposit ratio\n  – Further decreased the money supply\n              Currency    Reserve –     Bank     Money\n     Date       Held by      Deposit    Reserves    Supply\n               Public ($B)      Ratio         ($B)         ($B)\n  12 / 1929        3.85         0.075         3.15         45.9\n  12 / 1930        3.79         0.082         3.31         44.1\n  12 / 1931        4.59         0.092         3.11         37.3\n  12 / 1932        4.82         0.109         3.18         34.0\n  12 / 1933        4.85         0.133         3.45         30.8\n\n                                                                           9"
+    },
+    {
+      "page": 10,
+      "text": "• Congress created deposit insurance in 1934\n  – Deposits of less than $100,000 will be repaid even\n         if the bank is bankrupt\n         • Decreases incentive to withdraw funds on rumors\n• No significant bank panics since 1934\n• Drawback: with less risk, depositors pay less\n  attention to whether banks are making\n  prudent investments\n  – In the 1980s, many savings and loan associations\n    went bankrupt\n         • Cost the taxpayers hundreds of billions of dollars\n                                                                         10"
+    },
+    {
+      "page": 11,
+      "text": "Eliminate output gaps by\nchanging the money supply\n\n   Changes in money supply cause\n   changes in nominal interest rate\n\n        Interest rates affect planned\n       aggregate expenditure, PAE\n\n\n                                                                          11"
+    },
+    {
+      "page": 12,
+      "text": "• Fed controls the money supply to control\n  the nominal interest rate, i\n  – Investment and saving decisions are based on\n     the real interest rate, r\n         • Fed has some control over the real interest rate\n                                         r = i - π\n          where πis the rate of inflation\n• The Fed has good control over i\n• Inflation changes relatively slowly\n  – Changes in nominal rates become changes in\n     real rates in the short run\n                                                                          12"
+    },
+    {
+      "page": 13,
+      "text": "• The federal funds rate is the rate commercial\n  banks charge each other on short-term (usually\n  overnight) loans\n  – Banks borrow from each other if they have\n      insufficient funds\n  – Market determined rate\n  – Targeted by the Fed\n• To decrease the federal funds rate the Fed conducts\n  open market purchases\n  – Reserves increase\n•  Interest rates tend to move together\n                                                                         13"
+    },
+    {
+      "page": 14,
+      "text": "Source: [link]\n1982 - 2024\n\n\n\n                                                                             14"
+    },
+    {
+      "page": 15,
+      "text": "• Planned aggregate expenditure has\n  components that are affected by r\n  – Saving decisions of households\n         • More saving at higher real interest rates\n         • Higher saving means less consumption\n  – Investment by firms\n         • Higher interest rates mean less investment\n          – Investments are made if the cost of borrowing is less than\n              the return on the investment\n• Both consumption and planned investment\n  decrease when the interest rate increases\n\n                                                                         15"
+    },
+    {
+      "page": 16,
+      "text": "• Two changes to the model\n        C = C + (mpc) (Y – T) – a r\n                         IP = I – b r\n  – Where:\n  – a measures the strength of the interest rate\n     effect on consumption, a > 0\n  – b measures how strongly changes in the real\n     interest rate affect planned investment, b > 0\n• As before\n      G = G    T = T    NX = NX\n                                                                         16"
+    },
+    {
+      "page": 17,
+      "text": "• Components of aggregate spending are\n      C = 640 + 0.8 (Y – T) – 400 r\n            IP = 250 – 600 r\n      G = 300\n      NX = 20\n       T = 250\n•   If r increases from 0.04 to 0.05 (that is, from 4% to 5%)\n   – Consumption decreases by 400 (0.01) = 4\n   – Planned investment decreases by 600 (0.01) = 6\n• A one percentage point increase in r reduces planned\n  spending by 10 – before the multiplier is considered\n\n                                                                         17"
+    },
+    {
+      "page": 18,
+      "text": "PAE = C + IP + G + NX\nPAE = 640 + 0.8 (Y – 250) – 400 r + 250 – 600 r +\n     300 + 20\nPAE = 1,010 – 1,000 r + 0.8 Y\n\n• In this example, planned aggregate\n  expenditure depends on both the real interest\n  rate and the level of output\n  –Equilibrium output can only be found once we\n  know the value of r\n\n                                                                        18"
+    },
+    {
+      "page": 19,
+      "text": "        PAE = 1,010 – 1,000 r + 0.8 Y\n•   Suppose the real interest rate is 5%, or 0.05\n•   Planned aggregate expenditure becomes\n      PAE = 1,010 – 1,000 (0.05) + 0.8 Y\n            PAE = 960 + 0.8 Y\n•    Short-run equilibrium output is PAE = Y\n            Y = 960 + 0.8 Y\n                    0.2 Y = 960\n              Y = $4,800\n•   The graphical solution is the same as before\n                                                                         19"
+    },
+    {
+      "page": 20,
+      "text": "Recessionary Gap\n\n                                       Y ⇑ via the   r ⇓           C, IP ⇑        PAE ⇑                                                  multiplier\n\n\nExpansionary Gap\n\n                                       Y ⇓ via the   r ⇑            C, IP⇓        PAE ⇓                                                  multiplier\n\n\n                                                                     20"
+    },
+    {
+      "page": 21,
+      "text": "          PAE = 1,010 – 1,000 r + 0.8 Y\n• The real interest rate, r, is 5%\n   – Short-run equilibrium output is $4,800\n•  Potential output is $5,000\n   – Recessionary gap is $200\n•  Multiplier is 5\n• Monetary policy can be used to increase PAE\n   – The first change in spending required is 200 / 5 = 40\n                 1,000 (change in r) = 40\n            Change in r = 40 / 1,000 = 0.04\n• The Fed should decrease the real interest rate to 1%\n                                                                         21"
+    },
+    {
+      "page": 22,
+      "text": "                       Y = PAE(PAE)\n                                   Expenditure line (r = 1%)\n                                   Expenditure line (r = 5%)\n               Fexpenditure\n                       A reduction in r shifts the             E                                expenditure line upward and\n                                closes the recessionary gapaggregate\n\n             4,800 5,000   Output (Y)Planned                    Y*\n\n                                                                   22"
+    },
+    {
+      "page": 23,
+      "text": "• Economy began slowing in late 2000\n• Terrorist attack led to contraction in travel,\n  financial, and other industries\n  – In the aftermath, the Fed grew concerned that\n    consumers would decrease spending\n• The federal funds rate is the interest rate\n  banks charge each other for overnight\n  loans\n  – This interest rate is the one the Fed targets\n    when changing the money supply\n                                                                         23"
+    },
+    {
+      "page": 24,
+      "text": "• In late 2000, the fed funds\n  rate was 6.5%\n  – January, 2001, the Fed cut\n     the rate to 6.0%\n  – More rate cuts followed\n  – July, 2001, the rate was less\n     than 4%\n• Interest rate was 2.0% in\n  November, 2001\n  – 4.5 percentage points lower\n     than a year before\n\n                                                                         24"
+    },
+    {
+      "page": 25,
+      "text": "• After the 9/11 attacks, Fed immediately\n  worked to restore normal operation of the\n  financial markets and institutions\n• Combination of tax cuts, increased\n  government expenditures for homeland\n  security, and aggressive monetary policy\n  helped keep the 2001 recession shallow\n  and short\n                                                                        25"
+    },
+    {
+      "page": 26,
+      "text": "• Expansionary gap can lead to inflation\n  – Planned spending is greater than normal output\n     levels at the established prices\n  – Short-run unplanned decreases in inventories\n  – If gap persists, prices will increase\n• Central Bank attempts to close expansionary\n  gaps\n  – Raise interest rates\n  – Decrease consumption and planned investment\n  – Decrease planned aggregate expenditure\n  – Decrease equilibrium output\n                                                                         26"
+    },
+    {
+      "page": 27,
+      "text": "                                                  U.S. Annual Inflation\n 20.00%\n\n\n 15.00%\n\n\n 10.00%\n\n\n  5.00%\n\n\n  0.00%\n           1914 1918 1922 1926 1930 1934 1938 1942 1946 1950 1954 1958 1962 1966 1970 1974 1978 1982 1986 1990 1994 1998 2002 2006 2010 2014 2018 2022\n -5.00%\n\n\n-10.00%\n\n\n-15.00%\n\n Source: [link]\n                                                                             27"
+    },
+    {
+      "page": 28,
+      "text": "          PAE = 1,010 – 1,000 r + 0.8 Y\n• The real interest rate, r, is 5%\n   – Short-run equilibrium output is $4,800\n•  Potential output is $4,600\n   – Expansionary gap is $200\n•  Multiplier is 5\n• Monetary policy can be used to decrease PAE\n   – The first change in spending required is 200 / 5 = 40\n                 1,000 (change in r) = 40\n            Change in r = 40 / 1,000 = 0.04\n• The Fed should increase the real interest rate to 9%\n\n                                                                         28"
+    },
+    {
+      "page": 29,
+      "text": "                       Y = PAE(PAE)\n                                   Expenditure line (r = 5%)\n                                   Expenditure line (r = 9%)expenditure            E\n                        An increase in r shifts the\n                              expenditure line down and         G\n                              closes the expansionary gapaggregate\n\n          4,600 4,800       Output (Y)Planned          Y*\n\n                                                                   29"
+    },
+    {
+      "page": 30,
+      "text": "• With slow recovery beginning in November, 2001, the\n  Fed continued to decrease interest rates until it\n  reached 1.0% in June 2003\n• Real GDP growth was nearly 6% in the 2nd half, 2003\n   – Growth was 4.4% in 2004\n   – Unemployment was 5.6% in June 2004\n•  Inflation increased in 2004, mainly due to oil prices\n   – Fed began tightening in June, 2004\n   – Fed funds rate increased from 1.0% to 1.25%\n   – Continued gradually raising the fed funds rate\n   – August, 2005, the rate was 3.5%\n                                                                         30"
+    },
+    {
+      "page": 31,
+      "text": "• Bad news about inflation causes stock prices\n  to decrease\n• Investors anticipate the Fed will increase\n  interest rates (contractionary monetary policy)\n  – Slows down economic activity, lowering firms'\n     sales and perhaps profits\n         • Lower profits mean lower dividends which mean lower\n         stock prices\n  – Higher interest rates make non-stock financial\n     instruments more attractive\n         • Reduces the demand for stocks and the stock prices\n                                                                         31"
+    },
+    {
+      "page": 32,
+      "text": "• Fed gets credit for sustained economic growth and\n   rising asset prices in the 1990s\n   – S&P 500 increased 233% between January 1995, and\n    March 2000\n   – Stock market rise fueled consumption; supported\n     growth\n• Possible stock speculation led to sharp decreases\n   – If the Fed had acted sooner, the run-up would have\n    been curtailed and the crash moderated\n   – The chairman, Alan Greenspan's response is\n          • (see next page)\n                                                                          32"
+    },
+    {
+      "page": 33,
+      "text": "• The Fed has limited ability to manage the stock market\n   – Fed does not know the \"right\" prices\n         • Information available to the Fed is publicly\n         available\n   – Monetary policy is not well suited to addressing an\n     asset bubble (a speculative increase in asset prices\n     over their underlying market value)\n         • Fed can raise interest rates and slow the economy\n         • Could result in a recession and rising\n       unemployment\n• The debate over the Fed's role in asset prices got new\n   attention after the mortgage meltdown on 2007 - 2008\n                                                                         33"
+    },
+    {
+      "page": 34,
+      "text": "•  Controlling the money supply is the primary task of the\n FOMC\n   – Money supply and demand determine the interest\n     rate\n   – Fed manipulates supply to achieve its desired\n      interest rate\n•  Portfolio allocation decisions allocate a person's\n  wealth among alternative forms\n   – Diversification is owning a variety of different assets\n      to manage risk\n• The demand for money is the amount of wealth held\n   in the form of money (cash & checking accounts)\n                                                                          34"
+    },
+    {
+      "page": 35,
+      "text": "• Demand for money is sometimes called an\n  individual's liquidity preference\n   – The Cost – Benefit Principle indicates people will\n     balance the marginal cost of holding money versus the\n     marginal benefit\n         • Money's benefit is the ability to make transactions\n   – Quantity of money demanded increases with income\n   – Technologies such as online banking and ATMs have\n     reduced the demand for money\n         • M1 has decreased from 28% of GDP in 1960 to 16%\n          in 2013\n\n                                                                          35"
+    },
+    {
+      "page": 36,
+      "text": "• The marginal cost of holding money is the\n  interest foregone\n   – Most forms of money pay little or no interest\n          • Assume the nominal interest rate on money is 0\n          • Alternative assets such as stocks or bonds have a positive\n         nominal interest rate\n• The higher the nominal interest rate, the\n  smaller the quantity of money demanded\n• Business demand for money is similar to\n  individuals'\n   – Businesses hold more than half of the money stock\n\n                                                                        36"
+    },
+    {
+      "page": 37,
+      "text": "• Demand for money depends on:\n  – Nominal interest rate (i)\n         • The higher the interest rate, the lower the quantity\n         of money demanded\n  – Real income or output (Y)\n         • The higher the level of income, the greater the\n         quantity of money demanded\n  – The price level (P)\n         • The higher the price level, the greater the quantity\n         of money demanded\n\n\n                                                                         37"
+    },
+    {
+      "page": 38,
+      "text": "•  Interaction of the aggregate demand for money and the\n  supply of money determines the nominal interest rate\n• The money demand curve shows the relationship\n  between the aggregate quantity of money demanded,\n  M, and the nominal\n                                          (i)   interest rate\n                                                         rate   – An increase in the\n     nominal interest rate                    interest     increases the\n                                        MD     opportunity cost of\n     holding money                                                                                                   Nominal\n                                           Money (M)        • Negative slope\n                                                                          38"
+    },
+    {
+      "page": 39,
+      "text": "• Changes in factors other than the nominal interest\n  rate cause a shift in the money demand curve\n• A shift in demand for money can result from\n  – An increase in output\n  – Higher price levels           (i)\n  – Transaction technology     rate\n  – Financial advances                          interest                                                         MD'  – Foreign demand for\n                                         MD\n    domestic currency                          Nominal    changes                                          Money (M)\n\n                                                                          39"
+    },
+    {
+      "page": 40,
+      "text": "• The average Argentine holds more dollars than the\n  average US citizen\n•  In the 1970s and 1980s, Argentina had high rates of\n   inflation\n   – Real returns on assets in pesos declined\n   – Argentines switched to dollars as a store of value\n•  In 1990, the US dollar and Argentine peso traded 1:1\n   – Both were accepted for transactions\n• By 2001, inflation in Argentina caused the fixed\n  exchange rate system to break down\n   – Peso was worth less than the dollar\n                                                                         40"
+    },
+    {
+      "page": 41,
+      "text": "•  Political instability in some countries also\n  increases the demand for dollars\n   – Avoids confiscation and taxes\n• Largest U.S. bill is $100, popular with drug\n  dealers\n   – The Euro is available in €500 bills, worth more than\n    $500\n          • More compact way of storing a given amount of wealth\n   – If drug dealers switch to holding their cash in Euros,\n     the demand for the U.S. dollar will decrease\n\n\n                                                                         41"
+    },
+    {
+      "page": 42,
+      "text": "• The Fed primarily controls the supply of money with\n  open-market operations\n  – An open-market purchase of bonds by the Fed\n     increases the money supply\n\n                                            (i)  – An open-market sale of                                   MS\n    bonds by the Fed                     rate\n    decreases the money\n     supply                                                                   i      E                                                                                                                     interest\n                                      MD• Supply of money is vertical\n•  Equilibrium is at E                                                                                                       Nominal\n                              M   Money (M)\n\n                                                                           42"
+    },
+    {
+      "page": 43,
+      "text": "• Bond prices are inversely related to the interest rate\n• Suppose the interest rate is at i1, below equilibrium\n  – Quantity of money demanded is M1, more than the\n    money available\n                                            (i)\n                                   MS  – To get more money, people                                                          rate      sell bonds\n        • Bond prices go down,              E                                                                                                 i                                                                                                                     interest        interest rates rise                        i1         MD\n  – Quantity of money                                                                                                      Nominal    demanded decreases                              M M1 Money (M)\n    from M1 to M\n                                                                           43"
+    },
+    {
+      "page": 44,
+      "text": "• Fed policy is stated in terms of interest rates\n  – The tool they use is the supply of money\n•  Initial equilibrium at E\n\n                                                 (i)• Fed increases the money           MS     MS'\n  supply to MS'                                   rate\n  – New equilibrium at F                 E                                                                                                 i                                                                                                                                  interest            F  – Interest rated decrease to i'              i'\n     to convince the market                                      MD     to hold the new, larger                        Nominal                              M   M'\n    amount of money                     Money (M)\n\n\n                                                                           44"
+    },
+    {
+      "page": 45,
+      "text": "To Decrease the Money Supply\n\n   Fed sells      Supply of      Price of        Interest\n   bonds to     bonds        bonds         rate\n   the public     increases     decrease      increases\n\nTo Increase the Money Supply\n\n  Fed buys             Demand       Price of  bonds                                         Interest rate                   for bonds     bonds  from the                                  decreases                 increases      increase  public\n\n                                                                        45"
+    },
+    {
+      "page": 46,
+      "text": "• The Fed cannot set the interest rate and\n  the money supply independently\n• Fed policy is announced in terms of\n  interest rates because\n  – Public is not familiar with the size of the\n   money supply\n  – Interest rate changes affect planned spending\n    and the level of economic activity\n  – Interest rates are easier to monitor than the\n   money supply\n                                                                         46"
+    },
+    {
+      "page": 47,
+      "text": "• The federal funds rate is the interest rate\n  that banks charge each other for very short-\n  term loans\n  – Closely watched in financial markets\n• The Fed targets this interest rate because it\n  is closely tied to the level of bank reserves\n  • Changes in the federal funds rate indicate the Fed's plans\n   for monetary policy\n  • Other interest rates could be used to indicate the Fed's\n   intentions\n\n                                                                          47"
+    },
+    {
+      "page": 48,
+      "text": "• Fed offers lending facility to banks, called discount\n  window lending\n  – If a bank needs reserves, it can borrow from the\n    Fed at the discount rate\n       • The discount rate is the rate the Fed charges\n      banks to borrow reserves\n• Lending increases reserves and ultimately\n  increases the money supply\n• Changes in the discount rate signal tightening or\n  loosening of the money supply\n                                                                           48"
+    },
+    {
+      "page": 49,
+      "text": "• Open market operations are the main tool of money\n  supply\n• The Fed can also change the reserve requirement\n   for banks\n  – The reserve requirement is the minimum\n    percentage of bank deposits that must be held in\n     reserves\n  – The reserve requirement is rarely changed\n  – The Fed could increase the money supply by\n     decreasing the reserve requirement\n         • Banks would have excess reserves to loan\n         • And vice versa                                                                         49"
+    },
+    {
+      "page": 50,
+      "text": "• Nominal interest rates cannot fall below zero\n•  If CB increases the money\n  supply to MS'\n  – Nominal (and real) interest\n     rates do not change\n  – Banks increase their\n     holdings of excess reserves\n  – Lending and Investment\n    does not increase\n  – Known as a Liquidity Trap\n\n                                                                            50"
+    },
+    {
+      "page": 51,
+      "text": "To stimulate the economy in late 2008, the Fed pushed the target for the federal\nfunds rate to nearly zero and kept it there through 2011, but faced a liquidity trap\nwhen many banks began piling up excess reserves rather than lending the funds out\nto those whose financial positions had been damaged by the recession.\n                                                                           51"
+    },
+    {
+      "page": 52,
+      "text": "•  Central Banks cannot lower interbank interest rates below\n  zero  may attempt to expand the economy through QE\n   – Quantitative Easing (QE) refers to a central bank buying\n      specified amounts of financial assets from commercial\n     banks and other private financial institutions, thereby\n     lowering the yield or return of those assets while\n     increasing the money supply.\n   – Used to stimulate the economy by purchasing assets of\n     longer maturity thereby lowering longer-term interest rates.\n• The Fed has purchased trillions of dollars worth of longer-\n  term treasury notes, commercial debt, and Mortgage Backed\n   Securities (MBS) through several rounds of quantitative\n  easing since the financial crisis in 2008.\n                                                                            52"
+    },
+    {
+      "page": 53,
+      "text": "Which of the following will lead to a decrease in the\nequilibrium interest rate in the economy?\nA) an increase in the price level\n\nB) a sale of government securities by the Fed\n\nC) a decrease in GDP\n\nD) an increase in the discount rate\n\nE) an increase in the reserve requirement\n\n\n\n                                                                          53"
+    },
+    {
+      "page": 54,
+      "text": "Source: “The\nStory of\nMonetary\nPolicy” by the\nFederal\nReserve Bank\nof New York\n\nComic Books\npublished by\nthe New York\nFed: [link]\nww.newyorkfe\nd.org/outreac\nh-and-\neducation/co\nmic-books\n                                                                            54"
+    },
+    {
+      "page": 55,
+      "text": "    Stock                                  Keynesian                    TheThe FedFed\n   Market                              Model\n\n                      Interest Rates: Supply of                      Real, Nominal,  Money                               Monetary\n                    Fed Funds                                                 Policy\n    Money                                           Open Market\n    Market                                        Operations                        Stabilization\n                          PolicyDemand for                                          Discount Rate\n  Money\n                                                      Reserve\n                                                 Requirement\n\n                                                                     55"
+    }
+  ]
+}

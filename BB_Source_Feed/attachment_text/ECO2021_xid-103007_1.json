@@ -1,0 +1,200 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "Chapter 5\n\n\n\n\n\n                                                                5-1"
+    },
+    {
+      "page": 2,
+      "text": "1. Explain how the consumer price index (CPI) is\n   constructed and use it to calculate the inflation\n   rate\n2. Show how the CPI is used to adjust dollar\n   amounts to eliminate the effects of inflation\n3. Discuss the important biases in the CPI\n4. Distinguish between inflation and relative price\n   changes to find the true costs of inflation\n5. Summarize the connections among inflation,\n   nominal interest rates, and real interest rates\n\n\n                                                                                                      5-2\n                                                                      2"
+    },
+    {
+      "page": 3,
+      "text": "Data from: [link]\nBy Aug 18, 2023\n\n                                                                                                               5-3\n                                                                            3"
+    },
+    {
+      "page": 4,
+      "text": "• Prices of goods change over time\n  – When the world used metallic money (gold,\n     silver) prices sometimes increased sharply,\n    and sometimes decreased sharply\n  – Since the advent of fiat money, prices have\n     generally steadily increased\n• To compare over time, economists try to\n  adjust dollar values to compensate for\n  price changes (inflation)\n\n\n                                                                                                           5-4\n                                                                         4"
+    },
+    {
+      "page": 5,
+      "text": "• A price index measures the average price of a\n  given class of good or services relative to the price\n  of the same goods and services in a base year\n   – Inflation is measured as the rate of growth of the price\n     index\n• CPI measures the change in consumer prices\n• Other indices:\n   – Core inflation is CPI without energy and food\n   – Producer price index: prices of intermediate goods\n   – GDP Deflator: (Nominal GDP/Real GDP)×100\n   – Import / export price index\n                                                                                                           5-5\n                                                                         5"
+    },
+    {
+      "page": 6,
+      "text": "• The Consumer Price Index (CPI) is a\n  measure of the cost of living during a\n  particular period\n• The CPI measures\n  – The cost of a standard basket of goods\n    and services in a given year\n  – relative to the cost of the same basket of\n    goods and services in the base year\n\n\n                                                                                                       5-6\n                                                                       6"
+    },
+    {
+      "page": 7,
+      "text": "                                                   U.S. Annual Inflation\n 20.00%\n\n 15.00%\n\n 10.00%\n\n  5.00%\n\n  0.00%\n\n -5.00%\n\n-10.00%\n\n-15.00%\n            1914191719201923192619291932193519381941194419471950195319561959196219651968197119741977198019831986198919921995199820012004200720102013201620192022\n\n                                                                                                                 5-7  Source: [link]\n                                                                             7"
+    },
+    {
+      "page": 8,
+      "text": "From “Are Chinese Growth and Inflation Too Smooth? Evidence\nfrom Engel Curves”, Nakamura, Steinsson, and Liu (2016)\n\n                                                                5-8\n                                             8"
+    },
+    {
+      "page": 9,
+      "text": "1. Fix the “basket.”\n   The government (National Bureau of Statistics\n    of China, or Bureau of Labor Statistics in US)\n   surveys consumers to determine what’s in the\n    typical consumer’s “shopping basket.”\n2. Find the prices.\n   They collect data on the prices of all the\n   goods in the basket.\n3. Compute the basket’s cost.\n   Use the prices to compute the total cost of the\n   basket.\n                                                                                                       5-9\n                                                                       9"
+    },
+    {
+      "page": 10,
+      "text": "10"
+    },
+    {
+      "page": 11,
+      "text": "Change in the Eight Subcomponents & College Tuition Since 2000 in U.S.\n\n\n\n\n\n                                                                    11"
+    },
+    {
+      "page": 12,
+      "text": "4. Choose a base year and compute the index.\n   The CPI in any year equals\n          cost of basket in current year\n           cost of basket in base year\n5. Compute the inflation rate.\n   The percentage change in the CPI from the\n   preceding period.\n inflation   CPI this year – CPI last year       =                               x 100%   rate                 CPI last year\n                                                                                                      5-12\n                                                                         12"
+    },
+    {
+      "page": 13,
+      "text": "2010 Spending                      Monthly Cost in 2010\nRent (2 bedroom apartment)                   $500\nHamburgers (60 at $2 each)                    120\nMovie tickets (10 at $6 each)                    60\nMonthly expenditures                        $680\n2015 Spending                      Monthly Cost in 2015\nRent (2 bedroom apartment)                  $630\nHamburgers (60 at $2.50 each)                 150\nMovie tickets (10 at $7 each)                    70\nMonthly expenditures                        $850\n E.g. 2010 is the base year for the CPI\n  • Base year changes periodically                                     5-13\n                                                                         13"
+    },
+    {
+      "page": 14,
+      "text": "• CPI is the ratio of the cost of the basket of goods in the\n  current year to the cost in the base year\n  – Base year cost $680\n  – 2015 cost $850\n              CPI = 850 / 680 = 1.25\n• Cost of living in 2015 is 25% higher than in 2010\n  – CPI for the base year is always 1\n  – CPI for a given period is the cost of living in that\n     period relative to what it was in the base year\n  – BEA uses CPI as a percentage – the ratio times 100\n\n                                                                                                        5-14\n                                                                           14"
+    },
+    {
+      "page": 15,
+      "text": "• The rate of inflation is the    Year         CPI      Inflation\n  annual percentage change    2009          2.15\n                                     2010          2.18      1.4%   in the price level\n                                       2011          2.25      3.2%\n•  Inflation in 2010                                     2012          2.30      2.2%\n                                     2013          2.33      1.3%   (2.18 – 2.15) / 2.15\n     = 0.0139 = 1.4%                                       Year         CPI      Inflation\n• The Great Depression         1929         0.171\n   – Period of falling output        1930         0.167     –2.3%\n     and prices                     1931         0.152     –9.0%\n   – When inflation rates are       1932         0.137     –9.9%\n                                     1933         0.130     –5.1%     negative there is deflation\n                                                                                                        5-15\n                                                                           15"
+    },
+    {
+      "page": 16,
+      "text": "If the price level rose in three consecutive\nyears from 1.00 to 1.20 to 1.40, then the\nannual inflation rate over those years would\nA) increase.\nB) remain the same.\nC) decrease.\nD) equal 20%.\n\n\n\n\n                                                                                                   5-16\n                                                                        16"
+    },
+    {
+      "page": 17,
+      "text": "• A nominal quantity is measured in terms of\n   its current dollar value\n• A real quantity is measured in physical terms\n  – Quantities of goods and services\n• To compare values over time, use real\n  quantities\n  – Deflating a nominal quantity converts it to a real\n     quantity  inflation-adjusted quantities\n         • Divide a nominal quantity by its price index to express\n         the quantity in real terms                                               5-17\n                                                                         17"
+    },
+    {
+      "page": 18,
+      "text": "• Can a family buy more with $40,000 in income in\n  2010 or with $44,000 in 2015?\n   – 2010 is the base year for the CPI\n   – Deflate nominal income in both years to get real\n     income\n   – Compare real income\n   – $40,000 in 2010 has the greater purchasing power\n\nYear   Nominal Income   CPI          Real Income\n2010       $40,000        1.00      $40,000/1.00 = $40,000\n2015       $44,000        1.25      $44,000/1.25 = $35,200\n\n\n                                                                                                   5-18\n                                                                        18"
+    },
+    {
+      "page": 19,
+      "text": "• The movie Avatar overtook Titanic as the highest-\n  grossing movie of all time measured by box office\n  receipts in USD\n• Assume that each film generated all of its box office\n  receipts during the year it was released to simplify\n  calculation\n•  Dollar value of tickets or the number of tickets sold?\n\n Film     Year    Total Box Office     CPI    Real Receipts\n Avatar   2009     $2,923,706,026      2.15    $1,359,863,268\n  Titanic   1997     $2,264,743,305      1.61    $1,406,672,860\n\n\n                                                                                                     5-19\n                                                                         19"
+    },
+    {
+      "page": 20,
+      "text": "• The real wage is the wage paid to the worker\n  measured in terms of purchasing power\n      Real wage for any given period =\n      the nominal wage / CPI for that period\n• U.S. production worker wages\n   – CPI uses 1983 as base year\n   – Real wages stayed roughly the same between 1970 and 2013\n      despite the fact that the nominal wage in 2013 was almost 6\n      times the nominal wage in 1970\n    Year    Average Wage    CPI       Real Average Wage\n   1970        $3.40         0.39        $3.40 / 0.39 = $8.72\n   2013       $20.14        2.29       $19.00 / 2.18 = $8.79\n                                                                                                         5-20\n                                                                            20"
+    },
+    {
+      "page": 21,
+      "text": "Base Year 1983\n\n\n\n\n\n                                                                        5-21\n                                                     21"
+    },
+    {
+      "page": 22,
+      "text": "• Indexing increases a nominal quantity each period\n  by the percentage increase in a specified price\n  index\n   – Indexing prevents the purchasing power of the nominal\n      quantity from being eroded by inflation\n• Indexing automatically adjusts certain values, such\n  as Social Security payments, by the amount of\n   inflation\n   – If prices increase 3% in a given year, the Social\n     Security recipients receive 3% more\n          • No action by Congress required\n   – Indexing is sometimes included in labor contracts                                                                                                      5-22\n                                                                          22"
+    },
+    {
+      "page": 23,
+      "text": "• An indexed labor contract\n   – First year wage is $12 per hour\n   – Employer guarantees that real wages rise by 2% per\n     year for the next 2 years\n   – Relevant price index is 1.00 in first year, 1.05 in the\n     second, and 1.10 in the third\n• Nominal wage is real wage times the price index\n  Year  Real Wage  Price Index  Nominal Wage\n  1       $12.00       1.00          $12.00\n  2       $12.24       1.05          $12.85\n  3       $12.48       1.10          $13.73\n                                                                                                    5-23\n                                                                        23"
+    },
+    {
+      "page": 24,
+      "text": "• CPI and other indexes influence policy decisions\n  and wage increases\n• 1996 report said CPI overstates inflation by 1 to 2\n  percentage points a year\n   – Unnecessarily increases government spending\n          • Social Welfare payments and many contracts have COLAs\n           (cost-of-living-allowance) tied to the CPI\n   – Underestimates increase in the standard of living\n          • Suppose CPI indicates 3% inflation when cost of living\n           actually increases 2%\n          • Real income increased by 1% more than estimated\n• Since 1996, CPI calculations changed to improve\n  the accuracy of the CPI in estimating inflation\n                                                                                                     5-24\n                                                                         24"
+    },
+    {
+      "page": 25,
+      "text": "• CPI uses a fixed basket of goods and services\n   – When the price of a good increases, consumers buy less\n     and substitute other goods\n   – Failing to account for substitution overstates inflation\n• Example: base year cost of market basket\n   – Suppose that people like coffee and tea equally well\n   Item             2010 price    2010 Spending\n   Coffee (50 cups)      $1.00          $50.00\n   Tea (50 cups)         $1.00          $50.00\n   Scones (100)         $1.00         $100.00\n\n                                                                                                      5-25   Total                              $200.00\n                                                                         25"
+    },
+    {
+      "page": 26,
+      "text": "• In 2015, coffee and scones are more\n  expensive\n  – Buying exactly the same basket of goods costs\n    $300, compared to $200 in 2005\n  – CPI = 300 / 200 = 1.50\n  Item             2015 price    2015 Spending\n   Coffee (50 cups)      $2.00         $100.00\n  Tea (50 cups)         $1.00          $50.00\n  Scones (100)         $1.50         $150.00\n   Total                              $300.00\n                                                                                                     5-26\n                                                                         26"
+    },
+    {
+      "page": 27,
+      "text": "•  Actually, consumer substitutes tea for coffee\n   – Scone purchases constant\n• True CPI for consumer is 250 / 200 = 1.25\n• CPI estimate of 1.50 is 20% higher than the\n  consumer's experience\n\n Item             2015 price    2015 Spending\n Coffee (00 cups)      $2.00           $0.00\n Tea (100 cups)        $1.00         $100.00\n Scones (100)         $1.50         $150.00\n  Total                              $250.00\n                                                                                                   5-27\n                                                                       27"
+    },
+    {
+      "page": 28,
+      "text": "• Another important bias in the CPI is its\n  measurement of price changes but not\n  quality changes\n  – PC with 20% more memory has 20% higher price\n         • Not the same PC as the one from 10 years ago\n  – If no adjustment is made for quality, PC's\n     contribution to the CPI will be 20%\n• Adjusting for quality is difficult\n  – Large numbers of goods\n  – Subjective differences\n• Incorporating new goods is difficult\n    (see next page)\n                                                                          28"
+    },
+    {
+      "page": 29,
+      "text": "• Incorporating new goods is difficult\n   – No base year price for this year's new goods\n• When new goods become available, consumers\n  can find products that more closely meet their\n  needs\n• New goods can only lower the cost of living, as\n  consumers can choose not to buy them\n• The CPI misses this effect because it uses a\n  fixed basket of goods\n• Thus, the CPI overstates any increases in the\n  cost of living\n                                                                       29"
+    },
+    {
+      "page": 30,
+      "text": "The typical consumer’s food basket in the base year 2015 is as\nfollows:\n      30 chickens at $3.00 each\n      10 hams at $6.00 each\n      10 steaks at $8.00 each\nA chicken feed shortage causes the price of chickens to rise to\n$5.00 each in the year 2016. Hams rise to $7.00 each, and the\nprice of steaks is unchanged.\na. Calculate the change in the “cost-of-eating” index between\n2015 and 2016.\nb. Suppose that consumers are completely indifferent between\ntwo chickens and one ham. For this example, how large is the\n                                                                                                      5-30substitution bias in the official “cost-of-eating” index?                                                                         30"
+    },
+    {
+      "page": 31,
+      "text": "• The price level is a measure of the overall\n  level of prices at a particular point in time\n  – Measured by a price index such as the CPI\n• The relative price of a specific good is a\n  comparison of its price to the prices of other\n  goods and services\n• Suppose we have a one-time doubling of the\n  gas price\n   – Overall price level and inflation increase by a small\n     amount\n   – The increase in the relative price of gasoline is large                                                                                                     5-31\n                                                                         31"
+    },
+    {
+      "page": 32,
+      "text": "• Relative prices can change significantly\n  without corresponding changes in\n  inflation\n• E.g. summer prices\n              Higher                   Lower\n     • Beach hotels             • Fresh fruit and\n                                    vegetables     • Cruises\n                              • Heating oil     • Gas prices\n\n\n\n\n                                                                                                   5-32\n                                                                        32"
+    },
+    {
+      "page": 33,
+      "text": "                                       Oil Price    Relative Price  Year     CPI       Inflation                            Change         of Oil\n  2013     1.20\n  2014     1.32     10%       8%          -2%\n  2015     1.40     6%        8%        2%\n\n• Government rarely attempts to manage\n  relative prices\n  – Can distort supply and demand for that\n     industry\n\n                                                                                                  5-33\n                                                                       33"
+    },
+    {
+      "page": 34,
+      "text": "• Prices transmit information about\n  – The cost of production and\n  – The relationship between demand and supply in\n     the market\n• Inflation creates static (noise) in the\n  communication\n  – Buyers and sellers can't easily tell whether\n         • The relative price of this good is increasing OR\n         • Inflation is increasing the price of this good and all others\n  – Deciding these issues requires market participants\n     gather information – at a cost\n  – Response to changing prices is tentative and slow5-34\n                                                                           34"
+    },
+    {
+      "page": 35,
+      "text": "• Income taxes have been indexed to avoid\n  bracket creep\n  – Bracket creep occurs when a household is moved\n      into a higher tax bracket due to increases in\n    nominal but not real income\n         • Higher tax brackets have a higher tax rate\n• Indexing income taxes matches tax rates to\n  the real income level\n  – E.g. the tax rate on $50,000 is 25% in 2000\n  – CPI is 1 for 2000, 1.25 for 2005\n  – Nominal income of $62,500 is taxed 25% in 2005                                                                                                     5-35\n                                                                         35"
+    },
+    {
+      "page": 36,
+      "text": "• However, not all taxes are indexed\n• E.g. Capital depreciation allowance encourages\n  purchase of capital goods\n   – Allows firms to deduct a share of the purchase price of\n    a new investment as a business expense\n   – A new machine costs $1,000 and its useful life is 10\n     years\n          • U.S. tax law: Capital depreciation allowance of $100 per year\n          • $100 in year 1 is worth more than $100 in year 10 because of\n            inflation\n•  In times of high inflation, the incentive of investment\n   in new plant and equipment decreases\n                                                                                                      5-36\n                                                                          36"
+    },
+    {
+      "page": 37,
+      "text": " • A carpenter makes furniture using wood as input\n    – Buys $160 of wood at the beginning of the year\n    – Sells $200 of furniture at the end of the year\n    – Earns $40 profits, owes $12 in taxes (30% tax rate)\nYear    No Inflation 20% Inflation 60% Inflation\nCost         $160          $160          $160\nSales         $200          $240          $320\nProfit         $40           $80           $160\nTax           $12           $24           $48\nTax (real)     $12      $24/1.2 = $20  $48/1.6 = $30\n •  Inflation causes profits to be overstated\n    – Increases the real value of taxes owed\n                                                                          37"
+    },
+    {
+      "page": 38,
+      "text": "•  If there is no inflation, cash holds its value over time\n   – Some cash will be held for convenience\n• When inflation is high, cash loses value over time\n• People manage cash balances to limit losses\n   – More frequent, smaller withdrawals cost consumers and\n     businesses time, travel – a real cost of inflation\n   – Banks process more transactions, increasing costs –\n     another real cost of inflation\n   – Costs of managing cash holding are called \"shoe leather\"\n      costs, referring to the cost of frequent trips to the bank\n\n                                                                                                      5-38\n                                                                          38"
+    },
+    {
+      "page": 39,
+      "text": "• Unexpected inflation redistributes wealth\n• Suppose workers' salaries are not indexed\n  and inflation is higher than anticipated\n  – Salaries lose purchasing power\n  – Employers gain at the expense of workers\n• Similarly, unexpectedly high inflation benefits\n  borrowers at the expense of lenders\n  – Borrowers repay with dollars worth less than\n     anticipated\n• Unexpected inflation confuses incentives\n                                                                                                     5-39\n                                                                         39"
+    },
+    {
+      "page": 40,
+      "text": "• Some decisions have a long time horizon\n  – Erratic inflation makes planning risky\n• E.g. retirement planning requires an\n  estimated cost for your desired life-style\n  – Save too little and you live less well in the future\n  – Save too much and you live less well now\n• Given the costs of inflation, most economists\n  agree that low and stable inflation promotes a\n  healthy economy\n  – Most central banks target for a 2% inflation\n                                                                                                     5-40\n                                                                         40"
+    },
+    {
+      "page": 41,
+      "text": "• Hyperinflation is an extremely high rate of inflation\n   – In 1923, German employers paid workers twice a day\n       (inflation was 102,000,000%)\n   – Magnifies the costs of inflation\n   – Minimize your cash holding\n• A study of market economies, 1960 – 1996 showed\n  45 episodes of high inflation (100+%) in 25 countries\n   – Real GDP/person fell by an\n     average of 1.6% per year\n   – Real consumption/ person fell by\n     an average of 1.3% per year\n   – Real investment per person fell by\n     an average of 3.3% per year\n                                                                                                       5-41\n                                                                          41"
+    },
+    {
+      "page": 42,
+      "text": "• The effect of inflation on debtors and creditors can\n  be explained more precisely using real interest rate\n• The real interest rate is the annual percentage\n  increase in the purchasing power of financial assets\n   – Real cost of borrowing capital\n   – Real interest rate = nominal interest rate – inflation\n                    r = i - π\n• The nominal interest rate is the annual\n  percentage increase in the dollar value of an asset\n   – Nominal interest rates are the most commonly stated\n     rates\n   – Not adjusted for inflation                                                  5-42\n                                                                          42"
+    },
+    {
+      "page": 43,
+      "text": "• Nominal interest rates and                                                     Interest   Inflation                                     Year   inflation vary                                           Rate (%)  Rate (%)\n   • Nominal interest rate range is      1975     8.0%      9.1\n   3.2% to 11.4%                                   1980      11.4       13.5\n   • Inflation rate range is 1.6% to                                   1985     10.6        3.6\n   13.5%                                   1990       8.6        5.4\n– Real interest rate is nominal                                   1995       6.6        2.8\n   interest rate minus inflation                                   2000       6.0        3.4\n   • Real interest rate was highest                                   2005       4.3        3.4\n     in 1985, 7.0%                                   2010       3.2        1.6\n   • Real interest rate was lowest\n     in 1980, – 2.1%\n                                                                                                        5-43\n                                                                           43"
+    },
+    {
+      "page": 44,
+      "text": "5-44\n    44"
+    },
+    {
+      "page": 45,
+      "text": "• Unexpected inflation benefits borrowers and\n  hurts lenders\n  – For a given nominal interest rate, the higher the\n      inflation rate, the lower the real interest rate\n• Expected inflation may not hurt lenders if\n  they can adjust the nominal interest rates\n  – Inflation-protected bonds pay a real rate of\n     interest plus the inflation rate\n• The Fisher effect is the tendency for\n  nominal interest rates to be high when\n  inflation is high and low when inflation is low                                                                                                     5-45\n                                                                         45"
+    },
+    {
+      "page": 46,
+      "text": "5-46\n    46"
+    },
+    {
+      "page": 47,
+      "text": "On January 1, 2012, Albert invested $1,000 at 6 percent\ninterest per year for three years. The CPI on January 1,\n2012, stood at 100. On January 1, 2013, the CPI (times\n100) was 105; on January 1, 2014, it was 110; and on\nJanuary 1, 2015, the day Albert’s investment matured,\nthe CPI was 118. Find the real rate of interest earned by\nAlbert in each of the three years and his total real return\nover the three-year period. Assume that interest earnings\nare reinvested each year and themselves earn interest.\n\n\n\n\n\n                                                                                                     5-47\n                                                                         47"
+    },
+    {
+      "page": 48,
+      "text": "Data from: [link]        5-48\nAug, 2023                                                                     48"
+    },
+    {
+      "page": 49,
+      "text": "Price Level            Inflation                                    Real and Nominal\n                                         Values•CPI          • Hyperinflation\n•CPI Biases                                (Deflating)\n\n\n                                    Real and Nominal Indexing        Costs of Inflation                                          Interest Rates\n\n\n\n\n\n                                                                                            5-49\n                                                                   49"
+    }
+  ]
+}

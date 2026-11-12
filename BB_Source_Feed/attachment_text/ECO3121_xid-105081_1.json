@@ -1,0 +1,8 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "                    ECO3121 final exam Cheat Sheet\n\n1.  Testing for group difference\n\n\n\n\n\nChow Test:\n                       [SSR! −(SSR\" + SSR#)]   −2(. + 1)]               ! =                       ⋅[,\n                           SSR\" + SSR#         . + 1\n\n2. IV estimator:\n                                    cov (5, 7)\n                                  0\" =                                    cov (5, 8)\nWhere Z denotes the IV and X denote the endogenous variable.\n\n3. J-test:\n       1.Obtain the 2SLS estimator using all 9 instruments; compute the predicted values\n             7ˆ$ using the actual 8 's\n      2.Compute the residual ;ˆ$ = 7 −7ˆ$\n       3.Regress ;ˆ$ on <\"$, … , <%$, 5\"$, … , 5&$\n      4.Compute the !-statistic testing the hypothesis that the coefficients on 5\"$, … , 5&$\n       are all zero\n       5.The >-statistic is > = 9!~@#(9 −A) , where p denotes # of endogenous variables.\n\n4. Testing for heteroskedasticity\n\n\n\n\n\n5. FGLS"
+    }
+  ]
+}

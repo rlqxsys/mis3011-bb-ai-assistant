@@ -1,0 +1,413 @@
+{
+  "code": "CSC1001",
+  "title": "CSC1001: Introduction to Computer Science: Programming Methodology",
+  "url": "/webapps/blackboard/execute/launcher?type=Course&id=_90002_1",
+  "pages": [
+    {
+      "n": "Assessment Scheme",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90002_1&content_id=_702001_1",
+      "rows": [
+        {
+          "title": "Assignment 2",
+          "body": "Attached Files:\n Ass2_124xxxxxx.zip (4.258 KB)\n CSC_1001_Assignment_2.pdf (217.11 KB)\nThe assignment will be worth 10% of the final grade. It is due at 11:59 PM, 24 November (Sunday). For each day of late submission, you will lose 10% of your mark in this assignment. You will receive a zero on this assignment if you submit more than three days after the deadline. \nIf you have any questions, please contact:\n[contact]\nand\n[contact]",
+          "links": [
+            {
+              "n": "Ass2_STUDENT.zip",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-102000-dt-content-rid-102000_1/xid-102000_1"
+            },
+            {
+              "n": "CSC_1001_Assignment_2.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-102001-dt-content-rid-102001_1/xid-102001_1"
+            },
+            {
+              "n": "Assignment 2",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_502000_1&course_id=_90002_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "",
+          "body": "",
+          "links": []
+        },
+        {
+          "title": "Assignment 4",
+          "body": "Attached Files:\n CSC_1001_Assignment_4.pdf (128.74 KB)\n Ass4_xxxxxx.zip (805 B)\nThis assignment will be worth 10% of the final grade. For each question, write your code in the corresponding .py file. Once completed, pack all your modified .py files into a single .zip file. Name the zip file with your student ID (i.e., if your student ID is [identifier], name the file Ass4_123456.zip), and submit it via Blackboard. Please note that we ONLY take the latest submission into account. The deadline is 11:59PM, 24 December.\nIf you have any questions about the assignment, please send an email to [contact]\nPlease note that you should focus on the operation of the linked list. The return of the mergeTwoLists function is the head node of the merged linked list.",
+          "links": [
+            {
+              "n": "CSC_1001_Assignment_4.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-102002-dt-content-rid-102002_1/xid-102002_1"
+            },
+            {
+              "n": "Ass4_STUDENT.zip",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-102003-dt-content-rid-102003_1/xid-102003_1"
+            },
+            {
+              "n": "Assignment 4",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_502001_1&course_id=_90002_1&mode=view"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90002_1&content_id=_702002_1",
+      "rows": [
+        {
+          "title": "Assignment 1",
+          "body": "Attached Files:\n CSC1001_HW1.pdf (194.195 KB)\nThe assignment will be worth 10% of the final grade. It is due on 11:59PM, October 20 (Sunday). For each day of late submission, you will lose 10% of your mark in this assignment. If you submit more than three days later than the deadline, you will receive zero in this assignment.",
+          "links": [
+            {
+              "n": "CSC1001_HW1.pdf",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-102004-dt-content-rid-102004_1/xid-102004_1"
+            },
+            {
+              "n": "Assignment 1",
+              "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_502002_1&course_id=_90002_1&mode=view"
+            }
+          ]
+        },
+        {
+          "title": "Midterm_seating",
+          "body": "Midterm_seating",
+          "links": [
+            {
+              "n": "Midterm_seating",
+              "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90002_1&content_id=_702003_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Content/Midterm_seating",
+      "u": "https://bb.example.invalid/webapps/blackboard/content/listContent.jsp?course_id=_90002_1&content_id=_702003_1",
+      "rows": [
+        {
+          "title": "Seating arrangment",
+          "body": "Seating arrangment",
+          "links": [
+            {
+              "n": "Seating arrangment",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-102005-dt-content-rid-102005_1/xid-102005_1"
+            }
+          ]
+        },
+        {
+          "title": "Seating layout",
+          "body": "Seating layout",
+          "links": [
+            {
+              "n": "Seating layout",
+              "u": "https://bb.example.invalid/bbcswebdav/pid-102006-dt-content-rid-102006_1/xid-102006_1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ann": [
+    {
+      "title": "Details about Final Rating Argument",
+      "body": "Below are the details of the final rating argument:\nAs mentioned in the previous announcement, we will not make the grade of the final exam and the HW4 public.\nPlease note that: All course staff have tried their best to give you the final exam/HW4 score and the final rating as high as possible (very large ratio of A/B, and also give C/D even the weighted total scores are extremely low).\nSo, you may come to argue ONLY when your grade is EXTREMELY lower than your expectation or you strongly have a valid reason to contest your grade. If you come, we will STRICTLY check all of your answers according to the grading rules, which may lead to more score deductions.\nDO NOT come to argue just to check your answer or other general inquiries! course staff will not answer such questions. \nAlso, please note that there will be NO possibility that we have missed any of your items (Exams and Homework) to count in your final rating.\nLast, there is NO NEED to doubt the reasonability of the mapping between your final score and the final rating. Our school has a very rigorous system for calculating and checking this reasonability. Similar questions will not be answered.\nIf you want to argue, please find the table below to know the argue time/location, according to your seat information during the final exam (which can be found in the attached final exam seating information file). \nAdditionally, please try your best to follow the location and time provided in the table and come in person, since all TAs have provided the available time as much as possible. If you have VERY special issues that you can not attend the argue slot but still want to argue, please contact the corresponding TA through email.\nAny further general questions/emails regarding 4, 5, 6 will not be answered.\nThanks for your understanding and cooperation.\nFinal Exam Seating.xlsx",
+      "posted": "Posted on: Tuesday, February 11, 2025 04:40:53 PM CST",
+      "links": [
+        {
+          "n": "Final Exam Seating.xlsx",
+          "u": "https://bb.example.invalid/bbcswebdav/pid-102007-dt-content-rid-102007_1/xid-102007_1"
+        }
+      ],
+      "images": [
+        {
+          "alt": "",
+          "u": "https://bb.example.invalid/embedded/CSC1001/announcement-1/image-1"
+        }
+      ]
+    },
+    {
+      "title": "Final Rating is Released",
+      "body": "The final rating for CSC1001 is released on SIS system. \nNote that we will not make the grade of final exam and the HW4 public.\nPlease NOTE: all course staff have tried their best to give you final exam/HW4 score and the final rating as high as possible (very large ratio of A/B, and also give C/D even the weighted total scores are extremely low).\nThe final rating argument will be taken place after the Chinese Spring Festival, around Feb.10~20.\nThe detailed time and location will be announced before Feb.10.\nCurrently, please do not repeatedly send your argument requirement to course staff.\nThanks for your understanding and cooperation!",
+      "posted": "Posted on: Thursday, January 16, 2025 05:13:41 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assignment 4 has been released",
+      "body": "Assignment 4 is released at BB. The assignment will be worth 10% of the final grade. It is due at 11:59 PM, 24 December (Tuesday). For each day of late submission, you will lose 10% of your mark in this assignment. The assignment questions can be found in the provided .pdf file and code templates are available in Ass4_124xxxxxx.zip for each question.\nPlease only complete the TODO parts; any other changes to the template may result in a score of zero.\nSpecial Notice: As we approach the final week, please note that there is only one question in this assignment. I hope everyone can complete it on time.\nIf you have any questions, please reach out to: [contact]",
+      "posted": "Posted on: Friday, December 13, 2024 05:01:21 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Midterm Exam Grades are Released",
+      "body": "The grades for Midterm Exam have been released. (The Average Score is 65, and the Median Score is 68)\nPlease note that our grading process has been as lenient as possible.\nTherefore, you may come to the argue ONLY when your grade is EXTREMELY lower than your expectation or you strongly believe there is an error or have a valid reason to contest your grade.\nDO NOT come to argue just for checking your midterm answer or other general enquiries!\nIf you come, we will STRICTLY check all of your answers according to the grading rules, which may lead to more score deductions.\nIf you want to argue, please find the table below to know the argue time/location, according to the your seat information during the midterm (which can be found in the CSC1001 Midterm SEATING Arrangement in previous Midterm announcement or files). \nAdditionally, please try your best to follow the location and time provided in the table and come in person, since all TAs have provided the available time as much as possible. \nIf you have VERY special issues that you can not attend the argue slot but still want to argue, please contact the corresponding TA through email.",
+      "posted": "Posted on: Wednesday, December 11, 2024 04:56:49 PM CST",
+      "links": [],
+      "images": [
+        {
+          "alt": "",
+          "u": "https://bb.example.invalid/embedded/CSC1001/announcement-4/image-1"
+        },
+        {
+          "alt": "",
+          "u": "https://bb.example.invalid/embedded/CSC1001/announcement-4/image-2"
+        }
+      ]
+    },
+    {
+      "title": "[Important] Final Exam Details",
+      "body": "Below are the details of Final Exam:\n1. Please remember to bring your Student ID card !!!!!!! Not like Midterm, we will STRICTLY check your ID card during Final Exam. If you do not bring it, there will be a large possibility that you can NOT attend the final exam.\n2. Permitted Materials: You can bring a page of A4 cheating paper (double-sided, printed or hand-written), an ordinary calculator without programming functions, and a paper dictionary for the mid-term exam. NO OTHER MATERIALS PERMITTED. We will provide draft papers during the exam.\n3. Range and question type: 1）The question types are basically the same as the midterms, with the addition of a code completion question; 2）Lecture 1 will no longer be covered, and neither will Lecture 11. Theoretically, all other lecture topics will be included. 3）There will be a total of three coding questions, one of which will be related to singly linked lists. 4）Please pay special attention to Assignment 3.\n4. Absent application: There will be NO Makeup for the final exam. If you cannot attend the exam by accident near the exam days, please contact your lecture professor and CC me through email as soon as possible. (For the students who have been absent during the Midterm Exam, please must attend the Final Exam otherwise there will be NO way to make up your final grade)\n5. Seating information: Please read the latest email \"FW: Seating Arrangements for the UG Centralized Final Examinations in Term 1 (AY2024-25) 2024-2025学年第一学期本科生期末统考个人考试信息查询\" to get your seating information and get familiar with other rules.\n6. Time: Dec. 17, 08:30-10:30 AM",
+      "posted": "Posted on: Wednesday, December 11, 2024 10:35:52 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assignment 2 Grades are Released",
+      "body": "The grades for Assignment 2 have been released. Please note that we have made every effort to enhance the robustness of our grading process. This includes accommodating submissions that did not fully adhere to the instructions, such as incorrect file naming or unconventional submission formats. We also address issues such as deviations from the provided template, modifications to predefined function and variable names, and improper code indentation, rather than automatically assigning 0s for these cases.\nIn addition, we conducted extensive manual checks, especially for submissions with anomalous scores, and have updated the scores accordingly. Since everyone was evaluated under the same, as lenient as possible, grading scheme, we strongly recommend only those whose scores are significantly lower than expected, or those who used highly unique output formats, to argue their grades. This is because some exceptionally unique formatting issues may not have been accounted for.\nIf you wish to argue your grade, please email me before Wednesday, December 11, and specify your lecture section (L0x). After that, all requests will be processed together. To ensure a more efficient response, please highlight any specific parts of your submission that you believe may have contributed to scoring deductions, such as uncommon errors or unusual formatting issues.\nPlease be aware that there is a risk of further score deductions upon review. Only argue your grade if you are confident the score has been underestimated.",
+      "posted": "Posted on: Monday, December 09, 2024 01:18:10 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assignment 3 is released",
+      "body": "This assignment will be worth 10% of the final grade. For each question, write your code in the corresponding .py file (i.e., for question 1, use q1.py). Once completed, pack all your modified .py files into a single .zip file. Name the zip file with your student ID (i.e., if your student ID is [identifier], name the file Ass3_123456.zip), and submit it via Blackboard. Please note that we ONLY take the latest submission into account. The deadline is 11:59PM, 8 December.\nIf you have any question about the assignment, please send email to [contact] or [contact]",
+      "posted": "Posted on: Friday, November 29, 2024 09:44:47 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assignment 1 Grades are Released",
+      "body": "The grades for Assignment 1 have been released. Please note that our grading process has been as lenient as possible. Therefore, if you wish to argue your grade, please think twice, as there is a risk of further deductions upon review.\nIf you strongly believe there is an error or have a valid reason to contest your grade, you are welcome to do so in person. Please visit TXC 604 next Friday, November 29, between 1:00 PM and 3:00 PM.",
+      "posted": "Posted on: Saturday, November 23, 2024 04:39:20 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Clarification regarding Wednesday’s tutorials",
+      "body": "The answer for Question 2 in Tutorial 9 is correct; it is CD. In Tutorial 10, Question 5, within range(n, 0, -m), the step -m is fixed and will not change when m = m // 2 in the first loop.\nBest regards,",
+      "posted": "Posted on: Wednesday, November 13, 2024 08:54:43 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "PPT Correction for tutorial 9 (for students in tutorial session 01 02 03)",
+      "body": "I am writing to inform you of an error in the PPT from yesterday's tutorial (on PPT tutorial9 page4). The correction has been marked in the figure \"page4_correction.png\" in tutorial9 folder. \nThe incorrect statement (marked with a red X) is: \"IF U implement new by your self, always remember call init() in your new()\"\nThis has been corrected to note that: \"No need call init, the child class will automatically call its own init\"\nThis correction because it relates to Python's object instantiation mechanism. When implementing new(), you don't need to explicitly call init() as Python will automatically call init() on the newly created instance.\nPlease take note of this amendment. If you have any questions about this correction, please don't hesitate to reach out to me.",
+      "posted": "Posted on: Tuesday, November 12, 2024 11:01:51 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assignment 2 is released",
+      "body": "Assignment 2 is released at BB. The assignment will be worth 10% of the final grade. It is due at 11:59 PM, 24 November (Sunday). For each day of late submission, you will lose 10% of your mark in this assignment. The assignment questions can be found in the provided .pdf file and code templates are available in Ass2_124xxxxxx.zip for each question.\nPlease only complete the TODO parts; any other changes to the template may result in a score of zero. \nIf you have any questions, please reach out to:\n[contact]  and  [contact]",
+      "posted": "Posted on: Friday, November 08, 2024 07:54:19 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Important: Seating Information for CSC1001 Midterm Exam",
+      "body": "Please refer to the attached files for your seating details:\nSEATING Arrangement.xlsx: Your assigned seating location/number.\nSEATING LAYOUT.xlsx: A visual guide to help you locate your seat in the classroom.\nA friendly reminder:\nMUST remember to bring your student ID card or citizen ID card for identity verification.\nEnsure you enter the correct classroom.\nWe recommend arriving at the classroom well in advance of the exam start time (ideally at least 30 minutes early) to reduce stress.\nThanks.\nCSC1001 SEATING Arrangement.xlsx\nCSC1001 SEATING LAYOUT.xlsx",
+      "posted": "Posted on: Friday, November 08, 2024 12:42:39 PM CST",
+      "links": [
+        {
+          "n": "CSC1001 SEATING Arrangement.xlsx",
+          "u": "https://bb.example.invalid/bbcswebdav/pid-102008-dt-content-rid-102008_1/xid-102008_1"
+        },
+        {
+          "n": "CSC1001 SEATING LAYOUT.xlsx",
+          "u": "https://bb.example.invalid/bbcswebdav/pid-102009-dt-content-rid-102009_1/xid-102009_1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "Change of Office Hour Location This Friday",
+      "body": "I hope this message finds you well. I wanted to inform you that this Friday's office hours (9:00 am -- 10:00 am, course staff; 10:00 am -- 11:00 am, course staff) will be held in Shaw F302 instead of our usual location in Shaw A201 due to Halloween activities. \nPlease note that next week's office hours will remain in Shaw A201 as scheduled.\nThank you for your understanding, and I look forward to seeing you!",
+      "posted": "Posted on: Monday, October 28, 2024 05:09:07 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Midterm Details",
+      "body": "Below are the midterm details:\n1. Time: The midterm exam for CSC1001 will be held from 19:00 - 21:00 (Beijing Time) on Nov. 10. \n2. Permitted Materials: You can bring a page of A4 cheating paper (double-sided, printed or hand-written), an ordinary calculator without programming functions, and a paper dictionary for the mid-term exam. NO OTHER MATERIALS PERMITTED. We will provide draft papers during the exam.\n3. Range and question type: Lecture1 - Lecture5. There will be 8~12 fill-in-the-blank questions, 4~6 short-answer questions, 2~3 coding questions.\n4. Exam place: We will upload a name list showing your exam classroom and seat number before Nov. 8. Please don't go to the wrong classroom during the exam.\n5. Absent application: If you cannot attend the exam by accident near the exam days, please contact me through email as soon as possible.",
+      "posted": "Posted on: Tuesday, October 22, 2024 01:30:35 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Further Clarification for Assignment 1",
+      "body": "Due to persistent confusion regarding how to define a function in Questions 4 and 5 of Assignment 1, we are providing further clarification:\n1. As explicitly stated in Assignment 1, there is no requirement to prompt the user for input or display the final result. Your task is to define a function where the order and format of input parameters and returned results match the example provided. During the grading process, we will supply input following the same order as outlined in the question example and verify the accuracy of the returned results. Before submitting your assignment, it is advisable to test your function using the provided test examples or define additional test cases.\n2. In Question 5, the notation \"1.5, 0.6\" just means the return of two values, which should be a tuple (1.5, 0.6), as the normal situation when a function returns multiple values.",
+      "posted": "Posted on: Friday, October 18, 2024 09:43:33 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Important Update of Midterm Date and Time",
+      "body": "In response to the numerous concerns raised about the scheduling conflict with the MAT tutorial on Nov. 1, we have made adjustments to the Midterm Time. The midterm will now take place on Nov. 10 (Sunday) from 19:00 to 21:00.\nPlease note that there will be no make-up for midterm. Since we notice the midterm date about three weeks earlier, it is imperative that all students attend on time. \nShould you encounter any urgent issues preventing your attendance on that day and can provide proof, kindly reach out to me personally.\nAdditionally, as we rearranged the midterm, the original Tutorial on Nov. 1 will still be held on time.\nThe details including location and other information will be communicated in the next few days.\nThanks for your understanding.",
+      "posted": "Posted on: Thursday, October 17, 2024 07:18:52 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Time of Midterm and No Tutorial for that Day",
+      "body": "We have noticed that many midterm exams are arranged on weekends. To avoid conflicts, the CSC1001 Midterm is scheduled for Nov. 1 (Friday) from 19:00 to 21:00.\nAs a result, tutorials (T13/T14) on Nov. 1 are canceled. If you are in T13/T14, you may attend any tutorial section that week or study independently using the provided slides and codes.\nFurther details regarding the Midterm arrangements (e.g., locations, permitted materials, etc.) will be communicated in the coming days.\nThanks.",
+      "posted": "Posted on: Monday, October 14, 2024 01:48:38 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Additional Notes about the Output of Assignment 1",
+      "body": "As we will use an automatic program to check your homework, please note that the output/return format of your program should strictly follow our sample run, including order, punctuation, space, strings, etc.\nANY kind of mismatch (i.e., NO need to ask for what kind of mismatch) with the sample run format may lead to a score deduction.\nThanks for your understanding.",
+      "posted": "Posted on: Monday, October 07, 2024 09:43:47 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Important Notes about Assignment 1",
+      "body": "I would like to draw your attention to several crucial notes regarding Assignment 1:\n1. In the sample run of Question 1, there is a typo: \"Sep. 13rd\" should be corrected to \"Sep. 13th\".\n2. The program only needs to consider that the user input is correct. Of course, You may enhance program robustness by utilizing try-except blocks (although this is not required).\n3. You are NOT allowed to use high-level Python functions that may directly solve a question in a single function call!!! For example, do not use hex() for Question 2 and sort() for Question 4. Instead, you can use basic functions such as append and insert, etc.\n4. In Question 5, you do not need to consider the case where distances are the same across different points. Of course, you can also employ try-except for program robustness (although this is not required).\n5. Successful result production will be scored. However, ensure that the time complexity remains reasonable. Failure to produce results in a long time duration will result in a score deduction.",
+      "posted": "Posted on: Friday, October 04, 2024 12:58:05 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Assignment 1 is released",
+      "body": "Assignment 1 is released at BB. This assignment will be worth 10% of the final grade. It is due on 11:59 PM, Oct 20.\nTeaching Team",
+      "posted": "Posted on: Monday, September 30, 2024 08:18:17 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Change of Office Hour",
+      "body": "This is to inform you that my office hour has been changed to:\nTime: 10:00 - 11:00 Friday,\nLocation: Shaw A201.",
+      "posted": "Posted on: Monday, September 30, 2024 08:00:59 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Updated Office Hours and Location",
+      "body": "I hope this email finds you well. Please be informed that my office hour has been updated. The new details are as follows:\n    Office Hour: Friday, 9:00 - 10:00 am\n    Location: Shaw A201\n    Feel free to drop by during this time if you have any questions or need assistance with the tutorial material.",
+      "posted": "Posted on: Monday, September 30, 2024 05:46:34 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "NO Tutorial from Sep.28th to Oct.13th",
+      "body": "According to a recent discussion with professors, to sync the progress with professors' lectures, after Tutorial 4 tonight, there will be NO tutorial from Sep.28th to Oct.13th.\nThe next Tutorial 5 will start on Oct.14th.\nAs for Lectures, please follow the official school calendar for class makeup to attend.",
+      "posted": "Posted on: Friday, September 27, 2024 04:24:57 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Tuesday Tutorial Adjustment in This Week",
+      "body": "For Students who Chose the Tuesday Tutorial,\nIf you chose the Tuesday evening tutorial, please pay attention to the following notice:\nDue to the extensive content we need to cover in our tutorial sessions, we need to synchronize the progress of all sessions each week. \nSince yesterday (Tuesday) was the Mid-Autumn Festival holiday and there was no makeup class, if you selected the Tuesday tutorial session, please attend any tutorial on Wednesday, Thursday, or Friday, or study independently using the materials and code for Tutorial 3, which have been uploaded to OneDrive.\nPlease note that this adjustment applies only to this week. For future weeks, we still recommend following the session you originally selected.\n---\n如果你选了周二晚上的Tutorial，请务必注意本条通知：\n由于我们Tutorial之后还有大量的内容，我们需要同步每一周所有session的进度。\n因为本周二（昨天）是中秋节假期，并且这一天没有补课。所以如果你选了周二Tutorial session，请参加本周三/四/五任意一个tutorial session，或者直接根据Onedrive上Tutorial 3的课件/代码自学（课件/代码均已上传）。\n注意本次调整只针对于这周，之后每周的Tutorial仍然推荐大家follow本身选的session。",
+      "posted": "Posted on: Wednesday, September 18, 2024 10:03:25 AM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Tutorial Link and Class Make-up",
+      "body": "1. The link to the tutorial has been shared in the previous announcement. Since many students have been asking for it, here is the link again:\n[course link]\nPlease note that the content at this link can be downloaded directly without needing to request access.\n2. On this Saturday (Sep. 14th), we need to make up for the next Monday (Sep. 16th) classes. Both the lecture and tutorial need to be attended on time.\n3. All important information for this course is communicated through emails/announcements. Therefore, please pay close attention to each update to avoid missing important details.\nWishing everyone a happy Mid-Autumn Festival!\n---\n各位同学，\n1. Tutorial的链接在之前的announcement里已经发过，由于很多同学问，这里再次提供一下。注意该链接下的内容可以直接下载，无需申请访问权限。\n[course link]\n2. 本周六需要补周一的课，lecture和tutorial都需要补课，请大家按时上课。\n3. 本课程所有重要信息都是通过邮件和announcement发送的，所以请各位务必之后注意每次的消息，避免错过重要信息。\n祝大家中秋节快乐！",
+      "posted": "Posted on: Thursday, September 12, 2024 12:30:09 PM CST",
+      "links": [],
+      "images": []
+    },
+    {
+      "title": "Classroom Place Correction on Tutorial T04/05",
+      "body": "I would like to bring to your attention an error in the previous tutorial timetable.\nThe classroom for T04/05 sessions should be TA201 instead of TD201. The corrected tutorial timetable is as follows:\n \nI apologize for any confusion or inconvenience this may have caused.\nThank you for your understanding.",
+      "posted": "Posted on: Saturday, September 07, 2024 01:01:52 PM CST",
+      "links": [],
+      "images": [
+        {
+          "alt": "",
+          "u": "https://bb.example.invalid/embedded/CSC1001/announcement-26/image-1"
+        }
+      ]
+    },
+    {
+      "title": "Important Information for CSC1001 Course - Please Read!",
+      "body": "This is the leading TA of CSC1001, course staff. I hope you are all enjoying the first week of our course!\nI want to bring your attention to three IMPORTANT points:\n1. Tutorial timetable is provided below. Starting from next week on September 9th, our tutorial sessions will commence. Please note that each tutorial section in a week is same. Therefore, if you encounter any urgent issues, feel free to attend another tutorial section without the need to contact TAs or Professors.\n \n \n2. OneDrive link of the tutorial materials is shown below. TAs will upload the tutorial slides before each tutorial, and upload the code and solution after each tutorial.\n[course link]\n3. Timetable of TA office hour is listed below, outlining TAs’ responsibilities. If you have any questions regarding your tutorial/homework/lecture, we strongly recommend attending the office hour of corresponding TAs for a more efficient face-to-face communication, instead of only sending emails. Don’t be shy! \nKindly keep these points in mind and continue to enjoy our course!",
+      "posted": "Posted on: Friday, September 06, 2024 10:07:08 AM CST",
+      "links": [],
+      "images": [
+        {
+          "alt": "",
+          "u": "https://bb.example.invalid/embedded/CSC1001/announcement-27/image-1"
+        },
+        {
+          "alt": "",
+          "u": "https://bb.example.invalid/embedded/CSC1001/announcement-27/image-2"
+        }
+      ]
+    }
+  ],
+  "grades": [
+    [
+      "Assignment 3\nDUE: DEC 8, 2024\nAssignment",
+      "Dec 11, 2024 05:21 AM\nGRADED",
+      "54.07\n/100",
+      ""
+    ],
+    [
+      "Midterm Exam",
+      "Dec 13, 2024 02:04 AM\nGRADED",
+      "66.02\n/100",
+      ""
+    ],
+    [
+      "Assignment 2\nDUE: NOV 24, 2024\nAssignment",
+      "Nov 27, 2024 10:25 PM\nGRADED",
+      "70.30\n/100",
+      ""
+    ],
+    [
+      "Assignment 1\nDUE: OCT 20, 2024\nAssignment",
+      "Oct 23, 2024 01:54 AM\nGRADED",
+      "67.42\n/100",
+      ""
+    ],
+    [
+      "Assignment 4\nAssignment",
+      "Dec 23, 2024 05:17 PM\nSUBMITTED",
+      "-",
+      ""
+    ],
+    [
+      "Final Exam",
+      "UPCOMING",
+      "-\n/100",
+      ""
+    ],
+    [
+      "Total",
+      "",
+      "257.81\n/400",
+      ""
+    ],
+    [
+      "Weighted Total",
+      "",
+      "-",
+      ""
+    ]
+  ],
+  "details": [
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_502000_1&course_id=_90002_1&mode=view",
+      "title": "Review Submission History: Assignment 2",
+      "attempt": "11/25/24 7:53 AM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_502001_1&course_id=_90002_1&mode=view",
+      "title": "Review Submission History: Assignment 4",
+      "attempt": "12/23/24 5:17 PM",
+      "body": null
+    },
+    {
+      "u": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_502002_1&course_id=_90002_1&mode=view",
+      "title": "Review Submission History: Assignment 1",
+      "attempt": "10/20/24 8:54 PM",
+      "body": null
+    }
+  ]
+}

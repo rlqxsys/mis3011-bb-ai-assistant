@@ -1,0 +1,84 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "ECO3121 TUT4: Simple/Multiple Linear Regression Model\n\n\n\n                TA Group\n\n\n          The Chinese University of Hong Kong, Shenzhen\n\n\n                       September 29, 2024\n\n\n\n\n\n    TA Group                                CUHK(SZ)                              September 29, 2024           1 / 20"
+    },
+    {
+      "page": 2,
+      "text": "Contents\n\n\n\n\n1  Simple Linear Regression\n     Units of measurement\n     Function form\n\n\n2  Multivariate Linear Regression\n      Definition\n      Derivation\n    A ”partialling out” interpretation\n    MLR. assumptions\n     Omitted variable bias\n\n\n3  Stata Commands\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024           2 / 20"
+    },
+    {
+      "page": 3,
+      "text": "                             Simple Linear Regression\n\n\n\n\n\n             Simple Linear Regression\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 29, 2024           3 / 20"
+    },
+    {
+      "page": 4,
+      "text": "                                              Simple Linear Regression    Units of measurement\n\nUnits of measurement\n\n\n1. The dependent variable is multiplied by c while the independent variable\nremains unchanged. (y i′ = c · yi)\n\n                                             ˆβ′0 = c · ˆβ0,    ˆβ′1 = c · ˆβ1\n\n2. The independent variable is multiplied by c while the dependent variable\nremains unchanged. (x′i = c · xi)\n\n                                                                 ˆβ1\n                                                ˆβ′0 = ˆβ0,    ˆβ′1 =\n                                                 c\n\n3. The dependent variable is multiplied by c1 while the independent variable is\nmultiplied by c2.(y i′ = c1 · yi,  x′i = c2 · xi)\n\n                                                  c1\n                                             ˆβ′0 = c1 ˆβ0,    ˆβ′1 =    ˆβ1\n                                                  c2\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024           4 / 20"
+    },
+    {
+      "page": 5,
+      "text": "                                              Simple Linear Regression    Units of measurement\n\nImplication\n\n\n\n\nTheorem:\n\n             R-squared is invariant to changes in the units of y or x\n\n\n\n   Proof:\n     Let y′ = c1y, x′ = c2x, we have:\n                                        c1\n                                            ˆy′ = c1 ˆβ0 +    ˆβ1 · c2x = c1ˆy\n                                        c2\n\n                      Pn                                     c2                                       1                                         i=1(ˆyi−y)2               =                        = R2                      Pn                                     c2     R2′ = PnPni=1(c1i=1(c1yi−c1y)2ˆyi−c1y)2                                       1                                      i=1(yi−y)2\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024           5 / 20"
+    },
+    {
+      "page": 6,
+      "text": "                                              Simple Linear Regression    Function form\n\nIncorporating nonlinearities in simple regression\n\n\n\n\n\nNote:\n     log(cyi) = [log(c) + β0] + β1xi + ui\n      y′i = β0 + β1log(cxi) + ui ⇒y′i = [β1log(c) + β0] + β1log(xi) + ui\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024           6 / 20"
+    },
+    {
+      "page": 7,
+      "text": "                           Multivariate Linear Regression\n\n\n\n\n\n            Multivariate Linear Regression\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 29, 2024           7 / 20"
+    },
+    {
+      "page": 8,
+      "text": "                                              Multivariate Linear Regression    Definition\n\nDefinition\n\n\n\nMultiple linear regression is used to estimate the relationship between two or\nmore independent variables (X1, X2, · · · , Xk) and one dependent variable (Y ).\n\n                     yi = β0 + β1xi1 + β2xi2 + · · · + βkxik + ui\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024           8 / 20"
+    },
+    {
+      "page": 9,
+      "text": "                                              Multivariate Linear Regression    Derivation\n\nSolve the minimization problem\n\n\n\n\n\nMinimize the following function:\n\n                          n\n         L(ˆβ0, ˆβ1, · · · , ˆβk) = X(yi −ˆβ0 −ˆβ1xi1 −ˆβ2xi2 −· · · −ˆβkxik)2\n                             i=1\n\n\nUse the same algebraic method as we used for solving the OLS estimation for the\nsimple linear regression model.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024           9 / 20"
+    },
+    {
+      "page": 10,
+      "text": "                                              Multivariate Linear Regression    Derivation\n\nDerive the equation system\n\n\nLet the derivatives for L with respect to ˆβj (j = 0, 1, · · · , k) equal 0, we have:\n\n                    n\n        ∂L\n         = −2 X(yi −ˆβ0 −ˆβ1xi1 −ˆβ2xi2 −· · · −ˆβkxik) = 0\n             ∂ˆβ0       i=1\n\n                   n\n       ∂L\n        = −2 X xi1(yi −ˆβ0 −ˆβ1xi1 −ˆβ2xi2 −· · · −ˆβkxik) = 0\n           ∂ˆβ1       i=1\n                · · ·                                        · · ·                                        · · ·\n                   n\n       ∂L\n        = −2 X xik(yi −ˆβ0 −ˆβ1xi1 −ˆβ2xi2 −· · · −ˆβkxik) = 0\n           ∂ˆβk       i=1\nSolve the k+1 equations to obtain k+1 unknown ˆβ0, ˆβ1, · · · , ˆβk.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024          10 / 20"
+    },
+    {
+      "page": 11,
+      "text": "                                              Multivariate Linear Regression   A ”partialling out” interpretation\n\nFrisch-Waugh-Lowell Theorem\n\n\n\nWhen estimating a model in the following form:\n\n                  y = β0 + β1x1 + β2x2 + · · · + βkxk + u\n\n\nThe following estimators of β1 are equivalent:\n    The OLS estimator obtained by regressing y on x1, x2, · · · , xk.\n    The OLS estimator obtained by regressing y on ˆr1, where ˆr1 is the estimated\n     residual obtained by regressing x1 on x2, · · · , xk.\n\n\n”Partialling out” interpretation\n     βj is the average change in y when xj changes by one unit holding all the\n    other covariates constant (the other factors have been partialled out).\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024          11 / 20"
+    },
+    {
+      "page": 12,
+      "text": "                                              Multivariate Linear Regression   MLR. assumptions\n\nMLR.1-MLR.4\n\n\n\n\nMLR.1 (Linear in Parameters)\n    y = β0 + β1x1 + β2x2 + · · · + βkxk + u\n\nMLR.2 (Random Sampling)\n     (xi1, xi2, · · · , xik, yi) : i = 1, 2, · · · , n are i.i.d\n\nMLR.3 (No Perfect Collinearity)\n    rank(Xn×k) = k\n      |ρxi,xj| ̸= 1, where i ̸= j.\nMLR.4 (Zero Conditional Mean)\n     E(ui|xi1, xi2, · · · , xik) = 0\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024          12 / 20"
+    },
+    {
+      "page": 13,
+      "text": "                                              Multivariate Linear Regression   MLR. assumptions\n\nUnbiasedness of OLS estimators\n\n\n\n\nTheorem 3.1 (Unbiasedness of OLS)\n\n    Under MLR.1-MLR.4\n     E(ˆβj) = βj, j = 0, 1, 2, · · · , k\n\n\nUnbiasedness of OLS\n               Pni=1(ˆrijyi)     Pni=1(ˆrijui)                              ˆβj =        = βj +\n               Pni=1(ˆrij)2     Pni=1(ˆrij)2\n\n                     Pni=1[ˆrijE(ui)]                       E(ˆβj) = βj +         = βj\n                      Pni=1(ˆrij)2\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024          13 / 20"
+    },
+    {
+      "page": 14,
+      "text": "                                              Multivariate Linear Regression   Omitted variable bias\n\nModel specification\n\n\n\n\n\nTrue model:\n                        y = β0 + β1x1 + β2x2 + u\n\nFull estimation:\n                                             ˆy = ˆβ0 + ˆβ1x1 + ˆβ2x2\n\nOmitted estimation:\n                                                  ˜y = ˜β0 + ˜β1x1\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024          14 / 20"
+    },
+    {
+      "page": 15,
+      "text": "                                              Multivariate Linear Regression   Omitted variable bias\n\nOmitted variable bias\n\n\n\n       Pni=1(xi1 −x1)yi  Pni=1(xi1 −x1)(β0 + β1xi1 + β2xi2 + ui)        ˜β1 =           =\n       Pni=1(xi1 −x1)2         Pni=1(xi1 −x1)2\n              Pni=1(xi1 −x1)xi2  Pni=1(xi1 −x1)ui        = β1 + β2           +\n               Pni=1(xi1 −x1)2   Pni=1(xi1 −x1)2\nThen we calculate the expected value of ˜β1\n\n                               E(˜β1) = β1 + β2˜δ1\n\n\n        ˜δ1 is the slope coefficient in simple linear regression: xi2 = ˜δ0 + ˜δ1xi1 + ϵi.\n      β2˜δ1 is the omitted variable bias bias(˜β1).\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024          15 / 20"
+    },
+    {
+      "page": 16,
+      "text": "                                              Multivariate Linear Regression   Omitted variable bias\n\nImplications\n\n\nThe ˜β1 is unbiased in two cases:\n    β2 = 0.\n     Corr(xi1, xi2) = 0.\n\nSummary of bias in ˜β1:\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024          16 / 20"
+    },
+    {
+      "page": 17,
+      "text": "                                      Stata Commands\n\n\n\n\n\n                 Stata Commands\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 29, 2024          17 / 20"
+    },
+    {
+      "page": 18,
+      "text": "                                                       Stata Commands\n\nSyntax for regression\n\n\n\nRegress y on x1, x2,· · · , xk\n\n                     regress(reg) y x1 x2 · · · xk [if conditions]\n\nOutput:\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024          18 / 20"
+    },
+    {
+      "page": 19,
+      "text": "                                                       Stata Commands\n\nSyntax for prediction\n\n\n\n\nAfter you have run a regression command in Stata, you can:\n\n\n1.Generate predicted value ˆy\n\n                                   predict yhat,xb\n\n\n\n\n2. Generate residual u\n\n                                    predict u,resid\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 29, 2024          19 / 20"
+    },
+    {
+      "page": 20,
+      "text": "                                 Acknowledgement\n\n\n\n\n      Thank you!\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 29, 2024          20 / 20"
+    }
+  ]
+}

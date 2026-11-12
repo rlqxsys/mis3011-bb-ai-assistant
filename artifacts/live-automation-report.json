@@ -1,0 +1,1348 @@
+{
+  "testType": "native-BB_Source_Feed-historical-replay",
+  "actualModelTest": true,
+  "source": "BB_Source_Feed",
+  "startedAt": "2026-11-12T13:45:58.245Z",
+  "checks": [
+    {
+      "name": "初始基线只包含当时可见资料，尚未出现的考试公告没有提前解析",
+      "passed": true
+    },
+    {
+      "name": "从原始公告识别 CSC1001 的 11月1日 19:00–21:00 考试",
+      "passed": true
+    },
+    {
+      "name": "原始公告明确取消的 Tutorial 保留为取消状态",
+      "passed": true
+    },
+    {
+      "name": "未手动生成计划，考试自动进入准备安排",
+      "passed": true
+    },
+    {
+      "name": "真实改期公告自动更新同一考试为 11月10日，未新建另一考试",
+      "passed": true
+    },
+    {
+      "name": "原 Tutorial 恢复，未编造原始包缺失的课时",
+      "passed": true
+    },
+    {
+      "name": "改期前待发提醒已撤销",
+      "passed": true
+    },
+    {
+      "name": "ECO3121 原文的 11月2日 15:00 截止和不接受迟交保持准确",
+      "passed": true
+    },
+    {
+      "name": "真实作业进入规划器与提醒队列",
+      "passed": true
+    },
+    {
+      "name": "所有模型输入逐字段对齐原始包，未复制改写正文或替换课程／日期",
+      "passed": true
+    },
+    {
+      "name": "当前所有任务均属于原始包课程，且每项有原文引用",
+      "passed": true
+    },
+    {
+      "name": "模型由后台源更新触发，没有手动调用分析接口或规则替身",
+      "passed": true
+    },
+    {
+      "name": "原始包未变化时不重复调用模型",
+      "passed": true
+    },
+    {
+      "name": "增量输入目录没有遗留的虚拟资料",
+      "passed": true
+    },
+    {
+      "name": "跟进范围仅为原始包中的五门课程和对应历史学期",
+      "passed": true
+    }
+  ],
+  "sourceAudit": [
+    {
+      "id": "CSC1001:2024:announcement:6edbbf24807174c4c048",
+      "courseCode": "CSC1001",
+      "term": "2024",
+      "title": "Time of Midterm and No Tutorial for that Day",
+      "sourcePath": "courses/CSC1001.json",
+      "locator": "ann[16]",
+      "publishedAt": "2024-10-14T05:48:38.000Z",
+      "version": "eff823e3f780de4455b5",
+      "textSHA256": "66553e2e099f235a9b73f27d4cfd64f4147e6df3b986c8f1bfe4463640ea968e"
+    },
+    {
+      "id": "CSC1001:2024:announcement:ba1e63675691f3a2cdff",
+      "courseCode": "CSC1001",
+      "term": "2024",
+      "title": "Important Update of Midterm Date and Time",
+      "sourcePath": "courses/CSC1001.json",
+      "locator": "ann[15]",
+      "publishedAt": "2024-10-17T11:18:52.000Z",
+      "version": "5aee5f94bb10b487aa69",
+      "textSHA256": "4c142f5bb1ac6061df39ea01ae542417fb8ff12d82412b20682a1d66977722b7"
+    },
+    {
+      "id": "CSC1001:2024:announcement:b2281ddb0a8e67c96d48",
+      "courseCode": "CSC1001",
+      "term": "2024",
+      "title": "Further Clarification for Assignment 1",
+      "sourcePath": "courses/CSC1001.json",
+      "locator": "ann[14]",
+      "publishedAt": "2024-10-18T13:43:33.000Z",
+      "version": "ef90d884293915c01773",
+      "textSHA256": "a9f9f0ecd96a37b224e73e67387022dc14348069317264fff1bcf4061315bdf9"
+    },
+    {
+      "id": "CSC1001:2024:announcement:7a187a95d9de8ee4c944",
+      "courseCode": "CSC1001",
+      "term": "2024",
+      "title": "Midterm Details",
+      "sourcePath": "courses/CSC1001.json",
+      "locator": "ann[13]",
+      "publishedAt": "2024-10-22T05:30:35.000Z",
+      "version": "13fead1ff5d00e170887",
+      "textSHA256": "73c762c39b7946a2a90b0e8f010dabfee66d06fedfd3f4b39420ecb89dea2d92"
+    },
+    {
+      "id": "ECO3121:2024:announcement:fb771452f5092b778dbb",
+      "courseCode": "ECO3121",
+      "term": "2024",
+      "title": "Assignment 2",
+      "sourcePath": "courses/ECO3121.json",
+      "locator": "ann[20]",
+      "publishedAt": "2024-10-23T03:57:40.000Z",
+      "version": "23fd8937dc9d40bd5929",
+      "textSHA256": "653d0cbbcb4d056f1f3dccb7dd10ab4dd72319fde592a3709d0f2f0f64238708"
+    }
+  ],
+  "runs": [
+    {
+      "id": "ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1",
+      "documents": [
+        "CSC1001:2024:announcement:6edbbf24807174c4c048"
+      ],
+      "model": "deepseek-flash",
+      "transport": "live_http",
+      "trigger": "source_update",
+      "usage": {
+        "prompt_tokens": 2038,
+        "completion_tokens": 708,
+        "total_tokens": 2746,
+        "prompt_tokens_details": {
+          "cached_tokens": 1792
+        },
+        "prompt_cache_hit_tokens": 1792,
+        "prompt_cache_miss_tokens": 246
+      },
+      "elapsedMs": 3550,
+      "responseId": "ee79c795-0f18-4bd8-8ac7-77e4bc2bd183"
+    },
+    {
+      "id": "ai:6b447491-3f6f-44f3-9caf-be6e947b269d",
+      "documents": [
+        "CSC1001:2024:announcement:ba1e63675691f3a2cdff"
+      ],
+      "model": "deepseek-flash",
+      "transport": "live_http",
+      "trigger": "source_update",
+      "usage": {
+        "prompt_tokens": 2558,
+        "completion_tokens": 825,
+        "total_tokens": 3383,
+        "prompt_tokens_details": {
+          "cached_tokens": 2304
+        },
+        "prompt_cache_hit_tokens": 2304,
+        "prompt_cache_miss_tokens": 254
+      },
+      "elapsedMs": 4220,
+      "responseId": "05c3ffe9-bfcc-48f0-964d-83c671e9cf16"
+    },
+    {
+      "id": "ai:c2c12623-44b4-4f6c-a83a-7cc904218fab",
+      "documents": [
+        "CSC1001:2024:announcement:b2281ddb0a8e67c96d48"
+      ],
+      "model": "deepseek-flash",
+      "transport": "live_http",
+      "trigger": "source_update",
+      "usage": {
+        "prompt_tokens": 2789,
+        "completion_tokens": 458,
+        "total_tokens": 3247,
+        "prompt_tokens_details": {
+          "cached_tokens": 1536
+        },
+        "prompt_cache_hit_tokens": 1536,
+        "prompt_cache_miss_tokens": 1253
+      },
+      "elapsedMs": 1288,
+      "responseId": "f9fa5cd1-6b2e-4d6f-97a0-68346489db2e"
+    },
+    {
+      "id": "ai:6d2b9d54-9525-4ab9-8106-2b27acf731ee",
+      "documents": [
+        "CSC1001:2024:announcement:7a187a95d9de8ee4c944"
+      ],
+      "model": "deepseek-flash",
+      "transport": "live_http",
+      "trigger": "source_update",
+      "usage": {
+        "prompt_tokens": 2820,
+        "completion_tokens": 786,
+        "total_tokens": 3606,
+        "prompt_tokens_details": {
+          "cached_tokens": 1536
+        },
+        "prompt_cache_hit_tokens": 1536,
+        "prompt_cache_miss_tokens": 1284
+      },
+      "elapsedMs": 3761,
+      "responseId": "bea1fdc1-76c6-476f-86d2-b9f5aac94afc"
+    },
+    {
+      "id": "ai:de95db0f-dbd6-4f44-a921-773102f6c4fa",
+      "documents": [
+        "ECO3121:2024:announcement:fb771452f5092b778dbb"
+      ],
+      "model": "deepseek-flash",
+      "transport": "live_http",
+      "trigger": "source_update",
+      "usage": {
+        "prompt_tokens": 1973,
+        "completion_tokens": 466,
+        "total_tokens": 2439,
+        "prompt_tokens_details": {
+          "cached_tokens": 1792
+        },
+        "prompt_cache_hit_tokens": 1792,
+        "prompt_cache_miss_tokens": 181
+      },
+      "elapsedMs": 2473,
+      "responseId": "9e6b819d-1e2f-4808-8b5f-50d85bdd2349"
+    }
+  ],
+  "beforeChange": {
+    "tasks": [
+      {
+        "id": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "courseCode": "CSC1001",
+        "term": "2024",
+        "title": "CSC1001 期中考试",
+        "kind": "exam",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": 120,
+        "fixed": {
+          "start": "2024-11-01T19:00:00+08:00",
+          "end": "2024-11-01T21:00:00+08:00",
+          "location": null,
+          "origin": "ai_grounded"
+        },
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [],
+        "issues": [
+          "期中考试地点尚未公布，需留意后续通知。",
+          "允许携带的材料等考试规则尚未公布，需留意后续通知。"
+        ],
+        "sources": [
+          {
+            "path": "courses/CSC1001.json",
+            "locator": "ann[16]",
+            "quote": "the CSC1001 Midterm is scheduled for Nov. 1 (Friday) from 19:00 to 21:00",
+            "role": "ai_grounded",
+            "documentId": "CSC1001:2024:announcement:6edbbf24807174c4c048",
+            "documentVersion": "eff823e3f780de4455b5",
+            "contentId": null,
+            "publishedAt": "2024-10-14T05:48:38.000Z",
+            "aiRunId": "ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "no_evidence",
+          "at": null
+        },
+        "remainingMinutes": 240,
+        "estimateOrigin": "ai_estimate",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "initialEstimateMinutes": 240,
+        "estimateReason": "按考试时长 120 分钟估算复习准备约 240 分钟，假设需覆盖课程前半学期内容；实际复习量取决于个人基础与考试范围，可拆分进行。",
+        "estimateSamples": 0,
+        "optional": false,
+        "aiUncertainties": [
+          {
+            "field": "location",
+            "question": "期中考试地点尚未公布，需留意后续通知。"
+          },
+          {
+            "field": "requirements",
+            "question": "允许携带的材料等考试规则尚未公布，需留意后续通知。"
+          }
+        ]
+      },
+      {
+        "id": "ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "courseCode": "CSC1001",
+        "term": "2024",
+        "title": "CSC1001 导修课 T13/T14（11 月 1 日）",
+        "kind": "tutorial",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [],
+        "issues": [],
+        "sources": [
+          {
+            "path": "courses/CSC1001.json",
+            "locator": "ann[16]",
+            "quote": "tutorials (T13/T14) on Nov. 1 are canceled",
+            "role": "ai_grounded",
+            "documentId": "CSC1001:2024:announcement:6edbbf24807174c4c048",
+            "documentVersion": "eff823e3f780de4455b5",
+            "contentId": null,
+            "publishedAt": "2024-10-14T05:48:38.000Z",
+            "aiRunId": "ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1"
+          },
+          {
+            "path": "courses/CSC1001.json",
+            "locator": "ann[16]",
+            "quote": "tutorials (T13/T14) on Nov. 1 are canceled",
+            "role": "ai_grounded",
+            "documentId": "CSC1001:2024:announcement:6edbbf24807174c4c048",
+            "documentVersion": "eff823e3f780de4455b5",
+            "contentId": null,
+            "publishedAt": "2024-10-14T05:48:38.000Z",
+            "aiRunId": "ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1"
+          }
+        ],
+        "version": 2,
+        "status": {
+          "value": "cancelled",
+          "origin": "course_announcement",
+          "at": "2024-10-14T05:48:38.000Z",
+          "note": "公告明确取消 11 月 1 日的 T13/T14 导修课；即使无旧记录也按取消记录，具体上课时段原文未给出故留空。"
+        },
+        "remainingMinutes": 0,
+        "estimateOrigin": "default_estimate",
+        "splittable": false,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "sections": [
+          "T13",
+          "T14"
+        ],
+        "initialEstimateMinutes": 90,
+        "estimateReason": "取消事项无需准备。",
+        "estimateSamples": 0,
+        "optional": false,
+        "aiUncertainties": []
+      }
+    ],
+    "plan": {
+      "blocks": [
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-14T11:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 1,
+          "start": "2024-10-14T11:00:00.000Z",
+          "end": "2024-10-14T11:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-14T12:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 1,
+          "start": "2024-10-14T12:00:00.000Z",
+          "end": "2024-10-14T12:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-14T13:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 1,
+          "start": "2024-10-14T13:00:00.000Z",
+          "end": "2024-10-14T13:20:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-15T11:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 1,
+          "start": "2024-10-15T11:00:00.000Z",
+          "end": "2024-10-15T11:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-15T12:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 1,
+          "start": "2024-10-15T12:00:00.000Z",
+          "end": "2024-10-15T12:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-15T13:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 1,
+          "start": "2024-10-15T13:00:00.000Z",
+          "end": "2024-10-15T13:20:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        }
+      ],
+      "fixed": [
+        {
+          "start": "2024-11-01T19:00:00+08:00",
+          "end": "2024-11-01T21:00:00+08:00",
+          "location": null,
+          "origin": "ai_grounded",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "title": "CSC1001 期中考试",
+          "kind": "exam"
+        }
+      ],
+      "risks": []
+    },
+    "notifications": [
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79:v1:deadline",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 1,
+        "type": "deadline",
+        "scheduledAt": "2024-10-31T11:00:00.000Z",
+        "deliverAt": "2024-10-31T11:00:00.000Z",
+        "title": "CSC1001 期中考试：临近正式时间",
+        "body": "CSC1001 的正式时间为 2024-11-01T19:00:00+08:00。当前未检测到完成证据；这不代表你尚未开始。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-14T11:00:00.000Z:v1:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-14T10:45:00.000Z",
+        "deliverAt": "2024-10-14T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-14T11:00:00.000Z 至 2024-10-14T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-15T11:00:00.000Z:v1:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-15T10:45:00.000Z",
+        "deliverAt": "2024-10-15T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-15T11:00:00.000Z 至 2024-10-15T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:digest:2024-10-14",
+        "taskId": null,
+        "taskVersion": null,
+        "type": "digest",
+        "scheduledAt": "2024-10-14T08:00:00+08:00",
+        "deliverAt": "2024-10-14T00:00:00.000Z",
+        "title": "今日安排摘要",
+        "body": "1 项尚待核实完成的任务；3 段今日准备安排。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-14T05:48:38.000Z"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:5cf2104e63895b1b7670:v1:clarify",
+        "taskId": "ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "taskVersion": 1,
+        "type": "clarify",
+        "scheduledAt": "2024-10-14T05:48:38.000Z",
+        "deliverAt": "2024-10-14T05:48:38.000Z",
+        "title": "CSC1001 导修课 T13/T14（11 月 1 日）：需要确认",
+        "body": "请确认分班或是否使用教室电脑，不会先按所有候选安排提醒。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-14T05:48:38.000Z"
+      },
+      {
+        "id": "local-student:change:ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1:item:1:status:ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "taskId": "ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "taskVersion": 2,
+        "type": "change",
+        "scheduledAt": "2024-10-14T05:48:38.000Z",
+        "deliverAt": "2024-10-14T05:48:38.000Z",
+        "deliveredAt": "2024-10-14T05:48:38.000Z",
+        "title": "CSC1001 导修课 T13/T14（11 月 1 日）：信息已更新",
+        "body": "公告明确取消 11 月 1 日的 T13/T14 导修课；即使无旧记录也按取消记录，具体上课时段原文未给出故留空。 已取消。这是本任务的证据，不代表其他关联事项已经完成。",
+        "status": "delivered"
+      }
+    ]
+  },
+  "final": {
+    "now": "2024-10-23T03:57:40.000Z",
+    "tasks": [
+      {
+        "id": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "courseCode": "CSC1001",
+        "term": "2024",
+        "title": "CSC1001 期中考试",
+        "kind": "exam",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": 120,
+        "fixed": {
+          "start": "2024-11-10T19:00:00+08:00",
+          "end": "2024-11-10T21:00:00+08:00",
+          "location": null,
+          "origin": "ai_grounded"
+        },
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "可携带一张 A4 双面作弊纸（打印或手写）",
+          "可携带无编程功能的普通计算器",
+          "可携带纸质词典",
+          "其他材料一律不允许",
+          "考试范围：Lecture1 - Lecture5",
+          "题型：8~12 道填空题、4~6 道简答题、2~3 道编程题",
+          "考场与座位名单将在 11 月 8 日前上传，请按名单前往正确考场",
+          "如临近考试因故无法参加，请尽快通过邮件联系老师申请缺考"
+        ],
+        "issues": [
+          "期中考试地点尚未公布，需留意后续通知。",
+          "公告称地点等细节将在近日公布，考试地点尚未确定。"
+        ],
+        "sources": [
+          {
+            "path": "courses/CSC1001.json",
+            "locator": "ann[16]",
+            "quote": "the CSC1001 Midterm is scheduled for Nov. 1 (Friday) from 19:00 to 21:00",
+            "role": "ai_grounded",
+            "documentId": "CSC1001:2024:announcement:6edbbf24807174c4c048",
+            "documentVersion": "eff823e3f780de4455b5",
+            "contentId": null,
+            "publishedAt": "2024-10-14T05:48:38.000Z",
+            "aiRunId": "ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1"
+          },
+          {
+            "path": "courses/CSC1001.json",
+            "locator": "ann[15]",
+            "quote": "The midterm will now take place on Nov. 10 (Sunday) from 19:00 to 21:00.",
+            "role": "ai_grounded",
+            "documentId": "CSC1001:2024:announcement:ba1e63675691f3a2cdff",
+            "documentVersion": "5aee5f94bb10b487aa69",
+            "contentId": null,
+            "publishedAt": "2024-10-17T11:18:52.000Z",
+            "aiRunId": "ai:6b447491-3f6f-44f3-9caf-be6e947b269d"
+          },
+          {
+            "path": "courses/CSC1001.json",
+            "locator": "ann[13]",
+            "quote": "The midterm exam for CSC1001 will be held from 19:00 - 21:00 (Beijing Time) on Nov. 10.",
+            "role": "ai_grounded",
+            "documentId": "CSC1001:2024:announcement:7a187a95d9de8ee4c944",
+            "documentVersion": "13fead1ff5d00e170887",
+            "contentId": null,
+            "publishedAt": "2024-10-22T05:30:35.000Z",
+            "aiRunId": "ai:6d2b9d54-9525-4ab9-8106-2b27acf731ee"
+          }
+        ],
+        "version": 3,
+        "status": {
+          "value": "unknown",
+          "origin": "no_evidence",
+          "at": null
+        },
+        "remainingMinutes": 240,
+        "estimateOrigin": "ai_estimate",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "initialEstimateMinutes": 240,
+        "estimateReason": "按考试时长 120 分钟估算复习准备约 240 分钟，假设需覆盖课程前半学期内容；实际复习量取决于个人基础与考试范围，可拆分进行。",
+        "estimateSamples": 0,
+        "optional": false,
+        "aiUncertainties": [
+          {
+            "field": "location",
+            "question": "期中考试地点尚未公布，需留意后续通知。"
+          },
+          {
+            "field": "location",
+            "question": "公告称地点等细节将在近日公布，考试地点尚未确定。"
+          }
+        ]
+      },
+      {
+        "id": "ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "courseCode": "CSC1001",
+        "term": "2024",
+        "title": "CSC1001 导修课 T13/T14（11 月 1 日）",
+        "kind": "tutorial",
+        "channel": "offline",
+        "deadline": null,
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [],
+        "issues": [
+          "公告只说 11 月 1 日导修课照常举行，未给出具体上课时段，需确认时间。"
+        ],
+        "sources": [
+          {
+            "path": "courses/CSC1001.json",
+            "locator": "ann[16]",
+            "quote": "tutorials (T13/T14) on Nov. 1 are canceled",
+            "role": "ai_grounded",
+            "documentId": "CSC1001:2024:announcement:6edbbf24807174c4c048",
+            "documentVersion": "eff823e3f780de4455b5",
+            "contentId": null,
+            "publishedAt": "2024-10-14T05:48:38.000Z",
+            "aiRunId": "ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1"
+          },
+          {
+            "path": "courses/CSC1001.json",
+            "locator": "ann[16]",
+            "quote": "tutorials (T13/T14) on Nov. 1 are canceled",
+            "role": "ai_grounded",
+            "documentId": "CSC1001:2024:announcement:6edbbf24807174c4c048",
+            "documentVersion": "eff823e3f780de4455b5",
+            "contentId": null,
+            "publishedAt": "2024-10-14T05:48:38.000Z",
+            "aiRunId": "ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1"
+          },
+          {
+            "path": "courses/CSC1001.json",
+            "locator": "ann[15]",
+            "quote": "the original Tutorial on Nov. 1 will still be held on time.",
+            "role": "ai_grounded",
+            "documentId": "CSC1001:2024:announcement:ba1e63675691f3a2cdff",
+            "documentVersion": "5aee5f94bb10b487aa69",
+            "contentId": null,
+            "publishedAt": "2024-10-17T11:18:52.000Z",
+            "aiRunId": "ai:6b447491-3f6f-44f3-9caf-be6e947b269d"
+          },
+          {
+            "path": "courses/CSC1001.json",
+            "locator": "ann[15]",
+            "quote": "the original Tutorial on Nov. 1 will still be held on time.",
+            "role": "ai_grounded",
+            "documentId": "CSC1001:2024:announcement:ba1e63675691f3a2cdff",
+            "documentVersion": "5aee5f94bb10b487aa69",
+            "contentId": null,
+            "publishedAt": "2024-10-17T11:18:52.000Z",
+            "aiRunId": "ai:6b447491-3f6f-44f3-9caf-be6e947b269d"
+          }
+        ],
+        "version": 4,
+        "status": {
+          "value": "unknown",
+          "origin": "course_announcement",
+          "at": "2024-10-17T11:18:52.000Z",
+          "note": "此前 T13/T14 导修课被取消，本次公告明确 11 月 1 日导修课照常举行，故恢复原任务；沿用旧分班，不重复填写 sections。"
+        },
+        "remainingMinutes": 0,
+        "estimateOrigin": "default_estimate",
+        "splittable": false,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "sections": [
+          "T13",
+          "T14"
+        ],
+        "initialEstimateMinutes": 90,
+        "estimateReason": "取消事项无需准备。",
+        "estimateSamples": 0,
+        "optional": false,
+        "aiUncertainties": [
+          {
+            "field": "fixedStart",
+            "question": "公告只说 11 月 1 日导修课照常举行，未给出具体上课时段，需确认时间。"
+          }
+        ]
+      },
+      {
+        "id": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b",
+        "courseCode": "ECO3121",
+        "term": "2024",
+        "title": "Problem Set 2",
+        "kind": "assignment",
+        "channel": "bb",
+        "deadline": {
+          "at": "2024-11-02T15:00:00+08:00",
+          "date": "2024-11-02",
+          "precision": "minute",
+          "origin": "ai_grounded"
+        },
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "将答案、Stata 代码和所需输出合并为一个 PDF 文件",
+          "上传至 Blackboard"
+        ],
+        "issues": [],
+        "sources": [
+          {
+            "path": "courses/ECO3121.json",
+            "locator": "ann[20]",
+            "quote": "The Problem set 2 has been released. The due is 3 PM, November 2nd, 2024.",
+            "role": "ai_grounded",
+            "documentId": "ECO3121:2024:announcement:fb771452f5092b778dbb",
+            "documentVersion": "23fd8937dc9d40bd5929",
+            "contentId": null,
+            "publishedAt": "2024-10-23T03:57:40.000Z",
+            "aiRunId": "ai:de95db0f-dbd6-4f44-a921-773102f6c4fa"
+          },
+          {
+            "path": "courses/ECO3121.json",
+            "locator": "ann[20]",
+            "quote": "Combine your answer, Stata code and requested output in one PDF file and upload it to Blackboard.",
+            "role": "ai_grounded",
+            "documentId": "ECO3121:2024:announcement:fb771452f5092b778dbb",
+            "documentVersion": "23fd8937dc9d40bd5929",
+            "contentId": null,
+            "publishedAt": "2024-10-23T03:57:40.000Z",
+            "aiRunId": "ai:de95db0f-dbd6-4f44-a921-773102f6c4fa"
+          },
+          {
+            "path": "courses/ECO3121.json",
+            "locator": "ann[20]",
+            "quote": "Late submission is NOT allowed.",
+            "role": "ai_grounded",
+            "documentId": "ECO3121:2024:announcement:fb771452f5092b778dbb",
+            "documentVersion": "23fd8937dc9d40bd5929",
+            "contentId": null,
+            "publishedAt": "2024-10-23T03:57:40.000Z",
+            "aiRunId": "ai:de95db0f-dbd6-4f44-a921-773102f6c4fa"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "no_evidence",
+          "at": null
+        },
+        "remainingMinutes": 180,
+        "estimateOrigin": "ai_estimate",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "policy": {
+          "late": "not_allowed"
+        },
+        "initialEstimateMinutes": 180,
+        "estimateReason": "按一份含 Stata 代码与输出的问题集作业估算，约需 3 小时完成与整理；仅为可修改的准备建议，原文未给出预计用时。",
+        "estimateSamples": 0,
+        "optional": false,
+        "aiUncertainties": []
+      }
+    ],
+    "plan": {
+      "blocks": [
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-23T11:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 3,
+          "start": "2024-10-23T11:00:00.000Z",
+          "end": "2024-10-23T11:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-23T12:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 3,
+          "start": "2024-10-23T12:00:00.000Z",
+          "end": "2024-10-23T12:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-23T13:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 3,
+          "start": "2024-10-23T13:00:00.000Z",
+          "end": "2024-10-23T13:20:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-24T11:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 3,
+          "start": "2024-10-24T11:00:00.000Z",
+          "end": "2024-10-24T11:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-24T12:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 3,
+          "start": "2024-10-24T12:00:00.000Z",
+          "end": "2024-10-24T12:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-24T13:00:00.000Z",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "taskVersion": 3,
+          "start": "2024-10-24T13:00:00.000Z",
+          "end": "2024-10-24T13:20:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b@2024-10-25T11:00:00.000Z",
+          "taskId": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b",
+          "taskVersion": 1,
+          "start": "2024-10-25T11:00:00.000Z",
+          "end": "2024-10-25T11:50:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b@2024-10-25T12:00:00.000Z",
+          "taskId": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b",
+          "taskVersion": 1,
+          "start": "2024-10-25T12:00:00.000Z",
+          "end": "2024-10-25T12:50:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b@2024-10-25T13:00:00.000Z",
+          "taskId": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b",
+          "taskVersion": 1,
+          "start": "2024-10-25T13:00:00.000Z",
+          "end": "2024-10-25T13:20:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b@2024-10-26T11:00:00.000Z",
+          "taskId": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b",
+          "taskVersion": 1,
+          "start": "2024-10-26T11:00:00.000Z",
+          "end": "2024-10-26T11:50:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b@2024-10-26T12:00:00.000Z",
+          "taskId": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b",
+          "taskVersion": 1,
+          "start": "2024-10-26T12:00:00.000Z",
+          "end": "2024-10-26T12:10:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        }
+      ],
+      "fixed": [
+        {
+          "start": "2024-11-10T19:00:00+08:00",
+          "end": "2024-11-10T21:00:00+08:00",
+          "location": null,
+          "origin": "ai_grounded",
+          "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+          "title": "CSC1001 期中考试",
+          "kind": "exam"
+        }
+      ],
+      "risks": []
+    },
+    "notifications": [
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79:v1:deadline",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 1,
+        "type": "deadline",
+        "scheduledAt": "2024-10-31T11:00:00.000Z",
+        "deliverAt": "2024-10-31T11:00:00.000Z",
+        "title": "CSC1001 期中考试：临近正式时间",
+        "body": "CSC1001 的正式时间为 2024-11-01T19:00:00+08:00。当前未检测到完成证据；这不代表你尚未开始。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-14T11:00:00.000Z:v1:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-14T10:45:00.000Z",
+        "deliverAt": "2024-10-14T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-14T11:00:00.000Z 至 2024-10-14T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-15T11:00:00.000Z:v1:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-15T10:45:00.000Z",
+        "deliverAt": "2024-10-15T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-15T11:00:00.000Z 至 2024-10-15T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:digest:2024-10-14",
+        "taskId": null,
+        "taskVersion": null,
+        "type": "digest",
+        "scheduledAt": "2024-10-14T08:00:00+08:00",
+        "deliverAt": "2024-10-14T00:00:00.000Z",
+        "title": "今日安排摘要",
+        "body": "1 项尚待核实完成的任务；3 段今日准备安排。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-14T05:48:38.000Z"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:5cf2104e63895b1b7670:v1:clarify",
+        "taskId": "ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "taskVersion": 1,
+        "type": "clarify",
+        "scheduledAt": "2024-10-14T05:48:38.000Z",
+        "deliverAt": "2024-10-14T05:48:38.000Z",
+        "title": "CSC1001 导修课 T13/T14（11 月 1 日）：需要确认",
+        "body": "请确认分班或是否使用教室电脑，不会先按所有候选安排提醒。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-14T05:48:38.000Z"
+      },
+      {
+        "id": "local-student:change:ai:0c8d3c6b-4105-49f0-b4f5-11ec4d32eba1:item:1:status:ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "taskId": "ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "taskVersion": 2,
+        "type": "change",
+        "scheduledAt": "2024-10-14T05:48:38.000Z",
+        "deliverAt": "2024-10-14T05:48:38.000Z",
+        "deliveredAt": "2024-10-14T05:48:38.000Z",
+        "title": "CSC1001 导修课 T13/T14（11 月 1 日）：信息已更新",
+        "body": "公告明确取消 11 月 1 日的 T13/T14 导修课；即使无旧记录也按取消记录，具体上课时段原文未给出故留空。 已取消。这是本任务的证据，不代表其他关联事项已经完成。",
+        "status": "delivered"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-17T11:30:00.000Z:v1:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-17T11:18:52.000Z",
+        "deliverAt": "2024-10-17T11:18:52.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-17T11:30:00.000Z 至 2024-10-17T12:20:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-17T11:18:52.000Z"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-18T11:00:00.000Z:v1:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-18T10:45:00.000Z",
+        "deliverAt": "2024-10-18T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-18T11:00:00.000Z 至 2024-10-18T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-19T11:00:00.000Z:v1:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-19T10:45:00.000Z",
+        "deliverAt": "2024-10-19T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-19T11:00:00.000Z 至 2024-10-19T11:20:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:digest:2024-10-17",
+        "taskId": null,
+        "taskVersion": null,
+        "type": "digest",
+        "scheduledAt": "2024-10-17T08:00:00+08:00",
+        "deliverAt": "2024-10-17T00:00:00.000Z",
+        "title": "今日安排摘要",
+        "body": "1 项尚待核实完成的任务；2 段今日准备安排。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-17T11:18:52.000Z"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79:v2:deadline",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 2,
+        "type": "deadline",
+        "scheduledAt": "2024-11-09T11:00:00.000Z",
+        "deliverAt": "2024-11-09T11:00:00.000Z",
+        "title": "CSC1001 期中考试：临近正式时间",
+        "body": "CSC1001 的正式时间为 2024-11-10T19:00:00+08:00。当前未检测到完成证据；这不代表你尚未开始。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-17T11:30:00.000Z:v2:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 2,
+        "type": "plan",
+        "scheduledAt": "2024-10-17T11:18:52.000Z",
+        "deliverAt": "2024-10-17T11:18:52.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-17T11:30:00.000Z 至 2024-10-17T12:20:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-17T11:18:52.000Z"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-18T11:00:00.000Z:v2:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 2,
+        "type": "plan",
+        "scheduledAt": "2024-10-18T10:45:00.000Z",
+        "deliverAt": "2024-10-18T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-18T11:00:00.000Z 至 2024-10-18T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-19T11:00:00.000Z:v2:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 2,
+        "type": "plan",
+        "scheduledAt": "2024-10-19T10:45:00.000Z",
+        "deliverAt": "2024-10-19T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-19T11:00:00.000Z 至 2024-10-19T11:20:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:change:ai:6b447491-3f6f-44f3-9caf-be6e947b269d:item:0:ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 2,
+        "type": "change",
+        "scheduledAt": "2024-10-17T11:18:52.000Z",
+        "deliverAt": "2024-10-17T11:18:52.000Z",
+        "deliveredAt": "2024-10-17T11:18:52.000Z",
+        "title": "CSC1001 期中考试：信息已更新",
+        "body": "公告明确更改期中考试日期与时间，属于对既有考试任务的更新；不设补考记为迟交政策 not_allowed。",
+        "status": "delivered"
+      },
+      {
+        "id": "local-student:change:ai:6b447491-3f6f-44f3-9caf-be6e947b269d:item:1:ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "taskId": "ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "taskVersion": 3,
+        "type": "change",
+        "scheduledAt": "2024-10-17T11:18:52.000Z",
+        "deliverAt": "2024-10-17T11:18:52.000Z",
+        "deliveredAt": "2024-10-17T11:18:52.000Z",
+        "title": "CSC1001 导修课 T13/T14（11 月 1 日）：信息已更新",
+        "body": "此前 T13/T14 导修课被取消，本次公告明确 11 月 1 日导修课照常举行，故恢复原任务；沿用旧分班，不重复填写 sections。",
+        "status": "delivered"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:5cf2104e63895b1b7670:v4:clarify",
+        "taskId": "ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "taskVersion": 4,
+        "type": "clarify",
+        "scheduledAt": "2024-10-17T11:18:52.000Z",
+        "deliverAt": "2024-10-17T11:18:52.000Z",
+        "title": "CSC1001 导修课 T13/T14（11 月 1 日）：需要确认",
+        "body": "请确认分班或是否使用教室电脑，不会先按所有候选安排提醒。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-17T11:18:52.000Z"
+      },
+      {
+        "id": "local-student:change:ai:6b447491-3f6f-44f3-9caf-be6e947b269d:item:1:status:ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "taskId": "ai:CSC1001:2024:5cf2104e63895b1b7670",
+        "taskVersion": 4,
+        "type": "change",
+        "scheduledAt": "2024-10-17T11:18:52.000Z",
+        "deliverAt": "2024-10-17T11:18:52.000Z",
+        "deliveredAt": "2024-10-17T11:18:52.000Z",
+        "title": "CSC1001 导修课 T13/T14（11 月 1 日）：信息已更新",
+        "body": "此前 T13/T14 导修课被取消，本次公告明确 11 月 1 日导修课照常举行，故恢复原任务；沿用旧分班，不重复填写 sections。 未检测到完成证据。这是本任务的证据，不代表其他关联事项已经完成。",
+        "status": "delivered"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-20T11:00:00.000Z:v2:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 2,
+        "type": "plan",
+        "scheduledAt": "2024-10-20T10:45:00.000Z",
+        "deliverAt": "2024-10-20T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-20T11:00:00.000Z 至 2024-10-20T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:digest:2024-10-18",
+        "taskId": null,
+        "taskVersion": null,
+        "type": "digest",
+        "scheduledAt": "2024-10-18T08:00:00+08:00",
+        "deliverAt": "2024-10-18T00:00:00.000Z",
+        "title": "今日安排摘要",
+        "body": "1 项尚待核实完成的任务；0 段今日准备安排。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-18T13:43:33.000Z"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-22T11:00:00.000Z:v2:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 2,
+        "type": "plan",
+        "scheduledAt": "2024-10-22T10:45:00.000Z",
+        "deliverAt": "2024-10-22T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-22T11:00:00.000Z 至 2024-10-22T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-23T11:00:00.000Z:v2:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 2,
+        "type": "plan",
+        "scheduledAt": "2024-10-23T10:45:00.000Z",
+        "deliverAt": "2024-10-23T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-23T11:00:00.000Z 至 2024-10-23T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:digest:2024-10-22",
+        "taskId": null,
+        "taskVersion": null,
+        "type": "digest",
+        "scheduledAt": "2024-10-22T08:00:00+08:00",
+        "deliverAt": "2024-10-22T00:00:00.000Z",
+        "title": "今日安排摘要",
+        "body": "1 项尚待核实完成的任务；3 段今日准备安排。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-22T05:30:35.000Z"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79:v3:deadline",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 3,
+        "type": "deadline",
+        "scheduledAt": "2024-11-09T11:00:00.000Z",
+        "deliverAt": "2024-11-09T11:00:00.000Z",
+        "title": "CSC1001 期中考试：临近正式时间",
+        "body": "CSC1001 的正式时间为 2024-11-10T19:00:00+08:00。当前未检测到完成证据；这不代表你尚未开始。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-22T11:00:00.000Z:v3:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 3,
+        "type": "plan",
+        "scheduledAt": "2024-10-22T10:45:00.000Z",
+        "deliverAt": "2024-10-22T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-22T11:00:00.000Z 至 2024-10-22T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-23T11:00:00.000Z:v3:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 3,
+        "type": "plan",
+        "scheduledAt": "2024-10-23T10:45:00.000Z",
+        "deliverAt": "2024-10-23T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-23T11:00:00.000Z 至 2024-10-23T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:change:ai:6d2b9d54-9525-4ab9-8106-2b27acf731ee:item:0:ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 3,
+        "type": "change",
+        "scheduledAt": "2024-10-22T05:30:35.000Z",
+        "deliverAt": "2024-10-22T05:30:35.000Z",
+        "deliveredAt": "2024-10-22T05:30:35.000Z",
+        "title": "CSC1001 期中考试：信息已更新",
+        "body": "公告确认的考试时间与既有任务一致，未重新说明的字段留空；新增的允许材料、范围题型、考场名单与缺考申请作为补充要求记录。",
+        "status": "delivered"
+      },
+      {
+        "id": "local-student:ai:CSC1001:2024:02f0433a2a2683692c79@2024-10-24T11:00:00.000Z:v3:start",
+        "taskId": "ai:CSC1001:2024:02f0433a2a2683692c79",
+        "taskVersion": 3,
+        "type": "plan",
+        "scheduledAt": "2024-10-24T10:45:00.000Z",
+        "deliverAt": "2024-10-24T10:45:00.000Z",
+        "title": "准备时段：CSC1001 期中考试",
+        "body": "计划 2024-10-24T11:00:00.000Z 至 2024-10-24T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:digest:2024-10-23",
+        "taskId": null,
+        "taskVersion": null,
+        "type": "digest",
+        "scheduledAt": "2024-10-23T08:00:00+08:00",
+        "deliverAt": "2024-10-23T00:00:00.000Z",
+        "title": "今日安排摘要",
+        "body": "1 项尚待核实完成的任务；3 段今日准备安排。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-10-23T03:57:40.000Z"
+      },
+      {
+        "id": "local-student:ai:ECO3121:2024:0a8bdf61e77a93a6b90b:v1:deadline",
+        "taskId": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b",
+        "taskVersion": 1,
+        "type": "deadline",
+        "scheduledAt": "2024-11-01T07:00:00.000Z",
+        "deliverAt": "2024-11-01T07:00:00.000Z",
+        "title": "Problem Set 2：临近正式时间",
+        "body": "ECO3121 的正式时间为 2024-11-02T15:00:00+08:00。当前未检测到完成证据；这不代表你尚未开始。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:ai:ECO3121:2024:0a8bdf61e77a93a6b90b@2024-10-25T11:00:00.000Z:v1:start",
+        "taskId": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-25T10:45:00.000Z",
+        "deliverAt": "2024-10-25T10:45:00.000Z",
+        "title": "准备时段：Problem Set 2",
+        "body": "计划 2024-10-25T11:00:00.000Z 至 2024-10-25T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:ai:ECO3121:2024:0a8bdf61e77a93a6b90b@2024-10-26T11:00:00.000Z:v1:start",
+        "taskId": "ai:ECO3121:2024:0a8bdf61e77a93a6b90b",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-10-26T10:45:00.000Z",
+        "deliverAt": "2024-10-26T10:45:00.000Z",
+        "title": "准备时段：Problem Set 2",
+        "body": "计划 2024-10-26T11:00:00.000Z 至 2024-10-26T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      }
+    ],
+    "subscriptions": [
+      {
+        "courseCode": "CSC1001",
+        "term": "2024"
+      },
+      {
+        "courseCode": "ECO2021",
+        "term": "2024"
+      },
+      {
+        "courseCode": "ECO3121",
+        "term": "2024"
+      },
+      {
+        "courseCode": "ENG1001",
+        "term": "2023"
+      },
+      {
+        "courseCode": "MAT1001",
+        "term": "2023"
+      }
+    ]
+  },
+  "status": "passed",
+  "passed": 15,
+  "finishedAt": "2026-11-12T13:46:28.999Z"
+}

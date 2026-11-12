@@ -1,0 +1,148 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "The Chinese  Universi\n\n\n\n\n    ty of Hong  Kong,  Shenzhen"
+    },
+    {
+      "page": 2,
+      "text": "Notations for Panel Data"
+    },
+    {
+      "page": 3,
+      "text": "Why Are Panel Data Useful?"
+    },
+    {
+      "page": 4,
+      "text": "Fixed Effects Form"
+    },
+    {
+      "page": 5,
+      "text": "Both State and Time Fixed Effects"
+    },
+    {
+      "page": 6,
+      "text": "Treatment effect\n\n\nThe term ‘treatment effect’ refers to the causal effect\nof a binary (0–1) variable on an outcome variable of\nscientific or policy interest.\nEconomics examples include the effects of\ngovernment programmes and policies, such as those\nthat subsidize training for disadvantaged workers,\nand the effects of individual choices like college\nattendance."
+    },
+    {
+      "page": 7,
+      "text": "Selection on Unobservables\n\n• Often there are reasons to believe that treated and\n untreated units differ in unobservable\n  characteristics that are associated with potential\n outcomes even after controlling for differences in\n observed characteristics.\n• In such cases, treated and untreated units are not\n  directly comparable. What can we do then?"
+    },
+    {
+      "page": 8,
+      "text": "Example: Minimum wage laws and employment"
+    },
+    {
+      "page": 9,
+      "text": "Locations of Restaurants (Card and Krueger 2000)"
+    },
+    {
+      "page": 10,
+      "text": "Wages Before Rise in Minimum Wage"
+    },
+    {
+      "page": 11,
+      "text": "Wages After Rise in Minimum Wage"
+    },
+    {
+      "page": 12,
+      "text": "Example"
+    },
+    {
+      "page": 13,
+      "text": "What was Good about these Experiments?"
+    },
+    {
+      "page": 14,
+      "text": "The Natural Experiment"
+    },
+    {
+      "page": 15,
+      "text": "Cross-Sectional Difference After Treatment"
+    },
+    {
+      "page": 16,
+      "text": "Cross-Sectional Difference After Treatment"
+    },
+    {
+      "page": 17,
+      "text": "Cross-Sectional Difference After Treatment"
+    },
+    {
+      "page": 18,
+      "text": "Cross-Sectional Difference After Treatment"
+    },
+    {
+      "page": 19,
+      "text": "Cross-Sectional Difference After Treatment"
+    },
+    {
+      "page": 20,
+      "text": "Time-Series Difference Within the Treatment Group"
+    },
+    {
+      "page": 21,
+      "text": "Time-Series Difference Within the Treatment Group"
+    },
+    {
+      "page": 22,
+      "text": "Difference in Differences: Setup"
+    },
+    {
+      "page": 23,
+      "text": "Difference in Differences: Setup"
+    },
+    {
+      "page": 24,
+      "text": "Two Groups and Two Periods"
+    },
+    {
+      "page": 25,
+      "text": "Two Groups and Two Periods"
+    },
+    {
+      "page": 26,
+      "text": "Two Groups and Two Periods"
+    },
+    {
+      "page": 27,
+      "text": "Two Groups and Two Periods"
+    },
+    {
+      "page": 28,
+      "text": "Graphical Representation: Difference-in-Differences"
+    },
+    {
+      "page": 29,
+      "text": "Graphical Representation: Difference-in-Differences"
+    },
+    {
+      "page": 30,
+      "text": "Graphical Representation: Difference-in-Differences"
+    },
+    {
+      "page": 31,
+      "text": "Graphical Representation: Difference-in-Differences"
+    },
+    {
+      "page": 32,
+      "text": "Graphical Representation: Difference-in-Differences"
+    },
+    {
+      "page": 33,
+      "text": "DD Estimator"
+    },
+    {
+      "page": 34,
+      "text": "DD Estimator"
+    },
+    {
+      "page": 35,
+      "text": "Re-Visiting the Single Difference Estimators"
+    },
+    {
+      "page": 36,
+      "text": "Key Assumption Behind DD"
+    }
+  ]
+}

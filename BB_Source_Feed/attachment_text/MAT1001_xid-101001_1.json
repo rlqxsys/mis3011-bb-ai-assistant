@@ -1,0 +1,31 @@
+{
+  "paragraphs": [
+    "Week 1 (Sept 4 – 8, Lectures 1 and 2) Teaching and Learning",
+    "",
+    "Topics",
+    "",
+    "Course overview (logistics, policy, contents, etc.); very basic function theory/notation.",
+    "",
+    "2.1: Average rates of change and secant lines; instantaneous rates of change and tangent lines.",
+    "",
+    "2.2: Function limits and the intuitive idea (no infinity needs to be involved at this point, but the limit in this section is the “full” limit in the sense that limit as x -> c means the function is defined on both sides of c; other limits, such as infinite limits and one-sided limits, will be discussed next week); limit laws; limits of elementary functions (polynomials, rational functions, etc.); the sandwich theorem; Theorem 5 in the book.",
+    "",
+    "2.3: The formal definition of limits. (Note: this section is optional in the sense that it will not be on ANY assignments/quizzes/exams; tell the student that there is no need to worry about the formality for this course).",
+    "",
+    "Note: ",
+    "",
+    "it is OK to shuffle the contents above around in an order you prefer and feel free to add in your own stuff, so long as the non-optional topics are all covered.",
+    "Feel free to go faster but aim not to be slower.",
+    "",
+    "",
+    "Assignment 1",
+    "",
+    "2.1:  #1,7,8,15",
+    "2.2:  #1,10,18,19,23,28,32,40,45,54,57,65(a),77,78",
+    "",
+    "The questions above need to be submitted; students are encouraged to attempt other questions in Chapters 2.1 and 2.2 if they need more exercises.",
+    "",
+    "Deadline: 10 PM, Friday, Sept 15 --- solutions should be submitted online on Blackboard.",
+    ""
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "     ECO3121 TUT9: Instrumental Variable\n\n\n               TA Group\n\n\n        The Chinese University of Hong Kong, Shenzhen\n\n\n                   November 18, 2024\n\n\n\n\n\nTA Group                                CUHK(SZ)                            November 18, 2024           1 / 15"
+    },
+    {
+      "page": 2,
+      "text": "Contents\n\n\n\n\n1  Endogeneity\n      Definition\n     Sources of endogeneity\n\n\n2  Instrumental Variable\n      Definition and properties\n     IV estimation of β1: 2SLS\n     β1 under IV estimation\n    Comments for IV estimator\n     Checking instrument relevance\n     Checking instrument exogeneity\n\n\n3  Stata Commands for IV Estimation\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 18, 2024           2 / 15"
+    },
+    {
+      "page": 3,
+      "text": "                                         Endogeneity\n\n\n\n\n\n                   Endogeneity\n\n\n\n\n\nTA Group                                CUHK(SZ)                            November 18, 2024           3 / 15"
+    },
+    {
+      "page": 4,
+      "text": "                                                          Endogeneity    Definition\n\nEndogenous issue\n\n\n\n\n\nDefinition:\n\n    endogeneity broadly refers to situations in which an explanatory variable is\n     correlated with the error term, that is:\n\n                              Cov(x, u) ̸= 0\n\n\n\nConsequence:\n    Cov(x, u) ̸= 0 ⇒E(u|x) ̸= 0.\n       ˆβ1 is a biased and inconsistent estimator.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 18, 2024           4 / 15"
+    },
+    {
+      "page": 5,
+      "text": "                                                          Endogeneity    Sources of endogeneity\n\nSources of endogeneity\n\n\n\nOmitted variable bias\n\n       It occurs when a model leaves out a confounding variable that is a\n     determinant of the dependent variable y and correlated with included\n     independent variables x.\n\n\nMeasurement error of explanatory variable x\n\n    x is measured with error, and the error becomes a component of the random\n      error term.\n\n\nSimultaneity (reversed causality)\n\n    The change of X is a cause of the change of Y while the change of Y is also a\n     cause of the change of X.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 18, 2024           5 / 15"
+    },
+    {
+      "page": 6,
+      "text": "                                   Instrumental Variable\n\n\n\n\n\n                Instrumental Variable\n\n\n\n\n\nTA Group                                CUHK(SZ)                            November 18, 2024           6 / 15"
+    },
+    {
+      "page": 7,
+      "text": "                                                     Instrumental Variable    Definition and properties\n\nDefinition and properties\n\n\n\n\n\nInstrumental variable\n\n       is an observable variable z correlated with the endogenous explanatory\n     variable x but uncorrelated with the random error u.\n\n       is an exogenous variable z but not an omitted variable in terms of the model:\n    y = β0 + β1x + u\n\n\nRequired properties of z.\n\n    Instrument exogeneity: Cov(z, u) = 0\n    Instrument relevance: Cov(z, x) ̸= 0\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 18, 2024           7 / 15"
+    },
+    {
+      "page": 8,
+      "text": "                                                     Instrumental Variable    IV estimation of β1: 2SLS\n\n2-stage least squares\n\n\n2SLS is used to obtain the IV estimator ˆβ1,IV\n      First stage: isolate the part of x that is correlated with the random error u.\n     (regress x on z using OLS):\n\n                                 xi = π0 + π1zi + vi\n\n    Second stage: replace xi by the predicted value ˆxi and regress y on ˆx:\n\n                                     yi = β0 + β1ˆxi + ui\n\n\n\nIV estimator:\n                   Pni=1(zi −z)(yi −y)                               ˆβ1,IV =\n                   Pni=1(zi −z)(xi −x)\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 18, 2024           8 / 15"
+    },
+    {
+      "page": 9,
+      "text": "                                                     Instrumental Variable  β1 under IV estimation\n\nTrue value of the β1 under IV estimation\n\n\nFor a model with an endogenous explanatory variable x:\n\n                            y = β0 + β1x + u\n\nSuppose we have a valid instrument variable z.\n\n\nAccording to the instrument exogeneity: Cov(z, u) = 0, we have:\n\n                   Cov(z, u) = Cov(z, y −β0 −β1x) = 0\n\n                           cov(z, y) −β1cov(z, x) = 0\n\nAccording to the instrument relevance: Cov(z, x) ̸= 0, we yield:\n\n                                 Cov(z, y)\n                             β1 =\n                                 Cov(z, x)\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 18, 2024           9 / 15"
+    },
+    {
+      "page": 10,
+      "text": "                                                     Instrumental Variable   Comments for IV estimator\nComments for ˆβ1,IV in SLR. case\n\n\n\n      ˆβ1,IV  is a consistent estimator of β1, so large samples are preferred:\n\n                        n−1 Pni=1(zi −z)(yi −y)    Cov(z, y)          plim(ˆβ1,IV ) = plim[               =      = β1                        n−1 Pni=1(zi −z)(xi −x)]   Cov(z, x)\n\n      ˆβ1,IV  is a biased estimator since we do not hold E(ui|zi) = 0.\n    V ar(ˆβ1,IV ) will be very large if corr(z, x) is too small.\n    The variance of the IV estimator is no less than that of the OLS estimator:\n\n                             σ2         σ2\n            V ar(ˆβ1,OLS) =    ≤        = V ar(ˆβ1,IV )\n                        SSTx   SSTx · R2x,z\n\n\n\n\n\n            TA Group                                CUHK(SZ)                            November 18, 2024          10 / 15"
+    },
+    {
+      "page": 11,
+      "text": "                                                     Instrumental Variable    Checking instrument relevance\n\nWeak instrumental variable test: F-test\n\n\nConsider the following model with 1 endogenous variable x1 and k −1 exogenous\nvariables x2, · · · , xk, suppose we have m instruments:\n\n                          yi = β0 + β1x1i + · · · + βkxki + ui\n\nTest for the null hypothesis with multiple restrictions:\n\n\n                  H0 : π1 = π2 = · · · = πm = 0\n\nwhere π1, π2, · · · , πm are the coefficients from the first-stage regression model:\n\n          x1i = π0 + π1z1i + · · · + πmzmi + α1x2i + · · · + αk−1xki + vi\n\nRule of Thumb:\n       If F-statistic F(m, n −m −k) > 10, the instruments are not week.\n    Note: all exogenous variables must be included in first-stage regression,\n     otherwise, estimators may be inconsistent.\n\n\n\n            TA Group                                CUHK(SZ)                            November 18, 2024          11 / 15"
+    },
+    {
+      "page": 12,
+      "text": "                                                     Instrumental Variable    Checking instrument exogeneity\n\nOveridentification test: J-test\n\n\nConsider the same model on page 11, we use 2SLS estimators to obtain the\npredicted ˆyi, and get the residuals ˆui = yi −ˆyi.\n\n\nTest for the null hypothesis with multiple restrictions:\n\n                  H0 : θ1 = θ2 = · · · = θm = 0\n\nwhere θ1, θ2, · · · , θm are the coefficients from the regression model:\n\n                 ˆui = θ0 + θ1z1i + · · · + θmzmi + δ1x2i + · · · + δk−1xki + ϵi\n\nRejection rule:\n    J −statistic = m · F ∼χ2m−r > cα.(Seeing P-value is an alternative way)\n  m is the number of instruments, r is the number of endogenous variables.\n\n    There is no valid test if m = r or m < r.\n     Fail to reject H0 does not mean accept!\n\n\n\n            TA Group                                CUHK(SZ)                            November 18, 2024          12 / 15"
+    },
+    {
+      "page": 13,
+      "text": "                     Stata Commands for IV Estimation\n\n\n\n\n\n         Stata Commands for IV Estimation\n\n\n\n\n\nTA Group                                CUHK(SZ)                            November 18, 2024          13 / 15"
+    },
+    {
+      "page": 14,
+      "text": "                                      Stata Commands for IV Estimation\n\nSyntax\n\n If we have one endogenous variable x2 and two IVs z1, z2, we can use the\nfollowing syntax:\n\n                           ivregress 2sls y x1 (x2 = z1 z2)\n\n If we have multiple endogenous variables x2, x3 and multiple IVs z1, z2, z3, we\ncan use the following syntax:\n\n                        ivregress 2sls y x1 (x2 x3 = z1 z2 z3)\n\nThen, carry out statistical inference after regression.\n\nCheck for instrument relevance:\n\n                                  estat firststage,all\n\nCheck for instrument exogeneity:\n\n                                     estat overid\n\n\n\n            TA Group                                CUHK(SZ)                            November 18, 2024          14 / 15"
+    },
+    {
+      "page": 15,
+      "text": "                                 Acknowledgement\n\n\n\n\n      Thank you!\n\n\n\n\n\nTA Group                                CUHK(SZ)                            November 18, 2024          15 / 15"
+    }
+  ]
+}

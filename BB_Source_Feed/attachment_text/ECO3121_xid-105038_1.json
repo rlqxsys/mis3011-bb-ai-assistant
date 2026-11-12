@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "            ECO 3121 TUT2\n\n\n               TA Group\n\n\n        The Chinese University of Hong Kong, Shenzhen\n\n\n                    September 14, 2024\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 14, 2024           1 / 18"
+    },
+    {
+      "page": 2,
+      "text": "Contents\n\n\n\n\n\n1  Summation operator\n\n\n\n2  Conditional expectation, Conditional variance\n\n\n\n3  Independence, Mean independence, Uncorrelatedness\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024           2 / 18"
+    },
+    {
+      "page": 3,
+      "text": "                             Summation operator\n\n\n\n\n\n             Summation operator\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 14, 2024           3 / 18"
+    },
+    {
+      "page": 4,
+      "text": "                                            Summation operator\n\nSummation operator\n\n\nDefinition\n If {xi : i = 1, . . . , n} denotes a sequence of n numbers, then we write the sum of\nthese numbers as\n\n        ∑n\n                               xi = x1 + x2 + · · · + xn\n                           i=1\n\n\nProperties\n\nFor any constant c, we have\n\n          ∑n\n                                       c = nc                                (1)\n\n                                   i=1\n         ∑n   ∑n\n                                    cxi = c    xi                             (2)\n                                i=1        i=1\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024           4 / 18"
+    },
+    {
+      "page": 5,
+      "text": "                                            Summation operator\n\nSummation operator\n\n\n\n\n\nWarning\n\nFor sequences {xi, yi : i = 1, . . . , n},\n         ∑n     ∑n                                   xi        i=1 xi                                          ̸= ∑n\n                                      yi        i=1 yi                              i=1\n         ∑n   ∑n\n                              x2i  ̸=  (    xi)2\n                               i=1         i=1\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024           5 / 18"
+    },
+    {
+      "page": 6,
+      "text": "                                            Summation operator\n\nSummation operator\n\n\n\n\n\nProperties\n                                                  1 ∑n\nWe define the sample average or mean as ¯x = n   i=1 xi, then we have\n\n          ∑n\n                                     (xi −¯x) = 0                             (3)\n                                 i=1\n ∑n      ∑n    ∑n    ∑n\n       (xi −¯x)(yi −¯y) =    (xi −¯x)yi =     xi(yi −¯y) =     xiyi −n(¯x¯y)   (4)\n   i=1                   i=1             i=1              i=1\n        ∑n    ∑n\n                              (xi −¯x)2 =    x2i −n(¯x)2                      (5)\n                         i=1             i=1\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024           6 / 18"
+    },
+    {
+      "page": 7,
+      "text": "            Conditional expectation, Conditional variance\n\n\n\n\n\n    Conditional expectation, Conditional variance\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 14, 2024           7 / 18"
+    },
+    {
+      "page": 8,
+      "text": "                              Conditional expectation, Conditional variance\n\nConditional expectation\n\n\n If there are two random variables X, Y , the expectation E(Y ) is a single value,\nbut the conditional expectation E(Y |X) is a function of X.\n\nProperties of conditional expectation\n\n    1  For any function c(X),\n\n                            E[c(X)|X] = c(X)                          (6)\n\n    2  For functions a(X) and b(X),\n\n                E[a(X)Y + b(X)|X] = a(X)E[Y |X] + b(X)             (7)\n\n    3 The law of iterated expectations: for any random variables X, Y\n\n                         E[E(Y |X)] = E[Y ]                         (8)\n\n    4   If X and Y are independent, then E(Y |X) = E(Y ).\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024           8 / 18"
+    },
+    {
+      "page": 9,
+      "text": "                              Conditional expectation, Conditional variance\n\nConditional variance\n\n\n\n\n\nDefinition\nGiven random variables X and Y , the variance of Y , conditional on X is defined\nas\n\n                     Var(Y |X) = E(Y 2|X) −E(Y |X)2                    (9)\n\n\nProperties\n\n If X and Y are independent, then\n\n                           Var(Y |X) = Var(Y )\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024           9 / 18"
+    },
+    {
+      "page": 10,
+      "text": "    Independence, Mean independence, Uncorrelatedness\n\n\n\n\n\n Independence, Mean independence, Uncorrelatedness\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 14, 2024          10 / 18"
+    },
+    {
+      "page": 11,
+      "text": "                     Independence, Mean independence, Uncorrelatedness\n\nIndependence\n\n\n\n\nDefinition\nThe random variables X, Y are independent random variables if and only if their\njoint cumulative distribution function (cdf) is the product of the marginal cdfs for\nany (X, Y ), ie\n\n                       FX,Y (x, y) = FX(x)FY (y)\n\n\nProperties\n\nSuppose random variables X, Y are independent, the following statements are\ntrue:\n    1 E(Y |X) = E(Y )\n\n    2 E(XY ) = E(X)E(Y )\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024          11 / 18"
+    },
+    {
+      "page": 12,
+      "text": "                     Independence, Mean independence, Uncorrelatedness\n\nMean independence (Zero conditional mean)\n\n\n\n\n\nDefinition\nA random variable Y  is said to mean independent of X  if and only if\n\n                       E(Y |X) = E(Y )\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024          12 / 18"
+    },
+    {
+      "page": 13,
+      "text": "                     Independence, Mean independence, Uncorrelatedness\n\nUncorrelatedness (Zero correlation)\n\n\n\n\n\nDefinition\nA random variable Y  is said to be uncorrelated with X  if and only if\n\n                      Cov(X, Y ) = 0, or ρXY = 0\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024          13 / 18"
+    },
+    {
+      "page": 14,
+      "text": "                     Independence, Mean independence, Uncorrelatedness\n\nRelationship\n\n\n\n\n\nBy the definitions, we can show\n     Independence ⇒mean independence ⇒uncorrelatedness (prove: in class)\n     Independence ⇍mean independence ⇍uncorrelatedness (prove: in class)\nTherefore, the independence assumption is stronger than mean independence,\nand mean independence is stronger than uncorrelatedness.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024          14 / 18"
+    },
+    {
+      "page": 15,
+      "text": "                                                  Review of SLR.1-4\n\nReview of SLR.1-4\n\n\n\n\n\nSLR.1 Linear in Parameters\nY = β0 + β1X + u\n\n\nSLR.2 Random Sampling\n\nWe have a random sample of size n, {(Xi, Yi) : i = 1, 2, . . . , n}.\n\nNote: random sample here means that {(Xi, Yi)} are independent and identically\ndistributed (iid) sequence of random variables.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024          15 / 18"
+    },
+    {
+      "page": 16,
+      "text": "                                                  Review of SLR.1-4\n\nReview of SLR.1-4\n\n\n\nSLR.3 Sample Variation in the Explanatory Variable\n\nThe sample outcomes on X, namely, {(Xi) : i = 1, 2, . . . , n}, are not all the same\nvalue.\n\n\nSLR.4 Zero Conditional Mean\nThe error u has an expected value of zero given any value of the explanatory\nvariable. In other words,\n\n                           E(u|X) = 0\n\nNote: SLR.4 implies\n    E(u) = 0 (by the law of iterated expectation)\n    Cov(X, u) = 0 (but not vice versa !)\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024          16 / 18"
+    },
+    {
+      "page": 17,
+      "text": "                                                  Summary\n\nSummary\n\n\n\n\n\n      All definitions and numbered formulas need to be memorized!\n\n    The appendix of our textbook provides all required math knowledge.\n\n       If you find diﬀiculty in deriving formulas or proof on professor’s slides or\n     textbooks, feel free to come to our Oﬀice Hour.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                              September 14, 2024          17 / 18"
+    },
+    {
+      "page": 18,
+      "text": "                                 Acknowledgement\n\n\n\n\n      Thank you!\n\n\n\n\n\nTA Group                                CUHK(SZ)                              September 14, 2024          18 / 18"
+    }
+  ]
+}

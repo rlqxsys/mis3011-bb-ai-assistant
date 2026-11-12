@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "         ECO3121 TUT12: Panel Data\n\n\n               TA Group\n\n\n        The Chinese University of Hong Kong, Shenzhen\n\n\n                    December 9, 2024\n\n\n\n\n\nTA Group                                CUHK(SZ)                             December 9, 2024            1 / 18"
+    },
+    {
+      "page": 2,
+      "text": "Contents\n\n\n\n1  Panel Data\n      Definition\n     Model and endogeneity\n\n2  Estimation Methods for Panel Data\n     Panel data with T=2: FD model\n     Panel data with T>2: FE model\n     Panel data with T>2: LSDV model\n     Estimation methods for two-way fixed effects model\n\n3 DID Model\n     Setup\n     Estimation strategy\n    DID estimation\n\n4  Stata Commends\n\n\n\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024            2 / 18"
+    },
+    {
+      "page": 3,
+      "text": "                                          Panel Data\n\n\n\n\n\n                    Panel Data\n\n\n\n\n\nTA Group                                CUHK(SZ)                             December 9, 2024            3 / 18"
+    },
+    {
+      "page": 4,
+      "text": "                                                           Panel Data    Definition\n\nPanel data\n\nPanel data(longitudinal data):\n     Contains multiple entities from multiple times.\n    Suppose we have k regressors, the panel data is:\n\n                 (X1it, X2it, · · · , Xkit, Yit), i = 1, · · · , n, t = 1, · · · , T.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024            4 / 18"
+    },
+    {
+      "page": 5,
+      "text": "                                                           Panel Data   Model and endogeneity\n\nModel specification and endogeneity\n\n\n\n\nModel specification for panel data:\n\n                  yit = β0 + β1x1,it + · · · + βkxk,it + (αi + γt + eit)\n\nwhere the composite error uit = αi + γi + eit, and αi is the individual fixed effect,\nγt is the time fixed effect, eit is the idiosyncratic error and it is assumed that\nE(eis|x1,it, · · · , xk,it) = 0 or at least Cov(xj,it, eis) = 0 for all j, t, s.\n\n\nEndogeneous issue\n      Practically, we usually perceive that Cov(xj,it, αi) ̸= 0, Cov(xj,it, γt) ̸= 0.\n     Pooled OLS regression results in biased and inconsistent estimation.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024            5 / 18"
+    },
+    {
+      "page": 6,
+      "text": "                     Estimation Methods for Panel Data\n\n\n\n\n\n         Estimation Methods for Panel Data\n\n\n\n\n\nTA Group                                CUHK(SZ)                             December 9, 2024            6 / 18"
+    },
+    {
+      "page": 7,
+      "text": "                                      Estimation Methods for Panel Data    Panel data with T=2: FD model\n\nFirst-differenced estimation\n\n\nSuppose we have panel data with T=2, there is only 1 explanatory variable, and\nwe only consider the entity fixed effects:\n\n                               yit = β0 + β1xit + (αi + eit)\n\nSuppose it is proved that Cov(xit, αi) ̸= 0, we can use OLS to estimate the\nfollowing model:\n\n     (yi,t=2 −yi,t=1) = δ0 + β1(xi,t=2 −xi,t=1) + (αi −αi) + (ei,t=2 −ei,t=1)\n\n                    ∆yi = δ0 + β1∆xi + ∆ei  (1)\n\nSince Cov(xit, eis) = 0, we know that Cov(∆ei, ∆xi) = 0.\n\nSo, using OLS to estimate equation (1) gives a consistent estimator ˆβ1,F D\n\nNote: ˆβ1,F D is unbiased and consistent if we assume E(eis|xit) = 0.\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024            7 / 18"
+    },
+    {
+      "page": 8,
+      "text": "                                      Estimation Methods for Panel Data    Panel data with T>2: FE model\n\nFixed effects estimation (demeaned OLS regression)\n\n\n\nConsider the same model on page 7 but with T>2, we can use OLS to estimate\nthe following model:\n\n    PTt=1 yit          PTt=1 xit      PTt=1 αi      PTt=1 eit(yit −           ) = δ0 + β1(xit −           ) + (αi −          ) +(eit −           )\n        T                   T             T            T\n                                            |      {z0      }\n\n                                           ˜yit = δ0 + β1˜xit + ˜eit  (2)\n\n .\nSince Cov(xit, eis) = 0, we know that Cov(˜eit, ˜xit) = 0.\n\nSo, using OLS to estimate equation (2) gives a consistent estimator of ˆβ1,F E.\n\nˆβ1,F E is more efficient than ˆβ1,F D when T > 2.\n\n\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024            8 / 18"
+    },
+    {
+      "page": 9,
+      "text": "                                      Estimation Methods for Panel Data    Panel data with T>2: LSDV model\n\nLeast squares dummy variable model\n\n\n\nConsider the same model on page 7 but with T>2, we can use the LSDV model\nwhich is equivalent to the FE model.\n\n\nWe can use OLS to estimate the following model with n −1 dummy variables:\n\n                      yit = β0 + β1xit + δ2D2 + · · · + δnDn + eit\n\nwhere D2, · · · , Dn are the binary variables indicating different entities.\n\nLSDV model gives a consistent estimator ˆβ1,LSDV whose properties are the same\nto the ˆβ1,F E.\n\n\nThis method is impractical when n is very large.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024            9 / 18"
+    },
+    {
+      "page": 10,
+      "text": "                                      Estimation Methods for Panel Data    Estimation methods for two-way fixed effects model\n\nEstimation strategy\n\n\n\n\n\nWe can use the following 3 ways to estimate a two-way fixed effects model\naccording to the previously mentioned 3 methods:\n    Use OLS to estimate the model with n −1 and T −1 binary variables.\n\n    Use OLS to estimate the ”entity and time-demeaned” model.\n    Use OLS to estimate the model based on the changes in variables.(from i −1\n     to i and t −1 to t)\n\nA possible mixed method:\n    Use OLS to estimate the model with T −1 binary variables based on the\n     ”entity-demeaned” data.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024           10 / 18"
+    },
+    {
+      "page": 11,
+      "text": "                                  DID Model\n\n\n\n\n\n                DID Model\n\n\n\n\n\nTA Group                                CUHK(SZ)                             December 9, 2024           11 / 18"
+    },
+    {
+      "page": 12,
+      "text": "                                               DID Model   Setup\n\nSettings\n\n\nWhen choosing the DID model to estimate the effects of treatment, we can\nobserve the data from two groups and two time periods:\n\ntwo groups\n     treatment group: Di = 1\n     control group: Di = 0\n\ntwo time-periods:\n\n     pre-treatment period: T = 0\n\n     post-treatment period: T = 1\n\n\nThe average effect of the treatment of the treated(ATT):\n\n                    τAT T = E[Y1i(1) −Y0i(1)|Di = 1]\n\nThe problem is that we cannot obtain E[Y0i(1)|Di = 1].\n\n\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024           12 / 18"
+    },
+    {
+      "page": 13,
+      "text": "                                               DID Model    Estimation strategy\n\nParallel trend assumption\n\nWe can obtain the following 4 types of data:\n\n\n\n\n\nParallel trend assumption:\n    The trends in the outcome variable for both treatment and control groups\n     during the pre-treatment period are the same:\n\n              E[Y0i(1) −Y0i(0)|Di = 1] = E[Y0i(1) −Y0i(0)|Di = 0]\n                    unknown| {z }\n\nSo, the average effect of the treatment of the treated(ATT):\n\n                    τAT T = E[Y1i(1) −Y0i(1)|Di = 1]\n\n          = {E[Y1i(1)|Di = 1] −E[Y0i(0)|Di = 1]}−\n\n                    {E[Y0i(1)|Di = 0] −E[Y0i(0)|Di = 0]}\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024           13 / 18"
+    },
+    {
+      "page": 14,
+      "text": "                                               DID Model    Estimation strategy\n\nGraphic illustration\n\n\n\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024           14 / 18"
+    },
+    {
+      "page": 15,
+      "text": "                                               DID Model   DID estimation\n\nDID estimation\n\n\n\nWe can use OLS to estimate the following model:\n\n              yit = β0 + β1Treati + β2Postt + β3Treati × Postt + ϵit\n\nwhere Treati is a binary variable and Treati = 1 if observation i belongs to the\ntreatment group, Postt is a binary variable and Postt = 1 if observation i belongs\nto the post-treatment period.\n\n\n\n\n\nˆβ3 is the difference-in-differences estimator, which is an unbiased estimator of\nthe ATT if the parallel trend assumption is held.\n\n\n\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024           15 / 18"
+    },
+    {
+      "page": 16,
+      "text": "                                      Stata Commends\n\n\n\n\n\n                 Stata Commends\n\n\n\n\n\nTA Group                                CUHK(SZ)                             December 9, 2024           16 / 18"
+    },
+    {
+      "page": 17,
+      "text": "                                                       Stata Commends\n\nStata Commends\n\n If you have the panel data, firstly let Stata identify the type of data:\n\n                                   xtset entity year\n\nNext, we tend to estimate a model only with entity-fixed effects:\n\n                               xtreg y1 x1 x2 x3,fe\n\nor use the LSDV model\n\n                             reg y1 x1 x2 x3 i.entity\n\nThen, we want to consider the two-way fixed effects:\n\n                            xtreg y1 x1 x2 x3 i.year,fe\n\nor use the LSDV model\n\n                          reg y1 x1 x2 x3 i.entity i.year\n\n\n\n            TA Group                                CUHK(SZ)                             December 9, 2024           17 / 18"
+    },
+    {
+      "page": 18,
+      "text": "                                 Acknowledgement\n\n\n\n\n      Thank you!\n\n\n\n\n\nTA Group                                CUHK(SZ)                             December 9, 2024           18 / 18"
+    }
+  ]
+}

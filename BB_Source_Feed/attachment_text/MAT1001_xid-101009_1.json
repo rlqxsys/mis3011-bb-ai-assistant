@@ -1,0 +1,388 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": "  Chapter 4\n\nApplications of Derivatives\n\n\n\n\n\n                  Copyright © 2017 Pearson Education, Inc.                                                2"
+    },
+    {
+      "page": 3,
+      "text": "      4.1\n\nExtreme Values of Functions\n\n\n\n\n\n                    Copyright © 2017 Pearson Education, Inc.                                                3"
+    },
+    {
+      "page": 4,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                                4"
+    },
+    {
+      "page": 5,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                                5"
+    },
+    {
+      "page": 6,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                                6"
+    },
+    {
+      "page": 7,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                                7"
+    },
+    {
+      "page": 8,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                                8"
+    },
+    {
+      "page": 9,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                                9"
+    },
+    {
+      "page": 10,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               10"
+    },
+    {
+      "page": 11,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               11"
+    },
+    {
+      "page": 12,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               12"
+    },
+    {
+      "page": 13,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               13"
+    },
+    {
+      "page": 14,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               14"
+    },
+    {
+      "page": 15,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               15"
+    },
+    {
+      "page": 16,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               16"
+    },
+    {
+      "page": 17,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               17"
+    },
+    {
+      "page": 18,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               18"
+    },
+    {
+      "page": 19,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               19"
+    },
+    {
+      "page": 20,
+      "text": "     4.2\n\nThe Mean Value Theorem\n\n\n\n\n\n               Copyright © 2017 Pearson Education, Inc.                                               20"
+    },
+    {
+      "page": 21,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               21"
+    },
+    {
+      "page": 22,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               22"
+    },
+    {
+      "page": 23,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               23"
+    },
+    {
+      "page": 24,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               24"
+    },
+    {
+      "page": 25,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               25"
+    },
+    {
+      "page": 26,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               26"
+    },
+    {
+      "page": 27,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               27"
+    },
+    {
+      "page": 28,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               28"
+    },
+    {
+      "page": 29,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               29"
+    },
+    {
+      "page": 30,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               30"
+    },
+    {
+      "page": 31,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               31"
+    },
+    {
+      "page": 32,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               32"
+    },
+    {
+      "page": 33,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               33"
+    },
+    {
+      "page": 34,
+      "text": "     4.3\n\nMonotonic Functions and\n  the First Derivative Test\n\n\n\n\n\n               Copyright © 2017 Pearson Education, Inc.                                               34"
+    },
+    {
+      "page": 35,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               35"
+    },
+    {
+      "page": 36,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               36"
+    },
+    {
+      "page": 37,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               37"
+    },
+    {
+      "page": 38,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               38"
+    },
+    {
+      "page": 39,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               39"
+    },
+    {
+      "page": 40,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               40"
+    },
+    {
+      "page": 41,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               41"
+    },
+    {
+      "page": 42,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               42"
+    },
+    {
+      "page": 43,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               43"
+    },
+    {
+      "page": 44,
+      "text": "       4.4\n\nConcavity and Curve Sketching\n\n\n\n\n\n                        Copyright © 2017 Pearson Education, Inc.                                               44"
+    },
+    {
+      "page": 45,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               45"
+    },
+    {
+      "page": 46,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               46"
+    },
+    {
+      "page": 47,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               47"
+    },
+    {
+      "page": 48,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               48"
+    },
+    {
+      "page": 49,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               49"
+    },
+    {
+      "page": 50,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               50"
+    },
+    {
+      "page": 51,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               51"
+    },
+    {
+      "page": 52,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               52"
+    },
+    {
+      "page": 53,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               53"
+    },
+    {
+      "page": 54,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               54"
+    },
+    {
+      "page": 55,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               55"
+    },
+    {
+      "page": 56,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               56"
+    },
+    {
+      "page": 57,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               57"
+    },
+    {
+      "page": 58,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               58"
+    },
+    {
+      "page": 59,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               59"
+    },
+    {
+      "page": 60,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               60"
+    },
+    {
+      "page": 61,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               61"
+    },
+    {
+      "page": 62,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               62"
+    },
+    {
+      "page": 63,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               63"
+    },
+    {
+      "page": 64,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               64"
+    },
+    {
+      "page": 65,
+      "text": "    4.5\n\nApplied Optimization\n\n\n\n\n\n         Copyright © 2017 Pearson Education, Inc.                                               65"
+    },
+    {
+      "page": 66,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               66"
+    },
+    {
+      "page": 67,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               67"
+    },
+    {
+      "page": 68,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               68"
+    },
+    {
+      "page": 69,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               69"
+    },
+    {
+      "page": 70,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               70"
+    },
+    {
+      "page": 71,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               71"
+    },
+    {
+      "page": 72,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               72"
+    },
+    {
+      "page": 73,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               73"
+    },
+    {
+      "page": 74,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               74"
+    },
+    {
+      "page": 75,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               75"
+    },
+    {
+      "page": 76,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               76"
+    },
+    {
+      "page": 77,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               77"
+    },
+    {
+      "page": 78,
+      "text": "   4.6\n\nNewton’s Method\n\n\n\n\n\n   Copyright © 2017 Pearson Education, Inc.                                               78"
+    },
+    {
+      "page": 79,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               79"
+    },
+    {
+      "page": 80,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               80"
+    },
+    {
+      "page": 81,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               81"
+    },
+    {
+      "page": 82,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               82"
+    },
+    {
+      "page": 83,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               83"
+    },
+    {
+      "page": 84,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               84"
+    },
+    {
+      "page": 85,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               85"
+    },
+    {
+      "page": 86,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               86"
+    },
+    {
+      "page": 87,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               87"
+    },
+    {
+      "page": 88,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               88"
+    },
+    {
+      "page": 89,
+      "text": "   4.7\n\nAntiderivatives\n\n\n\n\n\nCopyright © 2017 Pearson Education, Inc.                                               89"
+    },
+    {
+      "page": 90,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               90"
+    },
+    {
+      "page": 91,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               91"
+    },
+    {
+      "page": 92,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               92"
+    },
+    {
+      "page": 93,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               93"
+    },
+    {
+      "page": 94,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               94"
+    },
+    {
+      "page": 95,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               95"
+    },
+    {
+      "page": 96,
+      "text": "Copyright © 2017 Pearson Education, Inc.                                               96"
+    }
+  ]
+}

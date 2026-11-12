@@ -1,0 +1,3 @@
+{
+  "text": "use \"aghousehold.dta\",clear \n\nkeep if year==2001\n\ngen yield=hx95_nh125/hx95_nh112\ngen fertilizer=nh6_3/hx95_nh112\n\n*** 1 ****\ngen migration=(h95_nh269>0)\ngen log_yield=log(1+yield)\ngen log_fertilizer=log(1+fertilizer)\n\n*** 2 ****\nreg migration log_yield \n\n*** 4 ****\nmerge m:1 vl_id using \"village_rainfall.dta\"\nkeep if _merge==3\ngen log_av_rain=log(av_rain)\n\nreg log_yield log_av_rain\npredict hat_log_yield if log_yield!=. ,xb //caution please!\n\n*** 5 ****\nreg migration hat_log_yield\n\n*** 6 ****\nivregress 2sls migration (log_yield=log_av_rain)"
+}

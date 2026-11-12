@@ -1,0 +1,408 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": " Chapter 2\n\nLimits and Continuity\n\n\n\n\n\n        Copyright © 2017 Pearson Education, Inc.                                                 2"
+    },
+    {
+      "page": 3,
+      "text": "    2.1\n\nRates of Change and\n Tangents to Curves\n\n\n\n\n\n      Copyright © 2017 Pearson Education, Inc.                                                 3"
+    },
+    {
+      "page": 4,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 4   4"
+    },
+    {
+      "page": 5,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 5   5"
+    },
+    {
+      "page": 6,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 6   6"
+    },
+    {
+      "page": 7,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 7   7"
+    },
+    {
+      "page": 8,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 8   8"
+    },
+    {
+      "page": 9,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 9   9"
+    },
+    {
+      "page": 10,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 10 10"
+    },
+    {
+      "page": 11,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 11 11"
+    },
+    {
+      "page": 12,
+      "text": "   2.2\n\nLimit of a Function\n  and Limit Laws\n\n\n\n\n\n    Copyright © 2017 Pearson Education, Inc.                                                12"
+    },
+    {
+      "page": 13,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 13 13"
+    },
+    {
+      "page": 14,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 14 14"
+    },
+    {
+      "page": 15,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 15 15"
+    },
+    {
+      "page": 16,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 16 16"
+    },
+    {
+      "page": 17,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 17 17"
+    },
+    {
+      "page": 18,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 18 18"
+    },
+    {
+      "page": 19,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 19 19"
+    },
+    {
+      "page": 20,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 20 20"
+    },
+    {
+      "page": 21,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 21 21"
+    },
+    {
+      "page": 22,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 22 22"
+    },
+    {
+      "page": 23,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 23 23"
+    },
+    {
+      "page": 24,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 24 24"
+    },
+    {
+      "page": 25,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 25 25"
+    },
+    {
+      "page": 26,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 26 26"
+    },
+    {
+      "page": 27,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 27 27"
+    },
+    {
+      "page": 28,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 28 28"
+    },
+    {
+      "page": 29,
+      "text": "       2.3\n\nThe Precise Definition of a Limit\n\n\n\n\n\n                         Copyright © 2017 Pearson Education, Inc.                                                29"
+    },
+    {
+      "page": 30,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 30 30"
+    },
+    {
+      "page": 31,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 31 31"
+    },
+    {
+      "page": 32,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 32 32"
+    },
+    {
+      "page": 33,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 33 33"
+    },
+    {
+      "page": 34,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 34 34"
+    },
+    {
+      "page": 35,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 35 35"
+    },
+    {
+      "page": 36,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 36 36"
+    },
+    {
+      "page": 37,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 37 37"
+    },
+    {
+      "page": 38,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 38 38"
+    },
+    {
+      "page": 39,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 39 39"
+    },
+    {
+      "page": 40,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 40 40"
+    },
+    {
+      "page": 41,
+      "text": "   2.4\n\nOne-Sided Limits\n\n\n\n\n\n  Copyright © 2017 Pearson Education, Inc.                                                41"
+    },
+    {
+      "page": 42,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 42 42"
+    },
+    {
+      "page": 43,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 43 43"
+    },
+    {
+      "page": 44,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 44 44"
+    },
+    {
+      "page": 45,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 45 45"
+    },
+    {
+      "page": 46,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 46 46"
+    },
+    {
+      "page": 47,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 47 47"
+    },
+    {
+      "page": 48,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 48 48"
+    },
+    {
+      "page": 49,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 49 49"
+    },
+    {
+      "page": 50,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 50 50"
+    },
+    {
+      "page": 51,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 51 51"
+    },
+    {
+      "page": 52,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 52 52"
+    },
+    {
+      "page": 53,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 53 53"
+    },
+    {
+      "page": 54,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 54 54"
+    },
+    {
+      "page": 55,
+      "text": "   2.5\n\n   Continuity\n\n\n\n\n\nCopyright © 2017 Pearson Education, Inc.                                                55"
+    },
+    {
+      "page": 56,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 56 56"
+    },
+    {
+      "page": 57,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 57 57"
+    },
+    {
+      "page": 58,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 58 58"
+    },
+    {
+      "page": 59,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 59 59"
+    },
+    {
+      "page": 60,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 60 60"
+    },
+    {
+      "page": 61,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 61 61"
+    },
+    {
+      "page": 62,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 62 62"
+    },
+    {
+      "page": 63,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 63 63"
+    },
+    {
+      "page": 64,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 64 64"
+    },
+    {
+      "page": 65,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 65 65"
+    },
+    {
+      "page": 66,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 66 66"
+    },
+    {
+      "page": 67,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 67 67"
+    },
+    {
+      "page": 68,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 68 68"
+    },
+    {
+      "page": 69,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 69 69"
+    },
+    {
+      "page": 70,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 70 70"
+    },
+    {
+      "page": 71,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 71 71"
+    },
+    {
+      "page": 72,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 72 72"
+    },
+    {
+      "page": 73,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 73 73"
+    },
+    {
+      "page": 74,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 74 74"
+    },
+    {
+      "page": 75,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 75 75"
+    },
+    {
+      "page": 76,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 76 76"
+    },
+    {
+      "page": 77,
+      "text": "     2.6\n\nLimits Involving Infinity;\n  Asymptotes of Graphs\n\n\n\n\n\n             Copyright © 2017 Pearson Education, Inc.                                                77"
+    },
+    {
+      "page": 78,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 78 78"
+    },
+    {
+      "page": 79,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 79 79"
+    },
+    {
+      "page": 80,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 80 80"
+    },
+    {
+      "page": 81,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 81 81"
+    },
+    {
+      "page": 82,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 82 82"
+    },
+    {
+      "page": 83,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 83 83"
+    },
+    {
+      "page": 84,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 84 84"
+    },
+    {
+      "page": 85,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 85 85"
+    },
+    {
+      "page": 86,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 86 86"
+    },
+    {
+      "page": 87,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 87 87"
+    },
+    {
+      "page": 88,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 88 88"
+    },
+    {
+      "page": 89,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 89 89"
+    },
+    {
+      "page": 90,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 90 90"
+    },
+    {
+      "page": 91,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 91 91"
+    },
+    {
+      "page": 92,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 92 92"
+    },
+    {
+      "page": 93,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 93 93"
+    },
+    {
+      "page": 94,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 94 94"
+    },
+    {
+      "page": 95,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 95 95"
+    },
+    {
+      "page": 96,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 96 96"
+    },
+    {
+      "page": 97,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 97 97"
+    },
+    {
+      "page": 98,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 98 98"
+    },
+    {
+      "page": 99,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 99 99"
+    },
+    {
+      "page": 100,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 100100"
+    },
+    {
+      "page": 101,
+      "text": "Copyright © 2010 Pearson Education, Inc. PublishingCopyright © 2017as PearsonPearsonEducation,Addison-WesleyInc.                           Slide 2 - 101101"
+    }
+  ]
+}

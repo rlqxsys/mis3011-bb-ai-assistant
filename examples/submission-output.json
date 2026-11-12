@@ -1,0 +1,508 @@
+{
+  "scenario": "submission",
+  "before": {
+    "tasks": [
+      {
+        "id": "CSC1001:2024:_502000_1",
+        "courseCode": "CSC1001",
+        "term": "2024",
+        "title": "Assignment 2",
+        "kind": "assignment",
+        "channel": "bb",
+        "deadline": {
+          "date": "2024-11-24",
+          "at": "2024-11-24T23:59:00+08:00",
+          "precision": "minute",
+          "yearInferred": true
+        },
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "Attached Files:\n Ass2_124xxxxxx.zip (4.258 KB)\n CSC_1001_Assignment_2.pdf (217.11 KB)\nThe assignment will be worth 10% of the final grade. It is due at 11:59 PM, 24 November (Sunday). For each day of late submission, you will lose 10% of your mark in this assignment. You will receive a zero on this assignment if you submit more than three days after the deadline. \nIf you have any questions, please contact:\n[contact]\nand\n[contact]"
+        ],
+        "issues": [],
+        "sources": [
+          {
+            "courseCode": "CSC1001",
+            "path": "courses/CSC1001.json",
+            "locator": "pages[0].rows[0]",
+            "quote": "Assignment 2\nAttached Files:\n Ass2_124xxxxxx.zip (4.258 KB)\n CSC_1001_Assignment_2.pdf (217.11 KB)\nThe assignment will be worth 10% of the final grade. It is due at 11:59 PM, 24 November (Sunday). For each day of late submission, you will lose 10% of your mark in this assignment. You will receive a zero on this assignment if you submit more than three days after the deadline. \nIf you have any questions, please contact:\n[contact]\nand\n[contact]",
+            "role": "course"
+          },
+          {
+            "courseCode": "CSC1001",
+            "path": "attachment_text/CSC1001_xid-102000_1.json",
+            "locator": "附件抽取文字",
+            "quote": "Ass2_124xxxxxx/\nAss2_124xxxxxx/q5.py\nAss2_124xxxxxx/q1.py\nAss2_124xxxxxx/.DS_Store\nAss2_124xxxxxx/q4.py\nAss2_124xxxxxx/q3.py\nAss2_124xxxxxx/q6.py\nAss2_124xxxxxx/q2.py",
+            "role": "attachment"
+          },
+          {
+            "courseCode": "CSC1001",
+            "path": "attachment_text/CSC1001_xid-102001_1.json",
+            "locator": "附件抽取文字",
+            "quote": "\n  CSC1001: Introduction to Computer Science\n         Programming Methodology\n                Assignment 2\n\n\n\n\n\nAssignment description: This assignment will be worth 10% of the final\ngrade.\nFor each question, write your code in the corresponding .py file (i.e., for question\n1, use q1.py). Once completed, pack all your modified .py files into a single\n.zip file. Name the zip file with your student ID (i.e., if your student ID is\n123456, name the file Ass2 123456.zip), and submit it via Blackboard. Please\nnote that we ONLY take the latest submission into account.\n\nWe have provided code templates for each question in Ass2 xxxxxx.zip.\nYou just need to fill in the TODO part of the template and are not\nallowed to make any changes to the template or you may receive zero.\n\n\nPlease note that, the teaching assistant may ask you to explain the meaning\nof your program, to ensure that the codes are indeed written by yourself.\nPlease also note that we may check whether your program is too similar\nto your fellow students’ code using Blackboard.\n\nPlease do not use ChatGPT or other kinds of AI agents to generate\nyour code! We will use the GPT-generated content-checking tool to check\nyour code.\n\nThis assignment is due on 11:59PM, 24 November (Sunday). For each\nday of late submission, you will lose 10% of your mark in this assignment.  If\nyou submit more than three days later than the deadline, you will receive zero\nin this assignment.\n\n\nQuestion 1 (10% of this assignment):\n(Math: approximate the square root) There are several techniques for imple-\nmenting the sqrt function in the math module. One such technique is known\nas the Babylonian function. It approximates the square root of a number, n, by\nrepeatedly performing a calculation using the following formula:\n\n                nextGuess = (lastGuess + (n/lastGuess))/2               (1)\n\n\n                                  1\n\nWhen nextGuess and lastGuess are almost identical, nextGuess is the ap-\nproximated square root. The initial guess can be any positive value (e.g., 1).\nThis value will be the starting value for lastGuess.   If the difference be-\ntween nextGuess and lastGuessis less than a very small number, such as\n0.0001, you can claim that nextGuess is the approximated square root of n.\nIf not, nextGuess becomes lastGuess and the approximation process contin-\nues. Please fill the TODO part of the sqrt(n) function in q1.py that returns\nthe square root of a given non-negative number n.\n\n\nQuestion 2 (15% of this assignment):\n(Emirp) An emirp (prime spelled backward) is a nonpalindromic prime number\nwhose reversal is also a prime. For example, both 17 and 71 are prime numbers,\nso 17 and 71 are emirps. Please fill the TODO part of the display emirps(n)\nfunction in q2.py that displays the first n emirps. You are guaranteed that n is\na positive integer. Display 10 numbers per line and align the numbers properly,\nas follows:\n\n\n\n\n\nQuestion 3 (15% of this assignment):\n(Financial: credit card number validation) Credit card numbers follow certain\npatterns:  It must have between 13 and 16 digits, and the number must start\nwith:\n\n   • 4 for Visa cards\n\n   • 5 for MasterCard credit cards\n\n   • 37 for American Express cards\n\n   • 6 for Discover cards\n\n\n\n\n\nIn 1954, Hans Luhn of IBM proposed an algorithm for validating credit card\nnumbers. The algorithm is useful to determine whether a card number is entered\ncorrectly or whether a credit card is scanned correctly by a scanner.  Credit\ncard numbers are generated following this validity check, commonly known as\nthe Luhn check or the Mod 10 check, which can be described as follows (for\nillustration, consider the card number 4388576018402626):\n\n\n                                  2\n\n1. Double every second digit from right to left. If doubling of a digit results in\na twodigit number, add up the two digits to get a single-digit number.\n2. Add all single-digit numbers from Step 1.\n\n                  4 + 4 + 8 + 2 + 3 + 1 + 7 + 8 = 37\n\n3. Add all digits in the odd places from right to left in the card number.\n\n                  6 + 6 + 0 + 8 + 0 + 7 + 8 + 3 = 38\n\n4. Sum the results from Steps 2 and 3.\n\n                             37 + 38 = 75\n\n5. If the result from Step 4 is divisible by 10, the card number is valid; otherwise,\nit is invalid.  For example, the number 4388576018402626 is invalid, but the\nnumber 4388576018410707 is valid.\n\nPlease fill in the TODO part of all functions in q3.py. The isValid(number)\nfunction should return True if the given card number is valid, otherwise, return\nFalse. You are guaranteed that your isValid function will only have integers as\nparameters.\n\n\nQuestion 4 (15% of this assignment):\n(Anagrams) Please fill the TODO part in q4.py to check whether two words\nare anagrams. Two words are anagrams if they contain the same letters. For\nexample, silent and listen are anagrams.\n\n(Hint: Obtain two lists for the two strings. Sort the lists and check if two lists\nare identical.)\n\n\nQuestion 5 (20% of this assignment):\n(Roman to Integer) Please fill the TODO part in q5.py to solve the Roman to\nInteger problem. Roman numerals consist of the following seven characters:  I,\nV, X, L, C, D, and M.\n\n                       Character  Value\n                                          I         1\n                    V         5\n                    X         10\n                        L         50\n                     C        100\n                   D        500\n                M       1000\n\nFor example, the Roman numeral 2 is written as ”II”, which is simply two\nones added together. 12 is written as ”XII”, which is 10 + 2. 27 is written as\n”XXVII”, which is 20 + 5 + 2.\n\n\n\n                                  3\n\nIn most cases, Roman numerals are written from largest to smallest from left\nto right. However, there are exceptions, such as 4, which is written as ”IV”\ninstead of ”IIII”. The numeral 1 is placed before 5 to indicate 4. Similarly, 9 is\nwritten as ”IX”. This rule only applies to six instances:\n\n   • I can be placed before V (5) and X (10) to make 4 and 9.\n\n   • X can be placed before L (50) and C (100) to make 40 and 90.\n\n   • C can be placed before D (500) and M (1000) to make 400 and 900.\n\nGiven a Roman numeral, convert it to an integer.\n\n             Example 1 Input: s = ”III”, Output: 3\n             Example 2 Input: s = ”IV”, Output: 4\n           Example 3 Input: s = ”LVIII”, Output: 58.\n                   Explanation: L = 50, V = 5, III = 3.\n        Example 4 Input: s = ”MCMXCIV” Output: 1994\n           Explanation: M = 1000, CM = 900, XC = 90, IV = 4.\n\nConstraints\n\n   • 1 ≤s.length ≤15\n\n   • s consists of characters from (’I’, ’V’, ’X’, ’L’, ’C’, ’D’, ’M’)\n\n   • It is guaranteed that s is a valid Roman numeral and represents an integer\n      in the range [1, 3999].\n\n   • The test cases are guaranteed to follow the rules of Roman numeral rep-\n      resentation. There will be no invalid cases such as IL or IM.\n\n\nQuestion 6 (25% of this assignment):\n(Game: Eight Queens) The classic Eight Queens puzzle is to place eight queens\non a chessboard such that no two queens can attack each other (i.e., no two\nqueens are in the same row, same column, or same diagonal). There are many\npossible solutions. Please fill the TODO part in q6.py that displays one such\nsolution. A sample output is shown below:\n\n\n\n\n\nNote: you CANNOT just pre-define a solution and display it.\nPlease use algorithm to display a possible solution.\n\n\n                                  4",
+            "role": "attachment"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "replay_initial",
+          "at": null
+        },
+        "remainingMinutes": 120,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "url": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_502000_1&course_id=_90002_1&mode=view",
+        "policy": {
+          "late": "penalty",
+          "attempts": "unknown",
+          "scoring": "last"
+        },
+        "optional": false
+      },
+      {
+        "id": "ECO3121:2024:assignment-3",
+        "courseCode": "ECO3121",
+        "term": "2024",
+        "title": "Assignment 3",
+        "kind": "assignment",
+        "channel": "bb",
+        "deadline": {
+          "date": "2024-11-28",
+          "at": "2024-11-28T15:00:00+08:00",
+          "precision": "minute",
+          "yearInferred": false
+        },
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "The Problem set 3 has been released. The due is 3 PM, November 28th (Thursday), 2024. \n \nPlease note that:\n1)Combine your answer, Stata code, and requested output into one PDF file and upload it to Blackboard.\n2)Late submission is strictly NOT allowed."
+        ],
+        "issues": [],
+        "sources": [
+          {
+            "courseCode": "ECO3121",
+            "path": "courses/ECO3121.json",
+            "locator": "ann[11] · Posted on: Sunday, November 17, 2024 09:55:02 PM CST",
+            "quote": "The Problem set 3 has been released. The due is 3 PM, November 28th (Thursday), 2024. \n \nPlease note that:\n1)Combine your answer, Stata code, and requested output into one PDF file and upload it to Blackboard.\n2)Late submission is strictly NOT allowed.",
+            "role": "announcement"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "replay_initial",
+          "at": null
+        },
+        "remainingMinutes": 180,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "policy": {
+          "late": "not_allowed",
+          "attempts": "unknown",
+          "scoring": "unknown"
+        }
+      }
+    ],
+    "plan": {
+      "blocks": [
+        {
+          "id": "CSC1001:2024:_502000_1@2024-11-22T11:00:00.000Z",
+          "taskId": "CSC1001:2024:_502000_1",
+          "taskVersion": 1,
+          "start": "2024-11-22T11:00:00.000Z",
+          "end": "2024-11-22T11:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:_502000_1@2024-11-22T12:00:00.000Z",
+          "taskId": "CSC1001:2024:_502000_1",
+          "taskVersion": 1,
+          "start": "2024-11-22T12:00:00.000Z",
+          "end": "2024-11-22T12:50:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "CSC1001:2024:_502000_1@2024-11-22T13:00:00.000Z",
+          "taskId": "CSC1001:2024:_502000_1",
+          "taskVersion": 1,
+          "start": "2024-11-22T13:00:00.000Z",
+          "end": "2024-11-22T13:20:00.000Z",
+          "locked": false,
+          "reason": "按剩余可用时间与预计用时排序；未改变固定日程。"
+        },
+        {
+          "id": "ECO3121:2024:assignment-3@2024-11-23T11:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-3",
+          "taskVersion": 1,
+          "start": "2024-11-23T11:00:00.000Z",
+          "end": "2024-11-23T11:50:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ECO3121:2024:assignment-3@2024-11-23T12:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-3",
+          "taskVersion": 1,
+          "start": "2024-11-23T12:00:00.000Z",
+          "end": "2024-11-23T12:50:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ECO3121:2024:assignment-3@2024-11-23T13:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-3",
+          "taskVersion": 1,
+          "start": "2024-11-23T13:00:00.000Z",
+          "end": "2024-11-23T13:20:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ECO3121:2024:assignment-3@2024-11-24T11:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-3",
+          "taskVersion": 1,
+          "start": "2024-11-24T11:00:00.000Z",
+          "end": "2024-11-24T11:50:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ECO3121:2024:assignment-3@2024-11-24T12:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-3",
+          "taskVersion": 1,
+          "start": "2024-11-24T12:00:00.000Z",
+          "end": "2024-11-24T12:10:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        }
+      ],
+      "fixed": [],
+      "risks": []
+    },
+    "summary": {
+      "tasks": 2,
+      "active": 2,
+      "plannedMinutes": 300,
+      "risks": 0,
+      "unread": 1,
+      "pending": 5,
+      "today": "2024-11-22"
+    }
+  },
+  "events": [
+    {
+      "id": "replay:csc-a2:submission",
+      "type": "STATUS_RECORDED",
+      "taskId": "CSC1001:2024:_502000_1",
+      "value": "submitted",
+      "origin": "demo_bb",
+      "note": "模拟接入器收到成功提交，未操作学校 BB。",
+      "source": {
+        "courseCode": "CSC1001",
+        "path": "demo/scenarios.mjs",
+        "locator": "submission event",
+        "quote": "用于验证联动的模拟成功提交事件，不是真实回执。",
+        "role": "synthetic_fixture"
+      }
+    }
+  ],
+  "after": {
+    "tasks": [
+      {
+        "id": "CSC1001:2024:_502000_1",
+        "courseCode": "CSC1001",
+        "term": "2024",
+        "title": "Assignment 2",
+        "kind": "assignment",
+        "channel": "bb",
+        "deadline": {
+          "date": "2024-11-24",
+          "at": "2024-11-24T23:59:00+08:00",
+          "precision": "minute",
+          "yearInferred": true
+        },
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "Attached Files:\n Ass2_124xxxxxx.zip (4.258 KB)\n CSC_1001_Assignment_2.pdf (217.11 KB)\nThe assignment will be worth 10% of the final grade. It is due at 11:59 PM, 24 November (Sunday). For each day of late submission, you will lose 10% of your mark in this assignment. You will receive a zero on this assignment if you submit more than three days after the deadline. \nIf you have any questions, please contact:\n[contact]\nand\n[contact]"
+        ],
+        "issues": [],
+        "sources": [
+          {
+            "courseCode": "CSC1001",
+            "path": "courses/CSC1001.json",
+            "locator": "pages[0].rows[0]",
+            "quote": "Assignment 2\nAttached Files:\n Ass2_124xxxxxx.zip (4.258 KB)\n CSC_1001_Assignment_2.pdf (217.11 KB)\nThe assignment will be worth 10% of the final grade. It is due at 11:59 PM, 24 November (Sunday). For each day of late submission, you will lose 10% of your mark in this assignment. You will receive a zero on this assignment if you submit more than three days after the deadline. \nIf you have any questions, please contact:\n[contact]\nand\n[contact]",
+            "role": "course"
+          },
+          {
+            "courseCode": "CSC1001",
+            "path": "attachment_text/CSC1001_xid-102000_1.json",
+            "locator": "附件抽取文字",
+            "quote": "Ass2_124xxxxxx/\nAss2_124xxxxxx/q5.py\nAss2_124xxxxxx/q1.py\nAss2_124xxxxxx/.DS_Store\nAss2_124xxxxxx/q4.py\nAss2_124xxxxxx/q3.py\nAss2_124xxxxxx/q6.py\nAss2_124xxxxxx/q2.py",
+            "role": "attachment"
+          },
+          {
+            "courseCode": "CSC1001",
+            "path": "attachment_text/CSC1001_xid-102001_1.json",
+            "locator": "附件抽取文字",
+            "quote": "\n  CSC1001: Introduction to Computer Science\n         Programming Methodology\n                Assignment 2\n\n\n\n\n\nAssignment description: This assignment will be worth 10% of the final\ngrade.\nFor each question, write your code in the corresponding .py file (i.e., for question\n1, use q1.py). Once completed, pack all your modified .py files into a single\n.zip file. Name the zip file with your student ID (i.e., if your student ID is\n123456, name the file Ass2 123456.zip), and submit it via Blackboard. Please\nnote that we ONLY take the latest submission into account.\n\nWe have provided code templates for each question in Ass2 xxxxxx.zip.\nYou just need to fill in the TODO part of the template and are not\nallowed to make any changes to the template or you may receive zero.\n\n\nPlease note that, the teaching assistant may ask you to explain the meaning\nof your program, to ensure that the codes are indeed written by yourself.\nPlease also note that we may check whether your program is too similar\nto your fellow students’ code using Blackboard.\n\nPlease do not use ChatGPT or other kinds of AI agents to generate\nyour code! We will use the GPT-generated content-checking tool to check\nyour code.\n\nThis assignment is due on 11:59PM, 24 November (Sunday). For each\nday of late submission, you will lose 10% of your mark in this assignment.  If\nyou submit more than three days later than the deadline, you will receive zero\nin this assignment.\n\n\nQuestion 1 (10% of this assignment):\n(Math: approximate the square root) There are several techniques for imple-\nmenting the sqrt function in the math module. One such technique is known\nas the Babylonian function. It approximates the square root of a number, n, by\nrepeatedly performing a calculation using the following formula:\n\n                nextGuess = (lastGuess + (n/lastGuess))/2               (1)\n\n\n                                  1\n\nWhen nextGuess and lastGuess are almost identical, nextGuess is the ap-\nproximated square root. The initial guess can be any positive value (e.g., 1).\nThis value will be the starting value for lastGuess.   If the difference be-\ntween nextGuess and lastGuessis less than a very small number, such as\n0.0001, you can claim that nextGuess is the approximated square root of n.\nIf not, nextGuess becomes lastGuess and the approximation process contin-\nues. Please fill the TODO part of the sqrt(n) function in q1.py that returns\nthe square root of a given non-negative number n.\n\n\nQuestion 2 (15% of this assignment):\n(Emirp) An emirp (prime spelled backward) is a nonpalindromic prime number\nwhose reversal is also a prime. For example, both 17 and 71 are prime numbers,\nso 17 and 71 are emirps. Please fill the TODO part of the display emirps(n)\nfunction in q2.py that displays the first n emirps. You are guaranteed that n is\na positive integer. Display 10 numbers per line and align the numbers properly,\nas follows:\n\n\n\n\n\nQuestion 3 (15% of this assignment):\n(Financial: credit card number validation) Credit card numbers follow certain\npatterns:  It must have between 13 and 16 digits, and the number must start\nwith:\n\n   • 4 for Visa cards\n\n   • 5 for MasterCard credit cards\n\n   • 37 for American Express cards\n\n   • 6 for Discover cards\n\n\n\n\n\nIn 1954, Hans Luhn of IBM proposed an algorithm for validating credit card\nnumbers. The algorithm is useful to determine whether a card number is entered\ncorrectly or whether a credit card is scanned correctly by a scanner.  Credit\ncard numbers are generated following this validity check, commonly known as\nthe Luhn check or the Mod 10 check, which can be described as follows (for\nillustration, consider the card number 4388576018402626):\n\n\n                                  2\n\n1. Double every second digit from right to left. If doubling of a digit results in\na twodigit number, add up the two digits to get a single-digit number.\n2. Add all single-digit numbers from Step 1.\n\n                  4 + 4 + 8 + 2 + 3 + 1 + 7 + 8 = 37\n\n3. Add all digits in the odd places from right to left in the card number.\n\n                  6 + 6 + 0 + 8 + 0 + 7 + 8 + 3 = 38\n\n4. Sum the results from Steps 2 and 3.\n\n                             37 + 38 = 75\n\n5. If the result from Step 4 is divisible by 10, the card number is valid; otherwise,\nit is invalid.  For example, the number 4388576018402626 is invalid, but the\nnumber 4388576018410707 is valid.\n\nPlease fill in the TODO part of all functions in q3.py. The isValid(number)\nfunction should return True if the given card number is valid, otherwise, return\nFalse. You are guaranteed that your isValid function will only have integers as\nparameters.\n\n\nQuestion 4 (15% of this assignment):\n(Anagrams) Please fill the TODO part in q4.py to check whether two words\nare anagrams. Two words are anagrams if they contain the same letters. For\nexample, silent and listen are anagrams.\n\n(Hint: Obtain two lists for the two strings. Sort the lists and check if two lists\nare identical.)\n\n\nQuestion 5 (20% of this assignment):\n(Roman to Integer) Please fill the TODO part in q5.py to solve the Roman to\nInteger problem. Roman numerals consist of the following seven characters:  I,\nV, X, L, C, D, and M.\n\n                       Character  Value\n                                          I         1\n                    V         5\n                    X         10\n                        L         50\n                     C        100\n                   D        500\n                M       1000\n\nFor example, the Roman numeral 2 is written as ”II”, which is simply two\nones added together. 12 is written as ”XII”, which is 10 + 2. 27 is written as\n”XXVII”, which is 20 + 5 + 2.\n\n\n\n                                  3\n\nIn most cases, Roman numerals are written from largest to smallest from left\nto right. However, there are exceptions, such as 4, which is written as ”IV”\ninstead of ”IIII”. The numeral 1 is placed before 5 to indicate 4. Similarly, 9 is\nwritten as ”IX”. This rule only applies to six instances:\n\n   • I can be placed before V (5) and X (10) to make 4 and 9.\n\n   • X can be placed before L (50) and C (100) to make 40 and 90.\n\n   • C can be placed before D (500) and M (1000) to make 400 and 900.\n\nGiven a Roman numeral, convert it to an integer.\n\n             Example 1 Input: s = ”III”, Output: 3\n             Example 2 Input: s = ”IV”, Output: 4\n           Example 3 Input: s = ”LVIII”, Output: 58.\n                   Explanation: L = 50, V = 5, III = 3.\n        Example 4 Input: s = ”MCMXCIV” Output: 1994\n           Explanation: M = 1000, CM = 900, XC = 90, IV = 4.\n\nConstraints\n\n   • 1 ≤s.length ≤15\n\n   • s consists of characters from (’I’, ’V’, ’X’, ’L’, ’C’, ’D’, ’M’)\n\n   • It is guaranteed that s is a valid Roman numeral and represents an integer\n      in the range [1, 3999].\n\n   • The test cases are guaranteed to follow the rules of Roman numeral rep-\n      resentation. There will be no invalid cases such as IL or IM.\n\n\nQuestion 6 (25% of this assignment):\n(Game: Eight Queens) The classic Eight Queens puzzle is to place eight queens\non a chessboard such that no two queens can attack each other (i.e., no two\nqueens are in the same row, same column, or same diagonal). There are many\npossible solutions. Please fill the TODO part in q6.py that displays one such\nsolution. A sample output is shown below:\n\n\n\n\n\nNote: you CANNOT just pre-define a solution and display it.\nPlease use algorithm to display a possible solution.\n\n\n                                  4",
+            "role": "attachment"
+          },
+          {
+            "courseCode": "CSC1001",
+            "path": "demo/scenarios.mjs",
+            "locator": "submission event",
+            "quote": "用于验证联动的模拟成功提交事件，不是真实回执。",
+            "role": "synthetic_fixture"
+          }
+        ],
+        "version": 2,
+        "status": {
+          "value": "submitted",
+          "origin": "demo_bb",
+          "at": "2024-11-22T09:00:00+08:00",
+          "note": "模拟接入器收到成功提交，未操作学校 BB。"
+        },
+        "remainingMinutes": 120,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "url": "https://bb.example.invalid/webapps/assignment/uploadAssignment?content_id=_502000_1&course_id=_90002_1&mode=view",
+        "policy": {
+          "late": "penalty",
+          "attempts": "unknown",
+          "scoring": "last"
+        },
+        "optional": false
+      },
+      {
+        "id": "ECO3121:2024:assignment-3",
+        "courseCode": "ECO3121",
+        "term": "2024",
+        "title": "Assignment 3",
+        "kind": "assignment",
+        "channel": "bb",
+        "deadline": {
+          "date": "2024-11-28",
+          "at": "2024-11-28T15:00:00+08:00",
+          "precision": "minute",
+          "yearInferred": false
+        },
+        "opensAt": null,
+        "closesAt": null,
+        "durationMinutes": null,
+        "fixed": null,
+        "sectionOptions": null,
+        "condition": null,
+        "requirements": [
+          "The Problem set 3 has been released. The due is 3 PM, November 28th (Thursday), 2024. \n \nPlease note that:\n1)Combine your answer, Stata code, and requested output into one PDF file and upload it to Blackboard.\n2)Late submission is strictly NOT allowed."
+        ],
+        "issues": [],
+        "sources": [
+          {
+            "courseCode": "ECO3121",
+            "path": "courses/ECO3121.json",
+            "locator": "ann[11] · Posted on: Sunday, November 17, 2024 09:55:02 PM CST",
+            "quote": "The Problem set 3 has been released. The due is 3 PM, November 28th (Thursday), 2024. \n \nPlease note that:\n1)Combine your answer, Stata code, and requested output into one PDF file and upload it to Blackboard.\n2)Late submission is strictly NOT allowed.",
+            "role": "announcement"
+          }
+        ],
+        "version": 1,
+        "status": {
+          "value": "unknown",
+          "origin": "replay_initial",
+          "at": null
+        },
+        "remainingMinutes": 180,
+        "estimateOrigin": "demo_default",
+        "splittable": true,
+        "notBefore": null,
+        "paused": false,
+        "snoozedUntil": null,
+        "policy": {
+          "late": "not_allowed",
+          "attempts": "unknown",
+          "scoring": "unknown"
+        }
+      }
+    ],
+    "plan": {
+      "blocks": [
+        {
+          "id": "ECO3121:2024:assignment-3@2024-11-23T11:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-3",
+          "taskVersion": 1,
+          "start": "2024-11-23T11:00:00.000Z",
+          "end": "2024-11-23T11:50:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ECO3121:2024:assignment-3@2024-11-23T12:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-3",
+          "taskVersion": 1,
+          "start": "2024-11-23T12:00:00.000Z",
+          "end": "2024-11-23T12:50:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ECO3121:2024:assignment-3@2024-11-23T13:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-3",
+          "taskVersion": 1,
+          "start": "2024-11-23T13:00:00.000Z",
+          "end": "2024-11-23T13:20:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ECO3121:2024:assignment-3@2024-11-24T11:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-3",
+          "taskVersion": 1,
+          "start": "2024-11-24T11:00:00.000Z",
+          "end": "2024-11-24T11:50:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        },
+        {
+          "id": "ECO3121:2024:assignment-3@2024-11-24T12:00:00.000Z",
+          "taskId": "ECO3121:2024:assignment-3",
+          "taskVersion": 1,
+          "start": "2024-11-24T12:00:00.000Z",
+          "end": "2024-11-24T12:10:00.000Z",
+          "locked": false,
+          "reason": "不接受迟交，优先保证截止前的可用时段。"
+        }
+      ],
+      "fixed": [],
+      "risks": []
+    },
+    "notifications": [
+      {
+        "id": "local-student:CSC1001:2024:_502000_1:v1:deadline",
+        "taskId": "CSC1001:2024:_502000_1",
+        "taskVersion": 1,
+        "type": "deadline",
+        "scheduledAt": "2024-11-23T15:59:00.000Z",
+        "deliverAt": "2024-11-24T08:00:00+08:00",
+        "title": "Assignment 2：临近正式时间",
+        "body": "CSC1001 的正式时间为 2024-11-24T23:59:00+08:00。当前未检测到完成证据；这不代表你尚未开始。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:ECO3121:2024:assignment-3:v1:deadline",
+        "taskId": "ECO3121:2024:assignment-3",
+        "taskVersion": 1,
+        "type": "deadline",
+        "scheduledAt": "2024-11-27T07:00:00.000Z",
+        "deliverAt": "2024-11-27T07:00:00.000Z",
+        "title": "Assignment 3：临近正式时间",
+        "body": "ECO3121 的正式时间为 2024-11-28T15:00:00+08:00。当前未检测到完成证据；这不代表你尚未开始。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:digest:2024-11-22",
+        "taskId": null,
+        "taskVersion": null,
+        "type": "digest",
+        "scheduledAt": "2024-11-22T08:00:00+08:00",
+        "deliverAt": "2024-11-22T00:00:00.000Z",
+        "title": "今日安排摘要",
+        "body": "2 项尚待核实完成的任务；0 段今日准备安排。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "delivered",
+        "deliveredAt": "2024-11-22T09:00:00+08:00"
+      },
+      {
+        "id": "local-student:CSC1001:2024:_502000_1@2024-11-22T11:00:00.000Z:v1:start",
+        "taskId": "CSC1001:2024:_502000_1",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-11-22T10:45:00.000Z",
+        "deliverAt": "2024-11-22T10:45:00.000Z",
+        "title": "准备时段：Assignment 2",
+        "body": "计划 2024-11-22T11:00:00.000Z 至 2024-11-22T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "cancelled"
+      },
+      {
+        "id": "local-student:ECO3121:2024:assignment-3@2024-11-23T11:00:00.000Z:v1:start",
+        "taskId": "ECO3121:2024:assignment-3",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-11-23T10:45:00.000Z",
+        "deliverAt": "2024-11-23T10:45:00.000Z",
+        "title": "准备时段：Assignment 3",
+        "body": "计划 2024-11-23T11:00:00.000Z 至 2024-11-23T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:ECO3121:2024:assignment-3@2024-11-24T11:00:00.000Z:v1:start",
+        "taskId": "ECO3121:2024:assignment-3",
+        "taskVersion": 1,
+        "type": "plan",
+        "scheduledAt": "2024-11-24T10:45:00.000Z",
+        "deliverAt": "2024-11-24T10:45:00.000Z",
+        "title": "准备时段：Assignment 3",
+        "body": "计划 2024-11-24T11:00:00.000Z 至 2024-11-24T11:50:00.000Z。这是准备安排，不是正式 DDL。",
+        "quietConflict": false,
+        "silent": false,
+        "status": "pending"
+      },
+      {
+        "id": "local-student:change:replay:csc-a2:submission:CSC1001:2024:_502000_1",
+        "taskId": "CSC1001:2024:_502000_1",
+        "taskVersion": 2,
+        "type": "change",
+        "scheduledAt": "2024-11-22T09:00:00+08:00",
+        "deliverAt": "2024-11-22T09:00:00+08:00",
+        "deliveredAt": "2024-11-22T09:00:00+08:00",
+        "title": "Assignment 2：信息已更新",
+        "body": "模拟接入器收到成功提交，未操作学校 BB。 BB 显示已提交。这是本任务的证据，不代表其他关联事项已经完成。",
+        "status": "delivered"
+      }
+    ],
+    "summary": {
+      "tasks": 2,
+      "active": 1,
+      "plannedMinutes": 180,
+      "risks": 0,
+      "unread": 2,
+      "pending": 3,
+      "today": "2024-11-22"
+    }
+  }
+}
